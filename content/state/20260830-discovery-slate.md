@@ -1,13 +1,13 @@
 # 20260830 discovery slate
 
-- status: DISCOVERED (batch)
+- status: mixed (1 RESEARCHING / 14 DISCOVERED)
 - created: 2026-08-30
-- updated: 2026-08-30
-- run_type: discovery-only
+- updated: 2026-08-31
+- run_type: discovery slate (updated 2026-08-31 after owner-approved research of bc-20260830-01)
 - window: 2026-08-16 to 2026-08-30 (plus named forward dates used only as why-now)
 - geographies: US / Canada / UK diaspora primary; South Asia origin only with clear diaspora or cultural relevance
 - first-run beats weighted: South Asian culture; diaspora life and identity; entertainment/music/film/television; creators/business/entrepreneurship; internet and current conversations
-- hard_stop: no RESEARCHING, no DRAFTING, no ARTICLE_TEMPLATE, no files under content/research/, content/drafts/, or content/ready-for-review/
+- hard_stop_at_discovery: this file began as a discovery-only run (no RESEARCHING/DRAFTING). On 2026-08-31 the owner approved bc-20260830-01 only; that ID is RESEARCHING with a packet under content/research/. IDs 02–15 remain DISCOVERED. Still no DRAFTING, no ARTICLE_TEMPLATE, no files under content/drafts/ or content/ready-for-review/.
 - commit_read: main @ 1aa52e1acaeda70b381b89242d7bfc2feec1ad99
 - retrieval_date: 2026-08-30 (America/Chicago)
 
@@ -15,7 +15,7 @@
 
 | ID | Working label | Rec | Sensitive |
 | --- | --- | --- | --- |
-| bc-20260830-01 | Diljit Dosanjh Wembley / Aura Boxscore | PURSUE | none |
+| bc-20260830-01 | Diljit Dosanjh Wembley / Aura Boxscore | RESEARCHING (owner-approved 2026-08-31) | none |
 | bc-20260830-02 | The Cycle of Love US theatrical | PURSUE | caste |
 | bc-20260830-03 | Toxic / Geetu Mohandas opening split | PURSUE | violence (A-cert film); gender criticism in reviews |
 | bc-20260830-04 | DHS H-1B $103,265 NPRM | PURSUE | politics; immigration |
@@ -31,9 +31,12 @@
 | bc-20260830-14 | RSS chief Bhagwat at MSG | WATCH | politics; religion; Hindutva; protests |
 | bc-20260830-15 | India's Got Latent 2 roast | WATCH | regional stereotyping; Kashmiri Pandit exodus; politics |
 
-Counts: 15 candidates. PURSUE 5. WATCH 7. PASS 3.
+Counts: 15 candidates. Durable status: **1 RESEARCHING** (`bc-20260830-01`), **14 DISCOVERED** (IDs 02–15).
+Discovery recommendations (unchanged for 02–15): 4 remaining PURSUE (02–05), 7 WATCH, 3 PASS. (At discovery, 01 was also PURSUE; it is no longer a fresh discovery candidate.)
 
-PURSUE is a recommendation only. No ID may enter RESEARCHING without owner approval of that ID.
+PURSUE is a recommendation only. IDs 02–15 still need owner approval of that ID before RESEARCHING. `bc-20260830-01` was owner-approved 2026-08-31 and is RESEARCHING.
+
+**2026-08-31:** Owner approved `bc-20260830-01` only. That ID is RESEARCHING. Other IDs remain DISCOVERED.
 
 ---
 
@@ -45,18 +48,18 @@ Box-office and concert-attendance figures below are **as reported by named outle
 
 ---
 
-# PURSUE
+# PURSUE at discovery (01 now RESEARCHING; 02–05 still DISCOVERED / pursue)
 
 ## bc-20260830-01-diljit-wembley
 
-- status: DISCOVERED
+- status: RESEARCHING
 - created: 2026-08-30
-- updated: 2026-08-30
+- updated: 2026-08-31
 - beat: Music / entertainment (secondary: diaspora life)
 - story_type_hypothesis: Feature (news-with-feature-tail)
-- recommendation: pursue
+- recommendation: (owner approved 2026-08-31)
 - blocked_reason:
-- research_path:
+- research_path: content/research/bc-20260830-01-20260831.md
 - draft_path:
 - review_path:
 - sensitive: none at discovery (do not invent "first Indian stadium act in the UK"; Arijit Singh headlined Tottenham Hotspur Stadium in 2025 per prior Billboard Canada reporting, not re-fetched this run)
@@ -121,6 +124,7 @@ confidence: high
 
 ### Log
 - 2026-08-30: DISCOVERED. Billboard Pro fetched. Wembley official fetch timed out.
+- 2026-08-31: Owner approved this ID. Advanced to RESEARCHING. Packet: content/research/bc-20260830-01-20260831.md. Per-ID state: content/state/bc-20260830-01-diljit-wembley.md. No drafting.
 
 ---
 
@@ -721,7 +725,8 @@ Toxic competing Day-5 totals (not a new ID): ETV Bharat live India net **₹209.
 - Public web only. Material claims tied to fetched English pages or clearly marked as reported-by.
 - Social used only as "this account posted."
 - Handle-with-care flags applied (caste, religion, politics, violence-in-film).
-- No ARTICLE_TEMPLATE. No deep research packets. No drafts.
+- Discovery run (2026-08-30): no ARTICLE_TEMPLATE, no research packets, no drafts.
+- As of 2026-08-31: still no ARTICLE_TEMPLATE and no drafts. One research packet exists for the owner-approved ID: `content/research/bc-20260830-01-20260831.md`.
 - Max 5 PURSUE.
 - IDs assigned `bc-20260830-##` so later runs can skip unchanged stories.
 - Later same-evening pass added `bc-20260830-14` (Bhagwat MSG) and `bc-20260830-15` (Latent roast) as WATCH, plus sourced fact patches on H-1B comment counts, Diljit official sold-out, Cycle of Love LA date, and Onam CIAL cargo.
@@ -729,4 +734,5 @@ Toxic competing Day-5 totals (not a new ID): ETV Bharat live India net **₹209.
 ## Log
 
 - 2026-08-30: First discovery-only run. Status DISCOVERED for all IDs. Awaiting owner approval before any RESEARCHING.
-- 2026-08-30 (later evening): Folded two additional WATCH IDs and fact patches from a second discovery pass. Still no RESEARCHING or DRAFTING.
+- 2026-08-30 (later evening): Folded two additional WATCH IDs and fact patches from a second discovery pass. At that time still no RESEARCHING or DRAFTING.
+- 2026-08-31: Owner approved `bc-20260830-01` only. Durable status is now 1 RESEARCHING / 14 DISCOVERED. Packet at content/research/bc-20260830-01-20260831.md. Bookkeeping-only update to this batch file; discovery records for IDs 02–15 unchanged. No drafting.
