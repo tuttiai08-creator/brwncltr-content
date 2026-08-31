@@ -28,8 +28,10 @@
 | bc-20260830-11 | Hulu cancels Mindy Kaling NSF Work | PASS | none |
 | bc-20260830-12 | Tap n Tandoor Toronto opening | PASS | none |
 | bc-20260830-13 | MLC Toronto 2027 expansion | PASS | none |
+| bc-20260830-14 | RSS chief Bhagwat at MSG | WATCH | politics; religion; Hindutva; protests |
+| bc-20260830-15 | India's Got Latent 2 roast | WATCH | regional stereotyping; Kashmiri Pandit exodus; politics |
 
-Counts: 13 candidates. PURSUE 5. WATCH 5. PASS 3.
+Counts: 15 candidates. PURSUE 5. WATCH 7. PASS 3.
 
 PURSUE is a recommendation only. No ID may enter RESEARCHING without owner approval of that ID.
 
@@ -66,7 +68,7 @@ From BC Place to Wembley: Diljit Dosanjh's Aura tour and the first Punjabi headl
 Feature
 
 ### What happened / current hook
-Billboard Boxscore (Eric Frankenberg) reports Diljit Dosanjh's Aura World Tour has grossed $45 million and sold 317,000 tickets. North American leg: more than 225,000 fans and $32 million across 15 shows, beating his 2024 Dil-Luminati NA record, per Live Nation's Nidhish Varughese to Billboard. Canada sold more tickets than the US 10-show run; Rogers Centre (Toronto) $5.9 million; BC Place 42,700 tickets. Wembley Stadium date is Saturday 12 September 2026; Billboard says the show is already sold out according to Dosanjh's website. Official Wembley event page exists for the date (fetch timed out this run; URL recorded).
+Billboard Boxscore (Eric Frankenberg) reports Diljit Dosanjh's Aura World Tour has grossed $45 million and sold 317,000 tickets. North American leg: more than 225,000 fans and $32 million across 15 shows, beating his 2024 Dil-Luminati NA record, per Live Nation's Nidhish Varughese to Billboard. Canada sold more tickets than the US 10-show run; Rogers Centre (Toronto) $5.9 million; BC Place 42,700 tickets. Wembley Stadium date is Saturday 12 September 2026; Billboard says the show is already sold out according to Dosanjh's website. Official Wembley event page exists for the date (venue fetch timed out on first pass; URL recorded). A later same-evening fetch of diljitdosanjh.com/tour still listed **Sep 12, 2026 — London, Wembley Stadium — Sold out**. Wembley support page (modified Jun 12) says accessible tickets sold out. Third-party listings are not the official inventory.
 
 ### Why it matters now
 The UK/Europe leg is the live window. Wembley is 13 days out (from 2026-08-30). This is a diaspora-music event, not a celebrity recap.
@@ -82,7 +84,8 @@ Central: Punjabi-language artist, Sikh public figure, UK/Canada/US Punjabi audie
 
 ### Primary sources available
 - Billboard Boxscore / Pro: https://www.billboard.com/pro/diljit-dosanjh-aura-world-tour-gross/ (retrieved 2026-08-30)
-- Wembley Stadium event page: https://www.wembleystadium.com/events/2026/Diljit-Dosanjh (URL confirmed in search; full fetch timed out 2026-08-30)
+- Wembley Stadium event page: https://www.wembleystadium.com/events/2026/Diljit-Dosanjh (URL confirmed in search; full fetch timed out on first pass 2026-08-30)
+- Official tour page (sold out label): https://diljitdosanjh.com/tour (fetched 2026-08-30, later pass)
 
 ### Useful secondary sources
 - Tribune India on the Toronto-stage announcement: https://www.tribuneindia.com/news/trending/oye-punjabi-london-aagye-oye-diljit-dosanjh-announces-wembley-stadium-show-for-aura-world-tour-2026/
@@ -138,7 +141,7 @@ The Cycle of Love is in US theaters. The bicycle is the marketing hook. Caste is
 Analysis
 
 ### What happened / current hook
-Variance Films opened Orlando von Einsiedel's documentary *The Cycle of Love* in limited US theatrical on Friday 28 August 2026, starting at New York's Angelika, with Q&As then LA/SF and 20–30 more markets in Sept/Oct (IndieWire, Anne Thompson, 27 Aug 2026). Priyanka Chopra Jonas is an executive producer (Purple Pebble). The film follows Odisha-born Dalit artist P.K. Mahanandia and Lotta von Schedvin; children are producers. Rotten Tomatoes lists limited theatrical Aug 28, runtime 1h 38m. BBC published a video interview with Chopra Jonas on "love and caste inequality."
+Variance Films opened Orlando von Einsiedel's documentary *The Cycle of Love* in limited US theatrical on Friday 28 August 2026, starting at New York's Angelika, with Q&As then LA/SF and 20–30 more markets in Sept/Oct (IndieWire, Anne Thompson, 27 Aug 2026). A later pass confirmed LA **Sept 4** at Laemmle Royal (Laemmle listing; Spirituality+Health Aug 18 is sponsored by the film — do not treat as independent review). Urban Asian (24 Aug) says UK & Ireland cinema **18 September 2026**. No U.S. opening-gross figures found on opened pages. Priyanka Chopra Jonas is an executive producer (Purple Pebble). The film follows Odisha-born Dalit artist P.K. Mahanandia and Lotta von Schedvin; children are producers. Rotten Tomatoes lists limited theatrical Aug 28, runtime 1h 38m. BBC published a video interview with Chopra Jonas on "love and caste inequality."
 
 ### Why it matters now
 The film is in theaters this week. Festival coverage is a year old (Telluride 2025); the new fact is the theatrical bet on a Dalit love story sold as "universal."
@@ -157,6 +160,7 @@ Central: Dalit / Odisha / Delhi 1970s; caste; Indian-Swedish marriage. Do not us
 - Rotten Tomatoes listing: https://www.rottentomatoes.com/m/the_cycle_of_love
 - BBC video page: https://www.bbc.com/news/videos/cn4nk1915vxo
 - Official film site: https://thecycleoflovefilm.com/
+- Laemmle Royal (LA Sept 4): https://www.laemmle.com/film/cycle-love
 - Older primary interviews (for research, not this run): BBC 2016 https://www.bbc.com/news/world-asia-india-35299608 ; CNN https://www.cnn.com/travel/article/india-sweden-love-story-cycle
 
 ### Useful secondary sources
@@ -287,7 +291,7 @@ The $103,265 question: DHS proposed a six-figure fee on cap-subject H-1B petitio
 Explainer
 
 ### What happened / current hook
-Federal Register Vol. 91 No. 163 (Tuesday 25 Aug 2026), FR Doc 2026-17324, DHS Docket USCIS-2026-0298, RIN 1615-AD20: NPRM proposing a $103,265 additional fee at filing for **all H-1B cap-subject petitions, including the 20,000 advanced-degree exemption**. Not cap-exempt (universities/nonprofit/government research). In addition to other fees. Comments due **Sept 24, 2026** via regulations.gov. Arithmetic in the NPRM: $8,777,488,035 ÷ 85,000 = $103,264.57, rounded to $103,265. NPRM notes Proclamation 10973's $100,000 payment; D. Mass. vacated implementing guidance 8 June 2026 (*California v. Mullin*); government appealed to the First Circuit 11 June 2026; appeal pending as of publication. USCIS FY2025 characteristics report (cited in NPRM): median approved H-1B compensation $133,000. Weighted cap selection effective 27 Feb 2026.
+Federal Register Vol. 91 No. 163 (Tuesday 25 Aug 2026), FR Doc 2026-17324, DHS Docket USCIS-2026-0298, RIN 1615-AD20: NPRM proposing a $103,265 additional fee at filing for **all H-1B cap-subject petitions, including the 20,000 advanced-degree exemption**. Not cap-exempt (universities/nonprofit/government research). In addition to other fees. Comments due **Sept 24, 2026** via regulations.gov. FederalRegister.gov showed **4,814 comments** and **20,232 page views** as of 2026-08-30, 10:15 p.m. EDT (9:15 p.m. CT) on a later fetch the same evening — docket activity, not a virality claim. Arithmetic in the NPRM: $8,777,488,035 ÷ 85,000 = $103,264.57, rounded to $103,265. NPRM notes Proclamation 10973's $100,000 payment; D. Mass. vacated implementing guidance 8 June 2026 (*California v. Mullin*); government appealed to the First Circuit 11 June 2026; appeal pending as of publication. USCIS FY2025 characteristics report (cited in NPRM): median approved H-1B compensation $133,000. Weighted cap selection effective 27 Feb 2026.
 
 ### Why it matters now
 Comment window is open through Sept 24. This is the lived US-diaspora story of the fortnight if brwncltr writes the pipeline (F-1/OPT/cap), not a Hill recap. **Not in effect.**
@@ -303,7 +307,7 @@ Central for Indian nationals as the largest H-1B beneficiary group in secondary 
 
 ### Primary sources available
 - Federal Register HTML: https://www.govinfo.gov/content/pkg/FR-2026-08-25/html/2026-17324.htm (fetched 2026-08-30)
-- regulations.gov docket USCIS-2026-0298
+- regulations.gov / Federal Register docket USCIS-2026-0298 (comment count and page views as of 2026-08-30 10:15 p.m. EDT)
 - USCIS news release 24 Aug 2026: https://www.uscis.gov/newsroom/news-releases/dhs-proposes-additional-h-1b-fee
 
 ### Useful secondary sources
@@ -336,7 +340,8 @@ confidence: high
 
 ### Open questions
 - Pull the USCIS FY2025 characteristics PDF for nationality shares rather than recaps.
-- Confirm comment-count later; do not invent civic engagement.
+- Confirm comment-count later; do not invent civic engagement. A later pass saw **4,814 comments** / **20,232 page views** on FederalRegister.gov as of 2026-08-30, 10:15 p.m. EDT.
+- Adjacent, not this ID: F-1/J-1 duration-of-status final rule (91 FR 44976, July 17) **effective Sept 15, 2026**. Do not mash into the H-1B fee explainer unless owner wants a corridor package. OPT-fee amount is unpublished (Fragomen/OMB rumor — not a live fee).
 
 ### Log
 - 2026-08-30: DISCOVERED. govinfo FR fetched. Politics flagged. Fee is proposed, not live.
@@ -360,7 +365,7 @@ The banana-leaf airlift: how Onam 2026 reached the Gulf
 Feature
 
 ### What happened / current hook
-Thiruvonam was Wednesday 26 August 2026. Gulf News (Sajila Saseendran, updated 19 Aug 2026): UAE Indians ~4.5 million; more than 1 million from Kerala; Atham 16 Aug; 11 calendar days because Visakham spanned 19–20 Aug (last similar stretch recalled as 2017). Lulu: >2,500 tonnes of perishables/Onam essentials by air; Kochi–Abu Dhabi charters ~50 then ~60 tonnes. Kerala Kaumudi: KNP Exporters chartered Etihad National Air Cargo Kochi→Abu Dhabi with 95,000 kg including **2.5 lakh banana leaves** from Mettupalayam and Palakkad; 14 trucks; owner Sufiyan on cargo rates and an Abu Dhabi Rs 200/kg subsidy. Onamamangam Season 5 at Sharjah Expo is 6 September (Gulf News lifestyle guide) with >8,000 seats and Kunchacko Boban — still ahead.
+Thiruvonam was Wednesday **26 August 2026** on Gulf/UAE reporting (*The National*, Gulf News, Khaleej Times). Some UK NRI guides (Remitly, HinduTone) say Friday Aug 28 — treat as a date conflict; prefer Gulf + U.S. restaurant calendars. STAT Times (Sakshi Basutkar, 26 Aug 2026): CIAL expected **~1,678 metric tonnes** scheduled cargo Aug 17–23, **1,173 tonnes perishables**, peak days **~300 tonnes** vs normal **83–85 tonnes**; air rates spiked to **~₹215/kg** vs **~₹60** at worst. Gulf News (Sajila Saseendran, updated 19 Aug 2026): UAE Indians ~4.5 million; more than 1 million from Kerala; Atham 16 Aug; 11 calendar days because Visakham spanned 19–20 Aug (last similar stretch recalled as 2017). Lulu: >2,500 tonnes of perishables/Onam essentials by air; Kochi–Abu Dhabi charters ~50 then ~60 tonnes. Kerala Kaumudi: KNP Exporters chartered Etihad National Air Cargo Kochi→Abu Dhabi with 95,000 kg including **2.5 lakh banana leaves** from Mettupalayam and Palakkad; 14 trucks; owner Sufiyan on cargo rates and an Abu Dhabi Rs 200/kg subsidy. Onamamangam Season 5 at Sharjah Expo is 6 September (Gulf News lifestyle guide) with >8,000 seats and Kunchacko Boban — still ahead.
 
 ### Why it matters now
 The feast day has passed; the **public Onam calendar in the Gulf has not** (Sharjah 6 Sept). The 2026 story is a harvest ritual that required a wartime-disrupted cargo network. Not "what is Onam."
@@ -379,6 +384,7 @@ Central: Malayali / Kerala; UAE as a named diaspora geography (brief allows Sout
 - Kerala Kaumudi: https://keralakaumudi.com/en/kerala/general/2.5-lakh-banana-leaves-shipped-via-chartered-flight-for-expats-onam-sadya-1794836 (fetched 2026-08-30)
 - Gulf News sadhya guide: https://www.gulfnews.com/lifestyle/onam-2026-uae-guide-best-places-for-sadhya-and-celebration-in-dubai-abu-dhabi-and-sharjah-1.500650322
 - The National 14/26 Aug guides: https://www.thenationalnews.com/lifestyle/food/2026/08/14/onam-2026-where-to-eat-sadhya-in-the-uae/
+- STAT Times, Sakshi Basutkar, 26 Aug 2026, 4:45 p.m. IST (CIAL cargo figures; re-fetch canonical URL in research — do not invent the slug)
 
 ### Useful secondary sources
 - Khaleej Times (banana-leaf inflation 35–40%, Lulu 150,000 sadhyas) — open in research; do not treat inflation % as fact until that page is fetched in a research run.
@@ -552,6 +558,72 @@ recommendation: watch
 
 ---
 
+
+## bc-20260830-14-bhagwat-msg
+
+- status: DISCOVERED
+- recommendation: watch
+- beat: Diaspora life / internet and current conversations
+- story_type_hypothesis: Analysis
+- sensitive: politics; religion; Hindutva; protests; Khalistan; mayoral identity. Polarizing. Do not launder slogans as fact.
+
+### Working topic
+RSS chief Mohan Bhagwat at Madison Square Garden (Aug 29, 2026) and the fight over who speaks for Indian America
+
+### Hook
+Saturday 29 Aug 2026, “Universal Oneness Celebration,” American Hindus for Engagement and Dialogue / AHEAD, MSG Infosys Theater. American Kahani (30 Aug): **>6,000** inside (Indian media/NY1); **hundreds** outside (NY1); Brad Lander with protesters; Hindus for Human Rights + IAMC City Hall presser 25 Aug. Mayor Zohran Mamdani (The Hindu, 26 Aug, news conference 24 Aug): opposed RSS as “exclusionary”; said he did not know if the city had jurisdiction to cancel a private event. USCIRF urged visa revoke; MEA dismissed; visa not revoked; event proceeded. Middle East Eye (30 Aug): ~5,000 attendees; separate Sikhs for Justice protest. RSS: Canada and UK still on the tour.
+
+### Why watch not pursue
+This is already a U.S. metro + India political story (Al Jazeera, NBC NY, NY Post, The Hindu, American Kahani). Coverage is heavy. A brwncltr add would need a **non-recap** frame (who books MSG; Mamdani; Canada next). Too crowded and too polarizing to PURSUE on a first discovery slate without owner sign-off. Revisit if Canada/UK dates land inside a later window.
+
+### Scores
+audience_relevance: 5; timeliness: 5; cultural_relevance: 5; strength_of_angle: 3 (crowded); source_quality: 4; originality: 2; usefulness: 3; fit: 4
+veto: none (crowded + polarizing → watch, not a rewrite_only veto)
+recommendation: watch
+confidence: medium
+
+### Sources
+- https://americankahani.com/ (Aug 30 recap; re-fetch canonical URL in research)
+- https://www.thehindu.com/ (Aug 26 Mamdani)
+- Al Jazeera Aug 29; NBC New York; NY Post Aug 28; Middle East Eye Aug 30
+
+### Log
+- 2026-08-30: DISCOVERED as WATCH on a later discovery pass the same evening. Not added as PURSUE because existing coverage is already national.
+
+---
+
+## bc-20260830-15-indias-got-latent-roast
+
+- status: DISCOVERED
+- recommendation: watch
+- beat: Internet / entertainment
+- story_type_hypothesis: Analysis
+- sensitive: Kashmiri Pandit exodus; regional stereotyping (Bihar); politics (BJP and Congress quotes); prior legal history of the show. Easy to inflame.
+
+### Working topic
+*India’s Got Latent 2*: Bihar / Kashmiri Pandit roast (episode Friday; still live Aug 30)
+
+### Hook
+ET (29 Aug) and Outlook (30 Aug): latest Season 2 episode released Friday. Exchange between Samay Raina and Sharon Verma on Bihar background and Kashmiri identity, as quoted by ET. BJP MLA Ram Kadam condemned; Outlook: BJP and Congress leaders slammed Raina; episode **31.9 million views**, “most-watched among the show’s last 10,” from Raina’s IG Story screenshot — not a third-party audit. Zee (30 Aug): neither had issued a public response as of that piece.
+
+### Why watch
+Diaspora KP and Bihari readers will see the clips. India desks already filed. Platform-incentive angle exists, but the story is easy to inflame and currently India-press, not a U.S./UK/Canada original. Do not pursue without owner sign-off and a non-recap frame.
+
+### Scores
+audience_relevance: 3; timeliness: 5; cultural_relevance: 3; strength_of_angle: 3; source_quality: 3 (view count is the show’s screenshot); originality: 2; usefulness: 2; fit: 3
+veto: none
+recommendation: watch
+confidence: low
+
+### Sources
+- Economic Times Aug 29; Outlook India Aug 30; Times of India; Zee News Aug 30
+- Do not treat 31.9 million as independently audited.
+
+### Log
+- 2026-08-30: DISCOVERED as WATCH on a later discovery pass the same evening.
+
+---
+
 # PASS
 
 ## bc-20260830-11-mindy-kaling-nsfw-cancel
@@ -622,6 +694,27 @@ recommendation: pass
 
 ---
 
+
+---
+
+## Seen this window, not scored as full candidates (do not re-present as new)
+
+These surfaced on later same-evening discovery passes after the 15-ID cap. Logged so a future run does not treat them as first-seen. None are PURSUE. None entered RESEARCHING.
+
+| Label | Why logged | Rec if revisited | Sources / dates |
+| --- | --- | --- | --- |
+| Ali Sethi, *Harmonium: A Roots Residency*, Aga Khan Museum, Toronto | Sold-out three-show residency Fri–Sun Aug 28–30; museum primary. Event had passed on fetch. | watch/pass (peg dies after Aug 30 unless a review appears) | https://agakhanmuseum.org/whats-on/ali-sethi/ |
+| *Jana Nayagan* on ZEE5 (Aug 21) | Vijay’s last film on a Tamil diaspora streamer; CBFC/courts/leak as reported. Headlines calling him “Tamil Nadu CM” need a primary political source. | watch (politics/legal) | NDTV; Economic Times Aug 18; Times Now Aug 19 |
+| Hok Kolorob Canada (Arnob & Sunidhi Nayak) | Bangladeshi diaspora Canada dates; Aug 8 and 14 done; TOB Aug 25 says two more before month’s end. | watch | https://tob.news/arnob-sunidhi-nayak-canada-tour-hok-kolorob/ |
+| Atif Aslam × Yumna Zaidi, *Hun Ishq Main* video | YouTube premiere Sat Aug 29. Pakistani lifestyle coverage only. No view count opened. | pass unless YouTube primary shows a real diaspora hook | Pakistan Times; The Pakistan Connect Aug 27 |
+| F-1/J-1 duration of status ends Sept 15 | DHS final rule 91 FR 44976 (July 17), effective **Sept 15, 2026**. Campus ISSS pages briefing now. Separate from H-1B fee NPRM. Unpublished OPT-fee rumor is not a live fee. | watch (could pair with bc-20260830-04 if owner wants a corridor package) | https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant |
+| 5X Fest Mississauga (Aug 21–22) | First 5X outside B.C. in 20 years. City of Mississauga Aug 17 advisory. No post-event recap opened. | watch | https://www.mississauga.ca/city-of-mississauga-news/news/5x-fest-canadas-leading-panjabi-arts-festival-makes-its-mississauga-debut/ |
+| BAITPO Chattogram Mezban, Virginia (Aug 23) + FOBANA 40th, LA (Sept 4–6) | Bangladeshi-American food + federation weekend. “Thousands” is outlet/organizer language. Naming dispute over unofficial FOBANA events. | watch | https://2026.fobanaonline.com/ ; Bangla Press Aug 26 / July 12 |
+| Bulbul, Blackfriars, London | Chefs Rohan Dsouza & Twinkle Keswani; Time Out London Aug 27; soft launch now, official **Sept 1**. | watch | https://www.timeout.com/london/news/bulbul-indian-food-first-london-restaurant-082726 |
+| Fasset Series C $68M / $1B (Aug 24) | Dhaka-born CEO + Lahore-born COO; LA announcement; company volume claims unverified. | watch (finance/crypto; needs independent editing) | https://fasset.com/blog/fasset-raises-68m-series-c-led-by-sbi-group/ |
+
+Toxic competing Day-5 totals (not a new ID): ETV Bharat live India net **₹209.47 cr**; TOI/Sacnilk live **₹214.10 cr**. Attribute the tracker. TNM and Filmfare reviews exist (Aug 26).
+
 ## Checks performed
 
 - Read AGENTS.md, EDITORIAL_BRIEF.md, EDITORIAL_STRATEGY.md, STORY_DISCOVERY.md, STORY_SCORING.md, EDITORIAL_RULES.md, TASK_STATE.md on main `1aa52e1acaeda70b381b89242d7bfc2feec1ad99`.
@@ -631,7 +724,9 @@ recommendation: pass
 - No ARTICLE_TEMPLATE. No deep research packets. No drafts.
 - Max 5 PURSUE.
 - IDs assigned `bc-20260830-##` so later runs can skip unchanged stories.
+- Later same-evening pass added `bc-20260830-14` (Bhagwat MSG) and `bc-20260830-15` (Latent roast) as WATCH, plus sourced fact patches on H-1B comment counts, Diljit official sold-out, Cycle of Love LA date, and Onam CIAL cargo.
 
 ## Log
 
 - 2026-08-30: First discovery-only run. Status DISCOVERED for all IDs. Awaiting owner approval before any RESEARCHING.
+- 2026-08-30 (later evening): Folded two additional WATCH IDs and fact patches from a second discovery pass. Still no RESEARCHING or DRAFTING.
