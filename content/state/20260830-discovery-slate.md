@@ -274,3 +274,79 @@ confidence: medium
 
 ### Log
 - 2026-08-30: DISCOVERED. ETV Bharat fetched. Budget left unverified.
+
+---
+
+## bc-20260830-04-h1b-103265-nprm
+
+- status: DISCOVERED
+- created: 2026-08-30
+- updated: 2026-08-30
+- beat: Diaspora life / business (internet/current conversations)
+- story_type_hypothesis: Explainer
+- recommendation: pursue
+- sensitive: politics; immigration policy. Do not draft as if the fee is live. No legal advice.
+
+### Working topic / headline
+The $103,265 question: DHS proposed a six-figure fee on cap-subject H-1B petitions. Comments close Sept 24.
+
+### Story type
+Explainer
+
+### What happened / current hook
+Federal Register Vol. 91 No. 163 (Tuesday 25 Aug 2026), FR Doc 2026-17324, DHS Docket USCIS-2026-0298, RIN 1615-AD20: NPRM proposing a $103,265 additional fee at filing for **all H-1B cap-subject petitions, including the 20,000 advanced-degree exemption**. Not cap-exempt (universities/nonprofit/government research). In addition to other fees. Comments due **Sept 24, 2026** via regulations.gov. FederalRegister.gov showed **4,814 comments** and **20,232 page views** as of 2026-08-30, 10:15 p.m. EDT (9:15 p.m. CT) on a later fetch the same evening — docket activity, not a virality claim. Arithmetic in the NPRM: $8,777,488,035 ÷ 85,000 = $103,264.57, rounded to $103,265. NPRM notes Proclamation 10973's $100,000 payment; D. Mass. vacated implementing guidance 8 June 2026 (*California v. Mullin*); government appealed to the First Circuit 11 June 2026; appeal pending as of publication. USCIS FY2025 characteristics report (cited in NPRM): median approved H-1B compensation $133,000. Weighted cap selection effective 27 Feb 2026.
+
+### Why it matters now
+Comment window is open through Sept 24. This is the lived US-diaspora story of the fortnight if brwncltr writes the pipeline (F-1/OPT/cap), not a Hill recap. **Not in effect.**
+
+### Intended reader
+Indian and other South Asian F-1/OPT students, H-1B families, parents in India, US tech workers. US geography is the fit.
+
+### Proposed editorial angle
+Explainer: proposed vs live; who pays (employer); cap-subject including change-of-status vs cap-exempt; stacked on other fees; what the comment docket is. Do not scare-copy. Do not repeat outlets that claimed F-1 students are exempt if that contradicts the NPRM (cap-subject COS is in).
+
+### South Asian / diaspora relevance
+Central for Indian nationals as the largest H-1B beneficiary group in secondary reporting (Forbes India / USCIS characteristics — re-verify the 71% FY2024 figure from the USCIS PDF in research, not from a recap). Do not treat "Indian" as all South Asian.
+
+### Primary sources available
+- Federal Register HTML: https://www.govinfo.gov/content/pkg/FR-2026-08-25/html/2026-17324.htm (fetched 2026-08-30)
+- regulations.gov / Federal Register docket USCIS-2026-0298 (comment count and page views as of 2026-08-30 10:15 p.m. EDT)
+- USCIS news release 24 Aug 2026: https://www.uscis.gov/newsroom/news-releases/dhs-proposes-additional-h-1b-fee
+
+### Useful secondary sources
+- Murthy Law Firm (not in effect): https://www.murthy.com/2026/08/24/newsflash-dhs-proposes-103265-fee-for-certain-h-1b-petitions/
+- Business Standard 25 Aug 2026: https://www.business-standard.com/immigration/103-265-fee-for-h-1b-us-moves-to-make-indian-talent-far-more-expensive-126082500238_1.html
+- The Hindu 25 Aug 2026 (treat student-exemption language as a caution, not gospel): https://www.thehindu.com/news/international/us-trump-plans-to-impose-over-100000-fee-for-h-1b-visas-impact-indians/article71387461.ece
+
+### Social media signal
+Not the basis of the candidate. Viral posts would need verification.
+
+### Originality / what brwncltr could add
+Nationals already recapped the number. Add: comment-window how-to, COS vs cap-exempt, stacked fees, what "median $133k" does and does not mean for new grads. No invented family anecdotes.
+
+### Longevity
+Time-sensitive through Sept 24, then a feature tail if a final rule appears.
+
+### Scores
+audience_relevance: 5 — Directly for US-based South Asian readers in the brief's geography.
+timeliness: 5 — NPRM published Aug 25; comments to Sept 24.
+cultural_relevance: 3 — Policy, not culture; still diaspora-life.
+strength_of_angle: 4 — Lived-pipeline explainer vs Hill recap.
+source_quality: 5 — Primary FR text fetched.
+originality: 3 — Crowded; only pursue if the explainer is genuinely useful.
+usefulness_shareability: 5 — Saveable if accurate and not panic.
+fit_with_brwncltr: 4 — Authorized beat; handle-with-care.
+
+veto: none
+recommendation: pursue
+confidence: high
+
+### Open questions
+- Pull the USCIS FY2025 characteristics PDF for nationality shares rather than recaps.
+- Confirm comment-count later; do not invent civic engagement. A later pass saw **4,814 comments** / **20,232 page views** on FederalRegister.gov as of 2026-08-30, 10:15 p.m. EDT.
+- Adjacent, not this ID: F-1/J-1 duration-of-status final rule (91 FR 44976, July 17) **effective Sept 15, 2026**. Do not mash into the H-1B fee explainer unless owner wants a corridor package. OPT-fee amount is unpublished (Fragomen/OMB rumor — not a live fee).
+
+### Log
+- 2026-08-30: DISCOVERED. govinfo FR fetched. Politics flagged. Fee is proposed, not live.
+
+SEE_LOCAL_FILE_FOR_REMAINING_CANDIDATES_05_THROUGH_15_WATCH_PASS_AND_LOG
