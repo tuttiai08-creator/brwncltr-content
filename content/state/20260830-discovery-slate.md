@@ -124,3 +124,153 @@ confidence: high
 ### Log
 - 2026-08-30: DISCOVERED. Billboard Pro fetched. Wembley official fetch timed out.
 - 2026-08-31: Owner approved this ID. Advanced to RESEARCHING. Packet: content/research/bc-20260830-01-20260831.md. Per-ID state: content/state/bc-20260830-01-diljit-wembley.md. No drafting.
+
+---
+
+## bc-20260830-02-cycle-of-love-theatrical
+
+- status: DISCOVERED
+- created: 2026-08-30
+- updated: 2026-08-30
+- beat: Film / entertainment (secondary: diaspora identity; culture)
+- story_type_hypothesis: Analysis (feature mix)
+- recommendation: pursue
+- sensitive: caste; do not flatten Dalit experience; no unsourced communal claims
+
+### Working topic / headline
+The Cycle of Love is in US theaters. The bicycle is the marketing hook. Caste is the story.
+
+### Story type
+Analysis
+
+### What happened / current hook
+Variance Films opened Orlando von Einsiedel's documentary *The Cycle of Love* in limited US theatrical on Friday 28 August 2026, starting at New York's Angelika, with Q&As then LA/SF and 20–30 more markets in Sept/Oct (IndieWire, Anne Thompson, 27 Aug 2026). A later pass confirmed LA **Sept 4** at Laemmle Royal (Laemmle listing; Spirituality+Health Aug 18 is sponsored by the film — do not treat as independent review). Urban Asian (24 Aug) says UK & Ireland cinema **18 September 2026**. No U.S. opening-gross figures found on opened pages. Priyanka Chopra Jonas is an executive producer (Purple Pebble). The film follows Odisha-born Dalit artist P.K. Mahanandia and Lotta von Schedvin; children are producers. Rotten Tomatoes lists limited theatrical Aug 28, runtime 1h 38m. BBC published a video interview with Chopra Jonas on "love and caste inequality."
+
+### Why it matters now
+The film is in theaters this week. Festival coverage is a year old (Telluride 2025); the new fact is the theatrical bet on a Dalit love story sold as "universal."
+
+### Intended reader
+South Asian (especially Odia/Dalit-aware and diaspora) viewers who will decide whether to go; readers tracking how caste appears in Western prestige docs.
+
+### Proposed editorial angle
+Not a plot recap. What "universal" and "joyful doc" language does to a caste story; mileage/age discrepancies between film logline (23; 6,000 miles) and older BBC/CNN reporting (mixed transport, older age). Label interpretation as analysis.
+
+### South Asian / diaspora relevance
+Central: Dalit / Odisha / Delhi 1970s; caste; Indian-Swedish marriage. Do not use "South Asian" as a substitute for Dalit/Odia.
+
+### Primary sources available
+- IndieWire (director + distributor on the record): https://www.indiewire.com/awards/consider-this/the-cycle-of-love-festival-crowdpleaser-1235212838/ (retrieved 2026-08-30)
+- Rotten Tomatoes listing: https://www.rottentomatoes.com/m/the_cycle_of_love
+- BBC video page: https://www.bbc.com/news/videos/cn4nk1915vxo
+- Official film site: https://thecycleoflovefilm.com/
+- Laemmle Royal (LA Sept 4): https://www.laemmle.com/film/cycle-love
+- Older primary interviews (for research, not this run): BBC 2016 https://www.bbc.com/news/world-asia-india-35299608 ; CNN https://www.cnn.com/travel/article/india-sweden-love-story-cycle
+
+### Useful secondary sources
+- Variety director interview (prior coverage): https://variety.com/2026/film/news/cycle-of-love-director-doc-man-biked-india-sweden-1236686888/
+- Deadline Variance deal: https://deadline.com/2026/05/orlando-von-einsiedel-cycle-of-love-us-deal-release-1236886931/
+- AndersonVision (Aug 2, 2026) on family telling: https://andersonvision.com/6000-miles-for-love-the-cycle-of-love-lets-a-family-tell-its-own-impossible-epic/
+
+### Social media signal
+Not required for the hook. Do not invent audience reactions.
+
+### Originality / what brwncltr could add
+IndieWire/Variety already sold the joy/Oscar-path. brwncltr add: caste specificity, logline vs older reporting, what diaspora viewers should watch for. If research cannot sit with caste, this should drop to pass.
+
+### Longevity
+Time-sensitive (theatrical window) with a durable explainer tail.
+
+### Scores
+audience_relevance: 4 — Strong for culture/film readers; limited theatrical geography.
+timeliness: 5 — Opened Aug 28; expansion ongoing.
+cultural_relevance: 5 — Caste, Odisha, art, mixed marriage named.
+strength_of_angle: 5 — Bicycle vs caste is a real question the marketing invites.
+source_quality: 5 — Director/distributor on record; older first-person interviews exist.
+originality: 4 — Not a rewrite if caste stays load-bearing.
+usefulness_shareability: 4 — Helps a reader decide what the film is actually asking.
+fit_with_brwncltr: 5
+
+veto: none
+recommendation: pursue
+confidence: high
+
+### Open questions
+- Confirm Angelika showtimes / next-city dates from Variance, not IndieWire paraphrase, before a listing box.
+- Do not treat film's "23" and "6,000 miles" as historical fact without reconciling BBC/CNN.
+
+### Log
+- 2026-08-30: DISCOVERED. IndieWire fetched. Caste flagged.
+
+---
+
+## bc-20260830-03-toxic-geetu-mohandas
+
+- status: DISCOVERED
+- created: 2026-08-30
+- updated: 2026-08-30
+- beat: Film / entertainment
+- story_type_hypothesis: Analysis
+- recommendation: pursue
+- sensitive: graphic violence (A certificate); gender/representation criticism in reviews — report as criticism, not as proved harm
+
+### Working topic / headline
+A Malayalam auteur, a Kannada superstar, an Onam date: what *Toxic*'s opening actually split
+
+### Story type
+Analysis
+
+### What happened / current hook
+*Toxic: A Fairy Tale for Grown-Ups*, directed by Geetu Mohandas, written with Yash, released worldwide 26 August 2026 (Onam) in Kannada, Hindi, Telugu, Tamil, Malayalam (ETV Bharat 30 Aug 2026). ETV Bharat, citing live day-5 figures, reports India net opening day Rs 101.10 crore (Wed), then 37.65 / 27.20 / 25.15, day-5 live 18.37, India net total live Rs 209.47 crore. Hindi version ~Rs 55 crore day-1 net. CBFC A certificate; runtime reported 3h 14m. Hindustan Times (30 Aug) says critics were negative and flags a gap between Mohandas's earlier "female gaze" comments and the finished film's female characters. Do **not** treat rumored Rs 500 crore–1,000 crore budget as fact.
+
+### Why it matters now
+Day 5 is today. The story is the split: historic opener vs collapsing holds; mass star vs female Malayalam director on a multilingual Onam canvas. Overseas drop is being watched because of a reported Phars Film international deal (ETV; treat as reported, not confirmed contract).
+
+### Intended reader
+South Indian and diaspora film audiences in the US/UK/Gulf who bought Onam tickets; readers who care who gets to make "event" cinema.
+
+### Proposed editorial angle
+Not a collections blog. What it means when a National Award / *Liar's Dice* director is handed a Yash mass machine, and the opening weekend becomes an argument about authorship, runtime, and women on screen. Attribute BO to trackers. Label analysis.
+
+### South Asian / diaspora relevance
+Central: Kannada star, Malayalam director, Goa setting, six-language release including diaspora screens. Name Kannada and Malayalam; do not say "South Indian" as one culture.
+
+### Primary sources available
+- ETV Bharat day 5 (30 Aug 2026): https://www.etvbharat.com/en/entertainment/toxic-box-office-day-5-yash-film-crosses-rs-200-crore-in-india-despite-sharp-drop-after-massive-opening-enn26083003509
+- Variety on Vishal Mishra / soundtrack (pre-release): https://variety.com/2026/music/news/yash-toxic-vishal-mishra-composer-1236833676/
+- Yash Instagram cited by ETV (establishes he posted; not BO proof)
+
+### Useful secondary sources
+- Hindustan Times day 4: https://www.hindustantimes.com/entertainment/others/toxic-box-office-collection-day-4-yash-kgf-2-made-380-crore-at-this-point-200-crore-101788062738387.html (page fetch was thin; re-fetch in research)
+- Times of India day-5 live: https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hd-toxic-box-office-collection-day-5-live-yash-and-kiara-advani-film-eyes-rs-200-crore-india-net-milestone/articleshow/133626098.cms
+- Wikipedia film page exists; do not use as a source of budget or verdict
+
+### Social media signal
+Yes: ETV embeds Yash and IMAX India Instagram posts. Establishes posts, not "netizen consensus." Do not invent review percentages from social.
+
+### Originality / what brwncltr could add
+Trade is drowning in day-wise tables. Add: Mohandas's filmography vs this canvas; Kannada vs Hindi occupancy split ETV already flags; diaspora Onam booking as a distribution fact. If we only reprint Sacnilk, pass.
+
+### Longevity
+Time-sensitive (this week). Feature tail if the authorship argument outlasts the BO.
+
+### Scores
+audience_relevance: 4
+timeliness: 5 — Opening weekend still in motion on retrieval day.
+cultural_relevance: 4 — Industry + language industries, not flattening if named.
+strength_of_angle: 4 — Auteur vs mass machine is a real question.
+source_quality: 3 — BO is tracker/live; budget unverified; HT page thin this run.
+originality: 4 — Independent of a pure collections recap.
+usefulness_shareability: 3 — Niche film-literate readers.
+fit_with_brwncltr: 4
+
+veto: none
+recommendation: pursue
+confidence: medium
+
+### Open questions
+- Re-fetch a full Hindustan Times or The Hindu review for the "female gaze" claim; do not hang a lede on a truncated HT fetch.
+- North America gross vs any stated breakeven: ETV mentions a reported $6.5m NA target — mark [NEED SOURCE] until a rights-holder or Sacnilk primary.
+- Do not print unverified budget.
+
+### Log
+- 2026-08-30: DISCOVERED. ETV Bharat fetched. Budget left unverified.
