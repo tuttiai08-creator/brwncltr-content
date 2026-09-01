@@ -8,7 +8,7 @@
 - recommendation: (owner approved 2026-09-01; completeness gate passed; awaiting human)
 - blocked_reason:
 - research_path: content/research/bc-20260830-02-20260901.md
-- draft_path: content/drafts/20260901-bc-20260830-02-cycle-of-love.md
+- draft_path: moved to review_path
 - review_path: content/ready-for-review/20260901-bc-20260830-02-cycle-of-love.md
 - sensitive: caste; do not flatten Dalit experience; no unsourced communal claims; do not treat marketing “untouchable” language as historical fact
 - selected_angle: The Cycle of Love opens L.A. Friday. The bicycle is the hook. Caste is the movie. The real couple is in the Q&A.
@@ -59,3 +59,4 @@ confidence: high
 - 2026-09-01: Research packet filed at content/research/bc-20260830-02-20260901.md. Load-bearing L.A. date/venue, Q&A, credits, and caste identity verified from live web. Not BLOCKED. No drafting yet.
 - 2026-09-01: Advanced RESEARCHING → DRAFTING. Draft: content/drafts/20260901-bc-20260830-02-cycle-of-love.md. Research packet not overwritten. Diljit 01 files not edited. No ready-for-review yet. No publish.
 - 2026-09-01: Completeness gate passed. Advanced DRAFTING → READY_FOR_REVIEW. Review packet: content/ready-for-review/20260901-bc-20260830-02-cycle-of-love.md. Article bytes match the draft except State field. Not APPROVED. Nothing published. Diljit 01 untouched.
+- 2026-09-01: Packet-boundary cleanup on PR #5. Exact quotes from already-used BBC / Variety Ritman / IndieWire / Variety Dogwoof URLs added to the research packet; article aligned. Duplicate drafts/ article deleted (moved; draft_path now points at review_path). Still READY_FOR_REVIEW. Not APPROVED. Diljit 01 untouched.
