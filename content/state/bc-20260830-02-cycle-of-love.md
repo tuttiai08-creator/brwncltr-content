@@ -1,14 +1,14 @@
 # bc-20260830-02-cycle-of-love
 
-- status: RESEARCHING
+- status: DRAFTING
 - created: 2026-08-30
 - updated: 2026-09-01
 - beat: Film / entertainment (secondary: diaspora identity; culture)
 - story_type_hypothesis: Analysis (feature mix)
 - recommendation: (owner approved 2026-09-01; pursue in progress)
 - blocked_reason:
-- research_path:
-- draft_path:
+- research_path: content/research/bc-20260830-02-20260901.md
+- draft_path: content/drafts/20260901-bc-20260830-02-cycle-of-love.md
 - review_path:
 - sensitive: caste; do not flatten Dalit experience; no unsourced communal claims; do not treat marketing “untouchable” language as historical fact
 - selected_angle: The Cycle of Love opens L.A. Friday. The bicycle is the hook. Caste is the movie. The real couple is in the Q&A.
@@ -19,7 +19,11 @@ Owner (Taha Aziz / Aziz) approved this ID on 2026-09-01 with the selected angle 
 
 ## Sources seen
 
-Discovery-slate pointers only (2026-08-30). Live-web re-verification is in progress for this research run. Do not treat PR #4 as source of truth.
+Primary (fetched 2026-09-01): Laemmle film page; thecycleoflovefilm.com; Grain Media Aug 2023 note; Dogwoof releasing; BBC 2016 (Vikas Pandey); CNN 11 Feb 2016 (Sophie Eastaugh); Nat Geo 2 Apr 2017 (Simon Worrall); BBC video 21 Aug 2026.
+
+Secondary: IndieWire 27 Aug 2026 (Anne Thompson); Deadline 7 May / 28 Aug / 30 Aug 2026; Box Office Mojo weekend page; Variety (Alex Ritman interview; Leo Barraclough Dogwoof piece); HeyUGuys 9 Jul 2026; Moveable Fest 26 Aug 2026.
+
+Full URLs, retrieval dates, FACT / INTERPRETATION / conflicts: `content/research/bc-20260830-02-20260901.md`. PR #4 not used as source of truth.
 
 ## Scores
 
@@ -27,14 +31,17 @@ Unchanged from discovery (2026-08-30) until research re-score: audience 4, timel
 
 ## Open questions
 
-- Confirm L.A. opening date/venue from venue/primary (hunch: Laemmle Royal, Friday 4 Sept 2026).
-- Confirm Q&A: who, when, after which show, from venue/primary (hunch: P.K. Mahanandia and Lotta von Schedvin after 7:25 p.m. shows Fri 9/4 and Sat 9/5 at the Royal).
-- Verify film participants: Orlando von Einsiedel; P.K. Mahanandia (Odia / Dalit artist); Lotta von Schedvin; Priyanka Chopra Jonas as EP; children as producers.
-- Caste-related claims only with attribution; name Dalit/Odia.
-- Theatrical: Angelika NYC 28 Aug 2026; box office only as named tracker (Deadline vs Box Office Mojo conflict — attribute, do not reconcile).
-- Logline vs older BBC 2016 / CNN travel reporting (23 / 6,000 miles vs mixed transport / possibly different age) — surface, do not pick a winner in the lede.
+- Laemmle showtime grid vs Q&A banner for 7:25 p.m. (banner is the current primary).
+- Angelika official showtimes (page JS-blocked 2026-09-01).
+- Deadline $17k vs Box Office Mojo $14,904 — do not reconcile.
+- Variety on-page date/byline; BBC 2016 on-page date.
+- Spoken quotes from the 21 Aug BBC video (page paraphrase only).
+- “Odia” as a printed label: sources say Orissa/Odisha village, not the word Odia.
+- Sid (CNN) vs Karl (credits) — do not merge.
 
 ## Log
 
 - 2026-08-30: DISCOVERED on first discovery slate. Recommendation pursue. Sensitive: caste.
 - 2026-09-01: Owner (Taha Aziz / Aziz) approved this ID in chat, selected angle only: “The Cycle of Love opens L.A. Friday. The bicycle is the hook. Caste is the movie. The real couple is in the Q&A.” Advanced DISCOVERED → RESEARCHING. Durable per-ID file created. Diljit 01 files not edited. PR #4 not merged and not used as source of truth.
+- 2026-09-01: Research packet filed at content/research/bc-20260830-02-20260901.md. Load-bearing L.A. date/venue, Q&A, credits, and caste identity verified from live web. Not BLOCKED. No drafting yet.
+- 2026-09-01: Advanced RESEARCHING → DRAFTING. Draft: content/drafts/20260901-bc-20260830-02-cycle-of-love.md. Research packet not overwritten. Diljit 01 files not edited. No ready-for-review yet. No publish.
