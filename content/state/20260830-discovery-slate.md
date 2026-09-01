@@ -1,8 +1,8 @@
 # 20260830 discovery slate
 
-- status: mixed (1 READY_FOR_REVIEW / 14 DISCOVERED)
+- status: mixed (2 READY_FOR_REVIEW / 13 DISCOVERED)
 - created: 2026-08-30
-- updated: 2026-08-31
+- updated: 2026-09-01
 - run_type: discovery slate (updated 2026-08-31 after bc-20260830-01 moved to READY_FOR_REVIEW)
 - window: 2026-08-16 to 2026-08-30 (plus named forward dates used only as why-now)
 - geographies: US / Canada / UK diaspora primary; South Asia origin only with clear diaspora or cultural relevance
@@ -16,7 +16,7 @@
 | ID | Working label | Rec | Sensitive |
 | --- | --- | --- | --- |
 | bc-20260830-01 | Diljit Dosanjh Wembley / Aura Boxscore | READY_FOR_REVIEW (owner-approved 2026-08-31; Cursor PASS) | none |
-| bc-20260830-02 | The Cycle of Love US theatrical | PURSUE | caste |
+| bc-20260830-02 | The Cycle of Love US theatrical | READY_FOR_REVIEW (owner-approved 2026-09-01; per-ID `content/state/bc-20260830-02-cycle-of-love.md`) | caste |
 | bc-20260830-03 | Toxic / Geetu Mohandas opening split | PURSUE | violence (A-cert film); gender criticism in reviews |
 | bc-20260830-04 | DHS H-1B $103,265 NPRM | PURSUE | politics; immigration |
 | bc-20260830-05 | Onam 2026 Gulf sadhya airlift | PURSUE | religion (festival context); West Asia conflict as logistics only |
@@ -31,10 +31,10 @@
 | bc-20260830-14 | RSS chief Bhagwat at MSG | WATCH | politics; religion; Hindutva; protests |
 | bc-20260830-15 | India's Got Latent 2 roast | WATCH | regional stereotyping; Kashmiri Pandit exodus; politics |
 
-Counts: 15 candidates. Durable status: **1 READY_FOR_REVIEW** (`bc-20260830-01`), **14 DISCOVERED** (IDs 02–15).
-Discovery recommendations (unchanged for 02–15): 4 remaining PURSUE (02–05), 7 WATCH, 3 PASS. (At discovery, 01 was also PURSUE; it is no longer a fresh discovery candidate.)
+Counts: 15 candidates. Durable status: **2 READY_FOR_REVIEW** (`bc-20260830-01`, `bc-20260830-02`), **13 DISCOVERED** (IDs 03–15).
+Discovery-era recommendations for IDs still in DISCOVERED: 3 remaining PURSUE (03–05), 7 WATCH, 3 PASS. (At discovery, 01 and 02 were also PURSUE.)
 
-PURSUE is a recommendation only. IDs 02–15 still need owner approval of that ID before RESEARCHING. `bc-20260830-01` was owner-approved 2026-08-31 and is READY_FOR_REVIEW.
+PURSUE is a recommendation only. IDs 03–15 still need owner approval of that ID before RESEARCHING. `bc-20260830-01` was owner-approved 2026-08-31 and is READY_FOR_REVIEW. `bc-20260830-02` was owner-approved 2026-09-01 and is READY_FOR_REVIEW (`content/state/bc-20260830-02-cycle-of-love.md`).
 
 **2026-08-31:** Owner approved `bc-20260830-01` only. That ID is now READY_FOR_REVIEW. Other IDs remain DISCOVERED.
 
@@ -740,3 +740,7 @@ Toxic competing Day-5 totals (not a new ID): ETV Bharat live India net **₹209.
 - 2026-08-31: Owner approved `bc-20260830-01` only. Durable status is now 1 RESEARCHING / 14 DISCOVERED. Packet at content/research/bc-20260830-01-20260831.md. Bookkeeping-only update to this batch file; discovery records for IDs 02–15 unchanged. No drafting.
 - 2026-08-31: Owner approved RESEARCHING → DRAFTING for `bc-20260830-01`. Durable status is now 1 DRAFTING / 14 DISCOVERED. Packet unchanged. Draft at content/drafts/20260831-bc-20260830-01-diljit-wembley.md. IDs 02–15 still DISCOVERED. No ready-for-review. No publish.
 - 2026-08-31: Cursor independent review PASS. `bc-20260830-01` is READY_FOR_REVIEW. Packet at content/ready-for-review/20260831-bc-20260830-01-diljit-wembley.md. IDs 02–15 still DISCOVERED. No publish. No merge.
+- 2026-09-01: Owner approved `bc-20260830-02` only (selected angle: L.A. Friday + bicycle vs caste + real couple at Q&A). Durable per-ID record: `content/state/bc-20260830-02-cycle-of-love.md`. Historical 08-30 candidate bodies below are unchanged.
+- 2026-09-01: `bc-20260830-02` research packet at content/research/bc-20260830-02-20260901.md; draft at content/drafts/20260901-bc-20260830-02-cycle-of-love.md. Historical 08-30 candidate body for 02 unchanged. Diljit 01 untouched.
+- 2026-09-01: `bc-20260830-02` READY_FOR_REVIEW. Review packet: content/ready-for-review/20260901-bc-20260830-02-cycle-of-love.md. Not APPROVED. Nothing published. Historical 08-30 candidate body for 02 unchanged. Diljit 01 untouched.
+- 2026-09-01: Index current-status for `bc-20260830-02` set to READY_FOR_REVIEW (per-ID file). Historical `## bc-20260830-02-cycle-of-love-theatrical` DISCOVERED body below is unchanged. Duplicate drafts/ article deleted after move to ready-for-review. Packet-boundary quote fix on already-used URLs only. Not APPROVED. Diljit 01 untouched.
