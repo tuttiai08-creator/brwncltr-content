@@ -1,6 +1,6 @@
 # bc-20260830-01-diljit-wembley
 
-- status: RESEARCHING
+- status: READY_FOR_REVIEW
 - created: 2026-08-30
 - updated: 2026-08-31
 - beat: Music / entertainment (secondary: diaspora life)
@@ -8,8 +8,8 @@
 - recommendation: (owner approved; pursue complete)
 - blocked_reason:
 - research_path: content/research/bc-20260830-01-20260831.md
-- draft_path:
-- review_path:
+- draft_path: content/drafts/20260831-bc-20260830-01-diljit-wembley.md
+- review_path: content/ready-for-review/20260831-bc-20260830-01-diljit-wembley.md
 - sensitive: none load-bearing. Do not claim first Indian UK stadium act. Ticket-inventory language is contested (see research packet BLOCKED).
 
 ## Why now
@@ -39,3 +39,5 @@ Unchanged from discovery (2026-08-30): audience 5, timeliness 5, cultural 5, ang
 
 - 2026-08-30: DISCOVERED on first discovery slate. Recommendation pursue.
 - 2026-08-31: Owner (Aziz Ai) approved this ID for the next workflow test. Advanced DISCOVERED → RESEARCHING. Research packet filed. No drafting.
+- 2026-08-31: Owner approved RESEARCHING → DRAFTING.
+- 2026-08-31: Cursor independent review of PR #3 returned PASS. Advanced DRAFTING → READY_FOR_REVIEW. Packet moved to content/ready-for-review/20260831-bc-20260830-01-diljit-wembley.md. Article bytes unchanged. Research packet unchanged.
