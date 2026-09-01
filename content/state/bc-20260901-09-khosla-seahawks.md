@@ -1,15 +1,15 @@
 # bc-20260901-09-khosla-seahawks
 
-- status: RESEARCHING
+- status: READY_FOR_REVIEW
 - created: 2026-09-01
 - updated: 2026-09-01
 - beat: Sports (secondary: money/power as culture, not a business-desk lede)
 - story_type_hypothesis: Feature (ownership / who actually controls the team)
-- recommendation: (owner approved 2026-09-01; pursue in progress)
+- recommendation: (owner approved 2026-09-01; completeness gate passed; awaiting human)
 - blocked_reason:
 - research_path: content/research/bc-20260901-09-20260901.md
-- draft_path:
-- review_path:
+- draft_path: moved to review_path
+- review_path: content/ready-for-review/20260901-bc-20260901-09-khosla-seahawks.md
 - sensitive: wealth/class; do not flatten "Indian NFL owner." Shahid Khan (Jaguars) already exists — this is **not** first South Asian NFL owner. Closing of the sale is **UNVERIFIED** as of this run. Do not invent limited-partner names.
 - classification: NEW
 - likely_format: Feature
@@ -39,6 +39,8 @@ UNVERIFIED (discovery): whether the transaction has closed; final LP roster.
 
 Full URLs, retrieval dates, and FACT / INTERPRETATION / conflicts after this run: `content/research/bc-20260901-09-20260901.md`.
 
+Current-status (2026-09-01 research, not a rewrite of the discovery bullets above): team + NFL.com + ESPN + AP confirm unanimous 26 Aug approval. Closing still unverified (approved-not-closed). Neeru control-owner remains Sportico-viewed + ESPN-obtained memo, not seahawks.com. Kickoff listed on seahawks.com game center (Wed 09/09, 5:20 p.m. PDT, Patriots). Shahid Khan / Jaguars documented from NFL.com 2011 and jaguars.com. Origin on-record is Vinod’s 1976 / Steelers line only.
+
 ## Scores
 
 Re-score after 2026-09-01 research (still pursue; not a pass):
@@ -57,12 +59,18 @@ confidence: high on approval/kickoff/not-closed/not-first; medium on Neeru title
 
 ## Open questions
 
+Discovery-era questions (preserved):
+
 - Has the sale closed as of publish day? If no, say approved-not-closed.
 - Primary for Neeru as control owner beyond Sportico's memo.
 - Do not use "first Indian NFL owner." Confirm how the family describes origin (Punjab/IIT/etc.) from *their* remarks, not Wikipedia.
+
+Current-status after 2026-09-01 research: sale still not reported closed; ESPN July also obtained the memo (still not a team-site sentence); family origin on-record is the 1976 / Steelers line only — no Punjab/IIT from their remarks.
 
 ## Log
 
 - 2026-09-01: DISCOVERED. Recommendation pursue. Production-queue run. Discovery-only. Record originated on unmerged PR #6 (`discovery/20260901-production-queue`).
 - 2026-09-01: Owner (Taha Aziz / Aziz) approved this ID as part of the production queue, with instruction to execute Content Manager workflow for 09 only. Per-ID file copied onto `cursor/research-bc-20260901-09-e8f3` from the PR #6 discovery body. Advanced DISCOVERED → RESEARCHING. PR #6 not merged. IDs 06–08 and 10–12 not imported. Diljit 01 and Cycle of Love 02 not edited.
 - 2026-09-01: Research packet filed at content/research/bc-20260901-09-20260901.md. Load-bearing approval, kickoff, approved-not-closed, memo-attributed control owner, and Khan/Jaguars “not first” verified from live web. Not BLOCKED. No drafting yet.
+- 2026-09-01: Advanced RESEARCHING → DRAFTING. Draft: content/drafts/20260901-bc-20260901-09-khosla-seahawks.md. Research packet not overwritten. Diljit 01 and Cycle of Love 02 not edited. No ready-for-review yet. No publish.
+- 2026-09-01: Completeness gate passed. Advanced DRAFTING → READY_FOR_REVIEW. Packet moved (not copied) to content/ready-for-review/20260901-bc-20260901-09-khosla-seahawks.md. Drafts/ copy deleted; content/drafts/.gitkeep left in place. draft_path: moved to review_path. Not APPROVED. Nothing published. Other IDs untouched.
