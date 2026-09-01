@@ -2,7 +2,7 @@
 
 Editorial work is a **task** with a stable ID and a single status. Agents update the state file; they do not invent parallel trackers.
 
-CMS integration is **not** part of this model yet. WordPress IDs, if any, will be added later as optional fields—never as a publish trigger.
+CMS integration is optional metadata on the same per-ID state file—**never** a publish trigger and **never** an `APPROVED` write. WordPress draft handoff is documented in [WORDPRESS_HANDOFF.md](WORDPRESS_HANDOFF.md).
 
 ---
 
@@ -56,6 +56,11 @@ Minimum fields:
 - research_path:
 - draft_path:
 - review_path:
+- wordpress_post_id: (optional; set only after a successful draft create)
+- wordpress_status: draft (optional; this repo never writes a public WP status)
+- wordpress_slug:
+- wordpress_handoff_at:
+- wordpress_edit_url:
 
 ## Why now
 
@@ -71,6 +76,8 @@ Minimum fields:
 
 - YYYY-MM-DD: status change or note
 ```
+
+These `wordpress_*` fields are CMS handoff records. They do **not** change editorial `status`. Agents must not set `status: APPROVED` because a draft exists.
 
 Do not put full article drafts in the state file.
 

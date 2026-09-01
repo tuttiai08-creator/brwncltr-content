@@ -38,6 +38,7 @@ A single run should be one of:
 - Draft **one** task ID from research
 - Move **one** packet to ready-for-review if the completeness gate passes
 - Resolve editor comments on **one** ID
+- **Publishing Manager only:** create **one** WordPress *draft* for **one** `READY_FOR_REVIEW` ID via `python3 scripts/wp_create_draft.py <id>` (dry-run default; `--apply` only when that bot is explicitly tasked). See [WORDPRESS_HANDOFF.md](WORDPRESS_HANDOFF.md).
 
 Do not discover 20 stories and draft three in the same run.
 
@@ -51,9 +52,9 @@ See [EDITORIAL_RULES.md](EDITORIAL_RULES.md). If a fact is missing, omit it, mar
 
 ## Never publish automatically
 
-- No WordPress publish (integration is not built; do not add it unless asked).
+- No WordPress **publish**. The only CMS write in this repo is the draft-only handoff in [WORDPRESS_HANDOFF.md](WORDPRESS_HANDOFF.md) (`status=draft`). Agents must not publish, schedule, or update existing WordPress posts.
 - No “posting” social as if live.
-- `APPROVED` is a **human** state. Agents may suggest it is ready; they may not mark `APPROVED` unless the owner’s documented process says a named human already approved in-band.
+- `APPROVED` is a **human** state. Agents may suggest it is ready; they may not mark `APPROVED` unless the owner’s documented process says a named human already approved in-band. WordPress draft handoff must **not** set `APPROVED`.
 
 ---
 
@@ -111,7 +112,7 @@ Do not leave work only in chat.
 - Live discovery except when [EDITORIAL_BRIEF.md](EDITORIAL_BRIEF.md) authorizes a discovery-only run (see [STORY_DISCOVERY.md](STORY_DISCOVERY.md) gate)
 - Deep research or drafting of a candidate without owner approval of that ID
 - Writing articles during OS-only phases or during discovery-only runs
-- CMS / WordPress
+- CMS / WordPress **except** the Publishing Manager’s draft-only handoff above (never publish; never mark `APPROVED`)
 - Scraping private or login-walled community spaces
 - Contacting sources while impersonating staff
 
