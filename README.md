@@ -7,14 +7,15 @@ It is **not** a CMS, a scraper, or a publishing pipeline. It is the written cont
 **Current scope (this repo today)**
 
 - Strategy, rules, discovery process, scoring, templates, and agent constraints
-- Empty content folders for future research notes, drafts, and review packets
+- Content folders for research notes, drafts, review packets, and per-ID state
 - A task-state model that preserves editorial stages
+- WordPress **draft** handoff (`scripts/wp_create_draft.py`) — see [WORDPRESS_HANDOFF.md](WORDPRESS_HANDOFF.md)
 
 **Explicitly out of scope until the owner says otherwise**
 
 - Deep research or drafting without owner approval of a specific candidate ID
 - Article writing (except when a later task is explicitly authorized)
-- WordPress or any CMS connection
+- WordPress **publish**, schedule, or update of an existing post
 - Automatic publication
 
 Discovery-only live scanning is authorized when [EDITORIAL_BRIEF.md](EDITORIAL_BRIEF.md) says the discovery-stage requirements are complete; it stops at `DISCOVERED`.
@@ -74,6 +75,7 @@ No agent publishes. No agent overwrites published or in-review work without expl
 | [ARTICLE_TEMPLATE.md](ARTICLE_TEMPLATE.md) | Required fields for every draft packet |
 | [AGENTS.md](AGENTS.md) | Operating rules for autonomous agents |
 | [TASK_STATE.md](TASK_STATE.md) | States, file conventions, what each artifact must contain |
+| [WORDPRESS_HANDOFF.md](WORDPRESS_HANDOFF.md) | Draft-only WordPress REST handoff (never publishes) |
 
 ---
 
@@ -94,7 +96,7 @@ Each directory is git-tracked via `.gitkeep` until real work exists.
 
 - This repo does not itself contain story slates; a Grok Bot may write `DISCOVERED` candidates only when the brief authorizes discovery-only.
 - It does not deep-research or write articles until the owner approves a candidate ID.
-- It does not talk to WordPress.
+- It does not publish to WordPress. Draft handoff is opt-in (`--apply`) and cannot set a public status.
 - It does not invent search volume, traffic, or SEO rankings.
 
 When a Grok Bot (or any agent) runs discovery, [EDITORIAL_BRIEF.md](EDITORIAL_BRIEF.md) is the owner-input source of truth. A discovery-only run may proceed when that brief’s **discovery-stage** requirements are complete; it must stop at `DISCOVERED`. Drafting-stage TODOs are not discovery blockers. See [STORY_DISCOVERY.md](STORY_DISCOVERY.md).

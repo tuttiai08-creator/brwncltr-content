@@ -1,0 +1,10 @@
+{
+  "api_path": "/wp-json/wp/v2/posts",
+  "timeout_seconds": 30,
+  "taxonomy": {
+    "unmapped_category": "omit",
+    "unmapped_tag": "omit",
+    "categories": {},
+    "tags": {}
+  }
+}
