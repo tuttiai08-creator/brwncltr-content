@@ -1,15 +1,15 @@
 # bc-20260830-02-cycle-of-love
 
-- status: DRAFTING
+- status: READY_FOR_REVIEW
 - created: 2026-08-30
 - updated: 2026-09-01
 - beat: Film / entertainment (secondary: diaspora identity; culture)
 - story_type_hypothesis: Analysis (feature mix)
-- recommendation: (owner approved 2026-09-01; pursue in progress)
+- recommendation: (owner approved 2026-09-01; completeness gate passed; awaiting human)
 - blocked_reason:
 - research_path: content/research/bc-20260830-02-20260901.md
 - draft_path: content/drafts/20260901-bc-20260830-02-cycle-of-love.md
-- review_path:
+- review_path: content/ready-for-review/20260901-bc-20260830-02-cycle-of-love.md
 - sensitive: caste; do not flatten Dalit experience; no unsourced communal claims; do not treat marketing “untouchable” language as historical fact
 - selected_angle: The Cycle of Love opens L.A. Friday. The bicycle is the hook. Caste is the movie. The real couple is in the Q&A.
 
@@ -27,7 +27,20 @@ Full URLs, retrieval dates, FACT / INTERPRETATION / conflicts: `content/research
 
 ## Scores
 
-Unchanged from discovery (2026-08-30) until research re-score: audience 4, timeliness 5, cultural 5, angle 5, source_quality 5, originality 4, usefulness 4, fit 5. Veto: none. Recommendation at discovery: pursue.
+Re-score after 2026-09-01 research (still pursue; not a pass):
+
+audience_relevance: 5 — Odisha/Dalit-aware and L.A. diaspora viewers deciding whether to go this weekend.
+timeliness: 5 — L.A. Friday 4 Sept; venue Q&A dated.
+cultural_relevance: 5 — caste load-bearing; named Odisha village / Dalit / Swedish / UK director.
+strength_of_angle: 5 — owner-selected bicycle vs caste + couple in the room is supportable from venue + older reporting.
+source_quality: 5 — Laemmle primary for date/Q&A; BBC/CNN/Nat Geo for caste and journey conflicts; Deadline/Mojo attributed.
+originality: 4 — not a Telluride rewrite if caste and the logline conflict stay in the frame.
+usefulness_shareability: 4 — watch/don’t-flatten guide for this weekend.
+fit_with_brwncltr: 5
+
+veto: none
+recommendation: (owner approved; now READY_FOR_REVIEW)
+confidence: high
 
 ## Open questions
 
@@ -45,3 +58,4 @@ Unchanged from discovery (2026-08-30) until research re-score: audience 4, timel
 - 2026-09-01: Owner (Taha Aziz / Aziz) approved this ID in chat, selected angle only: “The Cycle of Love opens L.A. Friday. The bicycle is the hook. Caste is the movie. The real couple is in the Q&A.” Advanced DISCOVERED → RESEARCHING. Durable per-ID file created. Diljit 01 files not edited. PR #4 not merged and not used as source of truth.
 - 2026-09-01: Research packet filed at content/research/bc-20260830-02-20260901.md. Load-bearing L.A. date/venue, Q&A, credits, and caste identity verified from live web. Not BLOCKED. No drafting yet.
 - 2026-09-01: Advanced RESEARCHING → DRAFTING. Draft: content/drafts/20260901-bc-20260830-02-cycle-of-love.md. Research packet not overwritten. Diljit 01 files not edited. No ready-for-review yet. No publish.
+- 2026-09-01: Completeness gate passed. Advanced DRAFTING → READY_FOR_REVIEW. Review packet: content/ready-for-review/20260901-bc-20260830-02-cycle-of-love.md. Article bytes match the draft except State field. Not APPROVED. Nothing published. Diljit 01 untouched.
