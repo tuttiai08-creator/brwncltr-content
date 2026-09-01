@@ -740,3 +740,11 @@ Toxic competing Day-5 totals (not a new ID): ETV Bharat live India net **₹209.
 - 2026-08-31: Owner approved `bc-20260830-01` only. Durable status is now 1 RESEARCHING / 14 DISCOVERED. Packet at content/research/bc-20260830-01-20260831.md. Bookkeeping-only update to this batch file; discovery records for IDs 02–15 unchanged. No drafting.
 - 2026-08-31: Owner approved RESEARCHING → DRAFTING for `bc-20260830-01`. Durable status is now 1 DRAFTING / 14 DISCOVERED. Packet unchanged. Draft at content/drafts/20260831-bc-20260830-01-diljit-wembley.md. IDs 02–15 still DISCOVERED. No ready-for-review. No publish.
 - 2026-08-31: Cursor independent review PASS. `bc-20260830-01` is READY_FOR_REVIEW. Packet at content/ready-for-review/20260831-bc-20260830-01-diljit-wembley.md. IDs 02–15 still DISCOVERED. No publish. No merge.
+
+
+---
+
+## Recurrence log (append-only; do not treat as a rewrite of 2026-08-30 observations)
+
+- 2026-09-01: Second discovery cycle filed at `content/state/20260901-discovery-slate.md` (main then `7afe028`). This file remains the historical first-slate record. Current pursue/watch/pass and NEW IDs live on the 20260901 artifact. `bc-20260830-01` was not edited (READY_FOR_REVIEW). Classifications of 02–15 from that run: 02 UPDATED stay PURSUE; 03 UPDATED downgraded to WATCH; 04 UNCHANGED stay PURSUE; 05 STALE downgraded to PASS; 06 UPDATED upgraded to PURSUE; 07 UNCHANGED stay WATCH; 08 UPDATED stay WATCH (1 Sept strike did not occur); 09 STALE downgraded to PASS; 10 UNCHANGED stay WATCH; 11–13 UNCHANGED stay PASS; 14 UPDATED stay WATCH (Canada happened); 15 UNCHANGED stay WATCH.
+- 2026-09-01 (same run): NEW IDs on the 20260901 artifact are bc-20260901-01 through 05.
