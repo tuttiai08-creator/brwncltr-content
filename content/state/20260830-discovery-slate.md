@@ -7,7 +7,7 @@
 - window: 2026-08-16 to 2026-08-30 (plus named forward dates used only as why-now)
 - geographies: US / Canada / UK diaspora primary; South Asia origin only with clear diaspora or cultural relevance
 - first-run beats weighted: South Asian culture; diaspora life and identity; entertainment/music/film/television; creators/business/entrepreneurship; internet and current conversations
-- hard_stop_at_discovery: this file began as a discovery-only run. On 2026-08-31 bc-20260830-01 advanced through RESEARCHING and DRAFTING to READY_FOR_REVIEW. Research packet unchanged at content/research/bc-20260830-01-20260831.md. Review packet at content/ready-for-review/20260831-bc-20260830-01-diljit-wembley.md. IDs 02–15 remain DISCOVERED. Nothing published.
+- hard_stop_at_discovery: this file began as a discovery-only run. On 2026-08-31 bc-20260830-01 advanced through RESEARCHING and DRAFTING to READY_FOR_REVIEW. Research packet unchanged at content/research/bc-20260830-01-20260831.md. Review packet at content/ready-for-review/20260831-bc-20260830-01-diljit-wembley.md. IDs 02–315 remain DISCOVERED. Nothing published.
 - commit_read: main @ 1aa52e1acaeda70b381b89242d7bfc2feec1ad99
 - retrieval_date: 2026-08-30 (America/Chicago)
 
@@ -31,10 +31,10 @@
 | bc-20260830-14 | RSS chief Bhagwat at MSG | WATCH | politics; religion; Hindutva; protests |
 | bc-20260830-15 | India's Got Latent 2 roast | WATCH | regional stereotyping; Kashmiri Pandit exodus; politics |
 
-Counts: 15 candidates. Durable status: **1 READY_FOR_REVIEW** (`bc-20260830-01`), **14 DISCOVERED** (IDs 02–15).
-Discovery recommendations (unchanged for 02–15): 4 remaining PURSUE (02–05), 7 WATCH, 3 PASS. (At discovery, 01 was also PURSUE; it is no longer a fresh discovery candidate.)
+Counts: 15 candidates. Durable status: **1 READY_FOR_REVIEW** (`bc-20260830-01`), **14 DISCOVERED** (IDs 02–315).
+Discovery recommendations (unchanged for 02–315): 4 remaining PURSUE (02–305), 7 WATCH, 3 PASS. (At discovery, 01 was also PURSUE; it is no longer a fresh discovery candidate.)
 
-PURSUE is a recommendation only. IDs 02–15 still need owner approval of that ID before RESEARCHING. `bc-20260830-01` was owner-approved 2026-08-31 and is READY_FOR_REVIEW.
+PURSUE is a recommendation only. IDs 02–315 still need owner approval of that ID before RESEARCHING. `bc-20260830-01` was owner-approved 2026-08-31 and is READY_FOR_REVIEW.
 
 **2026-08-31:** Owner approved `bc-20260830-01` only. That ID is now READY_FOR_REVIEW. Other IDs remain DISCOVERED.
 
@@ -48,7 +48,7 @@ Box-office and concert-attendance figures below are **as reported by named outle
 
 ---
 
-# PURSUE at discovery (01 now READY_FOR_REVIEW; 02–05 still DISCOVERED / pursue)
+# PURSUE at discovery (01 now READY_FOR_REVIEW; 02–305 still DISCOVERED / pursue)
 
 ## bc-20260830-01-diljit-wembley
 
@@ -737,14 +737,14 @@ Toxic competing Day-5 totals (not a new ID): ETV Bharat live India net **₹209.
 
 - 2026-08-30: First discovery-only run. Status DISCOVERED for all IDs. Awaiting owner approval before any RESEARCHING.
 - 2026-08-30 (later evening): Folded two additional WATCH IDs and fact patches from a second discovery pass. At that time still no RESEARCHING or DRAFTING.
-- 2026-08-31: Owner approved `bc-20260830-01` only. Durable status is now 1 RESEARCHING / 14 DISCOVERED. Packet at content/research/bc-20260830-01-20260831.md. Bookkeeping-only update to this batch file; discovery records for IDs 02–15 unchanged. No drafting.
-- 2026-08-31: Owner approved RESEARCHING → DRAFTING for `bc-20260830-01`. Durable status is now 1 DRAFTING / 14 DISCOVERED. Packet unchanged. Draft at content/drafts/20260831-bc-20260830-01-diljit-wembley.md. IDs 02–15 still DISCOVERED. No ready-for-review. No publish.
-- 2026-08-31: Cursor independent review PASS. `bc-20260830-01` is READY_FOR_REVIEW. Packet at content/ready-for-review/20260831-bc-20260830-01-diljit-wembley.md. IDs 02–15 still DISCOVERED. No publish. No merge.
+- 2026-08-31: Owner approved `bc-20260830-01` only. Durable status is now 1 RESEARCHING / 14 DISCOVERED. Packet at content/research/bc-20260830-01-20260831.md. Bookkeeping-only update to this batch file; discovery records for IDs 02–315 unchanged. No drafting.
+- 2026-08-31: Owner approved RESEARCHING → DRAFTING for `bc-20260830-01`. Durable status is now 1 DRAFTING / 14 DISCOVERED. Packet unchanged. Draft at content/drafts/20260831-bc-20260830-01-diljit-wembley.md. IDs 02–315 still DISCOVERED. No ready-for-review. No publish.
+- 2026-08-31: Cursor independent review PASS. `bc-20260830-01` is READY_FOR_REVIEW. Packet at content/ready-for-review/20260831-bc-20260830-01-diljit-wembley.md. IDs 02–315 still DISCOVERED. No publish. No merge.
 
 
 ---
 
 ## Recurrence log (append-only; do not treat as a rewrite of 2026-08-30 observations)
 
-- 2026-09-01: Second discovery cycle filed at `content/state/20260901-discovery-slate.md` (main then `7afe028`). This file remains the historical first-slate record. Current pursue/watch/pass and NEW IDs live on the 20260901 artifact. `bc-20260830-01` was not edited (READY_FOR_REVIEW). Classifications of 02–15 from that run: 02 UPDATED stay PURSUE; 03 UPDATED downgraded to WATCH; 04 UNCHANGED stay PURSUE; 05 STALE downgraded to PASS; 06 UPDATED upgraded to PURSUE; 07 UNCHANGED stay WATCH; 08 UPDATED stay WATCH (1 Sept strike did not occur); 09 STALE downgraded to PASS; 10 UNCHANGED stay WATCH; 11–13 UNCHANGED stay PASS; 14 UPDATED stay WATCH (Canada happened); 15 UNCHANGED stay WATCH.
+- 2026-09-01: Second discovery cycle filed at `content/state/20260901-discovery-slate.md` (main then `7afe028`). This file remains the historical first-slate record. Current pursue/watch/pass and NEW IDs live on the 20260901 artifact. `bc-20260830-01` was not edited (READY_FOR_REVIEW). Classifications of 02–315 from that run: 02 UPDATED stay PURSUE; 03 UPDATED downgraded to WATCH; 04 UNCHANGED stay PURSUE; 05 STALE downgraded to PASS; 06 UPDATED upgraded to PURSUE; 07 UNCHANGED stay WATCH; 08 UPDATED stay WATCH (1 Sept strike did not occur); 09 STALE downgraded to PASS; 10 UNCHANGED stay WATCH; 11–313 UNCHANGED stay PASS; 14 UPDATED stay WATCH (Canada happened); 15 UNCHANGED stay WATCH.
 - 2026-09-01 (same run): NEW IDs on the 20260901 artifact are bc-20260901-01 through 05.
