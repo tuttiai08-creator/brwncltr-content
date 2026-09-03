@@ -1,6 +1,11 @@
 # bc-20260901-09-khosla-seahawks
 
 - status: READY_FOR_REVIEW
+- wordpress_edit_url: https://brwncltr.com/wp-admin/post.php?post=12044&action=edit
+- wordpress_handoff_at: 2026-09-03T17:37:32Z
+- wordpress_slug: khosla-seahawks-approved-not-closed-neeru
+- wordpress_status: draft
+- wordpress_post_id: 12044
 - created: 2026-09-01
 - updated: 2026-09-01
 - beat: Sports (secondary: money/power as culture, not a business-desk lede)
@@ -74,3 +79,4 @@ Current-status after 2026-09-01 research: sale still not reported closed; ESPN J
 - 2026-09-01: Research packet filed at content/research/bc-20260901-09-20260901.md. Load-bearing approval, kickoff, approved-not-closed, memo-attributed control owner, and Khan/Jaguars “not first” verified from live web. Not BLOCKED. No drafting yet.
 - 2026-09-01: Advanced RESEARCHING → DRAFTING. Draft: content/drafts/20260901-bc-20260901-09-khosla-seahawks.md. Research packet not overwritten. Diljit 01 and Cycle of Love 02 not edited. No ready-for-review yet. No publish.
 - 2026-09-01: Completeness gate passed. Advanced DRAFTING → READY_FOR_REVIEW. Packet moved (not copied) to content/ready-for-review/20260901-bc-20260901-09-khosla-seahawks.md. Drafts/ copy deleted; content/drafts/.gitkeep left in place. draft_path: moved to review_path. Not APPROVED. Nothing published. Other IDs untouched.
+- 2026-09-03: WordPress draft handoff recorded post_id=12044 status=draft. Editorial status remains READY_FOR_REVIEW. Not APPROVED.
