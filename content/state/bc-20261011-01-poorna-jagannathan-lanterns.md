@@ -105,3 +105,4 @@ Also standing, in the research packet: Zoe’s ethnicity; crystal heart vs froze
 - 2026-10-12: DRAFTING. Article written from the packet only, on this branch. No file left under content/drafts/.
 - 2026-10-12: READY_FOR_REVIEW. Completeness gate passed. Packet: content/ready-for-review/20261011-bc-20261011-01-poorna-jagannathan-lanterns.md. draft_path: moved to review_path. Not APPROVED. Nothing published. Not merged.
 - 2026-10-12: Revision note. Owner feedback: Full draft rewritten as a magazine feature. Same research packet, no new facts. Excerpt and social captions aligned to the new prose. Status remains READY_FOR_REVIEW. Not APPROVED. Not published.
+- 2026-10-12: Revision note. Owner approved a five-section structure. Full draft rebuilt to that order (intro, Lanterns, how she got here, 2026 beyond Lanterns, a short close in her words). Same research packet. No new facts. Excerpt aligned. Status remains READY_FOR_REVIEW. Not APPROVED. Not published.
