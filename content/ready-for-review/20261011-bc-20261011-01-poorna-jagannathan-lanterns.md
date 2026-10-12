@@ -82,57 +82,49 @@ In one year she is the Manhunter on *Lanterns*, the crime-boss aunt on *Deli Boy
 
 ## Full draft
 
-Spoilers for HBO’s *Lanterns* through episode five: who Zoe is, and the episode in which she is killed. The finale’s audience is below. The finale’s plot is not.
+Spoilers for *Lanterns* through the episode in which Zoe dies.
 
-One public clip attached to a search for the actress who plays Zoe is a TikTok. The public page at https://www.tiktok.com/t/ZTyGA71vV/ carries the caption “#Lanterns' Poorna Jagannathan shares her initial reaction to being cast as Zoe,” then a green-heart emoji and the tags #hbo, #dcu, #dccomics, and #greenlantern. That is the text the page returned on 12 October 2026. The video was not watched for this piece. Nothing she says in it is quoted. The account name and the post time were not on the page this run retrieved.
+She thought she knew the job. The audition was a bar, where she picks up John Stewart, and a scene in bed where she tells him to leave town or he’ll die. Nothing on those pages said she was anything other than a woman. She got the gig anyway. After that she was on the phone with Chris Mundy all the time, the showrunner who made *Lanterns* with Damon Lindelof and Tom King, figuring the character out. Still nobody said it.
 
-The interview version of that surprise is narrower, and it is on the record. Vulture’s Roxana Hadadi, on 13 September 2026, writes that Poorna Jagannathan had no idea she had been cast as the show’s big bad until she read the script for episode four, “The Weenie.” She told Hadadi she had been speaking to co-creator and showrunner Chris Mundy “all the time,” and still did not know. She got the episode in which her character “dies,” and then she got to the end of the script. “I have popped a gummy by then — and I read that I’m the Manhunter. I swear to God, I think I’m not reading properly.” The same day, she told Deadline’s Katie Campione, “I did not see it coming.”
+Then episode four showed up, and in it, she dies. Interesting, she thought, and abrupt. She was still happy to be in the DC universe. She doesn’t know the genre. Maybe people just blow up. It was late. She had already popped a gummy. She got to the end of the script.
 
-### Zoe Macon is the Manhunter
+“I have popped a gummy by then — and I read that I’m the Manhunter,” she told Vulture. “I swear to God, I think I’m not reading properly.”
 
-*Lanterns* is the eight-episode HBO series, also on HBO Max, from DC Studios and Warner Bros. Television. Deadline’s 8 October ratings story describes new recruit John Stewart (Aaron Pierre) and Lantern legend Hal Jordan (Kyle Chandler) as “two intergalactic cops drawn into a dark, earth-based mystery,” investigating a murder in the American heartland. Chris Mundy, Damon Lindelof, and Tom King are the co-creators. Mundy is the showrunner. They executive produce. James Hawes directed the first two episodes and is an executive producer, in both Deadline’s 15 November 2024 casting note and Variety’s 20 August 2026 premiere story. That Variety story bills Aaron Pierre, Kyle Chandler, Kelly Macdonald, Garret Dillahunt, Poorna Jagannathan, Jason Ritter, and Ulrich Thomsen, and says Laura Linney also appears. It lists James Gunn, Peter Safran, and Ron Schmidt as executive producers, and Stephen Williams, Geeta Vasant Patel, and Alik Sakharov as directors. The same story does not name characters for Ritter, Thomsen, or Linney. Deadline’s 2024 note says Macdonald plays Sheriff Kerry and calls Dillahunt’s William Macon a modern cowboy. Deadline’s 13 September 2026 story calls her Sheriff Kerry Kane.
+She was shocked they hadn’t told her. Shocked, she said, to be playing a part this central. She told Deadline she did not see it coming. “It was such a delightful twist.”
 
-Nellie Andreeva’s casting story, 15 November 2024, announced a heavily recurring role as Zoe and did not call her the Manhunter.
+### The death that doesn’t count
 
-On 13 September, Vulture, Deadline, and the Los Angeles Times reported the turn. Zoe Macon is the Manhunter. Vulture says she fakes her death in “The Weenie,” so Hal and John will not realize who she is. Episode five, “Lights Out,” premiered on HBO that Sunday. In it, John Stewart kills her. Vulture’s wording is that she “is dead for real now.” Lorraine Ali’s Los Angeles Times interview quotes Jagannathan: “She is dead, for sure. Maybe …” The “maybe” stays hers. It is not a report that the character returns.
+Zoe Macon is a rancher’s wife in Rushville, Nebraska. The men who come through are Hal Jordan and John Stewart — Kyle Chandler and Aaron Pierre — Lanterns pulled into a murder in the American heartland. Kelly Macdonald is Sheriff Kerry Kane. William Macon, the cowboy Garret Dillahunt plays, is the man she has built the town with. Peaceful, she has said. Abundant. The hospitals empty. She cares about that place. The life she and William made, she told Deadline, gets torn up because John and Hal could have just left.
 
-Vulture prints one sentence from her about that first exit, with the magazine’s own bracket in the middle: “When the first khodafez happened [when Zoe fakes her own death in “The Weenie”], it felt in line with what happens to women of color — an early exit.”
+What she played, once the script told her the truth, was a woman sure of her read on people. “There’s an immediate kinship,” she told Vulture, “and she just assumes that John is not going to betray her.” That is the bet. “She thinks she knows people, and she’s blindsided by this one person.”
 
-She told Deadline, in the same day’s story, that the character was “hiding in plain sight, for lack of a better phrase.” On Zoe, the phrase is the plot the episodes already ran. The Los Angeles Times calls her a rancher’s wife, in the town of Rushville, Nebraska. Vulture says the episode-four death is staged. She is the Manhunter the two Lanterns are in that town to find.
+Pierre, across from her, never came out of it. He stayed in character the whole time. One day something slipped and he said “Sorry, love,” in a British accent. She didn’t know him as anyone but John. Then he went back.
 
-The finale debuted on 4 October. On 8 October, TheWrap’s Loree Seitz and Deadline’s Katie Campione reported the same three-day total: 10.5 million viewers globally and 7.2 million in the U.S. TheWrap credited Nielsen and internal numbers from Warner Bros. Discovery. Deadline credited “the latest data from Skydance-owned HBO.” Both said the global figure was 13 percent above the premiere’s 9.3 million. TheWrap also reported the U.S. audience up 9 percent from a premiere of 6.6 million. Both put the season average at 19.3 million global viewers, among the top five HBO series launches in platform history, and both said premiere viewership was approaching 30 million. TheWrap called the finale an all-time high for the show, globally and in the U.S. Deadline called it a series-best. Variety, on 20 August, had reported the premiere as 9.3 million views in three days and 6.6 million U.S. viewers. “Views” and “viewers” are left as printed. So is Warner Bros. Discovery versus “Skydance-owned HBO.”
+In “The Weenie,” Zoe dies. It is a fake, laid down so Hal and John will not realize the woman in front of them is the Manhunter they are already hunting. She knew that kind of exit. “When the first khodafez happened,” she told Vulture, “it felt in line with what happens to women of color — an early exit.”
 
-Deadline’s 14 August story had already dated the *Lanterns* premiere to 16 August.
+The next episode is “Lights Out.” This death is the one that stays. John Stewart kills her. “She is dead, for sure,” she told the Los Angeles Times. “Maybe …”
 
-### A career she dates to her thirties
+She had a phrase for how Zoe lasted as long as she did. She told Deadline the character was “hiding in plain sight, for lack of a better phrase.” A wife in a small town. A death that isn’t one. The alien, already in the house.
 
-The *Lanterns* role sits on a timeline she has given herself. In Vanity Fair, 6 March 2025, she told Reshma Gopaldas: “I started thinking about being an actor when I was 30. I got my first role at 35, got a break at 40, got Never Have I Ever at 48. I have Lucky at 52.” Those ages are what she said then. They are not updated here. Travel + Leisure Asia, 30 June 2023, quotes the practical version: “When I turned 30, I quit my job in advertising, started my own brand consulting firm, and went to acting school full time.” In the same interview she said, “My father was an Indian diplomat and every three years, we’d pick up and move to a new country. I was born in Tunisia and grew up in India, Ireland, Brazil, Pakistan and Argentina.”
+The finale drew 10.5 million viewers globally over three days. The season is averaging 19.3 million, among HBO’s top-five series launches.
 
-Scroll.in’s Nandini Ramnath, 21 July 2019, writes that for many Indians she was still Menaka, the journalist in *Delhi Belly* (2011), written by Akshat Verma and directed by Abhinay Deo. The same piece says that between shoots for *The Night Of* she produced and starred in Yael Farber’s play *Nirbhaya*, made after the 2012 attack on a student in Delhi, and that it picked up the Amnesty International Award in 2013. The Independent’s Andrew Buncombe, 5 March 2014, identifies her as the play’s actress and producer and quotes her from London: “It is a protest against the conspiracy of silence.” Scroll quotes her later: “Nirbhaya explores that story, of what happens when sexual violence crosses your path.”
+### Before the ring
 
-On HBO’s *The Night Of*, Deadline’s 16 February 2023 story names the role Safar Khan. Scroll describes Safar as the Pakistani-American mother of college student Nasir, played by Riz Ahmed. On Hulu’s *Ramy*, Scroll says she plays Salma, romantically entangled with the title character; Ramy Youssef co-created the show and stars in it. The Juggernaut’s public opening, Snigdha Sur, 8 August 2022, places that role in 2019. Sur’s paragraph is also where the Netflix mother is named in full: Nalini Vishwakumar, a widowed dermatologist raising her daughter Devi (Maitreyi Ramakrishnan) and her niece Kamala (Richa Moorjani) in California. Netflix’s title page lists the creators as Mindy Kaling and Lang Fisher, four seasons, with Ramakrishnan, Moorjani, and Jagannathan in the cast. Vanity Fair’s 2025 piece calls the series a creation of Kaling and Lang Fisher.
+Every three years the family moved. Her father was an Indian diplomat. She was born in Tunisia and grew up in India, Ireland, Brazil, Pakistan, and Argentina. At 30 she quit advertising, started a brand consulting firm, and went to acting school full time. She has said she started thinking about being an actor then, and that the first role came at 35.
 
-Apple’s listing for the 2024 film *Wolfs* bills her as June, with Brad Pitt and George Clooney, Jon Watts directing. Deadline had reported on 16 February 2023 that she joined that project when it was still an untitled Apple thriller starring Clooney and Pitt.
+A lot of people in India met her as Menaka, the journalist in *Delhi Belly*. Between shoots on *The Night Of* she produced and starred in *Nirbhaya*, Yael Farber’s play after the 2012 attack on a student in Delhi. “It is a protest against the conspiracy of silence,” she told The Independent. The production won the Amnesty International Award in 2013. “Nirbhaya explores that story, of what happens when sexual violence crosses your path,” she told Scroll. On *The Night Of* she is Safar Khan, the Pakistani-American mother of Riz Ahmed’s Nasir, while his defense drives the family to ruin. On *Ramy* she is Salma, romantically tangled with Ramy Youssef. *Never Have I Ever*, Mindy Kaling and Lang Fisher’s series, makes her Nalini Vishwakumar — widowed, a dermatologist in California, raising Devi, played by Maitreyi Ramakrishnan, and her niece Kamala, played by Richa Moorjani. Nalini is terrifying and strict, and she is also the one who understands. *Wolfs* puts her in the path of George Clooney and Brad Pitt, two fixers stuck with the same explosive night. She plays June.
 
-At the Juggernaut Summit in New York on 23 September 2023, Brown Girl Magazine’s Ramona Sukhraj wrote, the room applauded one line: “In America, I feel like I am just getting started.”
+In New York, the room applauded one line. Brown Girl Magazine wrote it down. “In America, I feel like I am just getting started.”
 
-### Lucky, then Eleanor
+### Two aunts
 
-*Deli Boys* is the crime-boss half of the headline. Vogue’s Emma Specter, 28 May 2026, describes Abdullah Saeed’s Hulu series as Mir and Raj Dar — Asif Ali and Saagar Shaikh — two Pakistani American brothers struggling to run their late father’s crime syndicate. Jagannathan plays Lucky, the aunt. Deadline, on 14 August 2026, gives the name as Naveeda “Lucky,” “a crime boss auntie.” Variety’s Joe Otterson, 29 May 2026, writes that season 2 premiered on Hulu on 28 May, all six episodes. Vogue says the season gives Lucky a relationship with fellow crime boss Max Sugar, played by Fred Armisen.
+Lucky got the year first. On Abdullah Saeed’s *Deli Boys* she is Naveeda “Lucky,” the crime-boss aunt, a longtime associate of the boys’ father and utterly unburdened by conscience. Mir and Raj Dar — Asif Ali and Saagar Shaikh — are Pakistani American brothers struggling to run the syndicate their father left them. Season 2 arrived all six episodes at once, and with it Max Sugar — Fred Armisen, another boss, a love interest. “She has to learn how to be in a relationship, which she probably is horrible at,” she told Vogue. She told Vanity Fair, “Lucky feels what I feel—we’re just getting started.” She already had a Gotham for the role, Outstanding Supporting Performance in a Comedy Series, before that season premiered. Hulu canceled the show after two seasons.
 
-The Gotham Film & Media Institute’s 3 June 2025 release says she won Outstanding Supporting Performance in a Comedy Series at the 2 June ceremony, for “her role of a crime boss auntie in Deli Boys,” on Hulu. Season 2 premiered the following May. IndieWire, on 5 March 2026, described her as a nominee for Best Supporting Performance at that night’s Spirit Awards, in a story filed before the ceremony. That story does not say whether she won.
+October 22 brings a different kind of aunt. *Nobody Wants This* returns with Kristen Bell and Adam Brody, and Jagannathan guests as Eleanor, brassy and biting, aunt to Andrew Rannells’s Sebastien. A smaller room. A sharper mouth. Someone else’s love story.
 
-On 14 August 2026, Deadline reported that Hulu had canceled *Deli Boys* after two seasons. Variety confirmed the cancellation the same day and wrote that the show “failed to find a wide enough audience, however, to justify a third season.” Saeed created it. Variety says Jenni Konner and Nora Silver developed it, Michelle Nader was showrunner, and it came from Onyx Collective and 20th Television.
+### The smile
 
-*Nobody Wants This* is the new aunt. As of 12 October 2026, the season has not premiered. Netflix Tudum, Tara Bitran, 10 September 2026, and Deadline, the same morning, both say season 3 arrives on 22 October. Jagannathan plays Eleanor, “Sebastien’s brassy and biting aunt.” Deadline calls her a guest star. Sebastien is Andrew Rannells, Joanne’s nemesis in a conversion class. Joanne and Noah are Kristen Bell and Adam Brody. Both pages name Erin Foster as the creator.
-
-One date was already on the books in Ali’s 13 September interview. Asked about the Apple series *Nocturne*, Jagannathan said it comes out 30 October, and that she plays an overworked FBI agent, with Stephen Graham, Liev Schreiber, and Zazie Beetz.
-
-### What this year shows
-
-On HBO she is Zoe Macon, the Manhunter, in scenes with Pierre and Chandler, in the series Mundy, Lindelof, and King co-created. Both 8 October stories called the finale’s three-day audience a high for the show. On Hulu she is Lucky, the crime-boss aunt who won a Gotham for the role; Hulu later canceled the series. On 22 October she is Eleanor, a guest aunt in Erin Foster’s romantic comedy. *Wolfs* had already put her in a film with Clooney and Pitt. *The Night Of* had her as Ahmed’s mother. *Never Have I Ever* had her in a series Kaling and Fisher created, with Ramakrishnan and Moorjani.
-
-She told Vanity Fair she started thinking about acting at 30. In a New York room in 2023 she said that in America she felt she was just getting started. Zoe, Lucky, and Eleanor are what that looks like in 2026. The reading of the year is an actor who keeps getting more interesting.
+She had already read one death. The one that counts belongs to John. He has a gun to her head. Zoe smiles. She told Vulture what the smile was for: she never thought she’d lose, and she never thought she would lose to someone who’s in love with her.
 
 ## Facts requiring final verification
 
@@ -161,7 +153,7 @@ poorna-jagannathan-lanterns-zoe-manhunter
 
 ## Excerpt
 
-On HBO’s *Lanterns*, Poorna Jagannathan plays Zoe Macon, revealed as the Manhunter. She told Vulture she found out in the episode-four script. The same year she is Hulu’s crime-boss aunt on *Deli Boys* and, from 22 October, a new aunt on Netflix’s *Nobody Wants This*. She has said she started thinking about acting at 30.
+Poorna Jagannathan didn’t know Zoe was the Manhunter until the last pages of the *Lanterns* episode-four script. She is the rancher’s wife who is the alien, the crime-boss aunt on *Deli Boys*, and, from October 22, a new aunt on *Nobody Wants This*. She quit advertising at 30. In America, she has said, she is just getting started.
 
 ## Category
 
@@ -179,11 +171,11 @@ Poorna Jagannathan, Lanterns, Zoe Macon, HBO, Deli Boys, Nobody Wants This, Neve
 
 ## Social captions
 
-- Instagram/feed: Spoilers for *Lanterns* episode five. Poorna Jagannathan plays Zoe Macon, the Manhunter. She told Vulture (13 September) she didn’t know until the episode-four script. Finale, three days from 4 October: 10.5 million viewers globally and 7.2 million in the U.S. (TheWrap and Deadline, 8 October). Same year: Lucky, the crime-boss aunt on *Deli Boys*, and Eleanor on *Nobody Wants This*, 22 October.
-- X/Twitter-length: Spoilers. Poorna Jagannathan didn’t know Zoe was the Manhunter until the *Lanterns* ep-4 script (Vulture, 13 Sep). Finale: 10.5M global / 7.2M U.S. in three days (TheWrap, Deadline, 8 Oct).
-- Optional newsletter blurb: She started thinking about acting at 30, she told Vanity Fair. In 2026 she is DC’s Manhunter, a Gotham-winning crime-boss aunt, and — on 22 October — somebody’s aunt on *Nobody Wants This*. *Lanterns* spoilers in the piece. Not a representation essay.
+- Instagram/feed: Spoilers for *Lanterns*. Poorna Jagannathan got to the end of the episode-four script, gummy already popped, and found out she was the Manhunter. “I swear to God, I think I’m not reading properly,” she told Vulture. The finale drew 10.5 million viewers globally over three days. Same year: Lucky on *Deli Boys*, and Eleanor on *Nobody Wants This*, October 22.
+- X/Twitter-length: Spoilers. She read the *Lanterns* episode-four script and found out she was the Manhunter. “I think I’m not reading properly,” she told Vulture. Finale: 10.5 million viewers globally over three days.
+- Optional newsletter blurb: A gummy, a late script, and the page where Zoe becomes the Manhunter. Then the career under it: advertising left at 30, *Delhi Belly*, *The Night Of*, *Never Have I Ever*, a Gotham for Lucky, and a new aunt on October 22. *Lanterns* spoilers in the piece.
 
-Still no invented facts. This is not a scoop. The TikTok is a caption, not a quote from the clip.
+Still no invented facts. This is not a scoop.
 
 ## Featured-image concept
 
