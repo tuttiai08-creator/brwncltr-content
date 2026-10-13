@@ -2,9 +2,9 @@
 
 - status: PLAN_READY_FOR_APPROVAL
 - created: 2026-10-12
-- updated: 2026-10-12
+- updated: 2026-10-13
 - beat: Business / creators / entrepreneurship
-- story_type_hypothesis: Feature (business/tech narrative). Identity is context, not the frame.
+- story_type_hypothesis: Feature, Complex register. Identity is context, not the frame.
 - recommendation: pursue
 - plan_recommendation: APPROVE PLAN
 - blocked_reason:
@@ -113,3 +113,4 @@ confidence: high
 ## Log
 
 - 2026-10-12: Topic Researcher state file absent on origin/main (d038508). Content Manager opened this record after owner Taha Aziz approved pursue and asked for an outline. Light research only. Status set to PLAN_READY_FOR_APPROVAL. Plan: content/state/bc-20261012-01-plan.md. No draft written.
+- 2026-10-13: Revision. Status stays PLAN_READY_FOR_APPROVAL. Plan rewritten to style/VOICE.md: Complex-style headline and dek, outline cut to four beats. Facts and UNRESOLVED items unchanged. No article prose. Voice files added at style/VOICE.md and style/VOICE_LESSONS.md.
