@@ -84,29 +84,29 @@ In one year she is the Manhunter on *Lanterns*, the crime-boss aunt on *Deli Boy
 
 # Crime Boss, New Aunt, Alien Manhunter: Poorna Jagannathan's Year
 
-*She quit advertising at 30 and landed her first role at 35. In 2026 she's playing DC's most wanted alien, a crime-boss auntie, and somebody's biting new aunt.*
+*She quit advertising at 30 and landed her first role at 35. In 2026 she's playing the alien DC's cops are hunting, a crime-boss auntie, and somebody's biting new aunt.*
 
-Most people know Poorna Jagannathan as a mom. On *Never Have I Ever* she was Nalini Vishwakumar, the widowed dermatologist raising Maitreyi Ramakrishnan's Devi, loving and overbearing in the same breath. It's the kind of part that sticks to an actor.
+If you know Poorna Jagannathan, there's a good chance you know her as a mom. On *Never Have I Ever* she was Nalini Vishwakumar, the widowed dermatologist raising Maitreyi Ramakrishnan's Devi, devoted and overbearing in the same breath. It's the kind of part that sticks to an actor.
 
-This year she's been busy unsticking it. On HBO's *Lanterns*, the Green Lantern series that premiered in August, she plays Zoe Macon, a rancher's wife in a small Nebraska town. Zoe also turns out to be the alien two intergalactic cops have been hunting all season. Jagannathan didn't know that when she signed on. She found out the way the audience did, by turning a page.
+This year she's been busy unsticking it. On HBO's *Lanterns*, the Green Lantern series that premiered in August, she plays Zoe Macon, a rancher's wife in Rushville, Nebraska. Zoe also turns out to be the alien two intergalactic cops have been hunting all season. Jagannathan didn't know that when she signed on. She found out by turning a page of the script.
 
-And *Lanterns* is only one of three very different jobs she's had this year. There's a crime-boss auntie on Hulu's *Deli Boys*, a new aunt on Netflix's *Nobody Wants This*, and a serial-killer thriller after that. Not bad for someone who didn't go to acting school until she was 30.
+And *Lanterns* is just one stop on a crowded year. There's a crime-boss auntie on Hulu's *Deli Boys*, a new aunt on Netflix's *Nobody Wants This*, and an FBI agent chasing a serial killer after that. Not bad for someone who didn't go to acting school until she was 30.
 
 ## The last page
 
 Spoilers ahead, so if you haven't finished the season, come back later.
 
-Nothing in the audition gave the twist away. The scenes she read were ordinary: Zoe picking up John Stewart at a bar, then telling him to get out of her bed. "You gotta go or you'll die!" She told the *Los Angeles Times* there was nothing alien in the pages. They were grounded, real enough to live in. If she'd had an inkling, she said, she might have slipped in a little E.T. flair, and she's glad she never did.
+Nothing in the audition gave the twist away. The scenes she read were ordinary: Zoe picking up John Stewart at a bar, then, in bed, trying to get him to leave. "You gotta go or you'll die!" She told the *Los Angeles Times* there was nothing alien in the pages. They were grounded, real enough to live in. If she'd had even an inkling, she said, she might have brought an alien touch to the scene.
 
-Nobody filled her in after she got the part, either. Not showrunner Chris Mundy, who made the series with Damon Lindelof and Tom King, and not anyone during the first two episodes. Then the script for episode four, "The Weenie," arrived, and Zoe died in it. She took that in stride. She doesn't really know the genre, so for all she knew, people in superhero shows just blow up. She was happy to be in the DC universe at all.
+Nobody filled her in after she got the part, either. Not even showrunner Chris Mundy, who made the series with Damon Lindelof and Tom King. Then the script for episode four, "The Weenie," arrived, and Zoe died in it. She found the exit interesting and abrupt, and since she doesn't know the genre well, she figured maybe that's just how it goes. "People just blow up?" She was happy to be in the DC universe at all.
 
-She kept reading anyway. "It's pretty late. I have popped a gummy by then — and I read that I'm the Manhunter," she told Vulture. "I swear to God, I think I'm not reading properly." What really got her was how big the part was and how long they'd kept it from her. She told Deadline it was a twist she never saw coming, and that she made a meal of it.
+She kept reading anyway. "It's pretty late. I have popped a gummy by then — and I read that I'm the Manhunter," she told Vulture. "I swear to God, I think I'm not reading properly." "I was shocked they didn't tell me," she said. "I was shocked I was playing such a pivotal role." She told Deadline it was "such a delightful twist," one she did not see coming, and she made a meal out of it.
 
-The death was fake. Zoe stages it so Hal Jordan and John Stewart, played by Kyle Chandler and Aaron Pierre, won't figure out that the rancher's wife standing right in front of them is the very thing they're chasing. Kelly Macdonald is the town sheriff, and Garret Dillahunt is Zoe's husband, William, a modern-day cowboy. Jagannathan's own description of Zoe's cover is "hiding in plain sight, for lack of a better phrase."
+The death was fake. Zoe stages it so Hal Jordan and John Stewart, played by Kyle Chandler and Aaron Pierre, won't figure out that the rancher's wife standing right in front of them is the very thing they're chasing. Kelly Macdonald is the town sheriff, and Garret Dillahunt plays William Macon, a modern cowboy. Jagannathan's own description of Zoe's cover is "hiding in plain sight, for lack of a better phrase."
 
-The next episode, "Lights Out," ends it for real, and John is the one who kills her. "She is dead, for sure," she told the *Times*, then added, "Maybe …" Pierre stayed in character the whole shoot, she told Vulture, right up until a very British "Sorry, love" slipped out.
+The next episode, "Lights Out," ends it for real, and John is the one who kills her. "She is dead, for sure," she told the *Times*, then added, "Maybe …" Pierre stayed in character the entire time, she told Vulture, except for one "Sorry, love" in a British accent.
 
-People watched all of it. The finale pulled 10.5 million viewers worldwide in its first three days, and the season is averaging 19.3 million, putting it among HBO's five biggest series launches.
+People watched all of it. The finale pulled 10.5 million viewers worldwide in its first three days, and the season is averaging 19.3 million, putting it among the top five HBO series launches ever.
 
 ## Late start, long road
 
@@ -116,21 +116,21 @@ She started out in advertising. At 30 she quit, started her own brand consulting
 
 Then came a project she made herself. After the December 2012 attack on a physiotherapy student in Delhi, she reached out to the playwright Yael Farber. Farber wrote *Nirbhaya*, and Jagannathan produced it and starred in it. "It is a protest against the conspiracy of silence," she told The Independent. The play ran for three years, won an Amnesty International award in 2013, and she kept doing it in between filming HBO's *The Night Of*.
 
-That show was her American breakout. She played Safar Khan, whose son Nasir, played by Riz Ahmed, is a college student accused of murdering a woman. On *Ramy* she was Salma, tangled up romantically with Ramy Youssef's lead. Then Mindy Kaling and Lang Fisher cast her as Nalini, the role most people still know her for.
+On that show she played Safar Khan, whose son Nasir, played by Riz Ahmed, is a college student accused of murdering a woman. On *Ramy* she was Salma, tangled up romantically with Ramy Youssef's lead. Then Mindy Kaling and Lang Fisher cast her as Nalini. She got that part at 48.
 
 In 2024 she shared the screen with George Clooney and Brad Pitt in Jon Watts's *Wolfs*. The year before, at the Juggernaut Summit in New York, she'd said, "In America, I feel like I am just getting started." The room applauded.
 
 ## Two aunts and an FBI agent
 
-*Deli Boys* is where that line comes to life. Abdullah Saeed's Hulu comedy follows Mir and Raj Dar, played by Asif Ali and Saagar Shaikh, two brothers struggling to run the crime syndicate their father left behind. Jagannathan is Naveeda "Lucky," their father's longtime associate and the crime-boss auntie who steals every scene she's in. The role won her a Gotham Award for Outstanding Supporting Performance in a Comedy Series in June 2025, and this March it took her to the Film Independent Spirit Awards as a nominee. "Because my home is the set of 'Deli Boys,'" she said that night. Season 2 dropped all at once on May 28, with Fred Armisen joining as Max Sugar, a rival boss and casino magnate. In August, Hulu canceled the show.
+*Deli Boys* is where that line comes to life. Abdullah Saeed's Hulu comedy follows Mir and Raj Dar, played by Asif Ali and Saagar Shaikh, two brothers struggling to run the crime syndicate their father left behind. Jagannathan is Naveeda "Lucky," their father's longtime associate and a crime-boss auntie who, as Vogue put it, ruthlessly steals scenes. The role won her a Gotham Award for Outstanding Supporting Performance in a Comedy Series in June 2025, and this March it took her to the Film Independent Spirit Awards as a nominee. "Because my home is the set of 'Deli Boys,'" she said that night. Season 2 dropped all at once on May 28, with Fred Armisen joining as Max Sugar, a fellow crime boss and casino magnate. In August, Hulu canceled the show.
 
-She won't be off screen for long. On October 22, *Nobody Wants This* returns to Netflix with Kristen Bell and Adam Brody, and she joins as Eleanor, the "brassy and biting" aunt of Andrew Rannells's Sebastien. After that comes *Nocturne*, which she says is out October 30. She plays an overworked FBI agent brought in after law enforcement tried to handle a serial-killer case internally and botched it, opposite Stephen Graham, Liev Schreiber and Zazie Beetz. The serial-killer genre is new for her. She read the book it's based on and ended up installing a security system.
+Then it's on to the next one. On October 22, *Nobody Wants This* returns to Netflix with Kristen Bell and Adam Brody, and she joins as Eleanor, the "brassy and biting" aunt of Andrew Rannells's Sebastien. After that comes *Nocturne*, which she says is out October 30. She plays an overworked FBI agent brought in on a crime that law enforcement first tried to handle internally and messed up, opposite Stephen Graham, Liev Schreiber and Zazie Beetz. The serial-killer genre is new for her. She read the book it's based on and ended up installing a security system.
 
 ## Just getting started
 
-When Vanity Fair asked what she shares with Lucky, she counted it out.
+She told Vanity Fair what she and Lucky have in common, and she counted it out.
 
-"Lucky feels what I feel — we're just getting started. I started thinking about being an actor when I was 30. I got my first role at 35, got a break at 40, got *Never Have I Ever* at 48. I have Lucky at 52."
+"Lucky feels what I feel—we're just getting started. I started thinking about being an actor when I was 30. I got my first role at 35, got a break at 40, got Never Have I Ever at 48. I have Lucky at 52."
 
 This year she added an alien.
 
@@ -161,7 +161,7 @@ poorna-jagannathan-lanterns-zoe-manhunter
 
 ## Excerpt
 
-*She quit advertising at 30 and landed her first role at 35. In 2026 she's playing DC's most wanted alien, a crime-boss auntie, and somebody's biting new aunt.*
+*She quit advertising at 30 and landed her first role at 35. In 2026 she's playing the alien DC's cops are hunting, a crime-boss auntie, and somebody's biting new aunt.*
 
 ## Category
 
