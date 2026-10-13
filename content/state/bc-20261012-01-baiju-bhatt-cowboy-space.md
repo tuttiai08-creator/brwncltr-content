@@ -119,3 +119,4 @@ confidence: high
 - 2026-10-13: Status set to DRAFTING. Prose by Content Manager. Committer did not rewrite it. No separate drafts file. The packet, with the verbatim draft, is the review file.
 - 2026-10-13: Status set to READY_FOR_REVIEW. Fact-check against content/research/bc-20261012-01-20261013.md is in the review packet under Facts requiring final verification. Not article APPROVED. Do not publish.
 - 2026-10-13: Content Manager replaced the full draft. Committer pasted it verbatim and re-ran the fact-check. Status stays READY_FOR_REVIEW. Not article APPROVED. Do not publish.
+- 2026-10-13: Content Manager replaced the full draft again. Committer pasted it verbatim. Re-check of the two open lines, plus a scan of the draft: none. Status stays READY_FOR_REVIEW. Not article APPROVED. Do not publish.

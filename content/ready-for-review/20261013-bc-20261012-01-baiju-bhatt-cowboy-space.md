@@ -69,7 +69,7 @@ The app made trading free. The next company is a rocket whose upper stage is mea
 
 ## Reporting / research notes
 
-- Prose by the Content Manager. A revised draft was substituted verbatim on 2026-10-13 and checked again against `content/research/bc-20261012-01-20261013.md` only. No interviews. No outreach. The committer did not change a sentence of the draft.
+- Prose by the Content Manager. The revised draft was substituted verbatim on 2026-10-13 and checked again against `content/research/bc-20261012-01-20261013.md` only. A further revision the same day replaced the two remaining findings. No interviews. No outreach. The committer did not change a sentence of the draft.
 - Cowboy pages were retrieved 2026-10-12 and were not re-fetched on 2026-10-13.
 - The WSJ TikTok was not watched. The WSJ page body was not retrieved. BusinessWire for the Series B was not retrieved. The 424B4 was not opened. The Robinhood confetti blog URL was not opened.
 - Safety: no father's illness. No "as a South Asian" frame. No customer-death anecdote. No investment advice. No single Robinhood ownership percentage. Gujarat and Poquoson stay where the draft put them, as origin, then the piece returns to the companies.
@@ -119,7 +119,7 @@ Six months later, Robinhood went public. The stock priced at $38 and closed its 
 
 ## The second act
 
-His next company was already public by then. Aetherflux had come out of stealth in October 2024 with a plan that sounded like science fiction: collect solar power in space and beam it down to Earth by infrared laser. In April 2025 it raised a $50 million Series A, co-led by Index, the same firm that backed Robinhood in 2013.
+In his goodbye note, he said he'd "have more to share about my next steps soon." That turned out to be Aetherflux, which came out of stealth in October 2024 with a plan that sounded like science fiction: collect solar power in space and beam it down to Earth by infrared laser. In April 2025 it raised a $50 million Series A, co-led by Index, the same firm that backed Robinhood in 2013.
 
 Then the plan got bigger. He told TechCrunch he couldn't get enough launch capacity, or make the economics work, by buying rides on other people's rockets, so he decided to build his own. In May 2026 Aetherflux became Cowboy Space Corporation, with a $275 million Series B led by Index and joined by a16z, NEA, Breakthrough Energy Ventures and Bhatt himself. The idea is that the rocket's upper stage and the data center are the same machine. NVIDIA is working with the company to put its Space-1 Vera Rubin modules in orbit.
 
@@ -129,16 +129,19 @@ As for the name, Bhatt told Payload that it "captures the scale of ambition that
 
 The schedule is where it gets real. In May, Payload reported that the first satellite, built to show that power beaming works, would launch this year. The rocket comes later. Payload reported no earlier than the end of 2028, and TechCrunch reported before the end of 2028.
 
-So for now, a company valued at $2 billion is riding on a satellite and a rocket it still has to prove. Bhatt already changed how people buy stocks. This time, the thing he built has to get off the ground first.
+So for now, a company valued at $2 billion is riding on a rocket that's still years away. Bhatt already changed how people buy stocks. This time, the thing he built has to get off the ground first.
 ## Facts requiring final verification
 
-Fact-check re-run 2026-10-13 against `content/research/bc-20261012-01-20261013.md`, after the Content Manager replaced the draft. Line numbers are the lines of this file. The prose was not changed.
+Fact-check re-run 2026-10-13 against `content/research/bc-20261012-01-20261013.md`, after the Content Manager replaced the draft again. Line numbers are the lines of this file. The prose was not changed.
 
 ### Unsupported claims and inexact wording
 
-1. Line 122. "His next company was already public by then." The dated event just above is the March 2024 step-down. Packet, his GlobeNewswire statement that day: "I will have more to share about my next steps soon but know the future has never been so bright." Packet: Aetherflux came out of stealth in October 2024 (TechCrunch, 9 October 2024). The October 2024 date in the next sentence is supported. "Already public by then," read against March 2024, is not.
+None.
 
-2. Line 132. "a company valued at $2 billion is riding on a satellite and a rocket it still has to prove." The "$2 billion valuation" wording is the company's, 11 May 2026. The rocket half matches the reported 2028 schedule. The satellite half states that the demo is still unproven now. Packet: "UNRESOLVED. Whether the 2026 power-beaming flight was still on the calendar as of 13 October 2026. No later primary update was checked."
+### Re-checked and cleared
+
+- Line 122. "have more to share about my next steps soon" is the GlobeNewswire statement of 21 March 2024: "I will have more to share about my next steps soon but know the future has never been so bright." Aetherflux "came out of stealth in October 2024" matches TechCrunch, 9 October 2024. The sentence does not say the company was already public in March 2024.
+- Line 132. "riding on a rocket that's still years away." Payload says no earlier than the end of 2028. TechCrunch says before the end of 2028. Both are in the previous paragraph. The sentence does not state a current status for the 2026 power-beaming satellite. That flight remains unresolved in the packet as of 13 October 2026 and is not asserted here.
 
 ### Not flagged
 
