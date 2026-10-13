@@ -1,6 +1,6 @@
 # bc-20261012-01-baiju-bhatt-cowboy-space
 
-- status: APPROVED_FOR_DRAFT
+- status: READY_FOR_REVIEW
 - created: 2026-10-12
 - updated: 2026-10-13
 - beat: Business / creators / entrepreneurship
@@ -11,7 +11,7 @@
 - blocked_reason:
 - research_path: content/research/bc-20261012-01-20261013.md
 - draft_path:
-- review_path:
+- review_path: content/ready-for-review/20261013-bc-20261012-01-baiju-bhatt-cowboy-space.md
 - plan_path: content/state/bc-20261012-01-plan.md
 - sensitive: Do not make Gujarati or Indian-American identity the story. Do not use his father's illness as color. Company timelines and the $2B valuation are claims. Do not give investment advice. Defense-customer path (earlier DoD energy funding) is attributed context only.
 - classification: NEW
@@ -22,7 +22,7 @@
 
 ## Owner approval
 
-Owner Taha Aziz approved **pursue** and asked for an outline on 2026-10-12. On 2026-10-13 the owner approved the plan and the headline "After Co-Founding Robinhood, Baiju Bhatt Is Building Rockets." Status is **APPROVED_FOR_DRAFT**. That is permission to draft. It is not article `APPROVED` and it is not a publish. The outline lives in `content/state/bc-20261012-01-plan.md`. The research packet is `content/research/bc-20261012-01-20261013.md`. No article prose in this file.
+Owner Taha Aziz approved **pursue** and asked for an outline on 2026-10-12. On 2026-10-13 the owner approved the plan and the headline "After Co-Founding Robinhood, Baiju Bhatt Is Building Rockets." That approval was **APPROVED_FOR_DRAFT**, permission to draft. Current status is **READY_FOR_REVIEW**. It is not article `APPROVED` and it is not a publish. The outline lives in `content/state/bc-20261012-01-plan.md`. The research packet is `content/research/bc-20261012-01-20261013.md`. The verbatim draft is in the review packet. No article prose in this file.
 
 ## Seed
 
@@ -116,3 +116,5 @@ confidence: high
 - 2026-10-12: Topic Researcher state file absent on origin/main (d038508). Content Manager opened this record after owner Taha Aziz approved pursue and asked for an outline. Light research only. Status set to PLAN_READY_FOR_APPROVAL. Plan: content/state/bc-20261012-01-plan.md. No draft written.
 - 2026-10-13: Revision. Status stays PLAN_READY_FOR_APPROVAL. Plan rewritten to style/VOICE.md: Complex-style headline and dek, outline cut to four beats. Facts and UNRESOLVED items unchanged. No article prose. Voice files added at style/VOICE.md and style/VOICE_LESSONS.md.
 - 2026-10-13: Owner approved the plan and the headline "After Co-Founding Robinhood, Baiju Bhatt Is Building Rockets." Status set to APPROVED_FOR_DRAFT. Robinhood research packet completed at content/research/bc-20261012-01-20261013.md. Not article APPROVED. No article prose. Do not publish.
+- 2026-10-13: Status set to DRAFTING. Prose by Content Manager. Committer did not rewrite it. No separate drafts file. The packet, with the verbatim draft, is the review file.
+- 2026-10-13: Status set to READY_FOR_REVIEW. Fact-check against content/research/bc-20261012-01-20261013.md is in the review packet under Facts requiring final verification. Not article APPROVED. Do not publish.
