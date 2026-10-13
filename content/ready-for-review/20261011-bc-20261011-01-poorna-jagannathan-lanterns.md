@@ -90,7 +90,7 @@ If you know Poorna Jagannathan, there's a good chance you know her as a mom. On 
 
 This year she's been busy unsticking it. On HBO's *Lanterns*, the Green Lantern series that premiered in August, she plays Zoe Macon, a rancher's wife in Rushville, Nebraska. Zoe also turns out to be the alien two intergalactic cops have been hunting all season. Jagannathan didn't know that when she signed on. She found out by turning a page of the script.
 
-And *Lanterns* is just one stop on a crowded year. There's a crime-boss auntie on Hulu's *Deli Boys*, a new aunt on Netflix's *Nobody Wants This*, and an FBI agent chasing a serial killer after that. Not bad for someone who didn't go to acting school until she was 30.
+And *Lanterns* is just one stop on a crowded year. There's a crime-boss auntie on Hulu's *Deli Boys*, a new aunt on Netflix's *Nobody Wants This*, and an overworked FBI agent in *Nocturne* after that. Not bad for someone who didn't go to acting school until she was 30.
 
 ## The last page
 
@@ -98,21 +98,21 @@ Spoilers ahead, so if you haven't finished the season, come back later.
 
 Nothing in the audition gave the twist away. The scenes she read were ordinary: Zoe picking up John Stewart at a bar, then, in bed, trying to get him to leave. "You gotta go or you'll die!" She told the *Los Angeles Times* there was nothing alien in the pages. They were grounded, real enough to live in. If she'd had even an inkling, she said, she might have brought an alien touch to the scene.
 
-Nobody filled her in after she got the part, either. Not even showrunner Chris Mundy, who made the series with Damon Lindelof and Tom King. Then the script for episode four, "The Weenie," arrived, and Zoe died in it. She found the exit interesting and abrupt, and since she doesn't know the genre well, she figured maybe that's just how it goes. "People just blow up?" She was happy to be in the DC universe at all.
+Nobody filled her in after she got the part, either. Not even showrunner Chris Mundy, who made the series with Damon Lindelof and Tom King. Then the script for episode four, "The Weenie," arrived, and Zoe died in it. She found the exit interesting and abrupt, and since, in her words, she doesn't know the genre, she figured maybe that's just how it goes. "People just blow up?" She was happy to be in the DC universe at all.
 
 She kept reading anyway. "It's pretty late. I have popped a gummy by then — and I read that I'm the Manhunter," she told Vulture. "I swear to God, I think I'm not reading properly." "I was shocked they didn't tell me," she said. "I was shocked I was playing such a pivotal role." She told Deadline it was "such a delightful twist," one she did not see coming, and she made a meal out of it.
 
 The death was fake. Zoe stages it so Hal Jordan and John Stewart, played by Kyle Chandler and Aaron Pierre, won't figure out that the rancher's wife standing right in front of them is the very thing they're chasing. Kelly Macdonald is the town sheriff, and Garret Dillahunt plays William Macon, a modern cowboy. Jagannathan's own description of Zoe's cover is "hiding in plain sight, for lack of a better phrase."
 
-The next episode, "Lights Out," ends it for real, and John is the one who kills her. "She is dead, for sure," she told the *Times*, then added, "Maybe …" Pierre stayed in character the entire time, she told Vulture, except for one "Sorry, love" in a British accent.
+The next episode, "Lights Out," ends it for real, and John is the one who kills her. "She is dead, for sure," she told the *Times*, then added, "Maybe …" Pierre stayed in character the entire time, she told Vulture, though he did once say "Sorry, love" to her in a British accent.
 
-People watched all of it. The finale pulled 10.5 million viewers worldwide in its first three days, and the season is averaging 19.3 million, putting it among the top five HBO series launches ever.
+People watched all of it. The finale pulled 10.5 million viewers worldwide in its first three days, and the season is averaging 19.3 million viewers globally, putting it among the top five HBO series launches in the platform's history.
 
 ## Late start, long road
 
 She grew up on the move. Her father was an Indian diplomat, so every three years the family packed up for a new country. She was born in Tunisia, then lived in India, Ireland, Brazil, Pakistan and Argentina. "Travel is the one thing that's shaped me the most," she has said.
 
-She started out in advertising. At 30 she quit, started her own brand consulting firm and went to acting school full time. Her first role came at 35. In India a lot of people still know her as Menaka, the journalist in the cult comedy *Delhi Belly*.
+She started out in advertising. At 30 she quit, started her own brand consulting firm and went to acting school full time. Her first role came at 35. In India a lot of people still know her as Menaka, the journalist in the cult Hindi comedy *Delhi Belly*.
 
 Then came a project she made herself. After the December 2012 attack on a physiotherapy student in Delhi, she reached out to the playwright Yael Farber. Farber wrote *Nirbhaya*, and Jagannathan produced it and starred in it. "It is a protest against the conspiracy of silence," she told The Independent. The play ran for three years, won an Amnesty International award in 2013, and she kept doing it in between filming HBO's *The Night Of*.
 
