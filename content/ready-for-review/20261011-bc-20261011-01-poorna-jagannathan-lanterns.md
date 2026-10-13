@@ -7,7 +7,7 @@
 | Task ID | bc-20261011-01-poorna-jagannathan-lanterns |
 | State | READY_FOR_REVIEW |
 | Research date | 2026-10-12 |
-| Last updated | 2026-10-12 |
+| Last updated | 2026-10-13 |
 | Authoring agent / human | brwncltr Content Manager (Cursor), from the owner-approved plan |
 | Primary beat | Music / film / television |
 | Secondary beat (optional) | Entertainment |
@@ -84,65 +84,51 @@ In one year she is the Manhunter on *Lanterns*, the crime-boss aunt on *Deli Boy
 
 # Crime Boss, New Aunt, Alien Manhunter: Poorna Jagannathan's Year
 
-The mother on *Never Have I Ever*. The alien on HBO’s *Lanterns*. A crime-boss aunt and a new one, in a year she still calls a start.
+The mother from *Never Have I Ever* left advertising at 30, and this year she is DC’s alien, a crime-boss aunt, and a new one.
 
-## If the name is new
+## A crowded year
 
-You may already have the face. On *Never Have I Ever*, Mindy Kaling and Lang Fisher’s series, she is Nalini Vishwakumar, the widowed dermatologist raising Devi in California. Devi is Maitreyi Ramakrishnan. The niece in the house is Kamala, a graduate student, played by Richa Moorjani. If that show is the one you know, she is the mother. On *The Night Of* she is Safar Khan, the Pakistani-American mother of Riz Ahmed’s Nasir. In *Wolfs* she is June, with George Clooney and Brad Pitt as two rival fixers.
+Poorna Jagannathan’s year is three jobs that do not belong on one résumé. The familiar one is Nalini Vishwakumar on *Never Have I Ever*, the widowed dermatologist raising Maitreyi Ramakrishnan’s Devi in California, devoted and overbearing in the same role.
 
-*Lanterns* is the other door. HBO’s series from the Green Lantern comics, eight episodes, premiered in August. Chris Mundy, Damon Lindelof, and Tom King made it. John Stewart and Hal Jordan — Aaron Pierre and Kyle Chandler — are the Lanterns, two intergalactic cops drawn into a murder in the American heartland. It has come in among HBO’s biggest series launches.
+HBO’s *Lanterns* is the departure from that house: an eight-episode series from the Green Lantern comics, premiered in August, in which two intergalactic cops are dragged into a murder in the American heartland, a season that has landed among the network’s biggest launches. She plays Zoe Macon, a rancher’s wife in Rushville, Nebraska, who is also the lone alien those cops are hunting, and she took the job before anyone told her which of those she was.
 
-The year stacks the unlike jobs. She is that show’s alien. She is the crime-boss aunt on *Deli Boys*. From October 22 she is a different aunt, on *Nobody Wants This*. Under it is a decision she dates to 30, when she quit advertising and went to acting school.
+The other two are aunts, and they are not interchangeable. She is the crime-boss aunt on *Deli Boys*, and from October 22 a new aunt on *Nobody Wants This*, both of them riding a decision she made at 30, when she quit advertising, opened her own brand consulting firm, and went to acting school full time. She still talks about the whole stretch as a beginning.
 
-## She read it late
+## The last page
 
-If you are not through *Lanterns*, this is the turn. Zoe is not only the wife.
+What follows gives the season away. The audition handed her ordinary trouble: a bar, where she picks up John Stewart, and a scene in bed where she tells him to get out, “You gotta go or you’ll die!” She told the Los Angeles Times there was no E.T. flair in the pages, that they were grounded enough to live in, and that an inkling would have pushed her into an alien touch she is glad she never played. Zoe’s place in the story stayed shut after she booked it, through the calls with Chris Mundy, the showrunner who built *Lanterns* with Damon Lindelof and Tom King, and through the first two episodes, which James Hawes directed.
 
-She thought she knew the part. The audition was a bar, where she picks up John Stewart, and a scene in bed where she is trying to make him leave. “You gotta go or you’ll die!” Nothing in the pages said extraterrestrial. No E.T. flair, she told the Los Angeles Times. It was grounded, which is why she could play it. She was glad of that. If she had had even an inkling, she said, she might have put an alien touch on the scene. She could not figure out Zoe’s place in the story. Not at the audition, and not until the last scene. She got the gig. You’d think that would have been the moment to tell her what Zoe was. It didn’t happen. She was on the phone with Chris Mundy, co-creator and showrunner, all the time, trying to find the woman. Lindelof and King were writing the series with him. James Hawes directed the first two episodes. Still nobody said it.
+Episode four, “The Weenie,” is where she dies. She found the exit interesting and abrupt and, because she doesn’t know the genre, possibly normal — people just blow up — and she was happy, honored even, to be in the DC universe anyway. It was late, and a gummy was already in.
 
-Episode four is “The Weenie.” In it, she dies. Interesting, she thought, and abrupt. She was happy, and honored, to be in the DC universe. She doesn’t know the genre. Maybe abrupt is simply how it goes. Maybe people just blow up. It was pretty late. She had popped a gummy. She reached the end of the script.
+Nobody told her Zoe was the Manhunter. She found out alone, at the end of that script. “I have popped a gummy by then — and I read that I’m the Manhunter,” she told Vulture. “I swear to God, I think I’m not reading properly.” What shocked her was the secrecy, and how central the part was that they had kept back. She told Deadline it was a delightful twist she did not see coming, and that she made a meal out of it.
 
-“I have popped a gummy by then — and I read that I’m the Manhunter,” she told Vulture. “I swear to God, I think I’m not reading properly.”
+The death in “The Weenie” is a fake, planted so Hal Jordan and John Stewart — Kyle Chandler and Aaron Pierre — will not realize the rancher’s wife in front of them is the Manhunter they are already hunting. Kelly Macdonald plays Sheriff Kerry Kane, the law in Rushville, and Garret Dillahunt plays William Macon, the modern cowboy beside a Zoe who had been introduced as effortlessly confident, poised, and rumored to be John’s love interest. The goodbye felt like an old pattern. “When the first khodafez happened,” she told Vulture, “it felt in line with what happens to women of color — an early exit.”
 
-She was shocked they hadn’t told her. Shocked, she said, to be playing a part this pivotal. She told Deadline it was a delightful twist. She did not see it coming. She made a meal out of it.
-
-Zoe Macon is a rancher’s wife in Rushville, Nebraska, and the lone alien Hal and John have been searching for. When she was cast, Zoe was effortlessly confident and poised, and rumored as a love interest for John. Kelly Macdonald is Sheriff Kerry Kane. Garret Dillahunt plays William Macon, a modern cowboy. The death in “The Weenie” is a fake, so the two Lanterns will not realize the woman in front of them is the Manhunter they are already hunting. She knew that shape of exit. “When the first khodafez happened,” she told Vulture, “it felt in line with what happens to women of color — an early exit.”
-
-“Lights Out” is the next episode. This one stays. John Stewart kills her. “She is dead, for sure,” she told the Los Angeles Times. “Maybe …”
-
-She had a phrase for the cover that held. She told Deadline the character was “hiding in plain sight, for lack of a better phrase.” A wife. A death that isn’t one. The person already being hunted.
-
-Aaron Pierre, across from her, stayed in character the entire time. Once he slipped, and only into a British accent: “Sorry, love.”
+“Lights Out,” the next episode, is the death that stays. John Stewart kills her. “She is dead, for sure,” she told the Los Angeles Times. “Maybe …” She told Deadline the cover that got Zoe that far was “hiding in plain sight, for lack of a better phrase”: a wife, a death that isn’t one, the person already being hunted. Aaron Pierre, playing the Lantern who kills her, stayed in character the entire time, until a British “Sorry, love” slipped out.
 
 The finale drew 10.5 million viewers globally over three days. The season is averaging 19.3 million, among HBO’s top-five series launches.
 
-## Out of advertising
+## Dated to thirty
 
-“Travel is the one thing that’s shaped me the most,” she has said. Her father was an Indian diplomat, and every three years the family picked up and moved. She was born in Tunisia and grew up in India, Ireland, Brazil, Pakistan, and Argentina. At 30 she quit advertising, started a brand consulting firm, and went to acting school full time. She started thinking about being an actor then. The first role came at 35.
+The career she dates to 30 started in motion. “Travel is the one thing that’s shaped me the most,” she has said: her father was an Indian diplomat, and every three years the family picked up for a new country, from a birth in Tunisia through India, Ireland, Brazil, Pakistan, and Argentina. At 30 she quit advertising, opened her own brand consulting firm, and went to acting school full time. She has said she started thinking about being an actor then. The first role came at 35.
 
-For many people in India she is still Menaka, the journalist in *Delhi Belly*, the cult Hindi comedy. The play came out of a worse year. After the December 2012 attack on a physiotherapy student in Delhi, she contacted Yael Farber. Farber wrote *Nirbhaya*. Jagannathan produced it and starred in it, including between the filming of *The Night Of*. It ran three years and won the Amnesty International Award in 2013. “It is a protest against the conspiracy of silence,” she told The Independent. “Nirbhaya explores that story, of what happens when sexual violence crosses your path,” she told Scroll.
+For many people in India she is still Menaka, the journalist from *Delhi Belly*, the cult Hindi comedy. The piece she produced herself came out of a worse year. After the December 2012 attack on a physiotherapy student in Delhi, she contacted Yael Farber, who wrote *Nirbhaya*; Jagannathan produced the play and starred in it, including between the filming of *The Night Of*. It ran three years and won the Amnesty International Award in 2013. “It is a protest against the conspiracy of silence,” she told The Independent. “Nirbhaya explores that story, of what happens when sexual violence crosses your path,” she told Scroll.
 
-*The Night Of*, the American version of *Criminal Justice*, casts her as Safar, mother of the college student Nasir. Riz Ahmed plays him. He is accused of murdering a woman. On *Ramy* she is Salma, romantically entangled with Ramy Youssef, who co-created the series and stars in it.
+On *The Night Of*, the American version of *Criminal Justice*, she is Safar Khan, the Pakistani-American mother of Riz Ahmed’s Nasir, a college student accused of murdering a woman. *Ramy* casts her as Salma, romantically entangled with Ramy Youssef, who co-created the series and stars in it. After both of those she was a mother again, on Mindy Kaling and Lang Fisher’s *Never Have I Ever*, with Nalini in a California house alongside Devi and Kamala, her niece, the graduate student Richa Moorjani plays.
 
-Then the mother a lot of readers can cast without a caption. *Never Have I Ever* makes her Nalini, Devi’s mother, a widowed dermatologist in California raising her daughter and her niece. Devoted, and overbearing. That is the part.
+*Wolfs* followed in 2024, Jon Watts’s film, with her as June alongside George Clooney and Brad Pitt, who play two rival fixers. A year before the movie, at the Juggernaut Summit in New York, the room applauded a line Brown Girl Magazine wrote down: “In America, I feel like I am just getting started.”
 
-*Wolfs* followed in 2024, Jon Watts’s film. She plays June. Clooney and Pitt are the fixers.
+## Two aunts
 
-The year before that movie, in New York, a room applauded one line. It was the Juggernaut Summit, September 2023. Brown Girl Magazine wrote it down. “In America, I feel like I am just getting started.”
+The New York line got a plot. Abdullah Saeed’s *Deli Boys* returned to Hulu on May 28 with all six episodes at once, following Mir and Raj Dar — Asif Ali and Saagar Shaikh — two Pakistani American brothers struggling to run the crime syndicate their father left them. She plays Naveeda “Lucky,” Baba’s confidant and a longtime associate of that father, the crime-boss auntie. Fred Armisen arrives this season as Max Sugar, another boss and a casino magnate, in a relationship that is new for her.
 
-## The aunt, and the next one
+The prize preceded the season. On June 2, 2025, she won a Gotham for Outstanding Supporting Performance in a Comedy Series, for the crime-boss auntie, before season 2 had premiered. In March 2026 she walked into the Film Independent Spirit Awards a nominee for Best Supporting Performance and said that night, “Because my home is the set of ‘Deli Boys.’” In August, Hulu canceled the show after two seasons.
 
-*Deli Boys* arrived ahead of the ring. Season 2 of Abdullah Saeed’s Hulu series premiered on May 28, all six episodes at once. Mir and Raj Dar — Asif Ali and Saagar Shaikh — are Pakistani American brothers struggling to run the crime syndicate their father left them. She is Naveeda “Lucky,” Baba’s confidant, a crime-boss auntie and a longtime associate of that father. Fred Armisen joins this season as Max Sugar, another boss, a casino magnate, and a relationship that is new.
-
-The Gotham was already behind her. On June 2, 2025, she won Outstanding Supporting Performance in a Comedy Series for the crime-boss auntie. Season 2 had not premiered. In March 2026 she walked into the Film Independent Spirit Awards a nominee for Best Supporting Performance. “Because my home is the set of ‘Deli Boys,’” she said that night. In August, Hulu canceled the show after two seasons.
-
-October 22 brings the other aunt. Erin Foster’s *Nobody Wants This* comes back with Kristen Bell as Joanne and Adam Brody as Noah. Jagannathan guests as Eleanor, brassy and biting, aunt to Andrew Rannells’s Sebastien, Joanne’s nemesis in the conversion class.
-
-October 30, she told the Los Angeles Times, is *Nocturne*. The serial-killer genre is new for her. She plays an overworked FBI agent, brought in after law enforcement tried to handle the crime internally and messed it up, with Stephen Graham, Liev Schreiber, and Zazie Beetz.
+October 22 drops her into a romance that isn’t hers. Erin Foster’s *Nobody Wants This* comes back with Kristen Bell as Joanne and Adam Brody as Noah, and Jagannathan guests as Eleanor, brassy and biting, aunt to Andrew Rannells’s Sebastien, Joanne’s nemesis in conversion class. October 30, she told the Los Angeles Times, belongs to *Nocturne*, where the serial-killer genre is new for her. She plays an overworked FBI agent brought in after law enforcement tried to handle the crime internally and messed it up, with Stephen Graham, Liev Schreiber, and Zazie Beetz.
 
 ## Just getting started
 
-She told Vanity Fair what Lucky shares with her.
+She told Vanity Fair what Lucky has in common with the woman playing her.
 
 “Lucky feels what I feel—we’re just getting started. I started thinking about being an actor when I was 30. I got my first role at 35, got a break at 40, got Never Have I Ever at 48. I have Lucky at 52.”
 
@@ -173,7 +159,7 @@ poorna-jagannathan-lanterns-zoe-manhunter
 
 ## Excerpt
 
-Poorna Jagannathan is Nalini on *Never Have I Ever*, Safar on *The Night Of*, and June in *Wolfs*. On HBO’s *Lanterns* she is Zoe, the Manhunter — a twist she found on the last page of the episode-four script. The same year she is a crime-boss aunt on *Deli Boys* and, from October 22, a new aunt on *Nobody Wants This*. She quit advertising at 30.
+Poorna Jagannathan’s year makes her the alien on HBO’s *Lanterns*, the crime-boss aunt on *Deli Boys*, and, from October 22, a new aunt on *Nobody Wants This*. The familiar role is Nalini, the mother on *Never Have I Ever*. She quit advertising at 30, and she learned Zoe was the Manhunter at the end of the episode-four script.
 
 ## Category
 
