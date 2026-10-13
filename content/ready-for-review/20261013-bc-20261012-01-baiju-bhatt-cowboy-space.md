@@ -69,7 +69,7 @@ The app made trading free. The next company is a rocket whose upper stage is mea
 
 ## Reporting / research notes
 
-- Prose written by the Content Manager. Checked 2026-10-13 against `content/research/bc-20261012-01-20261013.md` only. No interviews. No outreach. The committer did not change a sentence of the draft.
+- Prose by the Content Manager. A revised draft was substituted verbatim on 2026-10-13 and checked again against `content/research/bc-20261012-01-20261013.md` only. No interviews. No outreach. The committer did not change a sentence of the draft.
 - Cowboy pages were retrieved 2026-10-12 and were not re-fetched on 2026-10-13.
 - The WSJ TikTok was not watched. The WSJ page body was not retrieved. BusinessWire for the Series B was not retrieved. The 424B4 was not opened. The Robinhood confetti blog URL was not opened.
 - Safety: no father's illness. No "as a South Asian" frame. No customer-death anecdote. No investment advice. No single Robinhood ownership percentage. Gujarat and Poquoson stay where the draft put them, as origin, then the piece returns to the companies.
@@ -89,37 +89,37 @@ The app made trading free. The next company is a rocket whose upper stage is mea
 
 *The app made trading free. His next act is a rocket that turns into a data center in orbit.*
 
-If you bought your first share of anything on your phone, there's a decent chance you did it on Robinhood. Baiju Bhatt co-founded that app. He spent more than a decade helping run it, through free trades, the confetti, and a very public IPO.
+If you bought your first share of anything on your phone, it may well have been on Robinhood. Baiju Bhatt co-founded that app. He spent more than a decade helping run it, through free trades, the confetti, and a very public IPO.
 
-Now he's running a company called Cowboy. In May, his startup Cowboy Space raised $275 million at a $2 billion valuation to build its own rocket. The top stage of that rocket isn't supposed to come back down. It's supposed to stay in orbit and work as a one-megawatt data center. None of it has flown yet. But it's a long way from a stock app.
+Now he's running a company called Cowboy. In May, his startup Cowboy Space raised $275 million at a $2 billion valuation to build its own rocket. The top stage of that rocket isn't supposed to come back down. It's supposed to stay in orbit and work as a one-megawatt data center. The rocket hasn't flown yet. But it's a long way from a stock app.
 
 ## The physics kids
 
-Bhatt is an only child, the son of two immigrants. His father grew up in Bhavnagar, in Gujarat, and the family came to the U.S. so he could get a PhD in theoretical physics. Bhatt grew up in Poquoson, Virginia, and his father later worked for NASA at Langley.
+Bhatt is an only child, the son of two immigrants. His father grew up in Bhavnagar, in Gujarat, and the family came to the U.S. after his father was accepted to a PhD program in theoretical physics. Bhatt grew up in Poquoson, Virginia, and his father later worked for NASA at Langley.
 
 He followed his dad into physics at Stanford, which is where he met Vlad Tenev. The two of them started a pair of finance companies in New York, which TechCrunch identified as Celeris, an algorithmic trading startup, and Chronos Research, which sold software to big investment banks. Then, in 2013, they started Robinhood.
 
-The first version was barely a brokerage. It was a free iPhone app for tracking stocks and sharing predictions. By the end of that year they'd raised $3 million from Index Ventures and Andreessen Horowitz to build what came next: trading with no commission at all.
+The first version wasn't a brokerage at all. It was a free iPhone app for tracking stocks and sharing predictions. By the end of that year they'd raised $3 million from Index Ventures and Andreessen Horowitz to build what came next: trading with no commission at all.
 
 ## Free, and then everybody was free
 
 When the full app launched in March 2015, 800,000 people were already on the waitlist. Bhatt had a theory about who they were. "I think a lot of people that use Robinhood grew up in an era where Wall Street blew up in 2008," he told CNNMoney. "They kind of see Wall Street and a lot of big banks as not very trustworthy."
 
-Free trading was the hook, and eventually the big brokers had to match it. In the first week of October 2019, Charles Schwab, E*Trade and TD Ameritrade all announced, within days of each other, that online stock trades would be free. TD Ameritrade had been charging $6.95 a trade. Robinhood had been charging nothing since 2015.
+Free trading was the hook. Then, in the first week of October 2019, Charles Schwab, E*Trade and TD Ameritrade all dropped their online stock commissions to zero. TD Ameritrade had been charging $6.95 a trade. Robinhood had been charging nothing since 2015.
 
-The app also looked nothing like a brokerage. It was clean and bright and, at certain moments, it threw confetti. That became the problem. In December 2020, Massachusetts regulators filed a complaint accusing Robinhood of gamifying investing, pointing to the confetti among other features. Robinhood said the animation celebrated firsts, like a customer's first trade. It retired the confetti in March 2021 and later admitted, in a settlement with the state, that it had rained down after a customer's first trade.
+The app also didn't act like a brokerage. At certain moments, it threw confetti, and that became a problem. In December 2020, Massachusetts regulators filed a complaint accusing Robinhood of gamifying investing, pointing to the confetti among other features. Robinhood said the animation celebrated firsts, like a customer's first trade. It retired the confetti in March 2021 and later admitted, in a settlement with the state, that it had rained down after a customer's first trade.
 
 ## Stepping back
 
 By then Bhatt was no longer running the company. He and Tenev had been co-CEOs since 2013. In November 2020, Robinhood announced that Tenev would be sole CEO, and Bhatt would stay on as co-founder and board member. He later took the title of chief creative officer.
 
-So when GameStop happened two months later, it wasn't Bhatt's call. On January 28, 2021, Robinhood restricted buying in GameStop and other meme stocks. Tenev was the one who testified to Congress, where he said the restriction was a deposit-requirement decision made by the president of Robinhood Securities, with "zero pressure from anyone."
+So when GameStop happened two months later, Bhatt wasn't the one running the company. On January 28, 2021, Robinhood restricted buying in GameStop and other meme stocks. Tenev was the one who testified to Congress, where he said the restriction was a deposit-requirement decision made by the president of Robinhood Securities, with "zero pressure from anyone."
 
 Six months later, Robinhood went public. The stock priced at $38 and closed its first day at $34.82, and Bloomberg put Bhatt's paper fortune at $2.5 billion. He stayed on as chief creative officer until March 2024, when he stepped back from his executive role. "Since I helped found this company in 2013, Robinhood has been my life," he said at the time. He's still on the board.
 
 ## The second act
 
-He was already working on the next thing. His new company, Aetherflux, had come out of stealth in October 2024 with a plan that sounded like science fiction: collect solar power in space and beam it down to Earth by infrared laser. In April 2025 it raised a $50 million Series A, led by Index, the same firm that backed Robinhood in 2013.
+His next company was already public by then. Aetherflux had come out of stealth in October 2024 with a plan that sounded like science fiction: collect solar power in space and beam it down to Earth by infrared laser. In April 2025 it raised a $50 million Series A, co-led by Index, the same firm that backed Robinhood in 2013.
 
 Then the plan got bigger. He told TechCrunch he couldn't get enough launch capacity, or make the economics work, by buying rides on other people's rockets, so he decided to build his own. In May 2026 Aetherflux became Cowboy Space Corporation, with a $275 million Series B led by Index and joined by a16z, NEA, Breakthrough Energy Ventures and Bhatt himself. The idea is that the rocket's upper stage and the data center are the same machine. NVIDIA is working with the company to put its Space-1 Vera Rubin modules in orbit.
 
@@ -127,57 +127,34 @@ As for the name, Bhatt told Payload that it "captures the scale of ambition that
 
 ## Liftoff, eventually
 
-The schedule is where it gets real. The first satellite, built to show that power beaming works, is meant to fly this year. The rocket comes later. Payload reported no earlier than the end of 2028, and TechCrunch reported before the end of 2028.
+The schedule is where it gets real. In May, Payload reported that the first satellite, built to show that power beaming works, would launch this year. The rocket comes later. Payload reported no earlier than the end of 2028, and TechCrunch reported before the end of 2028.
 
-So for now, a $2 billion company is waiting on one satellite. Bhatt already changed how people buy stocks. This time, the thing he built has to get off the ground first.
-
+So for now, a company valued at $2 billion is riding on a satellite and a rocket it still has to prove. Bhatt already changed how people buy stocks. This time, the thing he built has to get off the ground first.
 ## Facts requiring final verification
 
-Fact-check of the Full draft against `content/research/bc-20261012-01-20261013.md` on 2026-10-13. Line numbers are the lines of this file. The prose was not changed.
+Fact-check re-run 2026-10-13 against `content/research/bc-20261012-01-20261013.md`, after the Content Manager replaced the draft. Line numbers are the lines of this file. The prose was not changed.
 
 ### Unsupported claims and inexact wording
 
-1. Line 94. "None of it has flown yet." Packet: "UNRESOLVED. Whether the 2026 power-beaming flight was still on the calendar as of 13 October 2026. No later primary update was checked." The May 2026 sources describe a launch that had not happened yet. They do not say, as of this packet, that nothing has flown.
+1. Line 122. "His next company was already public by then." The dated event just above is the March 2024 step-down. Packet, his GlobeNewswire statement that day: "I will have more to share about my next steps soon but know the future has never been so bright." Packet: Aetherflux came out of stealth in October 2024 (TechCrunch, 9 October 2024). The October 2024 date in the next sentence is supported. "Already public by then," read against March 2024, is not.
 
-2. Line 98. "so he could get a PhD in theoretical physics." Packet, Lifehacker: "parents moved to the U.S. when his father was accepted to a PhD in theoretical physics at 'University of Huntsville Alabama.'" Packet, The Peel: "family came so his father could study physics." The packet does not say he received the degree.
+2. Line 132. "a company valued at $2 billion is riding on a satellite and a rocket it still has to prove." The "$2 billion valuation" wording is the company's, 11 May 2026. The rocket half matches the reported 2028 schedule. The satellite half states that the demo is still unproven now. Packet: "UNRESOLVED. Whether the 2026 power-beaming flight was still on the calendar as of 13 October 2026. No later primary update was checked."
 
-3. Line 102. "The first version was barely a brokerage." Packet: "Not a brokerage." The April 2013 TechCrunch story is a free iOS app for tracking stocks and sharing predictions.
+### Not flagged
 
-4. Line 108. "eventually the big brokers had to match it." The packet records that Schwab, E*TRADE, and TD Ameritrade cut the stock commission to zero in October 2019. It does not say they had to, or that Robinhood caused the cuts.
-
-5. Line 108. "Charles Schwab, E*Trade and TD Ameritrade all announced, within days of each other." Packet: "UNRESOLVED. The clock time of Schwab's announcement. The Schwab release states the 7 October effective date. A separate announcement dateline was not on the text retrieved here." TD's announcement is dated 1 October 2019 on a MarketChameleon reprint, effective 3 October. E*TRADE is datelined 2 October 2019, effective 7 October. Packet: "They did not do it on one day."
-
-6. Line 110. "It was clean and bright." That description is not in the packet.
-
-7. Line 116. "it wasn't Bhatt's call." Packet: "UNRESOLVED. Any documented comment by Bhatt on the restriction, and any internal role. None turned up in the hearing, the staff-report exhibit, the IR biography, or the March 2024 release. Absence from those pages is not proof he was absent from every meeting. The draft does not invent a denial or a confession. It says he was not CEO, he was not the witness, and no public comment from him was found." What the packet supports is that he was not CEO, that Tenev was the witness, and that no public comment from Bhatt was found.
-
-8. Line 122. "He was already working on the next thing." Packet, his GlobeNewswire statement, 21 March 2024: "I will have more to share about my next steps soon but know the future has never been so bright." Packet, source conflict: the company says founded in 2024 as Aetherflux. TechCrunch on 9 October 2024 says he founded it "late last year." Public reveal is October 2024. The packet does not establish that Aetherflux was underway when he left the executive job in March 2024.
-
-9. Line 122. "a $50 million Series A, led by Index." Packet, TechCrunch, Rebecca Bellan, 2 April 2025: "Index and Interlagos led." Packet, Index Ventures, Jan Hammer, the same day: "Index leading Aetherflux's $50 million Series A." The sentence uses Index's version and drops the TechCrunch co-lead.
-
-10. Line 130. "is meant to fly this year." Packet, Payload, 11 May 2026: first satellite "this year" to demo beaming power. The same unresolved note as item 1: no check, as of 13 October 2026, that the flight was still scheduled. The present tense treats the May plan as current.
-
-11. Line 132. "a $2 billion company is waiting on one satellite." The "$2 billion valuation" wording is the company's, from the 11 May 2026 news post. "Waiting on one satellite" is the same unresolved schedule, stated as the current situation.
-
-12. Line 92. "there's a decent chance you did it on Robinhood." No share or user statistic in the packet. Voice, not a sourced figure.
-
-13. Line 132. "Bhatt already changed how people buy stocks." Interpretation. The packet does not state that as a fact.
-
-### Quotes checked
-
-These match the packet and were not flagged.
-
-- Line 106. CNNMoney, 12 March 2015: "I think a lot of people that use Robinhood grew up in an era where Wall Street blew up in 2008. They kind of see Wall Street and a lot of big banks as not very trustworthy."
-- Line 116. Tenev, House hearing, 18 February 2021: "zero pressure from anyone." The unquoted "deposit-requirement" is a paraphrase of his "collateral depository requirement." He does not name the president. The draft does not name Jim Swartwout.
-- Line 118. GlobeNewswire, 21 March 2024, opening sentence: "Since I helped found this company in 2013, Robinhood has been my life."
-- Line 126. Payload, 11 May 2026: "captures the scale of ambition that we've got with the new set of objectives." The mission line "Powering humanity from the high frontier" matches Payload.
-
-### Left in place, with the packet's conflict noted
-
-- Line 110. "celebrated firsts" and the settlement's "first trade" match the company blog as quoted by CNBC and the 2024 consent order. The December 2020 complaint alleged confetti after every trade. The draft states the complaint and then the company's account and the admission. "Retired the confetti in March 2021" follows the order: "ceased use of the digital confetti feature ... as of March 31, 2021." AP on 31 March 2021 said "The last pops will go off next week."
-- Line 130. Payload "no earlier than the end of 2028" and TechCrunch "before the end of 2028" are both in the draft. Space.com's "in 2028" is not in the draft and is not contradicted.
-- Line 124. "joined by a16z, NEA, Breakthrough Energy Ventures and Bhatt himself" names investors who are on the company list. It omits IVP, Blossom Capital, SAIC, Construct Capital, and Interlagos. "Joined by" does not say those were the only ones.
-- Line 124. "make the economics work" is an unquoted paraphrase of TechCrunch's "unit economics."
+- Line 92. "it may well have been on Robinhood." Editorial. It does not assert a false fact.
+- Line 132. "Bhatt already changed how people buy stocks. This time, the thing he built has to get off the ground first." Editorial. It does not assert a false fact. The rocket schedule in the packet is 2028.
+- Line 94. "The rocket hasn't flown yet." Payload, TechCrunch, and Space.com place the first rocket in 2028.
+- Line 98. "accepted to a PhD program in theoretical physics." Matches Lifehacker: accepted to a PhD in theoretical physics. The official university name stays unresolved and is not in the draft.
+- Line 102. "wasn't a brokerage at all." Matches the packet: "Not a brokerage."
+- Line 108. Schwab, E*TRADE, and TD Ameritrade cut online stock commissions to zero, effective 3 October 2019 (TD) and 7 October 2019 (Schwab and E*TRADE). The draft does not say they had to, and does not say they announced together. Schwab's announcement clock is still unresolved in the packet and is not asserted here. Options contract fees remained. The draft says stock commissions.
+- Line 110. "celebrated firsts" and the settlement's "first trade" match CNBC's quotation of the company blog and the 2024 consent order. The December 2020 complaint alleged confetti after every trade. "Retired the confetti in March 2021" follows the order: ceased as of 31 March 2021. AP that day said the last pops would go off the following week.
+- Line 116. "wasn't the one running the company" matches Tenev as sole CEO from November 2020. It does not say Bhatt had no internal role in the restriction. The quoted "zero pressure from anyone" matches Tenev. "Deposit-requirement" is an unquoted paraphrase of "collateral depository requirement."
+- Line 122. "co-led by Index." TechCrunch, 2 April 2025: "Index and Interlagos led." Index's post the same day: "Index leading." "Co-led by Index" matches the TechCrunch structure. Interlagos is not named.
+- Line 130. "In May, Payload reported that the first satellite ... would launch this year." Attributed to Payload, 11 May 2026. It does not say the flight is still on the calendar.
+- Line 130. Payload "no earlier than the end of 2028" and TechCrunch "before the end of 2028" are both in the draft.
+- Line 124. "joined by a16z, NEA, Breakthrough Energy Ventures and Bhatt himself" names investors on the company list and does not say they were the only ones. "make the economics work" is an unquoted paraphrase of TechCrunch's "unit economics."
+- Quotes that match: line 106, CNNMoney, 12 March 2015, the 2008 sentence. Line 118, GlobeNewswire, 21 March 2024: "Since I helped found this company in 2013, Robinhood has been my life." Line 126, Payload: "captures the scale of ambition that we've got with the new set of objectives." Mission line: "Powering humanity from the high frontier."
 
 ## SEO title
 

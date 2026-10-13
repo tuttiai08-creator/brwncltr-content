@@ -118,3 +118,4 @@ confidence: high
 - 2026-10-13: Owner approved the plan and the headline "After Co-Founding Robinhood, Baiju Bhatt Is Building Rockets." Status set to APPROVED_FOR_DRAFT. Robinhood research packet completed at content/research/bc-20261012-01-20261013.md. Not article APPROVED. No article prose. Do not publish.
 - 2026-10-13: Status set to DRAFTING. Prose by Content Manager. Committer did not rewrite it. No separate drafts file. The packet, with the verbatim draft, is the review file.
 - 2026-10-13: Status set to READY_FOR_REVIEW. Fact-check against content/research/bc-20261012-01-20261013.md is in the review packet under Facts requiring final verification. Not article APPROVED. Do not publish.
+- 2026-10-13: Content Manager replaced the full draft. Committer pasted it verbatim and re-ran the fact-check. Status stays READY_FOR_REVIEW. Not article APPROVED. Do not publish.
