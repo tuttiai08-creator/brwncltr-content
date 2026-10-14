@@ -92,7 +92,7 @@ This year she's been busy unsticking it. On HBO's *Lanterns*, the Green Lantern 
 
 And *Lanterns* is just one stop on a crowded year. There's a crime-boss auntie on Hulu's *Deli Boys*, a new aunt on Netflix's *Nobody Wants This*, and an overworked FBI agent in *Nocturne* after that. Not bad for someone who didn't go to acting school until she was 30.
 
-## The last page
+### The last page
 
 Spoilers ahead, so if you haven't finished the season, come back later.
 
@@ -108,7 +108,7 @@ The next episode, "Lights Out," ends it for real, and John is the one who kills 
 
 People watched all of it. The finale pulled 10.5 million viewers worldwide in its first three days, and the season is averaging 19.3 million viewers globally, putting it among the top five HBO series launches in the platform's history.
 
-## Late start, long road
+### Late start, long road
 
 She grew up on the move. Her father was an Indian diplomat, so every three years the family packed up for a new country. She was born in Tunisia, then lived in India, Ireland, Brazil, Pakistan and Argentina. "Travel is the one thing that's shaped me the most," she has said.
 
@@ -120,13 +120,13 @@ On that show she played Safar Khan, whose son Nasir, played by Riz Ahmed, is a c
 
 In 2024 she shared the screen with George Clooney and Brad Pitt in Jon Watts's *Wolfs*. The year before, at the Juggernaut Summit in New York, she'd said, "In America, I feel like I am just getting started." The room applauded.
 
-## Two aunts and an FBI agent
+### Two aunts and an FBI agent
 
 *Deli Boys* is where that line comes to life. Abdullah Saeed's Hulu comedy follows Mir and Raj Dar, played by Asif Ali and Saagar Shaikh, two brothers struggling to run the crime syndicate their father left behind. Jagannathan is Naveeda "Lucky," their father's longtime associate and a crime-boss auntie who, as Vogue put it, ruthlessly steals scenes. The role won her a Gotham Award for Outstanding Supporting Performance in a Comedy Series in June 2025, and this March it took her to the Film Independent Spirit Awards as a nominee. "Because my home is the set of 'Deli Boys,'" she said that night. Season 2 dropped all at once on May 28, with Fred Armisen joining as Max Sugar, a fellow crime boss and casino magnate. In August, Hulu canceled the show.
 
 Then it's on to the next one. On October 22, *Nobody Wants This* returns to Netflix with Kristen Bell and Adam Brody, and she joins as Eleanor, the "brassy and biting" aunt of Andrew Rannells's Sebastien. After that comes *Nocturne*, which she says is out October 30. She plays an overworked FBI agent brought in on a crime that law enforcement first tried to handle internally and messed up, opposite Stephen Graham, Liev Schreiber and Zazie Beetz. The serial-killer genre is new for her. She read the book it's based on and ended up installing a security system.
 
-## Just getting started
+### Just getting started
 
 She told Vanity Fair what she and Lucky have in common, and she counted it out.
 
@@ -149,7 +149,7 @@ This year she added an alien.
 
 ## SEO title
 
-Poorna Jagannathan in Lanterns: Zoe, the Manhunter Twist, and Her Big 2026
+Poorna Jagannathan in Lanterns: Zoe and Her Big 2026
 
 ## Meta description
 
