@@ -93,7 +93,7 @@ If you bought your first share of anything on your phone, it may well have been 
 
 Now he's running a company called Cowboy. In May, his startup Cowboy Space raised $275 million at a $2 billion valuation to build its own rocket. The top stage of that rocket isn't supposed to come back down. It's supposed to stay in orbit and work as a one-megawatt data center. The rocket hasn't flown yet. But it's a long way from a stock app.
 
-## The physics kids
+### The physics kids
 
 Bhatt is an only child, the son of two immigrants. His father grew up in Bhavnagar, in Gujarat, and the family came to the U.S. after his father was accepted to a PhD program in theoretical physics. Bhatt grew up in Poquoson, Virginia, and his father later worked for NASA at Langley.
 
@@ -101,7 +101,7 @@ He followed his dad into physics at Stanford, which is where he met Vlad Tenev. 
 
 The first version wasn't a brokerage at all. It was a free iPhone app for tracking stocks and sharing predictions. By the end of that year they'd raised $3 million from Index Ventures and Andreessen Horowitz to build what came next: trading with no commission at all.
 
-## Free, and then everybody was free
+### Free, and then everybody was free
 
 When the full app launched in March 2015, 800,000 people were already on the waitlist. Bhatt had a theory about who they were. "I think a lot of people that use Robinhood grew up in an era where Wall Street blew up in 2008," he told CNNMoney. "They kind of see Wall Street and a lot of big banks as not very trustworthy."
 
@@ -109,7 +109,7 @@ Free trading was the hook. Then, in the first week of October 2019, Charles Schw
 
 The app also didn't act like a brokerage. At certain moments, it threw confetti, and that became a problem. In December 2020, Massachusetts regulators filed a complaint accusing Robinhood of gamifying investing, pointing to the confetti among other features. Robinhood said the animation celebrated firsts, like a customer's first trade. It retired the confetti in March 2021 and later admitted, in a settlement with the state, that it had rained down after a customer's first trade.
 
-## Stepping back
+### Stepping back
 
 By then Bhatt was no longer running the company. He and Tenev had been co-CEOs since 2013. In November 2020, Robinhood announced that Tenev would be sole CEO, and Bhatt would stay on as co-founder and board member. He later took the title of chief creative officer.
 
@@ -117,7 +117,7 @@ So when GameStop happened two months later, Bhatt wasn't the one running the com
 
 Six months later, Robinhood went public. The stock priced at $38 and closed its first day at $34.82, and Bloomberg put Bhatt's paper fortune at $2.5 billion. He stayed on as chief creative officer until March 2024, when he stepped back from his executive role. "Since I helped found this company in 2013, Robinhood has been my life," he said at the time. He's still on the board.
 
-## The second act
+### The second act
 
 In his goodbye note, he said he'd "have more to share about my next steps soon." That turned out to be Aetherflux, which came out of stealth in October 2024 with a plan that sounded like science fiction: collect solar power in space and beam it down to Earth by infrared laser. In April 2025 it raised a $50 million Series A, co-led by Index, the same firm that backed Robinhood in 2013.
 
@@ -125,7 +125,7 @@ Then the plan got bigger. He told TechCrunch he couldn't get enough launch capac
 
 As for the name, Bhatt told Payload that it "captures the scale of ambition that we've got with the new set of objectives." The company's mission line is "Powering humanity from the high frontier."
 
-## Liftoff, eventually
+### Liftoff, eventually
 
 The schedule is where it gets real. In May, Payload reported that the first satellite, built to show that power beaming works, would launch this year. The rocket comes later. Payload reported no earlier than the end of 2028, and TechCrunch reported before the end of 2028.
 
@@ -161,7 +161,7 @@ None.
 
 ## SEO title
 
-Baiju Bhatt, Robinhood co-founder, is building rockets
+Baiju Bhatt, Robinhood Co-Founder, Is Building Rockets
 
 ## Meta description
 
