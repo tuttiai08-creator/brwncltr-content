@@ -4,7 +4,9 @@
   "taxonomy": {
     "unmapped_category": "omit",
     "unmapped_tag": "omit",
-    "categories": {},
+    "categories": {
+      "Business": 34
+    },
     "tags": {}
   }
 }
