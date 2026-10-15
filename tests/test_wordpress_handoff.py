@@ -464,6 +464,73 @@ class HandoffTests(unittest.TestCase):
                 run_handoff(tmp, "bc-20260901-10", apply=False)
             self.assertIn("Unmapped WordPress category", str(ctx.exception))
 
+    def test_full_draft_keeps_in_body_h2_subheads(self):
+        packet = """# Fixture headline
+
+## Packet metadata
+
+| Field | Value |
+| --- | --- |
+| Task ID | bc-20260901-10-fixture |
+| State | READY_FOR_REVIEW |
+
+## Proposed headline
+
+Naisha said 911 is hers
+
+## Full draft
+
+Opening paragraph before the first subhead.
+
+## Subhead A
+
+Paragraph under subhead A.
+
+## Subhead B
+
+Paragraph under subhead B.
+
+## Facts requiring final verification
+
+This facts checklist must stay out of the body.
+
+## SEO title
+
+seo title unused
+
+## Meta description
+
+meta unused
+
+## Slug
+
+naisha-911-completely-mine-not-a-skrillex-feature
+
+## Excerpt
+
+Three tracks dated 7 August 2026.
+
+## Category
+
+Music
+
+## Tags
+
+Naisha, Skrillex
+"""
+        with tempfile.TemporaryDirectory() as raw:
+            path = Path(raw) / "packet.md"
+            path.write_text(packet, encoding="utf-8")
+            parsed = parse_packet(path)
+        body = parsed.body_markdown
+        self.assertIn("## Subhead A", body)
+        self.assertIn("Paragraph under subhead A.", body)
+        self.assertIn("## Subhead B", body)
+        self.assertIn("Paragraph under subhead B.", body)
+        self.assertIn("Opening paragraph before the first subhead.", body)
+        self.assertNotIn("This facts checklist must stay out of the body.", body)
+        self.assertNotIn("## Facts requiring final verification", body)
+
     def test_cli_dry_run_exit_zero(self):
         with tempfile.TemporaryDirectory() as raw:
             tmp = _write_repo(Path(raw))

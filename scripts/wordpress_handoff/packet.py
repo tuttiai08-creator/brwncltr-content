@@ -10,6 +10,36 @@ from .errors import HandoffError
 
 HEADING_RE = re.compile(r"^## (.+?)\s*$", re.MULTILINE)
 
+# Top-level packet sections from ARTICLE_TEMPLATE.md. Any other `## ` heading
+# (e.g. an in-body subhead inside `## Full draft`) stays part of the section
+# it appears in instead of ending it.
+PACKET_SECTIONS = frozenset(
+    {
+        "Packet metadata",
+        "Proposed headline",
+        "Story type",
+        "Target audience",
+        "Why now",
+        "Central angle",
+        "Primary sources",
+        "Secondary sources",
+        "Reporting / research notes",
+        "Outline",
+        "Full draft",
+        "Facts requiring final verification",
+        "SEO title",
+        "Meta description",
+        "Slug",
+        "Excerpt",
+        "Category",
+        "Tags",
+        "Internal-link opportunities",
+        "Social captions",
+        "Featured-image concept",
+        "Research date",
+    }
+)
+
 
 @dataclass
 class ArticlePacket:
@@ -67,7 +97,12 @@ def parse_packet(path: Path) -> ArticlePacket:
 
 
 def _sections(text: str) -> dict[str, str]:
-    matches = list(HEADING_RE.finditer(text))
+    matches = [
+        m
+        for m in HEADING_RE.finditer(text)
+        if m.group(1).strip() in PACKET_SECTIONS
+        or m.group(1).strip().startswith("Completeness gate")
+    ]
     out: dict[str, str] = {}
     for index, match in enumerate(matches):
         start = match.end()
