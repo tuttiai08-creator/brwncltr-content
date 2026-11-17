@@ -34,7 +34,7 @@ Bhosle sings once on the album. Shankar's sitar is on seven tracks, and she is a
 
 ## Primary sources
 
-See `content/research/bc-20261117-03-20261117.md`. Academy album page, full nominations list, Gorillaz store tracklist, Pitchfork credits, BBC obituary, Vogue India, Rolling Stone India, The Nod, Hollywood Reporter India, Rolling Stone UK, NME tribute, SNL upload, British Comedy Guide. Hewlett's "album about death" question is Rolling Stone India, Anurag Tagat (packet item 42). The body does not name that outlet. CBC's *Q* (packet item 39) is where Albarn called improvising with Shankar "a really extraordinary moment." The body no longer cites that interview.
+See `content/research/bc-20261117-03-20261117.md`. Academy album page, full nominations list, Gorillaz store tracklist, Pitchfork credits, BBC obituary, Vogue India, Rolling Stone India, The Nod, Hollywood Reporter India, Rolling Stone UK, NME tribute, SNL upload, British Comedy Guide. Hewlett's "album about death" question is Rolling Stone India, Anurag Tagat (packet item 42). The body does not name that outlet. CBC's *Q* (packet item 39) is where Albarn called improvising with Shankar "a really extraordinary moment." The body no longer cites that interview. The Nod (packet item 44) is the source for both "they'd already had their big India trip" and the live-unveiling request that she stay onstage. The body does not name The Nod.
 
 ## Secondary sources
 
@@ -84,7 +84,7 @@ The song asks a boatman to carry the singer across deep water. In February, days
 
 ### The sitar in London
 
-Shankar had never worked with Gorillaz when they reached out wanting sitar, and she ended up recording with Albarn in London, including one free-flowing, exploratory session. By the time they called, she told The Nod, "they'd already had their big India trip that made them want to make an album about their experiences."
+Shankar had never worked with Gorillaz when they reached out wanting sitar, and she ended up recording with Albarn in London, including one free-flowing, exploratory session. By the time they called, she said, "they'd already had their big India trip that made them want to make an album about their experiences."
 
 Her sitar ended up on seven tracks, and she has a writing credit on five. On a track with "Prince" in the title, she suggested fast strumming that would create what she called "a cocoon for the voice." The title song might sound very Indian, she told Rolling Stone India, but it's not necessarily based on a raga.
 
@@ -92,7 +92,7 @@ Her sitar ended up on seven tracks, and she has a writing credit on five. On a t
 
 For Albarn, the sessions reached back to his own childhood. His father loved Indian classical music and played him Ravi Shankar records as a baby. "I probably listened to Ravi Shankar before I listened to The Beatles when I was a kid," he told Rolling Stone UK.
 
-At a live unveiling, the band asked her to stay onstage, she told The Nod, because she was on so many tracks, and she kept turning up: in February she played "Orange County" with Gorillaz and Kara Jackson on *The Graham Norton Show*, and a few weeks later, for the band's *Saturday Night Live* debut, she was back, playing "The Moon Cave" with Black Thought and Asha Puthli.
+At a live unveiling, the band asked her to stay onstage because she was on so many tracks, and she kept turning up: in February she played "Orange County" with Gorillaz and Kara Jackson on *The Graham Norton Show*, and a few weeks later, for the band's *Saturday Night Live* debut, she was back, playing "The Moon Cave" with Black Thought and Asha Puthli.
 
 ### April
 
@@ -102,7 +102,7 @@ Albarn ended his tribute with a line to her directly: "Asha, you had the voice o
 
 ### The other side
 
-Bhosle was nominated twice and Shankar 14 times, and neither has won. The 2027 Grammys air Feb. 7.
+Bhosle has been nominated twice and Shankar 14 times, and neither has won. The 2027 Grammys air Feb. 7.
 
 Bhosle told Vogue India that when she reached the other side of the river, her journey would be complete and she would attain moksha.
 
@@ -124,16 +124,16 @@ Hewlett's question, "If we can make an album about death that makes people feel 
 | Munir wrote the Hindi lyric; Rhys sings; bansuri and two sarods | 16, 29 | Clear. Does not misname the sarod players. |
 | Hesitant quote, to Rolling Stone India | 29 | Clear. Exact through "deep inside me." |
 | Boatman across deep water. Vogue, days before release, life's journey and the duties list. Boatman-as-music quote. | 13, 22, 30 | Clear. Summary omits "achievements." Quoted line is exact. |
-| "reached out wanting sitar, and she ended up recording with Albarn in London, including one free-flowing, exploratory session." No day count. | 44, 46, section 8 | Clear. The exploratory session is The Nod's narration. The one-day / two-day conflict is not settled. |
+| "reached out wanting sitar, and she ended up recording with Albarn in London, including one free-flowing, exploratory session. By the time they called, she said," then the India-trip quote. No day count. | 44, 46, section 8 | Clear. The quote is exact. "She said" is The Nod, named in this section, not the body. The day-count conflict is not settled. |
 | Nod quote about the India trip | 44 | Clear. Exact. |
 | Sitar on seven tracks. Writing credit on five. "Prince" / "a cocoon for the voice." | 19–21, 45 | Clear. Quoted fragment is exact. |
 | "might sound very Indian... but it's not necessarily based on a raga" | 47 | Clear. Matches her wording. |
 | "The music is very inherently them" and the melodies sentence | 47 | Clear. Exact, without the packet's "[Gorillaz]" insert. |
 | Father played Ravi Shankar records from when Albarn was a baby. Beatles quote, Rolling Stone UK only. | 38, 40 | Clear. CBC's "extraordinary moment" (item 39) is in the sources section, not the body. |
-| Live unveiling, then "she kept turning up": Norton "Orange County" with Kara Jackson, then SNL "The Moon Cave" with Black Thought and Asha Puthli. | 44, 55–57 | Clear. "A live unveiling" does not name Copper Box. Feb. 13 to March 7 is a few weeks. Puthli is not Bhosle. |
+| "At a live unveiling, the band asked her to stay onstage because she was on so many tracks," then Norton and SNL. | 44, 55–57 | Clear. The Nod is the source and is not named in the body. The line does not name Copper Box. Feb. 13 to March 7 is a few weeks. Puthli is not Bhosle. |
 | Out Feb. 27, and about six weeks later, on April 12, died in Mumbai at 92. Eight decades, Burman 1980, Cornershop 1997. BBC: one of her final recordings. | 13, 25, 33 | Clear. 44 days. No cause of death. |
 | "Asha, you had the voice of an angel, we love you." | 35 | Clear. One sentence. |
-| Nominated twice; Shankar 14 times; neither has won. Grammys air Feb. 7. Moksha summary and closing quote. | 2, 6, 7, 30 | Clear. |
+| "Bhosle has been nominated twice and Shankar 14 times, and neither has won." Grammys air Feb. 7. Moksha summary and closing quote. | 2, 6, 7, 30 | Clear. Wins are 0. These are not 2027 nominations. |
 
 ## Facts requiring final verification
 
