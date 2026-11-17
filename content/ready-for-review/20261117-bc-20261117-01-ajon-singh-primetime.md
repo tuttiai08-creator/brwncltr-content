@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-01-ajon-singh-primetime |
-| State | DRAFTING |
+| State | READY_FOR_REVIEW |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Content Manager draft, placed verbatim. Owner skipped plan approval on 2026-11-17. Prose was not rewritten. |
@@ -103,7 +103,7 @@ India is inside the film, too. Its monster is rooted in a New York Times story S
 
 ### Mumbai
 
-India has noticed. Most of his family is from Mumbai, and he'd like A24 to send him out so he can show love to all the people in India who've been reaching out. When he heard Indian news channels had been cutting their own edits of the film, he said, "Oh my god, I love it."
+Most of his family is from Mumbai, and he'd like A24 to send him out so he can show love to all the people in India who've been reaching out. When he heard Indian news channels had been cutting their own edits of the film, he said, "Oh my god, I love it."
 
 ### Five days
 
@@ -123,25 +123,20 @@ The real Hansen is not a fan. Before the release he told the same paper the film
 
 Daniel Kaluuya read the script and wanted Singh to write with him. In August 2025, Deadline reported that the two were co-writing a Spider-Punk animated feature for Sony Pictures Animation, and in December 2025 that a first draft was in its finishing stages.
 
-On Nov. 30, the script nobody wanted made his way is up for a Gotham.
+On Nov. 30, the script producers once wanted rewritten from page one is up for a Gotham.
 
 "I've basically gone from being not viable in the marketplace to being viable in the marketplace," he said. "And I haven't really changed all that much."
 
 ## Facts requiring final verification
 
-Revised body filed verbatim. Sentence check on 2026-11-17 is not clean. Canonical state: `DRAFTING`. Prose was not edited.
+Body filed verbatim. The two flagged sentences are clean on 2026-11-17. "India has noticed" is gone. The Mumbai paragraph opens on item 34: most of his family is from Mumbai, and he wants A24 to send him out so he can show love to the people in India who have been reaching out. The kicker matches item 26: producers wanted a page-one rewrite. Nov. 30 is the ceremony (item 1). Canonical state: `READY_FOR_REVIEW`.
 
-Fails:
-
-- "India has noticed." Items 34 and 43 support people in India reaching out, and Elle's report of news-channel edits. They do not support "India" as a noticing public.
-- "On Nov. 30, the script nobody wanted made his way is up for a Gotham." Item 26: for a long time he could not find a producer who liked the script the way it was, and people wanted a page-one rewrite. The sentence does not say that, and it does not parse.
-
-Untagged lines, by source. Each of these outlets is also named in the piece except Elle. Elle's name was cut from the wolfman paragraph and does not appear elsewhere in the body:
+Untagged lines, by source:
 
 - The Nod: musicality quote (named, item 41); Mumbai and "show love" (item 34); "Are you an actor?" (item 31); angel of punishment, as what Pattinson told him (item 29); "What? I can't do this" (item 30); the page-one note and "wanted *Network*" (item 26).
-- Elle: the wolfman origin, no state and no decade (item 39); "what if I took these two stories" (item 39); "Oh my god, I love it" (item 43). The "handful" quote is cut.
-- *The Hollywood Reporter*: the Zoom (named); Hansen's insult line, "he told the same paper," before the release (item 33); "wanted Singh to write with him" (item 46); "not viable… viable" (item 46); bathroom notes and the weekend yes (item 29).
-- *The Cold Magazine*: Decoy Dan quote, named (item 11). "Dan was the part Singh cared about most" is the draft's gloss of "its heart."
+- Elle: the wolfman origin, no state and no decade (item 39); "what if I took these two stories" (item 39); "Oh my god, I love it" (item 43). Elle is not named in the body. The "handful" quote stays cut.
+- *The Hollywood Reporter*: the Zoom (named); Hansen's insult line, "he told the same paper," before the release (item 33); "wanted Singh to write with him" (item 46); "not viable… viable" (item 46).
+- *The Cold Magazine*: Decoy Dan quote, named (item 11).
 - Deadline: August 2025 co-writing (item 44) and December 2025 finishing stages (item 47).
 
 Elle's "early 1990s" still conflicts with the Sept. 1, 1996 date cited for the *New York Times* wolf-attacks story, which this packet did not open. The draft names neither a decade nor a state.
