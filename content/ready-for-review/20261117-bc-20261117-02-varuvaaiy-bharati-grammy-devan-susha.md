@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-02 |
-| State | DRAFTING |
+| State | READY_FOR_REVIEW |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Draft supplied by the owner via the Content Editor. Filed verbatim. Prose not rewritten. |
@@ -94,7 +94,7 @@ The single was born in June, when Devan was working on a full album of songs by 
 
 ### Her voice first
 
-Devan has known Susha for more than 20 years, but this is the first time they've worked together. He built the track backward. He wanted Raag Bardiya, and she suggested Des, so he recorded her voice first, then made everything around her singing, his own vocals and arrangements included, with Prakash Sontakke on slide guitar and Anil Srinivasan on piano.
+Devan has known Susha for more than 20 years, but this is the first time they've worked together, and he built the track backward: he recorded her voice first, then made everything around her singing, his own vocals and arrangements included, with Prakash Sontakke on slide guitar and Anil Srinivasan on piano. He'd wanted Raag Bardiya, and she suggested Des.
 
 "Yes, I have done the composition and music production, but Susha's voice did the magic and while I was campaigning for the song everyone had praise for her voice," he said.
 
@@ -130,7 +130,7 @@ Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. Flow-p
 | That song is "Varuvaaiy," and on Nov. 16 it was nominated for Best Global Music Performance at the 69th Grammy Awards, in a field that includes Shakira and Rosalía, under the Academy's nominee line "Devan Ekambaram, Susha." | §1.1, §1.2. | PASS. Same facts, one sentence. |
 | The single was born in June, when Devan was working on a full album of songs by Bharati, the Tamil poet and freedom fighter, and asked Susha to sing on it. | §3.2. The Hindu. | PASS. |
 | "There are many popular songs of his," she told Billboard India. "But when Devan said he wanted to do a Bharathiar song, I wanted to find something that wasn't so obvious. This was a song my mother taught me years ago." | §4.1. Contiguous after "Someone recently asked me, 'Why Bharathiar?'" | PASS. Tagged: Billboard India. |
-| He wanted Raag Bardiya, and she suggested Des, so he recorded her voice first, then made everything around her singing, his own vocals and arrangements included, with Prakash Sontakke on slide guitar and Anil Srinivasan on piano. | §5. "I wanted to record in Raag Bardiya, but she suggested doing it in Raag Des and I recorded her voice and then made everything around her singing and added my vocals and arrangements." Slide guitar and piano are the Billboard credit block. | FAIL. "Des" and the players match. "So" makes the raga the reason he recorded her first. His sentence joins those steps with "and." |
+| Devan has known Susha for more than 20 years, but this is the first time they've worked together, and he built the track backward: he recorded her voice first, then made everything around her singing, his own vocals and arrangements included, with Prakash Sontakke on slide guitar and Anil Srinivasan on piano. He'd wanted Raag Bardiya, and she suggested Des. | §5. "over 20 years, but the collaboration happened now." Then "I recorded her voice and then made everything around her singing and added my vocals and arrangements." "Raag Bardiya" and "Raag Des." Slide guitar and piano: Billboard credit block. | PASS. The colon defines "backward." "He'd wanted" is the earlier wish. "Des" is his word. No "so." |
 | "Yes, I have done the composition and music production, but Susha's voice did the magic and while I was campaigning for the song everyone had praise for her voice," he said. | §5. Full sentence. | PASS. Untagged. Outlet: Hindustan Times. |
 | Prakash Sontakke on slide guitar and Anil Srinivasan on piano, inside the voice-first sentence. | §5 credit block. | PASS. Same credits, no longer a separate line. |
 | The poem is addressed to Krishna, and its opening line is the title three times, then *Kanna*, an affectionate name for Krishna. | §4.1, §4.2 pallavi "varuvAi varuvAi varuvAi kaNNA," §5 Billboard bracket "a word of affection for the Hindu deity Krishna." | PASS. Joined, same facts. |
@@ -154,7 +154,7 @@ Untagged quotes, by outlet:
 
 Held here, not in the body: Instagram "the very 1st Tamil Song to ever be nominated" (§1.3). Gorillaz' *The Mountain*, Best Alternative Music Album, featuring Anoushka Shankar and Asha Bhosle (§1.4). No music video; The Hindu said the team is mulling one (§3.2). *Pattarai* (§6.2). Session names beyond Sontakke and Srinivasan (§5).
 
-Not clean. The "so" before "he recorded her voice first" is the hold.
+The voice-first paragraph no longer uses "so." Clear for READY_FOR_REVIEW.
 
 ## Facts requiring final verification
 

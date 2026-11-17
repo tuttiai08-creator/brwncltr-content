@@ -1,16 +1,16 @@
 # bc-20261117-02-varuvaaiy-grammy
 
-- status: DRAFTING
+- status: READY_FOR_REVIEW
 - created: 2026-11-17
 - updated: 2026-11-17
 - beat: Music
 - story_type_hypothesis: Feature
-- recommendation: (flow-pass joins filed; "so he recorded" is not his sequence; awaiting a fix)
+- recommendation: (voice-first paragraph matches his sequence; awaiting human review)
 - blocked_reason:
 - research_path: content/research/bc-20261117-02-20261117.md
-- draft_path: content/ready-for-review/20261117-bc-20261117-02-varuvaaiy-bharati-grammy-devan-susha.md
-- review_path:
-- plan_gate: skipped 2026-11-17 by the owner via the Content Editor. Flow-pass "so" does not match the Hindustan Times sequence. Not READY_FOR_REVIEW.
+- draft_path: moved to review_path
+- review_path: content/ready-for-review/20261117-bc-20261117-02-varuvaaiy-bharati-grammy-devan-susha.md
+- plan_gate: skipped 2026-11-17 by the owner via the Content Editor. Voice-first paragraph cleared. Not publication APPROVED.
 - sensitive: Hindu devotional subject (Krishna poem, a puja). Do not exoticize the worship. Do not treat a colonial reading of the poem as fact. Do not flatten Indian-American and Chennai into one "India" credit. Family details in one interview are not load-bearing.
 
 ## Why now
@@ -66,3 +66,4 @@ confidence: high on the nomination, the credited names, the release date, and th
 - 2026-11-17: Content Editor scored the rewrite 7/10, Revise. Reordered draft filed verbatim. Voice-first now precedes the pallavi. Nomination-day scene is in "One song." Title gloss is italics, matching the Hindustan Times explanation, not a quotation. "So" is gone. Toronto is attributed to The Hindu. Temple compression and "any other day" match Hindustan Times and Billboard India. Untagged quotes listed by outlet in the verification section. Remains READY_FOR_REVIEW. Not publication APPROVED. Nothing published. Nothing merged.
 - 2026-11-17: Rule 11 rhythm pass filed verbatim. Joined lines only: mother taught it "and later"; 20 years and the backward recording, then "He'd wanted" Bardiya/Des; poem "and its opening line"; Toronto "and on Aug. 7"; "hasn't composed for a film since Bale Pandiya in 2010" and "So this year." No new facts. Remains READY_FOR_REVIEW. Not publication APPROVED. Nothing published. Nothing merged.
 - 2026-11-17: Flow-pass joins applied from the PR comment. Nominee line is one sentence. Credits sit on the voice-first sentence. "The Hindu reported" is out of the Toronto/release sentence. Returned READY_FOR_REVIEW → DRAFTING because "she suggested Des, so he recorded her voice first" makes the raga the cause. Hindustan Times joins those steps with "and." Prose not otherwise rewritten. Not APPROVED. Nothing published. Nothing merged.
+- 2026-11-17: "So" removed from the voice-first paragraph. The method is "he built the track backward: he recorded her voice first," and the raga is "He'd wanted Raag Bardiya, and she suggested Des." Matches §5. Sontakke and Srinivasan stay on that sentence. Advanced DRAFTING → READY_FOR_REVIEW. Not publication APPROVED. Nothing published. Nothing merged.
