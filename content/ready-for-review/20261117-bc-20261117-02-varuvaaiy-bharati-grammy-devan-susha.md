@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-02 |
-| State | DRAFTING |
+| State | READY_FOR_REVIEW |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Draft supplied by the owner via the Content Editor. Filed verbatim. Prose not rewritten. |
@@ -112,11 +112,11 @@ Susha has been singing Carnatic music since she was five, learning from her moth
 
 ### "The very 1st"
 
-Devan's Instagram caption called "Varuvaaiy" "the very 1st Tamil Song to ever be nominated," and headlines across India ran with it, some calling it the country's only nomination this year. Indian musicians turn up elsewhere on the ballot, though. Gorillaz's *The Mountain*, up for Best Alternative Music Album, has Anoushka Shankar's sitar and Asha Bhosle's voice on it, according to the band's credits.
+Devan's Instagram caption called "Varuvaaiy" "the very 1st Tamil Song to ever be nominated," and headlines across India ran with it, some calling it the country's only nomination this year. Indian musicians turn up elsewhere on the ballot, though. Gorillaz's *The Mountain*, up for Best Alternative Music Album, features Anoushka Shankar and Asha Bhosle, according to the band's credits.
 
 ### Next
 
-There's no music video yet, though The Hindu said the team is thinking about one, and the Bharati album Devan was making in June still has no title or release date. He has a film score coming for the Tamil-Telugu bilingual *Pattarai*. Before any of that, final-round Grammy voting runs Dec. 10 to Jan. 7.
+There's no music video yet, though The Hindu said the team is thinking about one, and the Bharati album Devan was making in June still has no title or release date. He has a film score coming for the Tamil-Telugu bilingual *Pattarai*. Final-round Grammy voting runs Dec. 10 to Jan. 7.
 
 "For now, all my focus is on taking 'Varuvaaiy' to the next level," he told The Hindu.
 ## Verification
@@ -154,20 +154,15 @@ Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md` only. T
 | "Devan is not from the Carnatic scene," she told Hindustan Times, "but this collaboration came out of the blue so we both are very excited." | §6.3. Exact. | PASS. |
 | Devan's Instagram caption called "Varuvaaiy" "the very 1st Tamil Song to ever be nominated," and headlines across India ran with it, some calling it the country's only nomination this year. | §1.3, §1.4. The reprinted caption uses those words. Indian Express and Hindustan Times call it India's only nomination, in the papers' voice. The draft attributes that "only" line to headlines, not to the Academy. | PASS. |
 | Indian musicians turn up elsewhere on the ballot, though. | §1.4. Gorillaz is nominated. Anoushka Shankar, Asha Bhosle, Ajay Prasanna, and Amaan and Ayaan Ali Bangash are on the store tracklist and are not the nominee string. | PASS if read with the next sentence. It does not call them nominees. |
-| Gorillaz's *The Mountain*, up for Best Alternative Music Album, has Anoushka Shankar's sitar and Asha Bhosle's voice on it, according to the band's credits. | §1.4. Academy: "The Mountain Gorillaz," Best Alternative Music Album. Gorillaz store: "feat. ... Anoushka Shankar" and "feat. Asha Bhosle ..." The packet does not record an instrument for Shankar or a vocal role for Bhosle. | FAIL. "Sitar" and "voice" are not in the packet. The store lines support the names as features, not those roles. |
+| Gorillaz's *The Mountain*, up for Best Alternative Music Album, features Anoushka Shankar and Asha Bhosle, according to the band's credits. | §1.4. Academy: "The Mountain Gorillaz," Best Alternative Music Album. Gorillaz store tracklist features Anoushka Shankar and Asha Bhosle. | PASS. Names only. No instrument or vocal role. |
 | There's no music video yet, though The Hindu said the team is thinking about one, and the Bharati album Devan was making in June still has no title or release date. | §3.2. "Currently mulling on a music video." "No title, tracklist, label, or release date for that album was found." June is The Hindu. | PASS. "No title or release date" matches what the packet could not find. It no longer says "hasn't been announced." |
 | He has a film score coming for the Tamil-Telugu bilingual *Pattarai*. | §6.2. The Hindu: upcoming Tamil-Telugu bilingual *Pattarai*. | PASS on the fact. The sentence does not name The Hindu. |
-| Before any of that, final-round Grammy voting runs Dec. 10 to Jan. 7. | §1.2 dates the voting. §3.2 and §6.2 do not date the video, the Bharati album, or *Pattarai* against Dec. 10. | FAIL. "Before any of that" puts voting ahead of the video, the album, and *Pattarai*. The packet does not. |
+| Final-round Grammy voting runs Dec. 10 to Jan. 7. | §1.2. "Dec. 10, 2026 – Jan. 7, 2027." | PASS. No sequence claim against the video, the album, or *Pattarai*. |
 | "For now, all my focus is on taking 'Varuvaaiy' to the next level," he told The Hindu. | §6.2. Exact. | PASS. |
 
 Section 9 ("what a draft must not say") was checked against the prose. The draft does not say the Academy certified a first, that he won an earlier Grammy, that 526 is an Academy figure, that one raga is settled, that the poem's demons are colonial, that it was written in Pondicherry, that he studied at Illinois, that DistroKid signed the record, that Anil Srinivasan is a nominee, or a Dhurandhar entry count. It does not describe the sound from a listen. It does not use "Shivyan."
 
-Second pass, revised draft, 2026-11-17. The three earlier holds are fixed: the title gloss is a paraphrase with no quotation marks, "Carnatic singer" is not in Susha's mouth, and the album line says "no title or release date."
-
-Hold for a fix before READY_FOR_REVIEW:
-
-1. "has Anoushka Shankar's sitar and Asha Bhosle's voice on it, according to the band's credits." Packet §1.4 quotes the Gorillaz store feat. lines and does not record sitar or voice.
-2. "Before any of that, final-round Grammy voting runs Dec. 10 to Jan. 7." The dates match §1.2. "Before any of that" is a sequence the packet does not have.
+Third pass, 2026-11-17. The two remaining holds are fixed. The Gorillaz sentence names Anoushka Shankar and Asha Bhosle and does not assign sitar or voice. The voting sentence is the Dec. 10 to Jan. 7 window only. Diff against the previous filed draft shows no other prose change. Clear for READY_FOR_REVIEW.
 
 ## Facts requiring final verification
 
