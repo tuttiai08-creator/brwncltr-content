@@ -51,3 +51,4 @@ Unchanged from discovery (2026-08-30): audience 5, timeliness 5, cultural 5, ang
 - 2026-11-17: Content Editor review on PR #26, Revise. Dek, nut, Hyderabad moved up, Indore kicker cut, Lokur line made generic. Status stays READY_FOR_REVIEW.
 - 2026-11-17: Re-review of a9b4039. Hyderabad sentence names Dharenavar as the person who submitted the video. Lokur line uses "has." Dek keeps Indore and Ahmedabad. "Every city" is not in the packet. Status stays READY_FOR_REVIEW.
 - 2026-11-17: Re-review of df4a1cb. Hyderabad subhead covers only that paragraph. Order is Indore letter, Indore stage, Hyderabad, nut. "2024 show" dropped from the Ahmedabad clause. Status stays READY_FOR_REVIEW.
+- 2026-11-17: Re-review of b22c5e1. The Hyderabad subhead is cut so it no longer covers the nut. "What Britain heard" is the first subhead. Ahmedabad clause is "A few days later, in Ahmedabad." Status stays READY_FOR_REVIEW.
