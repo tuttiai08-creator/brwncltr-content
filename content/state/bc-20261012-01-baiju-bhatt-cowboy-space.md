@@ -1,8 +1,8 @@
 # bc-20261012-01-baiju-bhatt-cowboy-space
 
-- status: READY_FOR_REVIEW
+- status: DRAFTING
 - created: 2026-10-12
-- updated: 2026-10-13
+- updated: 2026-11-17
 - beat: Business / creators / entrepreneurship
 - story_type_hypothesis: Feature, Complex register. Identity is context, not the frame.
 - recommendation: pursue
@@ -22,7 +22,7 @@
 
 ## Owner approval
 
-Owner Taha Aziz approved **pursue** and asked for an outline on 2026-10-12. On 2026-10-13 the owner approved the plan and the headline "After Co-Founding Robinhood, Baiju Bhatt Is Building Rockets." That approval was **APPROVED_FOR_DRAFT**, permission to draft. Current status is **READY_FOR_REVIEW**. It is not article `APPROVED` and it is not a publish. The outline lives in `content/state/bc-20261012-01-plan.md`. The research packet is `content/research/bc-20261012-01-20261013.md`. The verbatim draft is in the review packet. No article prose in this file.
+Owner Taha Aziz approved **pursue** and asked for an outline on 2026-10-12. On 2026-10-13 the owner approved the plan and the headline "After Co-Founding Robinhood, Baiju Bhatt Is Building Rockets." That approval was **APPROVED_FOR_DRAFT**, permission to draft. Current status is **DRAFTING**. It is not article `APPROVED` and it is not a publish. The outline lives in `content/state/bc-20261012-01-plan.md`. The research packet is `content/research/bc-20261012-01-20261013.md`. The verbatim draft is in the review packet. No article prose in this file.
 
 ## Seed
 
@@ -120,3 +120,4 @@ confidence: high
 - 2026-10-13: Status set to READY_FOR_REVIEW. Fact-check against content/research/bc-20261012-01-20261013.md is in the review packet under Facts requiring final verification. Not article APPROVED. Do not publish.
 - 2026-10-13: Content Manager replaced the full draft. Committer pasted it verbatim and re-ran the fact-check. Status stays READY_FOR_REVIEW. Not article APPROVED. Do not publish.
 - 2026-10-13: Content Manager replaced the full draft again. Committer pasted it verbatim. Re-check of the two open lines, plus a scan of the draft: none. Status stays READY_FOR_REVIEW. Not article APPROVED. Do not publish.
+- 2026-11-17: Content Manager replaced the full draft. Committer pasted it verbatim and fact-checked it against content/research/bc-20261012-01-20261013.md. Findings remain in the review packet. Status set to DRAFTING. Not article APPROVED. Do not publish.
