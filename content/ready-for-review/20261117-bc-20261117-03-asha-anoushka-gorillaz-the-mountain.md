@@ -5,10 +5,10 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-03 |
-| State | READY_FOR_REVIEW |
+| State | DRAFTING |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
-| Authoring agent / human | Draft supplied by the owner via the Content Editor. Replacement filed verbatim 2026-11-17. Fact-check cleared. |
+| Authoring agent / human | Prose written by BRWNCLTR Content Manager. The repo agent filed it verbatim and fact-checked it. Neither Aziz nor the Content Editor wrote it. |
 | Primary beat | Music |
 | Secondary beat (optional) | Entertainment |
 
@@ -34,7 +34,7 @@ Bhosle sings once on the album. Shankar's sitar is on seven tracks, and she is a
 
 ## Primary sources
 
-See `content/research/bc-20261117-03-20261117.md`. Academy album page, full nominations list, Gorillaz store tracklist, Pitchfork credits, BBC obituary, Vogue India, Rolling Stone India, The Nod, Hollywood Reporter India, Rolling Stone UK, CBC Q, NME tribute, SNL upload, British Comedy Guide.
+See `content/research/bc-20261117-03-20261117.md`. Academy album page, full nominations list, Gorillaz store tracklist, Pitchfork credits, BBC obituary, Vogue India, Rolling Stone India, The Nod, Hollywood Reporter India, Rolling Stone UK, CBC Q, NME tribute, SNL upload, British Comedy Guide. Hewlett's "album about death" question is Rolling Stone India, Anurag Tagat (packet item 42). The body does not name that outlet.
 
 ## Secondary sources
 
@@ -42,8 +42,8 @@ Indian Express, 17 November 2026 (the nomination-day footnote). Pitchfork catego
 
 ## Reporting / research notes
 
-- Draft text below is the owner's replacement, pasted verbatim. Prose was not rewritten.
-- Fact-check against the packet on 2026-11-17 cleared. State is READY_FOR_REVIEW.
+- Prose was written by BRWNCLTR Content Manager. The repo agent filed this draft verbatim and fact-checked it. Neither Aziz nor the Content Editor wrote it.
+- Fact-check on 2026-11-17 did not clear. Two sentences settle a session length the packet leaves in conflict, and one hardens "not necessarily a raga." State is DRAFTING.
 - No new reporting. No listening. No Instagram opened.
 
 ## Outline
@@ -64,21 +64,19 @@ Indian Express, 17 November 2026 (the nomination-day footnote). Pitchfork catego
 
 Damon Albarn sat cross-legged in Mumbai, playing R.D. Burman's harmonium, while Asha Bhosle sang. She was 91, and he had admired her from afar for years. When he wrote about that day in April, two days after she died, he said the memory would stay with him forever.
 
-Her voice is on "The Shadowy Light," the 12th track of *The Mountain*, the ninth Gorillaz album. Anoushka Shankar's sitar is on seven others. On Nov. 16, the Recording Academy nominated the album for Best Alternative Music Album at the 2027 Grammys, alongside records from Phoebe Bridgers, Charli XCX, Geese, Alabama Shakes and ROSALÍA. The nominee listed on the Academy's page is Gorillaz, and neither woman's name appears on that line.
-
-Pitchfork's write-up of the category didn't mention either of them, and the Indian Express folded them into a single line in a story about another nominee. The album's credits tell a fuller story.
+Her voice is on "The Shadowy Light," the 12th track of *The Mountain*, the ninth Gorillaz album. Anoushka Shankar's sitar is on seven others. On Nov. 16, the Recording Academy nominated the album for Best Alternative Music Album at the 2027 Grammys. The nomination is Gorillaz's.
 
 ### An album about death
 
-The record started with a family emergency. At the end of 2022, Jamie Hewlett flew to Jaipur after his mother-in-law had a stroke and spent two months there. He told Albarn they had to make a Gorillaz project in India, and the two went together in May 2023. After they got back to London, both of their fathers died, ten days apart. Albarn took his father's ashes to Varanasi and scattered them in the Ganges.
+Gorillaz made the record after Albarn and Jamie Hewlett lost their fathers, ten days apart. Albarn scattered his father's ashes in the Ganges at Varanasi.
 
-"If we can make an album about death that makes people feel less afraid of the concept of it, wouldn't that be an amazing gift?" Hewlett said he asked Albarn, according to Rolling Stone India.
+Hewlett put the idea to Albarn as a question: "If we can make an album about death that makes people feel less afraid of the concept of it, wouldn't that be an amazing gift?"
 
 ### The boatman
 
-The Hindi lyric on "The Shadowy Light" is by Kausar Munir, who shares the writing credit with Albarn and Gruff Rhys, who also sings on it. Ajay Prasanna's bansuri and the sarods of Amaan Ali Bangash and Ayaan Ali Bangash fill out the track. Bhosle wasn't sure about it at first.
+Kausar Munir wrote the Hindi lyric for "The Shadowy Light," and Gruff Rhys also sings on the track, which carries bansuri and two sarods.
 
-"I was hesitant to work on this album of Gorillaz, but when I heard the music track and the lyrics, it triggered something deep inside me," she told Rolling Stone India.
+"I was hesitant to work on this album of Gorillaz, but when I heard the music track and the lyrics, it triggered something deep inside me," Bhosle told Rolling Stone India.
 
 The song asks a boatman to carry the singer across deep water. In February, days before the album came out, Bhosle told Vogue India that the river was her life's journey: her birth, her relationships, her music, her duties as a mother, daughter, sister, wife and Indian.
 
@@ -86,11 +84,11 @@ The song asks a boatman to carry the singer across deep water. In February, days
 
 ### The sitar in London
 
-Shankar came in after the India trips were done, when Gorillaz asked her to play sitar and she recorded with Albarn in London. By the time they reached out, she told The Nod, "they'd already had their big India trip that made them want to make an album about their experiences."
+Shankar had never worked with Gorillaz when they reached out. They wanted sitar, so she recorded with Albarn in London over two days, including one free-flowing, exploratory session. By the time they called, she told The Nod, "they'd already had their big India trip that made them want to make an album about their experiences."
 
-Once she was in the room, the job kept growing. By the end, her sitar was on seven tracks, from the title song to "Orange County," "The Sad God" and "The Moon Cave," and she shared writing credit on five songs. On one, she suggested fast strumming that would create what she called "a cocoon for the voice."
+Her sitar ended up on seven tracks, and she has a writing credit on five. On a track with "Prince" in the title, she suggested fast strumming that would create what she called "a cocoon for the voice." The title song might sound very Indian, she told Rolling Stone India, but it isn't built on a raga.
 
-"They were very open about which songs to put sitar on, and after one or two, they must have liked my style, so we kept doing more," she told The Hollywood Reporter India.
+"The music is very inherently them," she said. "The melodies are being played with inflections and improvisations that are a bit more Indian-influenced in nature, because of who's playing it in those moments."
 
 For Albarn, the sessions reached back to his own childhood. His father loved Indian classical music and played him Ravi Shankar records as a baby, and on CBC's *Q*, Albarn described improvising with Ravi's daughter as an extraordinary moment. "I probably listened to Ravi Shankar before I listened to The Beatles when I was a kid," he told Rolling Stone UK.
 
@@ -98,55 +96,51 @@ At the album's live unveiling, Shankar told The Nod, the band asked her to just 
 
 ### April
 
-*The Mountain* came out on Feb. 27. On April 12, about six weeks later, Bhosle died in Mumbai at 92, her son confirmed, the BBC reported. Her career ran more than eight decades, through the long partnership with R.D. Burman, whom she married in 1980, and the 1997 Cornershop hit named after her. The BBC called "The Shadowy Light" one of her final recordings.
+*The Mountain* came out on Feb. 27. About six weeks later, on April 12, Bhosle died in Mumbai. She was 92. Her career ran more than eight decades, through the long partnership with R.D. Burman, whom she married in 1980, and the 1997 Cornershop hit named after her. The BBC called "The Shadowy Light" one of her final recordings.
 
 Albarn ended his tribute with a line to her directly: "Asha, you had the voice of an angel, we love you."
 
-### The name on the line
+### The other side
 
-Neither woman is new to the Grammys. Bhosle was nominated twice, in 1997 with Ali Akbar Khan and in 2006 with the Kronos Quartet for an album of Burman's songs. Shankar has 14 nominations, the latest two at the 2026 ceremony. Neither has won.
+Bhosle was nominated twice and Shankar 14 times. Neither has won. The 2027 Grammys air Feb. 7.
 
-The 2027 Grammys air Feb. 7, with Gorillaz as the name on the nomination. The record itself credits both women, track by track. Bhosle told Vogue India that when she reached the other side of the river, her journey would be complete and she would attain moksha.
+Bhosle told Vogue India that when she reached the other side of the river, her journey would be complete and she would attain moksha.
 
 "If you listen carefully, you will be able to discern thousands of sounds floating around us. I shall become one of them."
 ## Verification
 
-Rechecked 2026-11-17 against `content/research/bc-20261117-03-20261117.md` after the replacement draft. Prose was not edited. No holds.
+Checked 2026-11-17 against `content/research/bc-20261117-03-20261117.md`. The article body was filed verbatim. Two holds.
+
+Hewlett's question, "If we can make an album about death that makes people feel less afraid of the concept of it, wouldn't that be an amazing gift?", is Rolling Stone India, Anurag Tagat, packet item 42. The body does not name the outlet.
 
 | Draft claim | Packet | Result |
 | --- | --- | --- |
-| Headline: they "helped make" the nominated album | 1, 16, 19–21 | Clear. She sings on one track. Shankar plays and co-writes. The nominee is Gorillaz. |
-| Dek: "one of her final recordings"; sitar on seven tracks; nomination says Gorillaz | 19–20, 25, 33, 1 | Clear. Seven sitar credits. BBC's phrase, not "her last song." |
-| Cross-legged in Mumbai, Burman's harmonium, while she sang. Age 91. Admired from afar for years. | 35, 37 | Clear. No floor and no room. |
-| Wrote in April, two days after she died; the memory would stay with him | 25, 35, 51 | Clear. Paraphrase of the note. BBC 12 April; NME tribute dated 14 April. |
-| "The Shadowy Light," 12th track, ninth album. Sitar on seven others. | 10, 16, 19, 20 | Clear. Packet says ninth studio album. She is not on track 12. The seven are 1, 2, 5, 7, 9, 14, 15. |
-| Nov. 16, Best Alternative Music Album, alongside Bridgers, Charli XCX, Geese, Alabama Shakes, ROSALÍA. Nominee is Gorillaz. | 1, 2, 5–7 | Clear. Six albums. Neither woman is on the nominee line. |
-| Pitchfork's category piece names neither. Indian Express uses one line in a story about another nominee. | 9, 18, 60, 61 | Clear. |
-| Started with a family emergency. End of 2022, Jaipur, stroke, two months. | 42 | Clear. |
-| He told Albarn they had to make a Gorillaz project in India. Together in May 2023. | 42 | Clear. The sentence does not place the asking in Jaipur. |
-| After London, both fathers died, ten days apart. Ashes in the Ganges at Varanasi. | 39, 43 | Clear. |
-| Hewlett's "amazing gift" quote, via Rolling Stone India | 42 | Clear. Exact. |
-| Hindi lyric by Kausar Munir, who shares the credit with Albarn and Rhys; Rhys sings. Prasanna bansuri. Bangash sarods. | 16, 18, 29 | Clear. Bangash, not Ali Khan. "Hindi lyric" is the Rolling Stone India reporter's line. |
-| "Wasn't sure about it at first," then the hesitant quote | 29 | Clear. "Hesitant," not "almost said no." Quote is exact through "deep inside me." |
-| The song asks a boatman across deep water. February, days before release, Vogue: the river as her life's journey, duties as mother, daughter, sister, wife and Indian. | 13, 22, 30 | Clear. Vogue is 18 February; album is 27 February. Summary omits "achievements" and shortens "dedication to music." It does not use the conflicting Hindi lines. |
-| "The boatman is a metaphor for my music..." | 30 | Clear. Exact. "Wife and Indian," not the unopened "Hindu Indian" post. |
-| After the India trip; asked to play sitar; recorded with Albarn in London. Nod quote. | 44, 46 | Clear. Exact quote. No day-count. |
-| Sitar on seven tracks, naming the title song, "Orange County," "The Sad God," and "The Moon Cave." Writing credit on five. | 19–21 | Clear. Those four are among the seven. Writer credits are 1, 7, 9, 14, 15. |
-| Fast strumming that would create "a cocoon for the voice" | 45 | Clear. Her line is "a multi-layered technique where fast strumming creates a cocoon for the voice." The quoted fragment is exact. |
-| "They were very open about which songs..." | 45 | Clear. Exact. |
-| Father, Ravi Shankar records, from when Albarn was a baby. CBC: improvising with her was an extraordinary moment. Beatles quote, Rolling Stone UK. | 38, 39, 40 | Clear. The Beatles sentence is exact. "Extraordinary moment" is a paraphrase of his CBC line, not a second quote. |
-| Unveiling: asked to stay onstage. February, "Orange County," Norton, Kara Jackson. SNL debut, "The Moon Cave," Black Thought, Asha Puthli. | 44, 55, 56, 57 | Clear. Does not name Copper Box. Puthli is not Bhosle. Norton is 13 February; SNL is 7 March. |
-| Out Feb. 27. April 12, about six weeks later, Mumbai, 92. Son confirmed, the BBC reported. | 13, 25 | Clear. The gap is 44 days. |
-| Eight decades. Married Burman in 1980. 1997 Cornershop hit. BBC: one of her final recordings. | 25, 33 | Clear. No song count, no cause of death, not "her last song." |
-| "Asha, you had the voice of an angel, we love you." | 35 | Clear. One sentence, as printed. |
-| 1997 with Ali Akbar Khan. 2006 with Kronos, Burman's songs. Shankar: 14 nominations, latest two at the 2026 ceremony. Neither has won. | 6, 7 | Clear. Not 2027 nominations. Wins 0. |
-| Grammys air Feb. 7, Gorillaz as the name on the nomination. Credits both women. Moksha, then the "thousands of sounds" quote. | 1, 2, 30 | Clear. No trophy claim. The closing quote is exact. |
-
-Do-not-write list, checked against this draft: neither woman is called the 2027 nominee; "one of her final recordings" is the BBC's wording; no cause of death; Bangash not Ali Khan; Puthli is a different singer; no session day-count; no apartment, boom mic, or floor; no "Majhi Re Majhi"; no *Parvat*; no "first" claim; no song count; no unlistened craft.
+| Headline: they helped make the nominated album | 1, 16, 19–21 | Clear. |
+| Dek: one of her final recordings; sitar on seven tracks; "The nomination says Gorillaz." | 1, 19–20, 25, 33 | Clear. Seven sitar credits. BBC's phrase. |
+| Cross-legged in Mumbai, Burman's harmonium, while she sang. Age 91. Admired for years. April note, two days after she died. | 35, 37, 51 | Clear. No floor. |
+| "The Shadowy Light," track 12, ninth album. Sitar on seven others. Nov. 16 nomination. "The nomination is Gorillaz's." | 1, 2, 10, 16, 19–20 | Clear. The seven are tracks 1, 2, 5, 7, 9, 14, 15. |
+| Fathers ten days apart. Ashes in the Ganges at Varanasi. | 39, 43 | Clear. |
+| Hewlett's question, exact | 42 | Clear. Outlet is in this section, not the body. |
+| Munir wrote the Hindi lyric; Rhys sings; bansuri and two sarods | 16, 29 | Clear. Does not misname the sarod players. |
+| Hesitant quote, to Rolling Stone India | 29 | Clear. Exact through "deep inside me." |
+| Boatman across deep water. Vogue, days before release, life's journey and the duties list. Boatman-as-music quote. | 13, 22, 30 | Clear. Summary omits "achievements." Quoted line is exact. |
+| Never worked with Gorillaz. They wanted sitar. Recorded with Albarn in London. | 44 | Clear. |
+| "over two days, including one free-flowing, exploratory session" | 44, 45, 46, section 8 | HOLD. The Nod narrates two days and one exploratory session. Hollywood Reporter India prints her "big two-day session." Rolling Stone India prints her "whole day." The packet says not to settle the count. |
+| Nod quote about the India trip | 44 | Clear. Exact. |
+| Sitar on seven tracks. Writing credit on five. "Prince" / "a cocoon for the voice." | 19–21, 45 | Clear. Quoted fragment is exact. |
+| "might sound very Indian... but it isn't built on a raga" | 47 | HOLD. She said it "might sound very 'Indian'" but "it's not necessarily based on a raga." "Isn't built on" drops "not necessarily." |
+| "The music is very inherently them" and the melodies sentence | 47 | Clear. Exact, without the packet's "[Gorillaz]" insert. |
+| Father, Ravi Shankar, CBC paraphrase, Beatles quote | 38–40 | Clear. |
+| Unveiling. Norton, "Orange County," Kara Jackson. SNL, "The Moon Cave," Black Thought, Asha Puthli. | 44, 55–57 | Clear. Puthli is not Bhosle. |
+| Feb. 27. About six weeks later, April 12, Mumbai, 92. Eight decades, Burman 1980, Cornershop 1997. BBC: one of her final recordings. | 13, 25, 33 | Clear. 44 days. No cause of death. |
+| "Asha, you had the voice of an angel, we love you." | 35 | Clear. One sentence. |
+| Nominated twice; Shankar 14 times; neither has won. Grammys air Feb. 7. Moksha summary and closing quote. | 2, 6, 7, 30 | Clear. |
 
 ## Facts requiring final verification
 
-Still open in the packet, and not asserted in this draft: which Instagram account carried the tribute; the unopened longer "Hindu Indian" post; the exact Hindi against the three wordings; one London day versus two; any public performance of "The Shadowy Light" by Bhosle; which unveiling asked Shankar to stay onstage.
+- The London day-count, which this draft states as two days. Packet items 44, 45, and 46 disagree.
+- "Isn't built on a raga" against "not necessarily based on a raga" (item 47).
+- Still open, and not asserted here: which Instagram account carried the tribute; the unopened "Hindu Indian" post; the exact Hindi; any public performance of "The Shadowy Light" by Bhosle; which unveiling asked Shankar to stay onstage.
 
 ## SEO title
 
@@ -158,7 +152,7 @@ Asha Bhosle Anoushka Shankar Gorillaz The Mountain Grammy
 
 ## Meta description
 
-Gorillaz' The Mountain is up for Best Alternative Music Album. Asha Bhosle sings on The Shadowy Light. Anoushka Shankar plays sitar on seven tracks. The nominee is Gorillaz.
+Gorillaz' The Mountain is up for Best Alternative Music Album. Asha Bhosle sings on The Shadowy Light. Anoushka Shankar plays sitar on seven tracks, billed on six plus The Moon Cave.
 
 ## Slug
 
@@ -166,7 +160,7 @@ asha-anoushka-gorillaz-the-mountain
 
 ## Excerpt
 
-Gorillaz' *The Mountain* is nominated for Best Alternative Music Album. Asha Bhosle sings on "The Shadowy Light." Anoushka Shankar is billed on six tracks and has a seventh sitar credit. The Academy's nominee is Gorillaz.
+Gorillaz' *The Mountain* is nominated for Best Alternative Music Album. Asha Bhosle sings on "The Shadowy Light." Anoushka Shankar plays sitar on seven tracks: billed on six, plus "The Moon Cave." She has a writing credit on five.
 
 ## Category
 
@@ -183,9 +177,9 @@ Asha Bhosle, Anoushka Shankar, Gorillaz, The Mountain, The Shadowy Light, Damon 
 
 ## Social captions
 
-- Instagram/feed: Gorillaz' *The Mountain* is nominated for Best Alternative Music Album. Asha Bhosle sings on "The Shadowy Light." Anoushka Shankar's sitar is on seven tracks. The nominee line says Gorillaz.
-- X/Twitter-length: *The Mountain* is up for Best Alternative Music Album. Bhosle sings once. Shankar is billed on six tracks. The nominee is Gorillaz.
-- Newsletter: The Grammy line says Gorillaz. The credits also say Asha Bhosle and Anoushka Shankar.
+- Instagram/feed: Gorillaz' *The Mountain* is nominated for Best Alternative Music Album. Asha Bhosle sings on "The Shadowy Light." Anoushka Shankar plays sitar on seven tracks, billed on six plus "The Moon Cave," and has a writing credit on five.
+- X/Twitter-length: *The Mountain* is up for Best Alternative Music Album. Bhosle sings once. Shankar plays sitar on seven tracks and has a writing credit on five.
+- Newsletter: Asha Bhosle sings on Gorillaz' *The Mountain*. Anoushka Shankar plays sitar on seven tracks, billed on six plus "The Moon Cave."
 
 ## Featured-image concept
 
