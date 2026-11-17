@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-01-ajon-singh-primetime |
-| State | READY_FOR_REVIEW |
+| State | DRAFTING |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Content Manager draft, placed verbatim. Owner skipped plan approval on 2026-11-17. Prose was not rewritten. |
@@ -95,17 +95,15 @@ The Hindi films weren't the only thing on. Singh comes from a family of immigran
 
 The film's source is Luke Dittrich's 2007 *Esquire* story about a sting in Murphy, Texas, that ended with the suicide of an assistant district attorney named Bill Conradt. What hooked Singh was the struggling young actor whose big break was playing a 13-year-old boy on the show.
 
-"Chris Hansen might be the A-list role of this film, but I thought the Decoy Dan character was its heart," he told *The Cold Magazine*.
-
 ### The wolfman
 
-India is inside the film, too. Its monster, Elle reported, is rooted in a New York Times story Singh read about child disappearances in India, where wolves were the likely explanation but some villagers insisted they had seen a wolfman. He set it beside a Hansen segment about child slave labor in India.
+India is inside the film, too. Its monster is rooted in a New York Times story Singh read about child disappearances in India, where wolves were the likely explanation but some villagers insisted they had seen a wolfman. He set it beside a Hansen segment about child slave labor in India.
 
 "So I was like, what if I took these two stories, and I created sort of this mythical background?" he said.
 
-India has noticed. Most of his family is from Mumbai, and he'd like A24 to send him out so he can show love to all the people in India who've been reaching out. When he heard Indian news channels had been cutting their own edits of the film, he said, "Oh my god, I love it."
+### Mumbai
 
-"There's only a handful of Indian and Indian-American people in this business," he said. "The amount of support I think when people saw that my last name was Singh was like crazy."
+India has noticed. Most of his family is from Mumbai, and he'd like A24 to send him out so he can show love to all the people in India who've been reaching out. When he heard Indian news channels had been cutting their own edits of the film, he said, "Oh my god, I love it."
 
 ### Five days
 
@@ -115,31 +113,40 @@ Singh has heard that the director Tyler Falbo handed Pattinson the script at a p
 
 Singh rewrote the character in five days. Pattinson took a weekend with the pages and said yes.
 
+Dan was the part Singh cared about most. "Chris Hansen might be the A-list role of this film, but I thought the Decoy Dan character was its heart," he told *The Cold Magazine*.
+
 Skyler Gisondo, who plays Dan, is nominated at the Gothams too. When test audiences found the original ending too bleak, Gisondo pitched a new one to Oppenheim over dinner: Dan gets his SAG-AFTRA card. The new ending calls back to him, Singh said: "Are you an actor?"
 
 ### Nov. 30
 
-The real Hansen is not a fan. Before the release he called the film "an insult to the thousands of men and women who work hard every day to protect children from predators." Singh's position is that judging the show isn't his job as a writer, and that the filmmakers have no interest in villainizing Hansen.
+The real Hansen is not a fan. Before the release he told the same paper the film was "an insult to the thousands of men and women who work hard every day to protect children from predators." Singh's position is that judging the show isn't his job as a writer, and that the filmmakers have no interest in villainizing Hansen.
 
-Daniel Kaluuya read the script and wanted Singh to write with him. In August 2025, Deadline reported that the two were co-writing a Spider-Punk animated feature for Sony Pictures Animation, and last December that a first draft was in its finishing stages.
+Daniel Kaluuya read the script and wanted Singh to write with him. In August 2025, Deadline reported that the two were co-writing a Spider-Punk animated feature for Sony Pictures Animation, and in December 2025 that a first draft was in its finishing stages.
 
-On Nov. 30, the script nobody wanted to make his way is up for a Gotham.
+On Nov. 30, the script nobody wanted made his way is up for a Gotham.
 
 "I've basically gone from being not viable in the marketplace to being viable in the marketplace," he said. "And I haven't really changed all that much."
 
 ## Facts requiring final verification
 
-Restructured draft filed verbatim. Sentence check against the packet on 2026-11-17: clear. Each outlet is named once. Later quotes are "he said." They belong to a source named in the piece:
+Revised body filed verbatim. Sentence check on 2026-11-17 is not clean. Canonical state: `DRAFTING`. Prose was not edited.
 
-- The Nod (named on the musicality quote): Mumbai and "show love" (item 34); "Are you an actor?" (item 31); the angel-of-punishment line, as Singh's account of what Pattinson told him (item 29); the plane line "What? I can't do this" (item 30); the page-one note and "He wanted *Network*" (item 26).
-- Elle (named on the monster): the wolfman origin, with no state and no decade (item 39); "what if I took these two stories" (item 39); "Oh my god, I love it" (item 43); "There's only a handful of Indian and Indian-American people in this business" (item 37).
-- *The Hollywood Reporter* (named on the Zoom): Hansen's "insult" line, before the release (item 33); "wanted Singh to write with him" (item 46); "not viable… viable" (item 46); the bathroom notes and the weekend yes (item 29).
-- *The Cold Magazine* (named on the Decoy Dan quote): that quote only (item 11).
-- Deadline (named on Spider-Punk): August 2025 co-writing report (item 44) and December 2025 "finishing stages" of a first draft (item 47). "Last December" from this draft's date is December 2025.
+Fails:
 
-The monster sentence drops Elle's "early 1990s." Item 39 records that phrase and says the *Times* story was not opened here. The Content Editor's re-score cites a *New York Times* wolf-attacks story dated Sept. 1, 1996. Those two dates conflict. The draft names neither a decade nor an Indian state. The A24 cue title "India 1996" (item 39) is not a confirmation of the *Times* date.
+- "India has noticed." Items 34 and 43 support people in India reaching out, and Elle's report of news-channel edits. They do not support "India" as a noticing public.
+- "On Nov. 30, the script nobody wanted made his way is up for a Gotham." Item 26: for a long time he could not find a producer who liked the script the way it was, and people wanted a page-one rewrite. The sentence does not say that, and it does not parse.
 
-Still open and not used as settled facts: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's co-writer line (item 10); Variety's $19.2 million versus Mojo's $18,830,798 (item 19; no dollar figure in this draft); on-screen executive-producer credit (item 25).
+Untagged lines, by source. Each of these outlets is also named in the piece except Elle. Elle's name was cut from the wolfman paragraph and does not appear elsewhere in the body:
+
+- The Nod: musicality quote (named, item 41); Mumbai and "show love" (item 34); "Are you an actor?" (item 31); angel of punishment, as what Pattinson told him (item 29); "What? I can't do this" (item 30); the page-one note and "wanted *Network*" (item 26).
+- Elle: the wolfman origin, no state and no decade (item 39); "what if I took these two stories" (item 39); "Oh my god, I love it" (item 43). The "handful" quote is cut.
+- *The Hollywood Reporter*: the Zoom (named); Hansen's insult line, "he told the same paper," before the release (item 33); "wanted Singh to write with him" (item 46); "not viable… viable" (item 46); bathroom notes and the weekend yes (item 29).
+- *The Cold Magazine*: Decoy Dan quote, named (item 11). "Dan was the part Singh cared about most" is the draft's gloss of "its heart."
+- Deadline: August 2025 co-writing (item 44) and December 2025 finishing stages (item 47).
+
+Elle's "early 1990s" still conflicts with the Sept. 1, 1996 date cited for the *New York Times* wolf-attacks story, which this packet did not open. The draft names neither a decade nor a state.
+
+Still open and unused: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's co-writer line (item 10); Variety's $19.2 million versus Mojo's $18,830,798 (item 19); on-screen executive-producer credit (item 25).
 
 ## SEO title
 

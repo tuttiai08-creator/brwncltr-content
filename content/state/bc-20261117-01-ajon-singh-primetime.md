@@ -1,6 +1,6 @@
 # bc-20261117-01-ajon-singh-primetime
 
-- status: READY_FOR_REVIEW
+- status: DRAFTING
 - created: 2026-11-17
 - updated: 2026-11-17
 - beat: Film / television
@@ -56,3 +56,4 @@ Top unresolved items are in the plan and the packet: Bronx / Iowa / Phoenix vers
 - 2026-11-17: Five flags fixed in a verbatim replacement. Sentence check clear. Status set to `READY_FOR_REVIEW`. Not publication `APPROVED`. Nothing published. Nothing merged.
 - 2026-11-17: Close now reads "the script that producers kept telling him to start over from page one." Only change. Status remains `READY_FOR_REVIEW`. Nothing published. Nothing merged.
 - 2026-11-17: Content Editor re-score 7/10, verdict Revise. Restructured draft filed verbatim: India material is a section ("The wolfman"), not "in the margins." File headline, excerpt, SEO, and social captions match "The Bollywood Ear Behind A24's Primetime." Untagged quotes map to a named outlet. Sentence check clear. Status remains `READY_FOR_REVIEW`. Nothing published. Nothing merged.
+- 2026-11-17: Editor re-score revision filed verbatim (handful quote cut; Mumbai section; Dan moved; December 2025). Sentence check not clean: "India has noticed" and "the script nobody wanted made his way." Status set to `DRAFTING`. Prose not edited. Nothing published. Nothing merged.
