@@ -30,7 +30,7 @@ The Recording Academy nominated *The Mountain* for Best Alternative Music Album 
 
 ## Central angle
 
-Bhosle sings once on the album. Shankar's sitar is on seven tracks, and she is a writer on five. The nominee is Gorillaz.
+Bhosle sings the boatman lyric on "The Shadowy Light," one of her final recordings. Shankar's sitar is on seven more songs, and she has a writing credit on five. Neither name is on the nomination.
 
 ## Primary sources
 
@@ -49,12 +49,12 @@ Indian Express, 17 November 2026 (the nomination-day footnote). Pitchfork catego
 ## Outline
 
 1. The harmonium
-2. The nominee line
-3. One vocal
-4. The London sitar
-5. Norton, then SNL
+2. The Shadowy Light and the nomination
+3. An album about death
+4. The boatman
+5. The sitar in London
 6. April
-7. The name on the line
+7. The other side
 
 ## Full draft
 
@@ -74,7 +74,7 @@ Hewlett put the idea to Albarn as a question: "If we can make an album about dea
 
 ### The boatman
 
-Kausar Munir wrote the Hindi lyric, and the arrangement around Bhosle is bansuri and two sarods, with Gruff Rhys also singing on the track.
+Kausar Munir wrote the Hindi lyric, and Bhosle sings it over bansuri and two sarods, with Gruff Rhys beside her.
 
 "I was hesitant to work on this album of Gorillaz, but when I heard the music track and the lyrics, it triggered something deep inside me," Bhosle told Rolling Stone India.
 
@@ -92,7 +92,7 @@ She has a writing credit on five songs. On "The Sweet Prince," she suggested fas
 
 For Albarn, the sessions reached back to his own childhood. His father loved Indian classical music and played Ravi Shankar records to him when he was a baby. "I probably listened to Ravi Shankar before I listened to The Beatles when I was a kid," he told Rolling Stone UK.
 
-When the band unveiled the album live, they asked her to stay onstage because she was on so many tracks. She kept turning up. In February she played "Orange County" with Kara Jackson on *The Graham Norton Show*, and weeks later she was back for the band's *Saturday Night Live* debut, playing "The Moon Cave" with Black Thought and Asha Puthli.
+When the band unveiled the album live, they asked her to stay onstage because she was on so many tracks. In February she turned up again, playing "Orange County" with Kara Jackson on *The Graham Norton Show*, and weeks later she was back for the band's *Saturday Night Live* debut, playing "The Moon Cave" with Black Thought and Asha Puthli.
 
 ### April
 
@@ -102,7 +102,7 @@ Albarn ended his tribute with a line to her directly: "Asha, you had the voice o
 
 ### The other side
 
-Neither woman has won a Grammy, Bhosle in two nominations and Shankar in 14.
+Bhosle has two Grammy nominations and Shankar has 14, and neither has won.
 
 Bhosle told Vogue India that when she reached the other side of the river, her journey would be complete and she would attain moksha.
 
@@ -121,19 +121,19 @@ Hewlett's question, "If we can make an album about death that makes people feel 
 | Her voice on "The Shadowy Light." Sitar on seven more songs. Nominated Nov. 16 for Best Alternative Music Album. | 1, 2, 16, 19–20 | Clear. Track 12. The seven are 1, 2, 5, 7, 9, 14, and 15: six featured billings, plus sitar on "The Moon Cave." |
 | Fathers ten days apart. Ashes in the Ganges at Varanasi. | 39, 43 | Clear. |
 | Hewlett's question, exact | 42 | Clear. Outlet is in this section, not the body. |
-| Munir wrote the Hindi lyric. Arrangement around Bhosle: bansuri and two sarods. Rhys also sings. | 16, 29 | Clear. Does not misname the players. The track also has percussion and a choir; the sentence does not say those are absent. |
+| Munir wrote the Hindi lyric. Bhosle sings it over bansuri and two sarods. Gruff Rhys beside her. | 16, 29 | Clear on the credits. "Beside her" is figurative for a shared vocal, not a claim they recorded in the same room. Percussion and a choir are also on the track; the sentence does not say they are absent. |
 | Hesitant quote, to Rolling Stone India | 29 | Clear. Exact through "deep inside me." |
 | Boatman across deep water. Vogue, days before release, life's journey and the duties list. Boatman-as-music quote. | 13, 22, 30 | Clear. Summary omits "achievements." Quoted line is exact. |
 | "reached out wanting sitar, and she ended up recording with Albarn in London, including one free-flowing, exploratory session. By the time they called, she said," then the India-trip quote. No day count. | 44, 46, section 8 | Clear. The quote is exact. "She said" is The Nod, named in this section, not the body. The day-count conflict is not settled. |
 | Nod quote about the India trip | 44 | Clear. Exact. |
-| Writing credit on five songs. On "The Sweet Prince," fast strumming and "a cocoon for the voice." | 14, 21, 45 | Clear. "The Sweet Prince" is the track with "Prince" in the title. Quoted fragment is exact. |
+| Writing credit on five songs. On "The Sweet Prince," fast strumming and "a cocoon for the voice." | 14, 19, 21, 45 | Clear. Inference: she said "one track with 'Prince' in the title" (item 45). The only such title in the store billing is track 14, "The Sweet Prince," and she is featured on it (item 19). Quoted fragment is exact. |
 | "might sound very Indian... but it's not necessarily based on a raga" | 47 | Clear. Matches her wording. |
 | "The music is very inherently them" and the melodies sentence | 47 | Clear. Exact, without the packet's "[Gorillaz]" insert. |
 | Father played Ravi Shankar records to him when he was a baby. Beatles quote, Rolling Stone UK only. | 38, 40 | Clear. CBC's "extraordinary moment" (item 39) is in the sources section, not the body. |
-| "When the band unveiled the album live, they asked her to stay onstage because she was on so many tracks. She kept turning up." Then Norton with Kara Jackson, and SNL with Black Thought and Asha Puthli. | 44, 55–57 | Clear. The Nod is the source and is not named in the body. The line does not name Copper Box. Feb. 13 to March 7 is a few weeks. Puthli is not Bhosle. |
+| Unveiling request, then "In February she turned up again," Norton "Orange County" with Kara Jackson, and the SNL debut, "The Moon Cave," Black Thought and Asha Puthli. | 44, 55–57 | Clear. The Nod is the source and is not named in the body. The line does not name Copper Box. Feb. 13 to March 7 is a few weeks. Puthli is not Bhosle. |
 | Out Feb. 27, and about six weeks later, on April 12, died in Mumbai at 92. Eight decades, Burman 1980, Cornershop 1997. BBC: one of her final recordings. | 13, 25, 33 | Clear. 44 days. No cause of death. |
 | "Asha, you had the voice of an angel, we love you." | 35 | Clear. One sentence. |
-| "Neither woman has won a Grammy, Bhosle in two nominations and Shankar in 14." Moksha summary and closing quote. | 6, 7, 30 | Clear. Wins are 0. These are not 2027 nominations. The Feb. 7 ceremony date is in the packet metadata, not this sentence. |
+| "Bhosle has two Grammy nominations and Shankar has 14, and neither has won." Moksha summary and closing quote. | 6, 7, 30 | Clear. Wins are 0. These are not 2027 nominations. The Feb. 7 ceremony date is in the packet metadata, not this sentence. |
 
 ## Facts requiring final verification
 
