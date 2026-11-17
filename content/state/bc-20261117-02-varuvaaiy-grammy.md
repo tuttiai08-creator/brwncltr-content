@@ -10,7 +10,7 @@
 - research_path: content/research/bc-20261117-02-20261117.md
 - draft_path: content/ready-for-review/20261117-bc-20261117-02-varuvaaiy-bharati-grammy-devan-susha.md
 - review_path:
-- plan_gate: skipped 2026-11-17. Owner, via the Content Editor, asked for the draft now. Fact-check did not clear. Not READY_FOR_REVIEW.
+- plan_gate: skipped 2026-11-17. Owner, via the Content Editor, asked for the draft now. Second pass still not clear. Not READY_FOR_REVIEW.
 - sensitive: Hindu devotional subject (Krishna poem, a puja). Do not exoticize the worship. Do not treat a colonial reading of the poem as fact. Do not flatten Indian-American and Chennai into one "India" credit. Family details in one interview are not load-bearing.
 
 ## Why now
@@ -59,3 +59,4 @@ confidence: high on the nomination, the credited names, the release date, and th
 - 2026-11-17: Owner approved bc-20261117-02 for research in the task that produced this file. Branch `discovery/20261117-approved-three` was not on origin. Candidate was not on main (`d038508`). No discovery state file was copied. Status set to RESEARCHING on this branch only.
 - 2026-11-17: Research packet filed at content/research/bc-20261117-02-20261117.md. Nomination, credits, release, and category mates verified from the Recording Academy and Apple. "First Tamil song" and "India's only nomination" left UNRESOLVED. Article not drafted. Not APPROVED. Nothing published.
 - 2026-11-17: Content Editor skipped the headline/outline gate and supplied a full draft. Filed verbatim at content/ready-for-review/20261117-bc-20261117-02-varuvaaiy-bharati-grammy-devan-susha.md. Prose not rewritten. Fact-check held three sentences (HT title gloss in quotation marks; "Carnatic singer" scoped to Susha's Hindu quote; "hasn't been announced" stronger than the packet). Status set to DRAFTING, not READY_FOR_REVIEW. No queue file on this branch lists this ID. Not APPROVED. Nothing published.
+- 2026-11-17: Revised draft filed verbatim. The three holds above are fixed. Second pass still DRAFTING. New holds: "Anoushka Shankar's sitar and Asha Bhosle's voice" is not in packet §1.4 (store feat. lines only), and "Before any of that" dates voting ahead of the video, the Bharati album, and Pattarai. Prose not rewritten. Not APPROVED. Nothing published.
