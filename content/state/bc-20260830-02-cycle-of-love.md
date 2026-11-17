@@ -67,3 +67,4 @@ confidence: high
 - 2026-11-17: Flow pass (Rule 11) on merged PR #5 applied to this revision: join sentences; stop narrating the fact-check; name outlets when they disagree. Did not restore the stale Friday-open lede, live Q&A, or “What this is not.” Still READY_FOR_REVIEW. Not APPROVED.
 - 2026-11-17: Content Editor review on PR #23 (head 804d4bb): Revise. Six line fixes + nut graf + straight quotes. Still READY_FOR_REVIEW. Not APPROVED. Diljit 01 untouched.
 - 2026-11-17: Content Editor review on PR #23 (head 41b8aea): Revise. Lede date; trip regrouped; take paragraph on "universal"; fewer "he told" tags. Still READY_FOR_REVIEW. Not APPROVED. Diljit 01 untouched.
+- 2026-11-17: Content Editor review on PR #23 (head eb0c191): Revise. Take argues; kicker attributed to BBC 2016. Still READY_FOR_REVIEW. Not APPROVED. Diljit 01 untouched.

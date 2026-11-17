@@ -748,3 +748,4 @@ Toxic competing Day-5 totals (not a new ID): ETV Bharat live India net **₹209.
 - 2026-11-17: Flow pass (Rule 11) notes on merged PR #5 folded into the same READY_FOR_REVIEW rewrite (`content/ready-for-review/20260901-bc-20260830-02-cycle-of-love.md`). Historical 02 DISCOVERED body unchanged. Not APPROVED. Diljit 01 untouched.
 - 2026-11-17: PR #23 Content Editor verdict Revise applied in place. `bc-20260830-02` still READY_FOR_REVIEW. Historical 02 DISCOVERED body unchanged. Not APPROVED. Diljit 01 untouched.
 - 2026-11-17: Second Revise on PR #23 (lede date, trip regroup, "universal" take). Still READY_FOR_REVIEW. Historical 02 DISCOVERED body unchanged. Not APPROVED. Diljit 01 untouched.
+- 2026-11-17: Third Revise on PR #23 (take rewritten; BBC kicker attributed). Still READY_FOR_REVIEW. Historical 02 DISCOVERED body unchanged. Not APPROVED. Diljit 01 untouched.
