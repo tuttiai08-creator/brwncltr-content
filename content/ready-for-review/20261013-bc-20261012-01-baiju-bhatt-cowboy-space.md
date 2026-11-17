@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261012-01-baiju-bhatt-cowboy-space |
-| State | DRAFTING |
+| State | READY_FOR_REVIEW |
 | Research date | 2026-10-13 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Prose by Content Manager. Package fields and fact-check by the committer. The full draft below is verbatim. It was not rewritten. |
@@ -71,6 +71,7 @@ The app made trading free. The next company is a rocket whose upper stage is mea
 
 - Prose by the Content Manager. The revised draft was substituted verbatim on 2026-10-13 and checked again against `content/research/bc-20261012-01-20261013.md` only. A further revision the same day replaced the two remaining findings. No interviews. No outreach. The committer did not change a sentence of the draft.
 - 2026-11-17: Content Manager revised the draft again. Committer pasted that body verbatim into Full draft and fact-checked it against the same research packet. Findings below. Status set to DRAFTING. Prose not rewritten.
+- 2026-11-17: Content Manager replaced the full draft after the five findings. Committer pasted it verbatim and re-checked those lines. None remain. Status set to READY_FOR_REVIEW. Not article APPROVED. Do not publish.
 - Cowboy pages were retrieved 2026-10-12 and were not re-fetched on 2026-10-13.
 - The WSJ TikTok was not watched. The WSJ page body was not retrieved. BusinessWire for the Series B was not retrieved. The 424B4 was not opened. The Robinhood confetti blog URL was not opened.
 - Safety: no father's illness. No "as a South Asian" frame. No customer-death anecdote. No investment advice. No single Robinhood ownership percentage. Gujarat and Poquoson stay where the draft put them, as origin, then the piece returns to the companies.
@@ -90,7 +91,7 @@ The app made trading free. The next company is a rocket whose upper stage is mea
 
 *The app made trading free. His next act is a rocket that turns into a data center in orbit.*
 
-Baiju Bhatt co-founded Robinhood and spent more than a decade helping run it, through the free trades, the confetti and a very public IPO. Now he's building a rocket. His startup, Cowboy Space, raised $275 million in May at a $2 billion valuation, and the plan is for the rocket's upper stage to never come home: it stays in orbit and runs as a one-megawatt data center. Nothing has flown yet, which is a strange place to find the guy who made stock trading free.
+Baiju Bhatt co-founded Robinhood and spent more than a decade helping run it, through the free trades, the confetti and a very public IPO. Now he's building a rocket. His startup, Cowboy Space, raised $275 million in May at a $2 billion valuation, and the plan is for the rocket's upper stage to never come home: it stays in orbit and runs as a one-megawatt data center. The rocket hasn't flown yet, which is a strange place to find the guy who made stock trading free.
 
 ### The physics kids
 
@@ -98,13 +99,13 @@ Bhatt, an only child, grew up in Poquoson, Virginia, the son of two immigrants. 
 
 At Stanford, Bhatt followed his dad into physics and met Vlad Tenev. In New York the two built Celeris, an algorithmic trading startup, and Chronos Research, which sold software to big investment banks. In 2013 they started Robinhood.
 
-It began as something smaller than a brokerage, a free iPhone app for tracking stocks and sharing predictions, and by the end of that year they'd raised $3 million from Index Ventures and Andreessen Horowitz to build what came next: trading with no commission at all.
+It began as a free iPhone app for tracking stocks and sharing predictions, not a brokerage at all, and by the end of that year they'd raised $3 million from Index Ventures and Andreessen Horowitz to build what came next: trading with no commission at all.
 
 ### Free, and then everybody was free
 
 When the full app launched in March 2015, 800,000 people were already on the waitlist, and Bhatt had a theory about who they were. "I think a lot of people that use Robinhood grew up in an era where Wall Street blew up in 2008," he told CNNMoney. "They kind of see Wall Street and a lot of big banks as not very trustworthy."
 
-Free trading was the hook, and four years after the launch the big brokers got there too. In the first week of October 2019, Charles Schwab, E*Trade and TD Ameritrade all dropped their online stock commissions to zero, and TD Ameritrade had been charging $6.95 a trade.
+Free trading was the hook. In the first week of October 2019, Charles Schwab, E*Trade and TD Ameritrade all dropped their online stock commissions to zero; TD Ameritrade had been charging $6.95 a trade, and Robinhood had been charging nothing since 2015.
 
 The app didn't act like a brokerage either, and the confetti became a problem. In December 2020, Massachusetts regulators filed a complaint accusing Robinhood of gamifying investing, pointing to the confetti among other features. Robinhood said the animation celebrated firsts, like a customer's first trade, and retired it in March 2021.
 
@@ -126,43 +127,41 @@ As for the name, Bhatt told Payload that it "captures the scale of ambition that
 
 ### Liftoff, eventually
 
-The schedule is where it gets real. The first satellite, built to show that power beaming works, was slated in May to launch this year, and the rocket isn't expected until around the end of 2028.
+The schedule is where it gets real. The first satellite, built to show that power beaming works, was slated in May to launch this year, and the rocket comes later: one report says no earlier than the end of 2028, another says before it.
 
-For now, Cowboy is a $2 billion bet on a machine that is years from launch, and the man behind it has already watched the biggest brokers in the country adopt one of his ideas.
+For now, Cowboy is a $2 billion bet on a machine that is years from launch, built by a man whose last company charged nothing for trades more than four years before Schwab, E*Trade and TD Ameritrade did.
 
 ## Facts requiring final verification
 
-Fact-check on 2026-11-17 against `content/research/bc-20261012-01-20261013.md`. Line numbers are the lines of this file. The prose was not changed. Status is DRAFTING because the items below are not supported.
+Fact-check on 2026-11-17 against `content/research/bc-20261012-01-20261013.md`, after the Content Manager replaced the five flagged lines. Line numbers are the lines of this file. The prose was not changed.
 
 ### Unsupported claims and inexact wording
 
-1. Line 93. "Nothing has flown yet, which is a strange place to find the guy who made stock trading free." Packet: "UNRESOLVED. Whether the 2026 power-beaming flight was still on the calendar as of 13 October 2026. No later primary update was checked." The rocket schedule is 2028, so that vehicle has not flown. "Nothing" also covers the satellite, and the packet does not say the satellite has not flown.
+None.
 
-2. Line 101. "It began as something smaller than a brokerage, a free iPhone app for tracking stocks and sharing predictions." Packet: "Not a brokerage." The April 2013 TechCrunch story is a free iOS app for tracking stocks and sharing predictions. That app description matches. "Smaller than a brokerage" does not.
+### Re-checked and cleared
 
-3. Line 107. "Free trading was the hook, and four years after the launch the big brokers got there too." The public app launched 12 March 2015. TD Ameritrade's stock commission went to zero effective 3 October 2019. Schwab and E*TRADE effective 7 October 2019. That is about four and a half years, not four. Packet: "October 2019 is the month the three incumbents cut the stock commission to zero." It does not say they followed Robinhood there.
-
-4. Line 129. "the rocket isn't expected until around the end of 2028." Packet: "SOURCE CONFLICT. Rocket date. Payload: no earlier than the end of 2028. TechCrunch: before the end of 2028. Space.com: in 2028. Say the split once. Do not merge it." "No earlier than the end of 2028" is a floor and can be later. "Before the end of 2028" is earlier than that point. "Around the end of 2028" collapses the conflict. The satellite clause in the same sentence, "was slated in May to launch this year," matches Payload, 11 May 2026, first satellite "this year." It does not say the flight is still scheduled.
-
-5. Line 131. "the man behind it has already watched the biggest brokers in the country adopt one of his ideas." The packet records that Schwab, E*TRADE, and TD Ameritrade cut online stock commissions to zero in October 2019. It does not say they adopted Bhatt's idea.
+- Line 94. "The rocket hasn't flown yet." Payload says the first rocket is no earlier than the end of 2028. TechCrunch says before the end of 2028. Space.com says in 2028. The sentence is about the rocket. It does not say the 2026 power-beaming satellite has not flown. That flight remains unresolved in the packet as of 13 October 2026.
+- Line 102. "not a brokerage at all." Packet: "Not a brokerage." The April 2013 app was a free iOS app for tracking stocks and sharing predictions.
+- Line 108. "Free trading was the hook." The October 2019 cuts are stated as what Schwab, E*TRADE, and TD Ameritrade did. TD had been charging $6.95. "Robinhood had been charging nothing since 2015" matches the 12 March 2015 public launch. The sentence does not say the brokers followed Robinhood or adopted an idea.
+- Line 130. "one report says no earlier than the end of 2028, another says before it." Payload: "no earlier than the end of 2028." TechCrunch: "before the end of 2028." The split is not merged. "Was slated in May to launch this year" matches Payload, 11 May 2026, first satellite "this year." It does not say that flight is still on the calendar.
+- Line 132. "charged nothing for trades more than four years before Schwab, E*Trade and TD Ameritrade did." The public app launched 12 March 2015 and let people trade stocks for free. The stock-commission cuts were effective 3 October 2019 (TD) and 7 October 2019 (Schwab and E*TRADE). That gap is more than four years. The sentence is a timeline. It does not say the brokers adopted his idea.
 
 ### Untagged quotes, by source
 
-- Line 115. "zero pressure from anyone." Vladimir Tenev, House Financial Services Committee hearing, 18 February 2021. Packet: "Not at all. Zero pressure from anyone. It was a collateral depository requirement decision made by our Robinhood Securities president, and we stand by it." "Deposit-requirement" is an unquoted paraphrase of "collateral depository requirement."
-- Line 117. "Since I helped found this company in 2013, Robinhood has been my life." Baiju Bhatt, GlobeNewswire, 21 March 2024.
-- Line 121. "have more to share about my next steps soon." Baiju Bhatt, GlobeNewswire, 21 March 2024: "I will have more to share about my next steps soon but know the future has never been so bright."
+- Line 116. "zero pressure from anyone." Vladimir Tenev, House Financial Services Committee hearing, 18 February 2021. Packet: "Not at all. Zero pressure from anyone. It was a collateral depository requirement decision made by our Robinhood Securities president, and we stand by it." "Deposit-requirement" is an unquoted paraphrase of "collateral depository requirement."
+- Line 118. "Since I helped found this company in 2013, Robinhood has been my life." Baiju Bhatt, GlobeNewswire, 21 March 2024.
+- Line 122. "have more to share about my next steps soon." Baiju Bhatt, GlobeNewswire, 21 March 2024: "I will have more to share about my next steps soon but know the future has never been so bright."
 
 ### Tagged quotes that match
 
-- Line 105. CNNMoney, Heather Long, 12 March 2015: "I think a lot of people that use Robinhood grew up in an era where Wall Street blew up in 2008. They kind of see Wall Street and a lot of big banks as not very trustworthy."
-- Line 125. Payload, Jacqueline Feldscher, 11 May 2026: "captures the scale of ambition that we've got with the new set of objectives."
+- Line 106. CNNMoney, Heather Long, 12 March 2015: "I think a lot of people that use Robinhood grew up in an era where Wall Street blew up in 2008. They kind of see Wall Street and a lot of big banks as not very trustworthy."
+- Line 126. Payload, Jacqueline Feldscher, 11 May 2026: "captures the scale of ambition that we've got with the new set of objectives."
 
 ### Supported, and left untagged
 
-- Line 99. Celeris and Chronos Research. TechCrunch, Josh Constine, 18 December 2013: "Celeris, an algorithmic trading technology startup, and Chronos Research, which sold financial software to top investment banks." The packet says to use those names with the TechCrunch attribution. The IR biography does not name them.
-- Line 107, second sentence. The three brokers' online stock commissions went to zero in the first week of October 2019. TD had been $6.95. Options contract fees remained. The draft says stock commissions.
-- Line 109. Robinhood said the confetti celebrated firsts. CNBC, 31 March 2021, quoting the company blog. "Retired it in March 2021" follows the consent order: ceased as of 31 March 2021. The December 2020 complaint alleged confetti after every trade. The draft reports what Robinhood said. It no longer states the settlement admission.
-- Line 121. "co-led by Index." TechCrunch, 2 April 2025: "Index and Interlagos led." Index's post the same day: "Index leading." Interlagos is not named.
+- Line 100. Celeris and Chronos Research. TechCrunch, Josh Constine, 18 December 2013: "Celeris, an algorithmic trading technology startup, and Chronos Research, which sold financial software to top investment banks." The IR biography does not name them.
+- Line 122. "co-led by Index." TechCrunch, 2 April 2025: "Index and Interlagos led." Index's post the same day: "Index leading." Interlagos is not named.
 
 ## SEO title
 
@@ -198,7 +197,7 @@ Baiju Bhatt, Robinhood, Cowboy Space, Vlad Tenev, Aetherflux
 
 - Instagram/feed: Baiju Bhatt co-founded Robinhood. The app launched in March 2015 with 800,000 people already on the waitlist, and stock trades were free. In May 2026 his company Cowboy Space raised $275 million at a $2 billion valuation. The rocket's upper stage is meant to stay in orbit as a one-megawatt data center.
 - X/Twitter-length: Robinhood co-founder Baiju Bhatt is building rockets. In May 2026 Cowboy Space raised $275 million. The upper stage is meant to stay in orbit as a data center.
-- Optional newsletter blurb: Free trades were the first company. After Robinhood, Baiju Bhatt's Aetherflux became Cowboy Space and raised $275 million to build a rocket whose upper stage is the data center.
+- Optional newsletter blurb: Free trades were the first company. After Robinhood, Baiju Bhatt's Aetherflux became Cowboy Space and raised $275 million to build a rocket whose upper stage is the data center. Payload and TechCrunch do not agree on whether that rocket is no earlier than the end of 2028 or before it.
 
 Still no invented facts. This is not a scoop.
 
