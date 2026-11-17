@@ -123,13 +123,11 @@ His goodbye note promised he'd "have more to share about my next steps soon," an
 
 Then the plan got bigger. Bhatt told TechCrunch he couldn't get enough launch capacity, or make the economics work, by buying rides on other people's rockets, so he decided to build his own. In May 2026 Aetherflux became Cowboy Space Corporation, with a $275 million Series B led by Index and joined by a16z, NEA, Breakthrough Energy Ventures and Bhatt himself. The rocket's upper stage and the data center are meant to be the same machine, and NVIDIA is working with the company to put its Space-1 Vera Rubin modules in orbit.
 
-As for the name, Bhatt told Payload that it "captures the scale of ambition that we've got with the new set of objectives."
-
 ### Liftoff, eventually
 
-The schedule is where it gets real. The first satellite, built to show that power beaming works, was slated in May to launch this year, and the rocket comes later: one report says no earlier than the end of 2028, another says before it.
+The first satellite, built to show that power beaming works, was slated in May to launch this year, and the rocket comes later: one report says no earlier than the end of 2028, another says before it.
 
-For now, Cowboy is a $2 billion bet on a machine that is years from launch, built by a man whose last company charged nothing for trades more than four years before Schwab, E*Trade and TD Ameritrade did.
+For now, Cowboy is a $2 billion bet on a machine that is years from launch. Bhatt has been early before: his last company charged nothing for trades more than four years before Schwab, E*Trade and TD Ameritrade did.
 
 ## Facts requiring final verification
 
