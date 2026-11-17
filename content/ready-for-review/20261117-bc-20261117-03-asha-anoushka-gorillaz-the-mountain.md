@@ -34,7 +34,7 @@ Bhosle sings once on the album. Shankar's sitar is on seven tracks, and she is a
 
 ## Primary sources
 
-See `content/research/bc-20261117-03-20261117.md`. Academy album page, full nominations list, Gorillaz store tracklist, Pitchfork credits, BBC obituary, Vogue India, Rolling Stone India, The Nod, Hollywood Reporter India, Rolling Stone UK, CBC Q, NME tribute, SNL upload, British Comedy Guide. Hewlett's "album about death" question is Rolling Stone India, Anurag Tagat (packet item 42). The body does not name that outlet.
+See `content/research/bc-20261117-03-20261117.md`. Academy album page, full nominations list, Gorillaz store tracklist, Pitchfork credits, BBC obituary, Vogue India, Rolling Stone India, The Nod, Hollywood Reporter India, Rolling Stone UK, NME tribute, SNL upload, British Comedy Guide. Hewlett's "album about death" question is Rolling Stone India, Anurag Tagat (packet item 42). The body does not name that outlet. CBC's *Q* (packet item 39) is where Albarn called improvising with Shankar "a really extraordinary moment." The body no longer cites that interview.
 
 ## Secondary sources
 
@@ -64,7 +64,7 @@ Indian Express, 17 November 2026 (the nomination-day footnote). Pitchfork catego
 
 Damon Albarn sat cross-legged in Mumbai, playing R.D. Burman's harmonium, while Asha Bhosle sang. She was 91, and he had admired her from afar for years. When he wrote about that day in April, two days after she died, he said the memory would stay with him forever.
 
-Her voice is on "The Shadowy Light," the 12th track of *The Mountain*, the ninth Gorillaz album. Anoushka Shankar's sitar is on seven others. On Nov. 16, the Recording Academy nominated the album for Best Alternative Music Album at the 2027 Grammys. The nomination is Gorillaz's.
+Her voice is on "The Shadowy Light," the 12th track of *The Mountain*, the ninth Gorillaz album. Anoushka Shankar's sitar is on seven others. On Nov. 16, the Recording Academy nominated the album for Best Alternative Music Album at the 2027 Grammys.
 
 ### An album about death
 
@@ -90,9 +90,9 @@ Her sitar ended up on seven tracks, and she has a writing credit on five. On a t
 
 "The music is very inherently them," she said. "The melodies are being played with inflections and improvisations that are a bit more Indian-influenced in nature, because of who's playing it in those moments."
 
-For Albarn, the sessions reached back to his own childhood. His father loved Indian classical music and played him Ravi Shankar records as a baby, and on CBC's *Q*, Albarn described improvising with Ravi's daughter as an extraordinary moment. "I probably listened to Ravi Shankar before I listened to The Beatles when I was a kid," he told Rolling Stone UK.
+For Albarn, the sessions reached back to his own childhood. His father loved Indian classical music and played him Ravi Shankar records as a baby. "I probably listened to Ravi Shankar before I listened to The Beatles when I was a kid," he told Rolling Stone UK.
 
-At the album's live unveiling, Shankar told The Nod, the band asked her to just stay onstage, because she was on so many tracks. In February she played "Orange County" with Gorillaz and Kara Jackson on *The Graham Norton Show*. A few weeks later, for the band's *Saturday Night Live* debut, she was back, playing "The Moon Cave" with Black Thought and Asha Puthli, a different Asha from the one on "The Shadowy Light."
+At a live unveiling, the band asked her to stay onstage, she told The Nod, because she was on so many tracks. In February she played "Orange County" with Gorillaz and Kara Jackson on *The Graham Norton Show*. A few weeks later, for the band's *Saturday Night Live* debut, she was back, playing "The Moon Cave" with Black Thought and Asha Puthli.
 
 ### April
 
@@ -118,7 +118,7 @@ Hewlett's question, "If we can make an album about death that makes people feel 
 | Headline: they helped make the nominated album | 1, 16, 19–21 | Clear. |
 | Dek: one of her final recordings; sitar on seven tracks; "The nomination says Gorillaz." | 1, 19–20, 25, 33 | Clear. Seven sitar credits. BBC's phrase. |
 | Cross-legged in Mumbai, Burman's harmonium, while she sang. Age 91. Admired for years. April note, two days after she died. | 35, 37, 51 | Clear. No floor. |
-| "The Shadowy Light," track 12, ninth album. Sitar on seven others. Nov. 16 nomination. "The nomination is Gorillaz's." | 1, 2, 10, 16, 19–20 | Clear. The seven are tracks 1, 2, 5, 7, 9, 14, 15. |
+| "The Shadowy Light," track 12, ninth album. Sitar on seven others. Nov. 16, Best Alternative Music Album. The dek, not this sentence, says the nomination is Gorillaz's. | 1, 2, 10, 16, 19–20 | Clear. The seven are tracks 1, 2, 5, 7, 9, 14, 15. |
 | Fathers ten days apart. Ashes in the Ganges at Varanasi. | 39, 43 | Clear. |
 | Hewlett's question, exact | 42 | Clear. Outlet is in this section, not the body. |
 | Munir wrote the Hindi lyric; Rhys sings; bansuri and two sarods | 16, 29 | Clear. Does not misname the sarod players. |
@@ -129,8 +129,8 @@ Hewlett's question, "If we can make an album about death that makes people feel 
 | Sitar on seven tracks. Writing credit on five. "Prince" / "a cocoon for the voice." | 19–21, 45 | Clear. Quoted fragment is exact. |
 | "might sound very Indian... but it's not necessarily based on a raga" | 47 | Clear. Matches her wording. |
 | "The music is very inherently them" and the melodies sentence | 47 | Clear. Exact, without the packet's "[Gorillaz]" insert. |
-| Father, Ravi Shankar, CBC paraphrase, Beatles quote | 38–40 | Clear. |
-| Unveiling. Norton, "Orange County," Kara Jackson. SNL, "The Moon Cave," Black Thought, Asha Puthli. | 44, 55–57 | Clear. Puthli is not Bhosle. |
+| Father played Ravi Shankar records from when Albarn was a baby. Beatles quote, Rolling Stone UK only. | 38, 40 | Clear. CBC's "extraordinary moment" (item 39) is in the sources section, not the body. |
+| "At a live unveiling, the band asked her to stay onstage, she told The Nod, because she was on so many tracks." Norton, "Orange County," Kara Jackson. SNL, "The Moon Cave," Black Thought, Asha Puthli. | 44, 55–57 | Clear. "A live unveiling" does not name Copper Box. Puthli is not Bhosle. |
 | Feb. 27. About six weeks later, April 12, Mumbai, 92. Eight decades, Burman 1980, Cornershop 1997. BBC: one of her final recordings. | 13, 25, 33 | Clear. 44 days. No cause of death. |
 | "Asha, you had the voice of an angel, we love you." | 35 | Clear. One sentence. |
 | Nominated twice; Shankar 14 times; neither has won. Grammys air Feb. 7. Moksha summary and closing quote. | 2, 6, 7, 30 | Clear. |
