@@ -30,7 +30,7 @@ The Recording Academy published the 2027 nominations on November 16, 2026. "Varu
 
 ## Central angle
 
-Lakshmi Rangarajan learned a Subramania Bharati song after a concert and taught it to Susha. Devan Ekambaram recorded that voice first and built "Varuvaaiy" around it. The single is nominated for Best Global Music Performance.
+Lakshmi Rangarajan learned a Subramania Bharati song after a concert and taught it to Susha. Devan Ekambaram recorded that voice first and built "Varuvaaiy" around it. Earlier multi-category submissions never became a nomination. This one song, with the campaign behind it, did.
 
 ## Primary sources
 
@@ -72,7 +72,7 @@ Full passages are in `content/research/bc-20261117-02-20261117.md`. This draft a
 3. June, and the Bharati song that was not the obvious one.
 4. The poem, then the Aug. 12 single.
 5. Her voice first, and the training behind it.
-6. One song. Nomination day. The "Kanna" ending. Winners are named Feb. 7, on the nomination.
+6. One song. Our read: the scattered submissions never became a nomination, and this one did. Nomination day. The "Kanna" ending. Winners are named Feb. 7, on the nomination.
 
 ## Full draft
 
@@ -110,11 +110,14 @@ Susha has been learning Carnatic music since she was 5, from her mother and her 
 
 Devan has chased a Grammy before, spreading three or four songs across categories, until a Grammy winner told him, "Don't be a jack of all trades." So this year he put everything behind one song.
 
+Years of spreading his submissions across categories never got him a nomination, and one song built around her voice, with the whole campaign behind it, did.
+
 "I never, in a million years, thought that out of 526 submissions, this would somehow make the top five," he said.
 
 On nomination day he was praying at a temple in Chennai when the pings started, 15 congratulations at once. Susha was at a studio shoot with her phone off. "For me, it was just any other day," she said.
 
 "At the end, she keeps repeating 'Kanna' with different improvisations," he said. "Till today, I cry every time I hear that section."
+
 ## Verification
 
 Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. No outlet is named in the body. Each quote is credited by outlet below. Result is PASS unless marked FAIL.
@@ -135,6 +138,7 @@ Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. No out
 | "Varuvaaiy" came out as a one-song single on Aug. 12, five days after *Love Language*, Susha's first album of originals, in English and Tamil. | §3.1 collection releaseDate 2026-08-12. §6.3 *Love Language* 2026-08-07, her first original album, English and Tamil. | PASS. "Susha's" names the album's artist. Aug. 12 is the Apple date. |
 | "Devan is not from the Carnatic scene," she said, "but this collaboration came out of the blue so we both are very excited." | §6.3. Exact. | PASS. Untagged. Outlet: Hindustan Times. |
 | Devan has chased a Grammy before, spreading three or four songs across categories, until a Grammy winner told him, "Don't be a jack of all trades." So this year he put everything behind one song. | §5. Three or four earlier submissions, the jack-of-all-trades line, and this cycle's one song. | PASS. *Bale Pandiya* is out of the body. "Chased" is the draft's verb for those earlier submissions. |
+| Years of spreading his submissions across categories never got him a nomination, and one song built around her voice, with the whole campaign behind it, did. | §5: he used to submit three or four songs in different categories, and this track was the one-song campaign. §6.2: 2021 "A Walk Through Brindavan" did not make it. grammy.com artist page: Nominations 1, the 2027 row only. | PASS. Our analysis. Not attributed to him. Sits between the jack-of-all-trades paragraph and the 526 quote. |
 | "I never, in a million years, thought that out of 526 submissions, this would somehow make the top five," he said. | §5. Exact. His number. | PASS. Untagged. Outlet: Billboard India. |
 | On nomination day he was praying at a temple in Chennai when the pings started, 15 congratulations at once. | §6.1. "I was praying in a Shivyan temple in Chennai and the minute we got nominated people started pinging me and I got 15 congratulations at once." | PASS. Compression. Does not print "Shivyan." Untagged narrative. Outlet: Hindustan Times. |
 | Susha was at a studio shoot with her phone off. | §6.1. Hindustan Times reporter: studio recording shoot, then she switched the phone on. | PASS. |
