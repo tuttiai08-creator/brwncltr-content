@@ -1,194 +1,183 @@
-# The Khoslas are approved for the Seahawks. Closing is unverified. The memo names Neeru.
+# Vinod Khosla Still Watches Every Steelers Game. His Family Owns the Seahawks.
 
 ## Packet metadata
 
 | Field | Value |
 | --- | --- |
-| Task ID | bc-20260901-09-khosla-seahawks |
+| Task ID | bc-20260901-09-khosla-seahawks (refresh and rewrite; WP draft 12044 is untouched) |
 | State | READY_FOR_REVIEW |
-| Research date | 2026-09-01 |
-| Last updated | 2026-09-01 |
-| Authoring agent / human | brwncltr Content Manager (Cursor), from owner-approved ID |
-| Primary beat | Diaspora life and identity |
-| Secondary beat (optional) | Sports as culture / money and power |
+| Research date | 2026-11-17 |
+| Last updated | 2026-11-17 |
+| Authoring agent / human | BRWNCLTR Content Manager (executor draft for Aziz's review) |
+| Primary beat | Sports |
+| Secondary beat (optional) | Business |
 
 ## Proposed headline
 
-The Khoslas are approved for the Seahawks. Closing is unverified. The memo names Neeru.
+Vinod Khosla Still Watches Every Steelers Game. His Family Owns the Seahawks.
+
+Dek: The Khoslas' first months with the Seahawks have been one loyalty test after another, and the first one started in Pittsburgh in 1976.
 
 ## Story type
 
-Feature (dominant), with a news lede. The news is the 26 August unanimous owner vote and a 9 September kickoff that has not happened yet. The feature is who is actually named as control owner, what the family said on the record in Atlanta, and why this is not a “first South Asian NFL owner” story.
+Feature, with a news recap (the sale closed 3 Sep; the team is 6-4 as of 17 Nov).
 
 ## Target audience
 
-South Asian and diaspora readers in the United States — especially Seattle and the Bay Area — who will see this sale recapped as a representation win in the week of kickoff. Secondary: readers who follow NFL ownership as a culture-and-power story, not a cap table. Not “everyone,” and not a generic sports-business audience.
+South Asian diaspora sports fans and Seahawks fans who saw the Steelers clip and the relocation flare-up but not the whole arc. Also readers who follow tech money moving into sports.
 
 ## Why now
 
-Today is Tuesday 1 September 2026. NFL owners unanimously approved the sale on Wednesday 26 August. Regular-season kickoff is Wednesday 9 September against the New England Patriots — eight days. As of this research day, the transaction has not been reported as closed. The peg is the dated opener plus an approved-not-closed sale, not a toy-purchase lede and not a closing ceremony we cannot source.
+Ten games into the Khoslas' first season the team is 6-4. Their first months as owners have run on public tests of loyalty: the Steelers, the 49ers and relocation. Main's version (approved, not closed) is out of date. The sale closed on 3 Sep and the team has published titles.
 
 ## Central angle
 
-The Seahawks sale is approved and not, on the public record of 1 September, closed. The control-owner name that matters for a culture desk is Neeru Khosla — and that name sits on an NFL club memo that Sportico said it viewed and ESPN said it obtained, not on the team’s August 26 story. This is not the first South Asian NFL owner. Shahid Khan, whom NFL.com called Pakistani-born when owners approved his Jaguars purchase in 2011, is still listed as the Jaguars’ owner.
+Seattle has tested its new owners' loyalty in stages, and the first test traces back to Pittsburgh in 1976, where Vinod Khosla spent 1976-78 at Carnegie Mellon. The story is a progression from the Atlanta admission, to the X fight, to the titles and "not mess with a lot", to the 49ers, to the 500-years scare, ending on the 2027 Steelers game. Origin details come only from his own remarks, with no representation framing and no "first South Asian owner".
 
 ## Primary sources
 
-- seahawks.com, “NFL Owners Approve Sale Of Seahawks To Khosla Family,” 26 August 2026, 1:41 p.m., https://www.seahawks.com/news/nfl-owners-approve-sale-of-seahawks-to-khosla-family, retrieved 2026-09-01. Unanimous Wednesday vote; Estate of Paul G. Allen; Atlanta; Vinod, Neeru, Neal, Nina; “one big step closer to completion”; Vinod quotes; Bay Area home since 1986. No price. No Neeru-as-control-owner. Not closed.
-- seahawks.com, “Estate of Paul G. Allen Reaches Agreement to Sell Seattle Seahawks,” 11 July 2026, 3:45 p.m., https://www.seahawks.com/news/estate-of-paul-g-allen-reaches-agreement-to-sell-seattle-seahawks, retrieved 2026-09-01. Formal agreement; “The Khosla family will become the team’s controlling owner”; Vinod steward quote; terms not disclosed; reprints a 11 July X post from @vkhosla.
-- seahawks.com Week 1 game center, https://www.seahawks.com/game-day/2026/reg-week1/seahawks-vs-patriots/, retrieved 2026-09-01. WED 09/09, 5:20 p.m. PDT, New England Patriots, NBC.
-- NFL.com, “NFL owners approve sale of Seattle Seahawks to Khosla family,” https://www.nfl.com/news/nfl-owners-approve-sale-seattle-seahawks-khosla-family, retrieved 2026-09-01. Unanimous Wednesday; “led by Vinod and Neeru Khosla”; $9.612 billion “ESPN reported”; Vinod “not owners yet”; Super Bowl 29-13 in February.
-- NFL.com spring kickoff note, https://www.nfl.com/news/seahawks-to-kick-off-2026-nfl-regular-season-on-wednesday-sept-9-in-seattle, retrieved 2026-09-01. Wednesday, Sept. 9, 8:20 p.m. ET, NBC and Peacock, Seattle. Opponent not named on that page (stale).
-- NFL.com / AP, “Pakistani-born Khan approved as Jaguars’ new owner,” https://www.nfl.com/news/pakistani-born-khan-approved-as-jaguars-new-owner-09000d5d8250c180, retrieved 2026-09-01. Pakistani-born; 16 when he moved from Pakistan; unanimous Jaguars approval; transfer Jan. 4; “first minority owner.”
-- jaguars.com, Shad Khan owner biography, https://www.jaguars.com/team/front-office-roster/shad-khan, retrieved 2026-09-01. Title: Owner. 14 December 2011 unanimous 32-0 vote.
+- seahawks.com, "Seattle Seahawks Sale To The Khosla Family Is Complete," 3 Sep 2026. https://www.seahawks.com/news/seattle-seahawks-sale-to-the-khosla-family-is-complete. Covers the close and the titles. Retrieved 2026-11-17.
+- seahawks.com, Ari Horton, 9 Sep 2026. https://www.seahawks.com/news/neeru-khosla-s-focus-on-education-to-be-a-focal-point-of-her-role-in-seahawks-ownership. Has Neeru's AI tutoring quote.
+- Vinod Khosla on X, 28 Aug 2026 (Steelers reply; "Learning!") and 3 Oct 2026 ("End of story"), as embedded and reported by CBS Sports, Seattle Sports, the Seattle Times and KIRO 7.
+- ESPN schedule/team API, retrieved 2026-11-17. Covers results and the 6-4 record.
 
 ## Secondary sources
 
-- ESPN, Brady Henderson, https://www.espn.com/nfl/story/_/id/49733969/nfl-owners-approve-seahawks-sale-khosla-group, retrieved 2026-09-01. $9.612 billion; Atlanta Airport Marriott; 24 of 32; closing *could* happen before Sept. 9 vs Patriots; family as “controlling owners”; Neeru and Vinod quotes; “Born in India” in reporter voice; 1976 Steelers; Super Bowl LX on Feb. 8.
-- AP, https://apnews.com/article/nfl-owners-seahawks-sale-cbeece035eb56f26c7d789a2b8971f01, retrieved 2026-09-01. Unanimous $9.612 billion; Nina at the meeting; Neeru and Vinod quotes; “born in India” in reporter voice; 1976.
-- Sportico, https://www.sportico.com/business/team-sales/2026/seattle-seahawks-sale-nfl-owners-approve-1234942967/, retrieved 2026-09-01. “Neeru will serve as the Seahawks’ control owner… according to a memo the NFL sent last month to its clubs, a copy of which was viewed by Sportico.” $9.612 billion. PE names on that page are not used.
-- ESPN family profile, https://www.espn.com/nfl/story/_/id/49358800/khosla-family-vinod-neeru-neal-san-francisco-49ers-seattle-seahawks, retrieved 2026-09-01. Neeru “will serve as the controlling owner” and Neal “is expected to have a significant leadership role… according to a league memo sent to teams and obtained by ESPN.” IIT / Punjab biography on that page is not used.
-- NBC Sports / PFT, Mike Florio, 11 July 2026, 8:38 p.m., https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vinod-khoslas-wife-neeru-will-be-controlling-owner-of-seahawks. Via Mark Maske: Neeru controlling owner in a league memo to franchises; Neal memo line.
-- Field Gulls, 27 August 2026, https://www.fieldgulls.com/seattle-seahawks-news/24480975/what-vinod-khosla-said-first-seahawks-press-conference-nfl-owners, retrieved 2026-09-01. Atlanta transcript: 1976 / Steelers; Neeru on Neal; “not owners yet.”
-- Spokesman-Review (Bob Condotta / Seattle Times), 26 August 2026, https://www.spokesman.com/stories/2026/aug/26/nfl-owners-approve-seahawks-sale-to-group-led-by-k/. Sale “not yet final”; league and team “hope” it is final before Sept. 9.
-- Front Office Sports, 26 August story, https://frontofficesports.com/nfl-owners-approve-9-billion-seahawks-sale/, retrieved 2026-09-01. Expected to close “next month.”
-- Front Office Sports, Mark Maske and Ben Horney, 31 August 2026, updated 5:06 p.m., https://frontofficesports.com/article/seahawks-khosla-grousbeck-mittal-deal/. Closing expected “very soon,” a source told FOS on Monday. Not a closing announcement. Runner-up LP talks are not used.
-- Forbes, Brian Solomon, 5 September 2012, https://www.forbes.com/sites/briansolomon/2012/09/05/shahid-khan-the-new-face-of-the-nfl-and-the-american-dream/. Pakistan-born; first ethnic-minority NFL owner. Jaguars dollar figure not used (conflicts with NFL.com’s $760 million).
-
-Wikipedia, Times of India IIT/Punjab copy, and Sportico’s anonymous PE roster were seen in research and are **not used** for facts in this draft.
+- The Seattle Times, Sofia Schwarzwalder, 28 Aug 2026. https://www.seattletimes.com/sports/seahawks/new-seattle-seahawks-owner-vinod-khosla-is-a-big-steelers-fan/. Has the Atlanta quote to Bob Condotta, the fan reaction, the Barstool post and "Learning!".
+- Seattle Sports (Brent Stecker), 28 Aug. https://sports.mynorthwest.com/nfl/seattle-seahawks/seattle-seahawks-owner-vinod-khosla-responds-criticism
+- CBS Sports (Bryan DeArdo), 28 Aug. https://www.cbssports.com/nfl/news/seahawks-new-owner-vinod-khosla-fandom-afc-team/. Covers Super Bowl X in 1976, the four titles in six years, Super Bowl XL and the 2027 matchup.
+- Pro Football Network, 27 Aug. Covers fan posts. https://www.profootballnetwork.com/seahawks-fans-team-owner-vinod-khosla-fandom-afc-team/
+- Sportico (Eben Novy-Williams), 14 Jul. Covers the controlling-owner milestone. https://www.sportico.com/business/team-sales/2026/vinod-neeru-khosla-seahawks-deal-financing-takeaways-1234938771/
+- KING 5 (Alex McLoon), 9 Sep. Has "not mess with a lot" and Neal's "built different". KOMO (Chris Daniels), 9 Sep. Covers the throwback uniforms.
+- Axios (Dan Primack), 1 Oct. https://www.axios.com/2026/10/01/vinod-khosla-seahawks-ai-agents. Has the 49ers games, "No, I'm not confused" and "never say never".
+- KIRO 7, 5 Oct; ProFootballTalk, 3 Oct. Cover the relocation follow-up.
+- Front Office Sports / AP via FOX. Covers the 49ers 3.1% stake (status conflict; see verification).
 
 ## Reporting / research notes
 
-- Drafted 2026-09-01 from `content/research/bc-20260901-09-20260901.md` only. No new discovery pass. No other candidate researched. No interviews. No outreach.
-- Could not verify: that the sale has closed; a seahawks.com or NFL.com sentence that names Neeru as control owner; a final limited-partner list; 49ers-divest timing; a single Forbes net-worth figure.
-- Safety: wealth/class is handle-with-care. No caste, communal, or criminal claims. No invented LP names. No “first Indian/South Asian NFL owner.”
-- Distinctions the draft must preserve: **Neeru** as the memo’s control-owner name, not a silent wife; **Vinod** as the Atlanta speaker, not the unsourced “the owner”; **Neal** as the son Neeru said pushed the bid, not the control owner; **Nina** as present, with no invented title; **Shahid Khan / Jaguars** as Pakistani-born (NFL.com) and still Owner (jaguars.com) — not interchangeable with the Khoslas and not a “South Asian owner” blur; India only as ESPN/AP reporter language or Vinod’s 1976 line, not as Punjab/IIT Wikipedia.
+- Built from content/research/bc-20260901-09-20261117.md (sections 1-11). No interviews. No outreach. No original quote.
+- 2026-11-17 fact-check against that packet. Smallest wording fixes are in the full draft: the family was about to own, not Vinod alone; one post, not fans as a group; the logo and the fan brand; the announcement named the titles; the throwback change was announced, not yet visible; "his son"; 49ers-side owner; a 30-point win; the 6-4 record dated November 17, 2026. CHECK items left for a human: the day of the Condotta quote, and the tone of "The first three words traveled much faster than the rest."
+- Owner origin rule: the copy uses only "came to this country in '76" and "1976-78 period in Pittsburgh (CMU)", both his. No birthplace, age or IIT. Sportico's India-born "first" (sourced to TOI) is not used.
+- Seattle reaction is confirmed (Seattle Times, Seattle Sports, Field Gulls headline, fan posts via PFN). No team statement was found. The spine stays as a loyalty-test progression.
+- "Promised not to touch" is replaced with the family's actual 9 Sep words, "not mess with a lot".
+- Atlanta hotel detail dropped. "In Atlanta" kept.
+- The Content Editor's "just as the Steelers started winning Super Bowls" was corrected to "in the middle of" the run, because Pittsburgh's first title (Jan 1975) predates his arrival.
 
 ## Outline
 
-1. Lede: 1 September; kickoff 9 September vs Patriots; unanimous 26 August approval; team “one big step closer”; Vinod “not owners yet.”
-2. Who was in the Atlanta room. What the team said in July (“family”) vs what Sportico and ESPN said the memo said (Neeru).
-3. Not first: Khan / Jaguars.
-4. Their words: 1976 / Steelers; Neeru on Neal; no Wikipedia origin.
-5. Price as attributed; no cap table; no invented LPs.
-6. Close: approved-not-closed is the honest sentence eight days out.
+1. Lede (split): Pittsburgh 1976, mid-run. Fifty years later, in Atlanta, he admits he still watches every Steelers game.
+2. His Atlanta quote to the Seattle Times, plus the Super Bowl XL memory.
+3. Seattle's first test: Barstool and fan posts, then his X reply.
+4. The rest of the reply, and "Learning!" on 12s.
+5. Close and titles: Neeru as controlling owner (with the Sportico milestone), Vinod chair, Neal vice chair.
+6. 9 Sep presser: "not mess with a lot" and the throwbacks.
+7. Neeru's free AI tutoring, and the 13-10 opener.
+8. The 49ers: 28 years of home games, the stake, Neal's "built different".
+9. "No, I'm not confused", then the 32-29 home loss to SF.
+10. Axios's "never say never" and the relocation talk.
+11. "End of story".
+12. Landing: 6-4, two straight wins, Steelers on the 2027 schedule.
 
 ## Full draft
 
-Today is Tuesday 1 September 2026. On Wednesday 9 September, the Seattle Seahawks host the New England Patriots to open the regular season. The club’s own game center, checked today, lists Week 1 as Wednesday 09/09 at 5:20 p.m. Pacific, on NBC. NFL.com’s spring kickoff note had already put the same Wednesday on the clock at 8:20 p.m. Eastern. The game has not been played.
+Vinod Khosla got to Pittsburgh in 1976, in the middle of the Steelers' run of four Super Bowls in six years. Fifty years later, in Atlanta, with his family about to own the Seattle Seahawks, he admitted he still watches every Steelers game.
 
-What has been played is the owners’ meeting. On Wednesday 26 August, NFL owners voted unanimously to approve the sale of the Seahawks from the Estate of Paul G. Allen to a group led by the Khosla family. That is the sentence on [seahawks.com](https://www.seahawks.com/news/nfl-owners-approve-sale-of-seahawks-to-khosla-family), dated 26 August at 1:41 p.m.: a unanimous Wednesday vote, “bringing the transaction one big step closer to completion.” Closer is not closed.
+"I happened to come to this country in '76 when the Steelers were winning the Super Bowl," Khosla told the Seattle Times' Bob Condotta, after NFL owners signed off on his family's purchase. "So actually, I was originally, and still am, a big Steelers fan, also." In Seattle, the Steelers are still the team that beat the Seahawks in their first Super Bowl, in 2006.
 
-NFL.com, filing the same day, quoted Vinod Khosla on the difference. “Obviously, we're not owners yet and we need to learn a lot more,” he said, “but we will work with management and with others and with the community in Seattle to hopefully preserve this iconic brand.” ESPN’s Brady Henderson, also on the 26th, wrote the timeline the league would not lock: the team “won’t officially change hands until the transaction closes, which could happen before the Seahawks open the season Sept. 9 against the New England Patriots.” *Could* is not a closing date. The Spokesman-Review, reprinting Bob Condotta of the Seattle Times, said the league and the team “hope” the sale is final before kickoff. Front Office Sports, on 31 August, cited an unnamed source who told the site on Monday that closing was expected “very soon.” As of today, no team, NFL.com, ESPN, or AP page fetched for this packet says the sale has closed.
+### Seattle's first test
 
-That is the story eight days out. Not a toy. Not a done deal. An approved transfer that the incoming speaker still refused, on the record, to call ownership.
+The clip didn't stay in Atlanta. Barstool Sports posted it as a lesson in what not to do at your first press conference as owner, and a post online joked that the team had been sold to a Steelers fan with a 49ers fan for a son. Two days after the vote, Khosla answered on X with a post that opened by blaming reporters and then got to the point: "What's wrong with admitting my 1976-78 period in Pittsburgh (CMU) got me excited about the NFL?"
 
-### The room in Atlanta, and the name on the memo
+The rest of that post ran on capital letters and exclamation points, swearing that as owner he'd always want Seattle to win, and he signed off by apologizing in advance for his style. The same day he praised the logo and the fan brand, and spelled that name, the 12s, with an apostrophe. A fan pointed out that there isn't one, and Khosla wrote back one word: "Learning!"
 
-Commissioner Roger Goodell announced the vote after a meeting in Atlanta — ESPN and the Spokesman put it at the Atlanta Airport Marriott — and then introduced the family. The team’s story names who stood there: Vinod Khosla, Neeru Khosla, their son, Neal Khosla, and their daughter, Nina Khosla. AP’s photo caption on the same seahawks.com page is the same four people plus Goodell, dated 26 August 2026. Nina is in the picture. No fetched page gives her a title. This draft does not invent one.
+### The family takes over
 
-The team’s language about control is older, and it is plural. On 11 July, seahawks.com posted the estate’s agreement: “The Khosla family will become the team’s controlling owner.” Terms, the same statement said, were not disclosed. The transaction remained subject to NFL approval. Vinod, “on behalf of the Khosla family,” said: “We are honored to be entrusted as the next stewards of the Seattle Seahawks. We look forward to building on the winning legacy Paul Allen created and to earning the trust of the Seahawks organization and fans everywhere.”
+The sale closed on September 3, and the team's announcement named who holds which title. Neeru Khosla is the controlling owner and president of the Seahawks Charitable Foundation, Vinod is chair and their son Neal is vice chair. Sportico has reported that Neeru is the first woman to take the top ownership spot at an NFL team straight out of a sale.
 
-The 26 August team story does not repeat “controlling owner,” and it does not name Neeru as the control owner. NFL.com’s approval file says the family is “led by Vinod and Neeru Khosla.” ESPN’s game story of the vote calls the family, including Neeru and Neal, the “new controlling owners,” and says it is unclear who else is joining as limited partners.
+Six days later the Khoslas sat down at Lumen Field for their introductory press conference, and Vinod's plan for a team that had just won the Super Bowl was short. "How lucky is that? How often do you get to buy a team that just won the Super Bowl?" he said. "So the best thing we can do is not mess with a lot." The only clear fan-facing change announced was the white throwback uniforms, which come back in 2027.
 
-The name that is not on seahawks.com is on a memo.
+Neeru used her time at the microphone to talk about kids. "I am here to bring AI Tutoring so that every kid in Seattle can get a tutor, personal tutor," she said. "So it will be free. I'm serious about that." Then the season started, and Seattle opened with a 13-10 win over New England at Lumen Field.
 
-Sportico, in its approval story, wrote: “Neeru will serve as the Seahawks’ control owner, and their son, Neal, will also have a leadership role in the team, according to a memo the NFL sent last month to its clubs, a copy of which was viewed by Sportico.” ESPN, in a July profile that was still live today, had already put the same structure on the record: “Neeru Khosla will serve as the controlling owner, and their son, Neal, ‘is expected to have a significant leadership role in the ownership group,’ according to a league memo sent to teams and obtained by ESPN.” Mike Florio at Pro Football Talk, on 11 July, attributed the same disclosure to Mark Maske and “a memo sent by the league to the various franchises.”
+### The 49ers problem
 
-That is as far as this desk can take the title. It is not a seahawks.com sentence. It is not a Goodell quote. It is not a reason to write that Neeru has already voted as control owner, or that she will be in a particular suite on 9 September. It is a reason not to write the sale as Vinod buying a franchise the way a person buys a car.
+Pittsburgh isn't the only old team in the family's life. Vinod told Axios that he and his son have probably gone to half of all 49ers home games together over the past 28 years, and the family went into the Seattle deal holding a 3.1% stake in San Francisco. Neal had already seen Lumen Field as a 49ers-side owner, at Seattle's 30-point playoff win over the 49ers in January. "We walked away going, 'Oh my God. Like, this is built different,'" Neal said at the press conference.
 
-Neeru did speak in Atlanta. She did not describe herself as control owner. She talked about Neal. Field Gulls published a transcript of the press conference. “He’s been a big fan of sports and in particular football,” she said. “So he’s wanted forever to get involved in in actually strategizing and kind of doing something about that. So he’s the one who actually really pushed us into doing this. He’s worked really hard. So I’m very proud of him.” ESPN and AP filed the same thought in slightly different cuts. ESPN’s 26 August story adds that Neal is co-founder and CEO of Curai Health, previously interned with the 49ers, and “is expected to have a significant leadership role in the new ownership group.” That last clause is the memo’s language, not a job posting on seahawks.com. Neeru’s pride is on the record. It is not a substitute for the control-owner line, and it is not a reason to call this Neal’s team.
+Axios also asked Vinod about cheering a 49ers touchdown, which drew a flat answer. "No, I'm not confused," he said. Less than two weeks later the 49ers came to Lumen Field and won 32-29.
 
-### This is not a first
+### Five hundred years
 
-If the week of kickoff needs a flattening headline, it will be some version of “Indian NFL owner.” That sentence is wrong in two directions.
+That same Axios interview set off Seattle's relocation scare. "I will never say never. Will this team be in Seattle 500 years from now?" Vinod said, before adding that he had no current plans to change anything about the team, Lumen Field included. The first three words traveled much faster than the rest, and two days later Vinod was back on X.
 
-First, the Khoslas are a named family, not a nationality acting as a person. Vinod, on the Field Gulls transcript, said: “I also happened to come to this country in ‘76 when the Steelers were winning the Super Bowl. So actually I was originally and still am a big Steelers fan also. Little known fact, but I still watch all the Steelers games, too.” ESPN and AP, in the reporter’s voice, describe him as born in India. He did not, in the Atlanta remarks fetched for this packet, give a state, a language, or a campus. Those details circulate on Wikipedia and in Indian recap copy. They are not in this piece.
+This time he kept it short. "To all @Seahawks fans and @12s, we have no plans to move the team, have never discussed it, haven't even thought about it. End of story," he wrote.
 
-Second, the league already has a South Asian owner with a team, a vote, and a biography the NFL wrote down. On 14 December 2011, NFL.com published an Associated Press file under the headline “Pakistani-born Khan approved as Jaguars’ new owner.” “Shahid Khan was 16 when he moved from Pakistan to the United States to attend the University of Illinois,” that story said. Owners approved the purchase unanimously. The Jaguars’ own site, fetched today, still lists Shad Khan as Owner and still dates the 32-0 vote to 14 December 2011. Forbes, in 2012, called him Pakistan-born and “the first ethnic-minority owner” in the league. The Khosla vote does not reopen that math. A culture desk that erases Khan to mint a first for Seattle is not doing culture. It is doing a recap.
-
-### What they said they are buying
-
-Vinod’s Atlanta remarks, on seahawks.com, are the opposite of a cap-table lede. “How often do you get to buy a franchise that just won the Super Bowl? So, we are incredibly lucky and humbled by this gift, I would say, from the Allen Trust.” The task, he said, was “actually pretty simple—keep the winning streak alive, get another Super Bowl.” Long-term, learning mode, other owners “incredibly welcoming.” He has “been tied to Seattle tech community for a long time, so it was pretty easy to make the jump.” To the 12s: “it’s the best fanbase in the country of any NFL team.” That last line is his compliment. It is not a ranking this publication audited.
-
-Goodell, in the AP file, congratulated them on “great timing.” “It’s not very often you can buy a Super Bowl championship team, but you’ve done that,” he said. NFL.com’s approval story has the score the rematch is built on: the Seahawks beat the Patriots 29-13 in the Super Bowl in February. ESPN dated Super Bowl LX to 8 February. None of that makes the Khoslas the current owners of the building where that banner will hang.
-
-The number the business desk cannot leave alone is $9.612 billion. ESPN, AP, and Sportico all print it. NFL.com prints it as “ESPN reported.” The team’s July 11 statement did not disclose terms. The team’s August 26 story, as fetched today, does not print the figure. This piece attributes the price to those outlets and does not put it in the club’s mouth. Front Office Sports, on 26 August, noted the group had not yet identified other investors and recited the league’s ceiling: no more than 25 investors, principal owner at least 30 percent. Sportico named private-equity firms from someone familiar with the details. Those names are not here. A culture feature that starts listing limited partners it cannot see is a different story, and a worse one.
-
-The family is reported to have a minority stake in the San Francisco 49ers that will have to be given up. ESPN and AP treat the divestiture as part of the Seahawks agreement. Front Office Sports, on 31 August, said Khosla is not required to sell the 49ers stake before the Seahawks deal is completed. This packet does not pick a winner. It also does not need one to say the obvious: they are not, on today’s public record, the people who already hold the Seattle vote.
-
-seahawks.com, in the 26 August file, says Vinod and Neeru have lived in the same Bay Area home since 1986. That is the team’s geography, not a diaspora parable. The July 11 team page also reprinted what Vinod posted on X that day as @vkhosla: “Excited to be part of this great franchise. Also excited to see the money all go to a non-profit. No other comments till sale is final.” That post establishes that the account said that. It does not establish that the sale is final. He told the internet the same limit he later told Atlanta.
-
-### What this is not
-
-It is not a claim that the Khoslas own the Seahawks this morning. The team said closer. He said not yet. ESPN said *could*. A source told Front Office Sports “very soon.” None of those sentences is a closing.
-
-It is not a claim that seahawks.com has named Neeru the control owner. Sportico said it viewed the memo. ESPN said it obtained the memo. The team said the family.
-
-It is not a first. Khan is still on the Jaguars’ roster page.
-
-It is not a Punjab-or-IIT biography assembled from pages the family did not speak on 26 August. He said 1976, and the Steelers.
-
-It is not proof that “the diaspora” feels one way. No Instagram, TikTok, or Reddit thread was opened as a mood sample.
-
-It is not a list of limited partners. If a later closing announcement names them, a human can file that story then.
-
-Eight days from a Wednesday night in Seattle, the publishable facts are smaller than the recap will want. Owners approved a family. The family stood in Atlanta and talked about learning, a Super Bowl they did not win as owners, and a son who wanted in. A memo that this publication has not seen — and that two sports-business newsrooms say they have — names Neeru as the person who will hold the control vote. The club has not posted that she already does. The sale has not, on the pages checked today, closed. That is enough to write. It is not enough to celebrate a purchase that is still, in the incoming speaker’s own words, not ownership.
+Ten games into the Khoslas' first season, Seattle is 6-4 as of November 17, 2026, and has won two straight. The Steelers are on the Seahawks' schedule in 2027.
 
 ## Facts requiring final verification
 
-- Whether the sale **closes** before 9 September (re-check seahawks.com / NFL.com / ESPN / AP on publish day).
-- Whether the team or NFL.com ever posts “Neeru Khosla, control owner” in its own voice.
-- Final limited-partner roster — omit until named on the record.
-- 49ers-divest timing (ESPN/AP vs Front Office Sports, 31 August).
-- A single dated Forbes net-worth figure if a human wants one (outlets disagree; omitted here).
-- X primary URL and timestamp for the 11 July @vkhosla post (only the seahawks.com reprint was used).
-- Full Seattle Times Neeru explainer / “first woman without inheriting” (unfetched; omitted).
+Each line in the body is listed here with its source in the packet.
 
-Omitted from prose on purpose: Punjab / IIT; Wikipedia; Sportico PE names; Mittal/Grousbeck runner-up talks; Forbes net worth; Jaguars $760 million vs $770 million; Trail Blazers closing (ESPN and NFL.com conflict); invented suite or banner-raising scenes; “the community” as a hive mind.
+1. Pittsburgh 1976: his own words ("came to this country in '76"; "1976-78 period in Pittsburgh (CMU)"). The Steelers won four Super Bowls in six years, and SB X (Jan 1976) was the second (CBS). "In the middle of the run" is our framing.
+2. "Fifty years later, in Atlanta": the owners' approval on 26 Aug in Atlanta (ESPN; FOX/AP). The copy says his family was about to own the team. On 26 Aug the sale was approved and not yet closed, and the controlling-owner title later sat with Neeru, not with Vinod alone. "Still watches every Steelers game" paraphrases his carried Atlanta line, "I still watch all the Steelers games, too" (Field Gulls, carried).
+3. The quote to Bob Condotta is verbatim per the Seattle Times (28 Aug). "After NFL owners signed off" rests on the Times placing it in Atlanta at the approval meeting. CHECK the exact day (26 Aug assumed; not stated in copy). 2026-11-17 fact-check: left as written. The Times story is dated Aug. 28, 2026. The packet places the quote in Atlanta at the approval meeting and treats that meeting as 26 Aug, but it does not quote the Times printing the interview's calendar date.
+4. The Steelers beat Seattle in SB XL, Seattle's first Super Bowl (CBS), the 2006 Super Bowl (Seattle Times).
+5. The Barstool post is paraphrased from its caption (Seattle Times). The joke paraphrases one PFN-captured post ("We got sold to a Steelers fan with a 49ers fan son, we're cooked"). The copy attributes it to one post. PFN shows that the posts exist, not a consensus.
+6. The X reply on 28 Aug: "two days after the vote" means 26 to 28 Aug. The quote is verbatim (CBS; Seattle Sports). The paraphrase of the rest comes from the post text: "ALWAYS," "EVERY TIME," "!!!!" and "Apologies in advance for my very transparent style."
+7. "Learning!" exchange (X, 28 Aug, via the Seattle Times embed). The same-day post praised the logo and the fan brand ("12's"), which is what the copy says. The copy says the name is "12s" with no apostrophe, as the fan correction did.
+8. Close on 3 Sep and the titles: from seahawks.com. The copy says the announcement named the titles. ESPN's 3 Sep story still says Vinod, Neeru, and Neal "are now the controlling owners"; the copy uses the team's titles. Sportico's milestone is paraphrased from "first time that a woman has taken the top ownership spot at an NFL franchise immediately following a transaction."
+9. 9 Sep presser at Lumen Field (seahawks.com, KING 5, KOMO). The quote is verbatim KING 5 (Q8a). The throwbacks line says "the only clear fan-facing change announced," from KOMO. They return in 2027, so the copy does not say fans could already see them.
+10. Neeru's quote is verbatim from seahawks.com (Q2), trimmed after "I'm serious about that."
+11. 13-10 over New England at Lumen Field (ESPN). The copy avoids a weekday because the API dates are UTC.
+12. The Axios 49ers line is paraphrased from Q10 (the original has an em dash, so it isn't quoted). Q10 says "my son," not Neal. The copy says "his son." The 3.1% stake is the FOS/PFR figure. **Stake status after the deal is UNRESOLVED** (AP: "required to relinquish"; PFR 4 Sep: "still owns"). The copy only says they went into the deal holding it.
+13. Neal at the Jan 2026 playoff win over SF as a 49ers-side owner, plus the "30-point game" (KING 5, Q6). The copy says "as a 49ers-side owner" and "30-point playoff win." It does not say "visitors' side" or "blowout." The quote is verbatim, KING 5.
+14. "No, I'm not confused" (Axios 1 Oct). Home loss to SF 32-29 in October; the ESPN API date is 2026-10-11 UTC, so "less than two weeks later" holds either way.
+15. "Never say never" quote is verbatim (Axios, Q11). The paraphrase of "no current plans to change anything about the team, including ... Lumen Field" is the same Axios passage. "Relocation scare" rests on PFT, KIRO 7 and his own "sent an entire city into a spiral". "The first three words traveled faster" draws on his Q13 complaint ("Taking only first three words is dishonest"), written as our reading. CHECK the tone. 2026-11-17 fact-check: left as written. It is our reading, not a measured claim about how fast the words spread. After the Axios quote, "the first three words" can be read as "I will never"; his post means "never say never."
+16. 3 Oct X post, verbatim (Q12), trimmed after "End of story." Two days after 1 Oct.
+17. 6-4 with two straight wins (W 17-3 ARI, W 21-13 at LV), ESPN API 2026-11-17. The copy dates the record "as of November 17, 2026." Seattle vs Pittsburgh in 2027 (CBS: "slated to face").
+
+Not used: price ($9.612B); co-owners; Sportico's India-born claim; "first South Asian owner"; Atlanta hotel name; ESPN's plural "controlling owners".
 
 ## SEO title
 
-Khoslas approved for Seahawks, not closed; memo names Neeru, not a first
+Vinod Khosla, the Steelers and the Seahawks: Seattle's New Owners So Far
 
 ## Meta description
 
-NFL owners approved the Khosla sale on 26 Aug. As of 1 Sep it is not reported closed. Sportico and ESPN cite a memo naming Neeru. Shahid Khan already owns the Jaguars.
+Vinod Khosla admitted he still watches every Steelers game. Since then Seattle has tested its new owners on the Steelers, the 49ers and moving.
 
 ## Slug
 
-khosla-seahawks-approved-not-closed-neeru
+vinod-khosla-seahawks-owner-steelers-fan-49ers
+
+## Primary topic
+
+The Khosla family's first months as Seattle Seahawks owners
 
 ## Excerpt
 
-NFL owners unanimously approved the Khosla family’s purchase of the Seahawks on 26 August. Kickoff is 9 September. As of 1 September the sale is not reported closed. The control-owner name is on a memo, not on the team’s approval story. This is not the first South Asian NFL owner.
+Vinod Khosla got to Pittsburgh in 1976, in the middle of a Steelers dynasty. Fifty years later his family owns the Seahawks, and Seattle has been testing that loyalty ever since.
 
 ## Category
 
-Diaspora life and identity
+Sports
 
 ## Tags
 
-Seattle Seahawks, Khosla family, Vinod Khosla, Neeru Khosla, Neal Khosla, Nina Khosla, Shahid Khan, Jacksonville Jaguars, NFL ownership, Roger Goodell, Lumen Field, Patriots, Super Bowl LX
+Vinod Khosla, Neeru Khosla, Neal Khosla, Seattle Seahawks, Pittsburgh Steelers, San Francisco 49ers, NFL ownership, Lumen Field, Carnegie Mellon
 
 ## Internal-link opportunities
 
-- Other brwncltr sports / diaspora-ownership / money-and-power coverage — `[ARCHIVE UNKNOWN]`
-- Other pieces on South Asian specificity vs flattening “firsts” — `[ARCHIVE UNKNOWN]`
-- Do not invent a published Diljit, Cycle of Love, or any other live URL. Those packets exist in-repo as format models only and are not internal-link targets unless a human has published them.
+[ARCHIVE UNKNOWN]. No brwncltr.com URLs verified. The earlier Khosla piece (WP draft 12044, unpublished) can't be linked.
 
 ## Social captions
 
-- Instagram/feed: NFL owners approved the Khosla family for the Seahawks on 26 August. Kickoff is 9 September. As of 1 September the club has not said the sale closed. Vinod Khosla said in Atlanta, “we're not owners yet.” Sportico and ESPN cite a league memo naming Neeru as control owner. The team’s own July note said the family. This is not the first South Asian NFL owner — Shahid Khan is still listed as the Jaguars’ owner.
-- X/Twitter-length: Approved 26 Aug. Kickoff 9 Sep. Not reported closed as of 1 Sep. Memo (Sportico/ESPN) names Neeru. Team said “family.” Not a first: Khan / Jaguars.
-- Optional newsletter blurb: If you see “Indian NFL owner” this week, read the Atlanta transcript and the Jaguars’ owner page first. The Khosla sale is approved. It is not, on today’s public record, closed. The control name that is not on seahawks.com is the one Sportico and ESPN say is on the memo: Neeru.
-
-Still no invented facts. This is not a scoop. It is an approval plus sourced limits.
+- Instagram/feed: He got to Pittsburgh in 1976. Fifty years later his family owns the Seahawks, and he still watches every Steelers game. Seattle has been testing him on it ever since.
+- X: The Seahawks' new owners: a Steelers fan since '76, 28 years of 49ers home games, and one "End of story."
+- Newsletter: Vinod Khosla's first months owning the Seahawks, one loyalty test at a time.
 
 ## Featured-image concept
 
-The AP photograph already on seahawks.com: Nina, Vinod, Neeru, and Neal Khosla with Roger Goodell at the 26 August Atlanta news conference (Brynn Anderson / AP, as credited on the team page). All four family members in the frame, not Vinod alone, not a faceless “Indian billionaire” crop, not a Super Bowl parade stand-in for a sale that has not closed. Do not use a Punjab-or-tech montage, a generic NFL handshake, or Shahid Khan as a lookalike. No stolen-image instructions. Credit and licensing are for a human.
+Licensed photo of the Khoslas at the 9 Sep Lumen Field press conference, or Vinod at the podium in Seahawks colors. No Steelers-jersey photo illustration, and no generated likeness.
 
 ## Research date
 
-2026-09-01
+2026-11-17
