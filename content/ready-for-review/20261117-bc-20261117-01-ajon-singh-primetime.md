@@ -91,13 +91,13 @@ He took that ear to *Primetime*, the A24 film he wrote about Chris Hansen and *T
 
 ### Two kinds of TV
 
-The Hindi films weren't the only thing on. Singh comes from a family of immigrants, and he has described a steady diet of American TV that helped them understand the culture: Oprah, *Dateline*, and the segment *Dateline* became famous for. *To Catch a Predator* was one he'd sneak-watch, along with *Jerry Springer* and *Maury*. He thought Hansen was funny. It took years for him to understand what the show was actually about.
+The Hindi films weren't the only thing on. Singh comes from a family of immigrants, and he has described a steady diet of American TV that helped them understand the culture: Oprah, *Dateline*, and the segment *Dateline* became famous for. *To Catch a Predator* was one he'd sneak-watch, along with *Jerry Springer* and *Maury*, and he thought Hansen was funny; it took years for him to understand what the show was actually about.
 
 The film's source is Luke Dittrich's 2007 *Esquire* story about a sting in Murphy, Texas, that ended with the suicide of an assistant district attorney named Bill Conradt. What hooked Singh was the struggling young actor whose big break was playing a 13-year-old boy on the show.
 
 ### The wolfman
 
-India is inside the film, too. Its monster is rooted in a New York Times story Singh read about child disappearances in India, where wolves were the likely explanation but some villagers insisted they had seen a wolfman. He set it beside a Hansen segment about child slave labor in India.
+India is inside the film, too. Its monster is rooted in a New York Times story Singh read about child disappearances in India, where wolves were the likely explanation but some villagers insisted they had seen a wolfman, and he set it beside a Hansen segment about child slave labor in India.
 
 "So I was like, what if I took these two stories, and I created sort of this mythical background?" he said.
 
@@ -107,15 +107,15 @@ Most of his family is from Mumbai, and he'd like A24 to send him out so he can s
 
 ### Five days
 
-Getting the film made was a fight over what kind of movie it was. For a long time the note was a page-one rewrite: a rise-and-fall story starting with Hansen as a spunky young journalist. Singh wanted *Network*.
+Getting the film made was a fight over what kind of movie it was. For a long time the note was a page-one rewrite, a rise-and-fall story starting with Hansen as a spunky young journalist, when what Singh wanted was *Network*.
 
-Singh has heard that the director Tyler Falbo handed Pattinson the script at a party. On their first Zoom, Singh pitched him Hansen. Pattinson went silent, The Hollywood Reporter reported, and agreed to produce instead. Later, at Pattinson's house, he started riffing late into the night on what an actor might do with Hansen while Singh typed notes into his iPhone in the bathroom. "The character of Chris Hansen, to me, is like this angel of punishment," Pattinson told him. "He descends down the stairs and deals justice."
+Singh has heard that the director Tyler Falbo handed Pattinson the script at a party. On their first Zoom, Singh pitched him Hansen, and Pattinson went silent, The Hollywood Reporter reported, then agreed to produce instead. Later, at Pattinson's house, he started riffing late into the night on what an actor might do with Hansen while Singh typed notes into his iPhone in the bathroom. "The character of Chris Hansen, to me, is like this angel of punishment," Pattinson told him. "He descends down the stairs and deals justice."
 
-Singh rewrote the character in five days. Pattinson took a weekend with the pages and said yes.
+Singh rewrote the character in five days, and Pattinson took a weekend with the pages and said yes.
 
 Dan was the part Singh cared about most. "Chris Hansen might be the A-list role of this film, but I thought the Decoy Dan character was its heart," he told *The Cold Magazine*.
 
-Skyler Gisondo, who plays Dan, is nominated at the Gothams too. When test audiences found the original ending too bleak, Gisondo pitched a new one to Oppenheim over dinner: Dan gets his SAG-AFTRA card. The new ending calls back to him, Singh said: "Are you an actor?"
+Skyler Gisondo, who plays Dan, is nominated at the Gothams too, and when test audiences found the original ending too bleak, it was Gisondo who pitched a new one to Oppenheim over dinner: Dan gets his SAG-AFTRA card. The new ending calls back to him, Singh said: "Are you an actor?"
 
 ### Nov. 30
 
@@ -129,17 +129,26 @@ On Nov. 30, the script producers once wanted rewritten from page one is up for a
 
 ## Facts requiring final verification
 
-Body filed verbatim. The two flagged sentences are clean on 2026-11-17. "India has noticed" is gone. The Mumbai paragraph opens on item 34: most of his family is from Mumbai, and he wants A24 to send him out so he can show love to the people in India who have been reaching out. The kicker matches item 26: producers wanted a page-one rewrite. Nov. 30 is the ceremony (item 1). Canonical state: `READY_FOR_REVIEW`.
+Rhythm pass filed verbatim on 2026-11-17. No new facts. The joined sentences match the packet:
+
+- Hansen was funny, and it took years to understand the show (item 34).
+- The page-one rise-and-fall was the note; what he wanted was *Network* (item 26).
+- Pattinson went silent, then agreed to produce (item 28).
+- Five days, then a weekend, then yes (item 29).
+- The wolfman story and the child-slave-labor segment are the two stories he put together (item 39). No state, no decade.
+- Gisondo is nominated (item 4), and he pitched the SAG-AFTRA ending after the bleak test screening (item 31).
+
+Canonical state: `READY_FOR_REVIEW`.
 
 Untagged lines, by source:
 
-- The Nod: musicality quote (named, item 41); Mumbai and "show love" (item 34); "Are you an actor?" (item 31); angel of punishment, as what Pattinson told him (item 29); "What? I can't do this" (item 30); the page-one note and "wanted *Network*" (item 26).
-- Elle: the wolfman origin, no state and no decade (item 39); "what if I took these two stories" (item 39); "Oh my god, I love it" (item 43). Elle is not named in the body. The "handful" quote stays cut.
-- *The Hollywood Reporter*: the Zoom (named); Hansen's insult line, "he told the same paper," before the release (item 33); "wanted Singh to write with him" (item 46); "not viable… viable" (item 46).
+- The Nod: musicality quote (named, item 41); Mumbai and "show love" (item 34); "Are you an actor?" (item 31); angel of punishment (item 29); "What? I can't do this" (item 30); the page-one note and *Network* (item 26).
+- Elle: wolfman origin (item 39); "what if I took these two stories" (item 39); "Oh my god, I love it" (item 43). Elle is not named in the body.
+- *The Hollywood Reporter*: the Zoom (named); Hansen's insult line, "the same paper" (item 33); "wanted Singh to write with him" and "not viable… viable" (item 46).
 - *The Cold Magazine*: Decoy Dan quote, named (item 11).
 - Deadline: August 2025 co-writing (item 44) and December 2025 finishing stages (item 47).
 
-Elle's "early 1990s" still conflicts with the Sept. 1, 1996 date cited for the *New York Times* wolf-attacks story, which this packet did not open. The draft names neither a decade nor a state.
+Elle's "early 1990s" still conflicts with the Sept. 1, 1996 date cited for the *New York Times* wolf-attacks story, which this packet did not open. The draft names neither.
 
 Still open and unused: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's co-writer line (item 10); Variety's $19.2 million versus Mojo's $18,830,798 (item 19); on-screen executive-producer credit (item 25).
 
