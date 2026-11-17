@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-02 |
-| State | DRAFTING |
+| State | READY_FOR_REVIEW |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Draft supplied by the owner via the Content Editor. Filed verbatim. Prose not rewritten. |
@@ -60,7 +60,7 @@ Full passages are in `content/research/bc-20261117-02-20261117.md`. This draft a
 
 - Headline/outline gate skipped 2026-11-17. The owner, via the Content Editor, asked for this draft now.
 - Prose below is the Content Editor rewrite, filed verbatim. It was not rewritten after this fact-check.
-- Fact-check is in **Verification**. Two quotations are cut short of the packet's sentences. Canonical state stays DRAFTING.
+- Fact-check is in **Verification**. The two quotations now match the packet. Canonical state is READY_FOR_REVIEW.
 - Instagram was not opened. The caption is as reprinted.
 - No listen. No Illinois biography. No colonial reading of the poem. No Dhurandhar entry count.
 - Sensitivity: Krishna poem and a puja. The draft does not name a temple and does not use "Shivyan."
@@ -81,7 +81,7 @@ Full passages are in `content/research/bc-20261117-02-20261117.md`. This draft a
 
 Years ago, Lakshmi Rangarajan heard a Subramania Bharati song at a concert and liked it so much that she went to the trouble of learning it. Later she taught it to her daughter.
 
-"My mother has a core memory with this particular song," Susha told The Hindu. "She recalled all that while teaching me this particular track, and I remembered that when Devan asked me to contribute to the album he was working on."
+Susha calls it her mother's "core memory." "She recalled all that while teaching me this particular track," she told The Hindu, "and I remembered that when Devan asked me to contribute to the album he was working on."
 
 That song is "Varuvaaiy," and on Nov. 16 it was nominated for Best Global Music Performance at the 69th Grammy Awards. The Academy's nominee line reads "Devan Ekambaram, Susha." Susha was at a studio shoot with her phone off when the list came out, and when she turned it back on, hundreds of messages were waiting. "It wasn't in my consciousness that yesterday was the announcement of the nominations," she said the next day. "For me, it was just any other day."
 
@@ -101,7 +101,7 @@ The poem is addressed to Krishna. Its opening line is the title three times, the
 
 Devan has known Susha for more than 20 years, but this is the first time they've worked together. He built the track backward. He wanted Raag Bardiya, he said, and she suggested Des. So he recorded her voice first, then made everything around her singing, his own vocals and arrangements included.
 
-"Yes, I have done the composition and music production, but Susha's voice did the magic," he said.
+"Yes, I have done the composition and music production, but Susha's voice did the magic and while I was campaigning for the song everyone had praise for her voice," he said.
 
 Prakash Sontakke plays slide guitar on the record, and Anil Srinivasan plays piano.
 
@@ -125,8 +125,7 @@ Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. The pr
 | Draft sentence | Packet | Result |
 | --- | --- | --- |
 | Years ago, Lakshmi Rangarajan heard a Subramania Bharati song at a concert and liked it so much that she went to the trouble of learning it. Later she taught it to her daughter. | §4.1. Susha to The Hindu: her mother heard it at a concert, "liked it so much that she had taken the effort to learn it," and taught it to her. Billboard: "This was a song my mother taught me years ago." | PASS. Paraphrase of that account. Not a direct quote. |
-| "My mother has a core memory with this particular song," Susha told The Hindu. | §4.1, line ~332. Full sentence: "My mother (Lakshmi Rangarajan) has a core memory with this particular song ('Varuvaai') that was an ode to lord Krishna." | FAIL. The name parenthetical is an allowed drop. The sentence also drops "('Varuvaai') that was an ode to lord Krishna," with no ellipsis. |
-| "She recalled all that while teaching me this particular track, and I remembered that when Devan asked me to contribute to the album he was working on." | §4.1. That sentence is intact. The sentence between the two quotes ("She had heard it at a concert...") is omitted from the quotation and used as narration above. | PASS. |
+| Susha calls it her mother's "core memory." "She recalled all that while teaching me this particular track," she told The Hindu, "and I remembered that when Devan asked me to contribute to the album he was working on." | §4.1. "core memory" is her phrase. The teaching sentence is split around the tag. Both halves match: "She recalled all that while teaching me this particular track, and I remembered that when Devan asked me to contribute to the album he was working on." | PASS. |
 | That song is "Varuvaaiy," and on Nov. 16 it was nominated for Best Global Music Performance at the 69th Grammy Awards. The Academy's nominee line reads "Devan Ekambaram, Susha." | §1.1, §1.2. | PASS. |
 | Susha was at a studio shoot with her phone off when the list came out, and when she turned it back on, hundreds of messages were waiting. | §6.1. Hindustan Times reporter: "studio recording shoot," she switched the phone on, "100s of congratulatory messages." Nov. 16 from the announcement plus her "yesterday" in a Billboard piece dated Nov. 17. | PASS. "Hundreds" spells "100s." Outlet name is in the sources section, not this sentence. |
 | "It wasn't in my consciousness that yesterday was the announcement of the nominations," she said the next day. "For me, it was just any other day." | §6.1. Billboard India, dated 17/11/2026. | PASS. |
@@ -138,7 +137,7 @@ Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. The pr
 | As Devan explains the title, it asks Krishna to come to him. | §4.1. Hindustan Times paraphrase, not a direct quote: "He explains that the bhajan title means: Krishna, won't you come to me!" | PASS. No quotation marks. |
 | Devan has known Susha for more than 20 years, but this is the first time they've worked together. | §5, lines ~403-405. "I have known her for over 20 years, but the collaboration happened now." | PASS. |
 | He wanted Raag Bardiya, he said, and she suggested Des. So he recorded her voice first, then made everything around her singing, his own vocals and arrangements included. | §5. "I wanted to record in Raag Bardiya, but she suggested doing it in Raag Des and I recorded her voice and then made everything around her singing and added my vocals and arrangements." | PASS. "Des" is his printed word, not Desh. |
-| "Yes, I have done the composition and music production, but Susha's voice did the magic," he said. | §5. The sentence continues: "but Susha's voice did the magic and while I was campaigning for the song everyone had praise for her voice." | FAIL. The quote stops at "magic" and is presented as the end of the sentence. The source does not end there. No ellipsis. |
+| "Yes, I have done the composition and music production, but Susha's voice did the magic and while I was campaigning for the song everyone had praise for her voice," he said. | §5. Full sentence, through "her voice." | PASS. |
 | Prakash Sontakke plays slide guitar on the record, and Anil Srinivasan plays piano. | §5 Billboard credit block. | PASS. The rest of that block (Naveen Samson, Joseph John, Sarvajit Krishna Mohan, Roshan Sebastian) stays in this table, not the body. |
 | Susha has been learning Carnatic music since she was 5, from her mother and her grandmother, and has been performing professionally since she was about 13. | §6.3. Hindustan Times quote. | PASS. |
 | She later went to the University of Toronto for a master's in jazz performance and composition | §6.3. The Hindu *Love Language* profile, reporter voice. | PASS. Credited here, not in that sentence. |
@@ -153,7 +152,7 @@ Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. The pr
 
 Held in this section, not in the body: Instagram caption "the very 1st Tamil Song to ever be nominated" (§1.3, his post as reprinted, not an Academy sentence). Gorillaz' *The Mountain*, Best Alternative Music Album, store credits featuring Anoushka Shankar and Asha Bhosle (§1.4). No music video yet; The Hindu said the team is mulling one (§3.2). *Pattarai*, upcoming Tamil-Telugu bilingual (§6.2). Session credits beyond Sontakke and Srinivasan, from the Billboard block in §5.
 
-Not clean. Do not mark READY_FOR_REVIEW until the two FAIL quotes are exact or marked as cut.
+Both former FAIL quotes are now intact. Clear for READY_FOR_REVIEW.
 
 ## Facts requiring final verification
 
