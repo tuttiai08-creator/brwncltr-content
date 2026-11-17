@@ -48,3 +48,4 @@ Unchanged from discovery (2026-08-30): audience 5, timeliness 5, cultural 5, ang
 - 2026-08-31: Owner approved RESEARCHING → DRAFTING.
 - 2026-08-31: Cursor independent review of PR #3 returned PASS. Advanced DRAFTING → READY_FOR_REVIEW. Packet moved to content/ready-for-review/20260831-bc-20260830-01-diljit-wembley.md. Article bytes unchanged. Research packet unchanged.
 - 2026-11-17 refresh and rewrite, owner-approved; new packet; replaces PR #3 body
+- 2026-11-17: Content Editor review on PR #26, Revise. Dek, nut, Hyderabad moved up, Indore kicker cut, Lokur line made generic. Status stays READY_FOR_REVIEW.

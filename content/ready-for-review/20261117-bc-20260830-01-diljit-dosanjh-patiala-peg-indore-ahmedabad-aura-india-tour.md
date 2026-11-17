@@ -16,7 +16,7 @@
 
 Diljit Dosanjh Was Told Not to Sing "Patiala Peg." He Sang It.
 
-Dek: Britain got three of those songs in the first half. His India homecoming is getting them city by city, one letter at a time.
+Dek: In Birmingham, three of the songs India wants cut came before the intermission. At home, Indore and Ahmedabad got a letter first.
 
 ## Story type
 
@@ -32,7 +32,7 @@ On Sunday 15 Nov, in Indore, he performed a song that a district child protectio
 
 ## Central angle
 
-Two months apart, the same catalog played two very differently. In Britain, three of the songs Indian officials now want cut were in the first half. At home, each city negotiates them through letters and police conditions, while a former Supreme Court judge and an advocate disagree over who decides. The gap between the diaspora show and the home show is the story of Diljit's year.
+Two months apart, the same catalog played two very differently. In Britain, three of the songs Indian officials now want cut were in the first half. At home, each city negotiates them through letters and police conditions, while lawyers argue over who gets to decide. The gap between the diaspora show and the home show is the story of Diljit's year.
 
 ## Primary sources
 
@@ -67,11 +67,11 @@ Two months apart, the same catalog played two very differently. In Britain, thre
 
 1. Lede: Indore, Sunday. He sang Patiala Peg; police had made dropping it a condition, and he brought young fans on stage.
 2. Who: Indore DCPO Rajneesh Sinha's letter to the venue, the complainant, the 2019 order aimed at other states, and Sinha's quote after the show.
-3. His stage answer and Rahat Indori.
-4. Nut: Birmingham's first half held three of the four songs. Britain played them; home negotiates them.
-5. Wembley: the first Punjabi headliner, the opener, the closer, Sanson Ki Mala, the tour's own flag rule, the Harry Styles quote.
-6. Satluj: pulled in India, then worldwide. Delhi's permission reversal and the stage line.
-7. 2024 precedent: Hyderabad lyric swaps, the Ahmedabad dry-state line, and Indore this year.
+3. 2024: Hyderabad lyric swaps and the Ahmedabad dry-state line. Dharenavar is already on the page. The Indore kicker is cut.
+4. His stage answer and Rahat Indori.
+5. Nut: Birmingham before the intermission; a letter in one city and a police condition in another.
+6. Wembley: the first Punjabi headliner, the opener, the closer, Sanson Ki Mala, the tour's own flag rule, the Harry Styles quote.
+7. Satluj: pulled in India, then worldwide. Delhi's permission reversal and the stage line.
 8. Landing: the Ahmedabad letter, Lokur, the Wembley announcement line, Saturday's date.
 
 ## Full draft
@@ -80,9 +80,13 @@ In Indore on Sunday night, Diljit Dosanjh sang "Patiala Peg," one of four songs 
 
 The notice came from Indore's district child protection officer, Rajneesh Sinha. On November 6 he wrote to the venue asking it to keep out "Patiala Peg," "5 Taara," "Case" and "Jatt Uthe Fire Karda," acting on a complaint from a Chandigarh professor, Panditrao Dharenavar. The letter cited a 2019 Punjab and Haryana High Court order directed at the police chiefs of Punjab, Haryana and Chandigarh. Indore is in Madhya Pradesh. After the concert, Sinha told PTI he was still waiting to read the order himself: "I have asked the complainant to send me a copy of the order. Only after studying it will it be clear whether it prohibits the performance of any specific song by a particular singer at events such as live concerts."
 
+### Hyderabad, 2024
+
+Dharenavar has been chasing three of these songs since at least 2024. In November 2024, after he submitted video, the Telangana government served a notice on Diljit's Hyderabad show, and Diljit worked around it on stage, singing "5 taara hotel ch" instead of "5 taara theke utte" and swapping the "daaru" in "Lemonade" for Coke. A few days later, at a 2024 show in Ahmedabad, he left the alcohol songs out entirely and said that if every state went dry like Gujarat, he'd never sing about liquor again.
+
 Diljit had already answered from the stage. "You can't sing this, you can't sing that. You can't do this, you can't do that," he told the crowd. Then he reached for Rahat Indori and recited his couplet that ends "kisi ke baap ka Hindostan thodi hai," the line about the country not belonging to anybody's father. Later he put a fan video of "Patiala Peg" on his Instagram story.
 
-Britain heard those songs very differently. Six days after Wembley, at a sold-out arena in Birmingham, "5 Taara" was the second song of the night, "Case" was the third and "Patiala Peg" came in at eleven, all before the intermission. That's three of the four songs Indore tried to take away. At home the same catalog arrives with paperwork, a letter in one city and a police condition in another, while lawyers disagree over who's even allowed to decide. The diaspora show and the home show have split apart, and Diljit is spending the end of the year walking between them.
+Britain heard those songs differently. Six days after Wembley, at a sold-out arena in Birmingham, "5 Taara" was the second song of the night, "Case" the third and "Patiala Peg" the eleventh, all before the intermission. At home the same catalog arrives with paperwork, a letter in one city and a police condition in another, and lawyers are now arguing over who gets to decide. The diaspora show and the home show have split apart, and Diljit is spending the end of the year walking between them.
 
 ### What Britain heard
 
@@ -96,13 +100,9 @@ India's fight with him didn't start in Indore. In July his film *Satluj*, the Ja
 
 The India tour nearly lost its opener too. Delhi Police turned down permission for the show on October 21, citing security concerns and threat inputs, then reversed itself, and on October 30 he walked out at Jawaharlal Nehru Stadium in front of more than 70,000 people. From that stage he answered the people who'd mocked *Satluj*. "Don't teach Punjabis how to fight battles," he told them.
 
-### Hyderabad, 2024
-
-Dharenavar has been chasing three of these songs since at least 2024. In November 2024, after he submitted video, the Telangana government served a notice on Diljit's Hyderabad show, and Diljit worked around it on stage, singing "5 taara hotel ch" instead of "5 taara theke utte" and swapping the "daaru" in "Lemonade" for Coke. A few days later, at a 2024 show in Ahmedabad, he left the alcohol songs out entirely and said that if every state went dry like Gujarat, he'd never sing about liquor again. In Indore this month he sang "Patiala Peg" anyway.
-
 ### Saturday in Ahmedabad
 
-Ahmedabad is next, and the paperwork got there first. On November 6 the city's district child protection officer, Tanvika Parmar, wrote to the police commissioner asking him to stop the same kind of songs, keep children off the stage and keep out the bandoliers from the show's promotional material. Her letter says the songs do harm "even with altered or twisted lyrics," which shuts the door he walked through in Hyderabad. Not everyone thinks a child protection officer gets to make that call. Former Supreme Court judge Madan B Lokur told India Today that the officer had no authority to issue such directions.
+Ahmedabad is next, and the paperwork got there first. On November 6 the city's district child protection officer, Tanvika Parmar, wrote to the police commissioner asking him to stop the same kind of songs, keep children off the stage and keep out the bandoliers from the show's promotional material. Her letter says the songs do harm "even with altered or twisted lyrics," which shuts the door he walked through in Hyderabad. Former Supreme Court judge Madan B Lokur told India Today that a child protection officer had no authority to issue directions like these.
 
 Diljit announced this show himself, from the Wembley stage in September. He told London that the biggest stadium is in India: "India mein stadium ho, aur Punjabi udhar na ho, yeh toh phir ho nahi sakta." The show is Saturday, November 21, at Narendra Modi Stadium.
 
@@ -120,15 +120,15 @@ Each line in the body is listed here with its source in the packet.
 8. Sinha quote, verbatim. Source: PTI via Telegraph.
 9. Stage remark "You can't sing this, you can't sing that. You can't do this, you can't do that" is PTI's translation in packet 11a. The sentence does not name PTI. The couplet ends on the PTI text "kisi ke baap ka Hindostan thodi hai." "The line about the country not belonging to anybody's father" is our translation of the PTI text in packet section 11a. The copy does not say Rahat Indori was born in Indore.
 10. Birmingham, 18 Sep, sold out: 5 Taara at 2, Case at 3, Patiala Peg at 11, intermission at 19. Sources: Live Nation featured setlist; BritAsia TV 22 Sep (11b). "Six days after Wembley": 12 to 18 Sep.
-11. "Lawyers disagree over who's even allowed to decide" is former Supreme Court judge Madan B Lokur and advocate Rachna Tyagi in India Today (packet 11a). Lokur's paraphrase: the officer had no authority to issue such directions. Tyagi said the letter to police was not unlawful. Kaur and Kalra are not in the packet and are not in the copy.
+11. "Lawyers are now arguing over who gets to decide" is former Supreme Court judge Madan B Lokur and advocate Rachna Tyagi in India Today (packet 11a). The copy says "lawyers" and does not name them. Lokur's paraphrase: a DCPO had no authority to issue such directions. Tyagi said the letter to police was not unlawful. Kaur and Kalra are not in the packet and are not in the copy.
 12. Wembley: venue-stated first Punjabi headliner; the opener line (BBC); Sanson Ki Mala with phone lights (India Today 14 Sep; BritAsia); the "Main Hoon Punjab" closer with fireworks (BBC; BritAsia); the tour-requested no flags/posters/signs rule (Wembley page).
 13. BBC quote, verbatim, trimmed after "very special." Pollstar has Styles' 12-night run and Diljit closing the season.
 14. Satluj: the Jaswant Singh Khalra story, formerly *Punjab '95* (BBC). ZEE5 premiere 3 Jul, pulled in India two days later (BBC 6 Jul), removed globally by 11 Jul (Variety India). 
 15. Satluj quote fragment "but I didn't know it would happen as early as Sunday evening" is from BBC's translation of his live video. The lead-in paraphrases the first half of the same sentence.
 16. Delhi: permission declined 21 Oct by DCP (South) Anant Mittal, citing security concerns and threat inputs, then "reversed itself" with no date (NDTV says a day later; Billboard India says cleared on 24 Oct; packet 11d says write no date). "More than 70,000" is Billboard India and is not named in the sentence. "Don't teach Punjabis how to fight battles" is the New Indian Express translation; Billboard India has "how to fight." NIE is not named in the sentence. "The people who'd mocked Satluj" rests on NIE's "The film you stood on stage and mocked." CJP/Abhijeet Dipke is headlines only and is not used.
-17. 2024 Hyderabad: "three of these songs" are Case, 5 Taara and Patiala Peg. "After he submitted video" is packet 11c (NDTV): the Telangana notice followed video Dharenavar submitted. NDTV names him on that notice; it says he submitted video, not that he was the Hyderabad "complainant." The lyric clause is the packet's swap, in one clause: "5 taara hotel ch" instead of "5 taara theke utte," and the "daaru" in "Lemonade" swapped for Coke. The Ahmedabad dry-state lines are NDTV's paraphrase, not a quotation. "He sang Patiala Peg anyway" is the Indore performance (PTI/Telegraph; Billboard India). The packet does not say whether the Indore lyrics were changed.
+17. 2024 Hyderabad, now placed after Dharenavar is introduced: "three of these songs" are Case, 5 Taara and Patiala Peg. "After he submitted video" is packet 11c (NDTV): the Telangana notice followed video Dharenavar submitted. NDTV names him on that notice, so the opener stays. It says he submitted video, not that he was the Hyderabad "complainant." The lyric clause is the packet's swap, in one clause: "5 taara hotel ch" instead of "5 taara theke utte," and the "daaru" in "Lemonade" swapped for Coke. The Ahmedabad dry-state lines are NDTV's paraphrase, not a quotation. The "sang Patiala Peg anyway" kicker is cut; the lede already says he sang it. The packet does not say whether the Indore lyrics were changed.
 18. Ahmedabad: Parmar's 6 Nov letter to the police commissioner covers songs, kids and bandoliers "as depicted in promotional material" (Indian Express; India Today). The "altered or twisted lyrics" quote is from the letter (India Today/PTI).
-19. Lokur told India Today, in India Today's paraphrase, that the officer had no authority to issue such directions (packet 11a). The copy stops there. It does not say that in Gujarat it comes down to the police. Section 33 of the Gujarat Police Act is not in the packet.
+19. Lokur told India Today, in India Today's paraphrase, that a DCPO "had no authority to issue such directions" (packet 11a). The copy says "a child protection officer" and does not name Parmar or Sinha. The same India Today explainer covers the Indore police condition and the Ahmedabad referral, and the packet does not say which officer Lokur meant. The copy does not say that in Gujarat it comes down to the police. Section 33 of the Gujarat Police Act is not in the packet.
 20. Wembley-stage Hinglish line (NDTV). The lead-in "India has the biggest stadium" paraphrases his preceding sentence "The biggest stadium is in India- Narendra Modi Stadium" (NDTV). "In the world" was not used.
 21. Saturday 21 Nov, Narendra Modi Stadium (artist site).
 
@@ -143,6 +143,8 @@ Body fixes: dropped the alcohol-and-violence gloss on Dharenavar (not in the pac
 NDTV check, 2026-11-17, same URL as packet 11c: the page names Panditrao Dharenavar and says the November 2024 Telangana notice followed video evidence he submitted. It does not call him the Hyderabad "complainant." It uses "a complaint by Dharenavar" for the later Maharashtra notice. That matches packet 11c. The packet does not date the *Punjab '95* retitle. It says "formerly *Punjab '95*" only.
 
 Editor pass, 2026-11-17: the body above is the editor's file. Attribution tags are out of the sentences. Items 5, 9, 11, 16, 17 and 19 now describe that body. This note does not restore those tags.
+
+Content Editor revise, 2026-11-17, on the review of head 6b75aff: dek rewritten; Hyderabad 2024 moved to follow Dharenavar's introduction; the Indore kicker cut; the repeated "three of the four" sentence cut; Lokur's line says "a child protection officer," not "the officer." "Indore's own Rahat Indori" was not added. The packet does not say he is from Indore. NDTV does name Dharenavar on the 2024 notice, so that opener stays. "His own side did set one rule" already replaced "a rule on record," and it stays.
 
 ## SEO title
 
