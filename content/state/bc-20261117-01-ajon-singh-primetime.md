@@ -1,6 +1,6 @@
 # bc-20261117-01-ajon-singh-primetime
 
-- status: READY_FOR_REVIEW
+- status: DRAFTING
 - created: 2026-11-17
 - updated: 2026-11-17
 - beat: Film / television
@@ -52,3 +52,4 @@ Top unresolved items are in the plan and the packet: Bronx / Iowa / Phoenix vers
 - 2026-11-17: Findings accepted. State set back to `DRAFTING` because the fact-check was not clean. Revised draft placed verbatim in the same file. Re-check still not clean (Hansen paragraph: "hasn't taken the bait" plus two quotes; plane beat has two quotes; the release-and-nominations paragraph still reads as a report). Status remains `DRAFTING`. Prose not edited. Nothing published. Nothing merged.
 - 2026-11-17: Third draft placed verbatim. The three open items are gone. Sentence check against the packet is clear. Content Editor rules check is clear. Status set to `READY_FOR_REVIEW`. Not publication `APPROVED`. Nothing published. Nothing merged.
 - 2026-11-17: Content Editor review on PR #19, verdict Revise. Draft revised from that note: Bollywood ear moved into the top third; Gotham field (Hamaguchi, Rashida Jones, Zvyagintsev) and Cipriani Wall Street in the nut and the close; box-office sentence removed; eight line edits applied. Sentence check clear. Status remains `READY_FOR_REVIEW`. Not publication `APPROVED`. Nothing published. Nothing merged.
+- 2026-11-17: Run 5 draft filed verbatim (Bollywood-ear lede). Sentence check not clean. Prose not edited. Status set to `DRAFTING`. Problems are in the ready-for-review file under Facts requiring final verification. Nothing published. Nothing merged.

@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-01-ajon-singh-primetime |
-| State | READY_FOR_REVIEW |
+| State | DRAFTING |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Content Manager draft, placed verbatim. Owner skipped plan approval on 2026-11-17. Prose was not rewritten. |
@@ -14,7 +14,7 @@
 
 ## Proposed headline
 
-Ajon Singh Rewrote Chris Hansen in Five Days. Pattinson Said Yes.
+The Bollywood Ear Behind A24's *Primetime*
 
 ## Story type
 
@@ -79,71 +79,81 @@ Elle India (Oct. 8, 2026) and the NO NOTES podcast (Oct. 14, 2026) were read for
 
 ## Full draft
 
-# Ajon Singh Rewrote Chris Hansen in Five Days. Pattinson Said Yes.
+# The Bollywood Ear Behind A24's *Primetime*
 
-*The debut screenwriter behind A24's* Primetime *was told for a long time to rewrite it from page one. Now the script is up for a Gotham Award.*
+*Ajon Singh grew up on* Sholay, Dhoom *and* Dateline. *His debut screenplay, a Chris Hansen story starring Robert Pattinson, is up for a Gotham Award on Nov. 30.*
 
-The notes went into an iPhone, typed fast, in Robert Pattinson's bathroom. Ajon Singh, a debut screenwriter, had come to Pattinson's house to talk about *Primetime*, his script about Chris Hansen and *To Catch a Predator*. Late that night, Pattinson started riffing on what an actor might do with Hansen, and Singh kept typing.
-
-"The character of Chris Hansen, to me, is like this angel of punishment," Pattinson told him. "He descends down the stairs and deals justice."
-
-Singh went away for five days and rewrote the character. Pattinson took a weekend with the new pages, The Hollywood Reporter reported, and then said yes.
-
-Lance Oppenheim directed it for A24, and it opened Sept. 25. On Nov. 30 at Cipriani Wall Street, Singh's script is up for Best Adapted Screenplay at the Gothams, in a field with Ryusuke Hamaguchi, Rashida Jones, and Andrey Zvyagintsev.
-
-### His Ear Came from Home
-
-His ear for dialogue came from home. His parents put on *Sholay*, *Bobby*, *Don* and *Devdas*, and at some point he got fixated on *Dhoom*, to the point of teaching himself "Dhoom Machale" on the piano.
+Growing up, Ajon Singh got so fixated on *Dhoom* that he taught himself to play "Dhoom Machale" on the piano. His parents would put on Hindi films, *Sholay*, *Bobby*, *Don*, *Devdas*, and what stayed with him was the way the people in them talked.
 
 "There's a musicality that exists in Bollywood that I try and emulate in my writing," he told The Nod. "Not the literal singing but the dialogue. It's very rhythmic."
 
-### He Wanted *Network*
+He took that ear to *Primetime*, the A24 film he wrote about Chris Hansen and *To Catch a Predator*, with Robert Pattinson as Hansen and Lance Oppenheim directing. It opened Sept. 25. On Nov. 30, at Cipriani Wall Street, Singh's script is up for Best Adapted Screenplay at the Gotham Awards, in a field that includes Ryusuke Hamaguchi and Rashida Jones.
 
-For a long time, Singh couldn't find a producer who liked the script the way it was. People kept asking for a page-one rewrite, he told The Nod, a rise-and-fall story that would start with Hansen as a spunky young journalist coming up in the business. He wanted *Network*.
+### Two kinds of TV
 
-"In this case, they're on the cusp of primetime, and they're chasing after it relentlessly," he said. "And it's loud, and fun, but there's this crash, and it goes silent."
+There was American TV in the house, too. Singh comes from a family of immigrants, and he has described a steady diet of American TV that helped them understand the culture: Oprah, *Dateline*, and the segment *Dateline* became famous for. *To Catch a Predator* was one he'd sneak-watch, along with *Jerry Springer* and *Maury*. He thought Hansen was funny. It took years for him to understand what the show was actually about.
 
-Singh has a theory about how the script reached Pattinson, because "many people have tried to take credit for it." He has heard that the director Tyler Falbo met Pattinson at a party and handed it over. Either way, Pattinson reached out and the two got on a Zoom. Singh pitched him Hansen on the call. Pattinson went silent, THR reported, and agreed to produce instead.
-
-### The Kid in the Decoy House
-
-The film is based on a magazine story. In September 2007, *Esquire* published Luke Dittrich's "Tonight on Dateline This Man Will Die," about a *To Catch a Predator* sting in Murphy, Texas, that ended with the suicide of Bill Conradt, an assistant district attorney. Dittrich, who sold the rights to the producer William Iannaccone, told THR he never read the script.
-
-What hooked Singh in the article was a struggling young actor whose big break was playing a 13-year-old boy on the show.
+The film grew out of a magazine story. In September 2007, *Esquire* published Luke Dittrich's "Tonight on Dateline This Man Will Die," about a sting in Murphy, Texas, that ended with the suicide of Bill Conradt, an assistant district attorney. What hooked Singh was the struggling young actor whose big break was playing a 13-year-old boy on the show.
 
 "Chris Hansen might be the A-list role of this film, but I thought the Decoy Dan character was its heart," he told *The Cold Magazine*.
 
-Gisondo plays Dan. When test audiences found the original ending too bleak, Singh told The Nod, Gisondo pitched a new one at dinner with Oppenheim: Dan gets his SAG-AFTRA card. The new ending calls back to him, Singh said: "Are you an actor?"
+### Page one
 
-Other pieces sat in reserve. Singh kept a Notes app of lines cut from older drafts, including a monologue Hansen delivers on a plane to Creed Bratton's character. Oppenheim asked about it and threw it at Pattinson, whose first reaction, Singh said, was "What? I can't do this." He did it anyway.
+People kept asking for a different movie. For a long time, Singh said, the note was a page-one rewrite: a rise-and-fall story starting with Hansen as a spunky young journalist. He wanted *Network*.
 
-### Dateline at Home
+"In this case, they're on the cusp of primetime, and they're chasing after it relentlessly," he said. "And it's loud, and fun, but there's this crash, and it goes silent."
 
-Singh knew the show long before he knew the article. "I come from a family of immigrants and there was a diet of American TV shows that helped us understand the culture," he told The Nod. *Dateline* was part of that diet, and *To Catch a Predator* became one of the shows he'd sneak-watch as a kid, alongside *Jerry Springer* and *Maury*.
+Singh has heard that the director Tyler Falbo handed Pattinson the script at a party. Pattinson reached out, and on their first Zoom, Singh pitched him Hansen. Pattinson went silent, The Hollywood Reporter reported, and agreed to produce instead.
 
-The real Hansen has been less charmed. Before the release, he told THR the film was "an insult to the thousands of men and women who work hard every day to protect children from predators." Singh, speaking to the same outlet, said it isn't his job to call the show right or wrong, and that the filmmakers have no interest in villainizing Hansen.
+The yes came later, in Pattinson's bathroom. Singh had come to his house to talk about the film, and late that night Pattinson started riffing on what an actor might do with Hansen while Singh typed notes into his iPhone. "The character of Chris Hansen, to me, is like this angel of punishment," Pattinson told him. "He descends down the stairs and deals justice."
 
-### Kaluuya Called
+Singh rewrote the character in five days. Pattinson took a weekend with the pages and said yes.
 
-Daniel Kaluuya read the *Primetime* script and called Singh with a verdict, which Singh recalls in a British accent: "I can tell you like to misbehave." Sony was developing a movie around Spider-Punk, the character Kaluuya voiced in *Across the Spider-Verse*, and he wanted Singh to write it with him, THR reported. Last December, Deadline reported that the two were in the finishing stages of a first draft. There's no release date.
+### The ending
 
-On Nov. 30, the script that producers kept telling him to start over from page one is up for a Gotham.
+Skyler Gisondo, who plays Dan, is up for a Gotham too. When test audiences found the original ending too bleak, Gisondo pitched a new one to Oppenheim over dinner: Dan gets his SAG-AFTRA card. The new ending calls back to him, Singh said: "Are you an actor?"
+
+Cut lines didn't always stay cut. Singh kept a Notes app of cut lines, including a monologue Hansen delivers on a plane to Creed Bratton's character. Oppenheim asked about it and handed it to Pattinson, whose first reaction, Singh said, was "What? I can't do this." He did it anyway.
+
+### India, in the margins
+
+Part of the film's mythology came from much closer to home. Its monster, Elle reported, is rooted in a New York Times story Singh read about child disappearances in India in the early 1990s, where wolves were the likely explanation but some villagers insisted they had seen a wolfman. He set it beside a Hansen segment about child labor in India.
+
+"So I was like, what if I took these two stories, and I created sort of this mythical background?" he told Elle.
+
+Most of his family is from Mumbai, he told The Nod, and he'd like A24 to send him there to thank the people in India who've been reaching out. When Elle told him Indian news channels had been cutting their own edits of the film, he said, "Oh my god, I love it."
+
+### Nov. 30
+
+The real Hansen is not a fan. Before the release he told THR the film was "an insult to the thousands of men and women who work hard every day to protect children from predators." Singh's position is that judging the show isn't his job as a writer, and that the filmmakers have no interest in villainizing Hansen.
+
+Daniel Kaluuya read the script and wanted Singh to write with him. Sony Pictures Animation now has the two co-writing a Spider-Punk animated feature, Deadline reported.
+
+On Nov. 30, the script producers kept telling him to start over from page one is up for a Gotham.
 
 "I've basically gone from being not viable in the marketplace to being viable in the marketplace," he told THR. "And I haven't really changed all that much."
 
 ## Facts requiring final verification
 
-Revised after the Content Editor review on PR #19 (verdict: Revise). Word count: 859 (headline, dek, subheads, and body; markdown heading marks excluded). Sentence check against the packet on 2026-11-17: clear. The box-office figure is no longer in the draft. $18.8 million remains Mojo's Friday–Sunday total in the packet (item 18) and is not a line in the copy.
+Run 5 draft filed verbatim. Fact-check on 2026-11-17 is not clean, so canonical state is `DRAFTING`. Prose was not edited.
 
-Still open in the packet and not used as settled facts here: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's co-writer line (item 10); Variety's $19.2 million opening versus Mojo's $18,830,798 (item 19); on-screen executive-producer credit (item 25); the unread *Hindu* interview and Kerala versus Uttar Pradesh (items 38–39).
+- Dek: "Ajon Singh grew up on *Sholay*, *Dhoom* and *Dateline*." And the opening sentence: "Growing up, Ajon Singh got so fixated on *Dhoom*..." Item 41 has the films and the piano, with no life-stage. Item 34 has the *Dateline* diet. "Grew up" / "Growing up" is the same kind of timing the packet would not support for "as a teenager."
+- "The yes came later, in Pattinson's bathroom." Item 29: the bathroom is where he typed notes while Pattinson riffed. The yes came after five days and a weekend with the pages. The next sentences in the draft say that, and they contradict this one.
+- "He set it beside a Hansen segment about child labor in India." Item 39, his words to Elle: "a segment about child slave labour in India." "Child labor" drops "slave."
+- "he'd like A24 to send him there to thank the people in India who've been reaching out." Item 34 is two lines. Family from Mumbai is one. "I want A24 at some point to send me out so I can show love to all the people in India who've been reaching out" is the other. "There" makes the destination Mumbai, and "thank" is not "show love."
+- "Sony Pictures Animation now has the two co-writing a Spider-Punk animated feature, Deadline reported." Items 44 and 47: Deadline's last on-record status is Dec. 7, 2025, finishing a first draft, and the August 2025 item says early development. "Now," in a Nov. 2026 piece, is not in those items. The "wanted Singh to write with him" sentence before it is THR, item 46, not Deadline.
+
+These hold: Gotham field and Cipriani Wall Street (items 1 and 3; Hamaguchi and Rashida Jones are on the adapted list; "includes" does not empty the rest of the field). The monster sentence names no Indian state and is attributed to Elle (item 39). The "Oh my god, I love it" quote matches item 43. Falbo is "Singh has heard" (item 27). Hansen's insult quote and Singh's "not my job" / "no interest in villainizing" match items 33 and 32.
+
+Still open and not settled in the copy: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's co-writer line (item 10); Variety's $19.2 million versus Mojo's $18,830,798 (item 19; the dollar figure is not in this draft); on-screen executive-producer credit (item 25).
 
 ## SEO title
 
-Who Is Ajon Singh? The Screenwriter of A24's Primetime
+The Bollywood Ear Behind A24's Primetime
 
 ## Meta description
 
-Ajon Singh rewrote Chris Hansen in five days, and Robert Pattinson said yes. His A24 film Primetime is up for a Gotham screenplay award on Nov. 30.
+Ajon Singh grew up on Sholay, Dhoom and Dateline. His debut screenplay, a Chris Hansen story starring Robert Pattinson, is up for a Gotham Award on Nov. 30.
 
 ## Slug
 
@@ -151,7 +161,7 @@ ajon-singh-primetime
 
 ## Excerpt
 
-Ajon Singh rewrote Chris Hansen in five days, and Robert Pattinson said yes. He told The Nod he tries to write dialogue with Bollywood's musicality. On Nov. 30 the script is up for Best Adapted Screenplay at the Gothams.
+Ajon Singh got fixated on Dhoom and taught himself "Dhoom Machale." He told The Nod he tries to write with that musicality. His script for Primetime is up for a Gotham Award on Nov. 30.
 
 ## Category
 
