@@ -80,6 +80,8 @@ The lede is one to three paragraphs that put us with a person in a moment and ge
 
 Every fact and quote in the copy has to be in the research packet. Verification, conflicting reports and corrections of other outlets all go in the file's verification section, never in the prose. A doubt about a fact gets one clean sentence in the copy, once. We never claim an original interview that didn't happen, and we never write "she told BRWNCLTR" or "she told me" unless we talked to her.
 
+Interpretation has to read as ours. Never put "in his telling," "he says" or "she says" in front of a line the subject didn't actually say. Before: "In his telling, the bike was the easy part." After: "Next to that classroom, the bike was the easy part."
+
 ## The publisher test
 
 Answer each question yes or no. A no on 1, 3, 4 or 6 is fatal, and the draft goes back.
