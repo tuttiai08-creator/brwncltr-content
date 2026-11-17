@@ -2,7 +2,7 @@
 
 - status: mixed (2 READY_FOR_REVIEW / 13 DISCOVERED)
 - created: 2026-08-30
-- updated: 2026-09-01
+- updated: 2026-11-17
 - run_type: discovery slate (updated 2026-08-31 after bc-20260830-01 moved to READY_FOR_REVIEW)
 - window: 2026-08-16 to 2026-08-30 (plus named forward dates used only as why-now)
 - geographies: US / Canada / UK diaspora primary; South Asia origin only with clear diaspora or cultural relevance
@@ -15,7 +15,7 @@
 
 | ID | Working label | Rec | Sensitive |
 | --- | --- | --- | --- |
-| bc-20260830-01 | Diljit Dosanjh Wembley / Aura Boxscore | READY_FOR_REVIEW (owner-approved 2026-08-31; Cursor PASS) | none |
+| bc-20260830-01 | Diljit Dosanjh Wembley / Aura Boxscore | READY_FOR_REVIEW (2026-11-17 owner-approved refresh and rewrite; new packet) | none |
 | bc-20260830-02 | The Cycle of Love US theatrical | READY_FOR_REVIEW (owner-approved 2026-09-01; per-ID `content/state/bc-20260830-02-cycle-of-love.md`) | caste |
 | bc-20260830-03 | Toxic / Geetu Mohandas opening split | PURSUE | violence (A-cert film); gender criticism in reviews |
 | bc-20260830-04 | DHS H-1B $103,265 NPRM | PURSUE | politics; immigration |
@@ -34,7 +34,7 @@
 Counts: 15 candidates. Durable status: **2 READY_FOR_REVIEW** (`bc-20260830-01`, `bc-20260830-02`), **13 DISCOVERED** (IDs 03–15).
 Discovery-era recommendations for IDs still in DISCOVERED: 3 remaining PURSUE (03–05), 7 WATCH, 3 PASS. (At discovery, 01 and 02 were also PURSUE.)
 
-PURSUE is a recommendation only. IDs 03–15 still need owner approval of that ID before RESEARCHING. `bc-20260830-01` was owner-approved 2026-08-31 and is READY_FOR_REVIEW. `bc-20260830-02` was owner-approved 2026-09-01 and is READY_FOR_REVIEW (`content/state/bc-20260830-02-cycle-of-love.md`).
+PURSUE is a recommendation only. IDs 03–15 still need owner approval of that ID before RESEARCHING. `bc-20260830-01` was owner-approved 2026-08-31 and is READY_FOR_REVIEW. On 2026-11-17 Aziz approved a refresh and rewrite; status remains READY_FOR_REVIEW. `bc-20260830-02` was owner-approved 2026-09-01 and is READY_FOR_REVIEW (`content/state/bc-20260830-02-cycle-of-love.md`).
 
 **2026-08-31:** Owner approved `bc-20260830-01` only. That ID is now READY_FOR_REVIEW. Other IDs remain DISCOVERED.
 
@@ -54,14 +54,14 @@ Box-office and concert-attendance figures below are **as reported by named outle
 
 - status: READY_FOR_REVIEW
 - created: 2026-08-30
-- updated: 2026-08-31
+- updated: 2026-11-17
 - beat: Music / entertainment (secondary: diaspora life)
 - story_type_hypothesis: Feature (news-with-feature-tail)
-- recommendation: (owner approved 2026-08-31; now ready-for-review)
+- recommendation: (owner approved 2026-08-31; 2026-11-17 refresh approved by Aziz; READY_FOR_REVIEW)
 - blocked_reason:
-- research_path: content/research/bc-20260830-01-20260831.md
-- draft_path: content/drafts/20260831-bc-20260830-01-diljit-wembley.md
-- review_path: content/ready-for-review/20260831-bc-20260830-01-diljit-wembley.md
+- research_path: content/research/bc-20260830-01-20261117.md
+- draft_path: (none; no copy under content/drafts/)
+- review_path: content/ready-for-review/20261117-bc-20260830-01-diljit-dosanjh-patiala-peg-indore-ahmedabad-aura-india-tour.md
 - sensitive: none at discovery (do not invent "first Indian stadium act in the UK"; Arijit Singh headlined Tottenham Hotspur Stadium in 2025 per prior Billboard Canada reporting, not re-fetched this run)
 
 ### Working topic / headline
