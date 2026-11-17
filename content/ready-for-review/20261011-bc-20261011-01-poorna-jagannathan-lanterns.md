@@ -85,27 +85,27 @@ She did not know Zoe was the Manhunter until she was nearly through the episode-
 
 # Poorna Jagannathan Found Out She Was the Alien by Turning a Page
 
-*Nobody told the* Never Have I Ever *star that her* Lanterns *rancher's wife was the Manhunter, so she found out late at night, near the end of a script, the latest turn in a career that didn't start until she was 35.*
+*Nobody told the* Never Have I Ever *star that her* Lanterns *rancher's wife was the Manhunter, so she found out late at night, near the end of a script, the latest turn in a career that didn't give her a first role until she was 35.*
 
-It was late, Poorna Jagannathan had already popped a gummy, and she was nearly through the script for episode four of *Lanterns* when she learned what her character really was. Zoe Macon, a rancher's wife in Rushville, Nebraska, had just died on the page, and Jagannathan figured her run was over. Then she kept reading. "I read that I'm the Manhunter," she told Vulture. "I swear to God, I think I'm not reading properly."
+It was late, Poorna Jagannathan had already popped a gummy, and she was nearly through the script for episode four of *Lanterns* when she learned what her character really was. Zoe Macon, a rancher's wife in Rushville, Nebraska, had just died on the page, and Jagannathan kept reading. "I read that I'm the Manhunter," she told Vulture. "I swear to God, I think I'm not reading properly."
 
-Zoe was the alien two intergalactic cops had been hunting all season on HBO's Green Lantern series, and nobody had thought to tell the woman playing her. In America, plenty of viewers still know Jagannathan as Nalini Vishwakumar, the devoted, overbearing mom on *Never Have I Ever*, and in India a lot of people still know her as Menaka, the journalist in the cult Hindi comedy *Delhi Belly*. *Lanterns* gave both crowds a reason to look again: the finale drew 10.5 million viewers worldwide in its first three days, and HBO says the season is averaging 19.3 million, which puts it among its five biggest series launches.
+Zoe was the alien two intergalactic cops had been hunting all season on HBO's Green Lantern series, and nobody had thought to tell the woman playing her. In America she's Nalini Vishwakumar, the devoted, overbearing mom on *Never Have I Ever*, and in India she's also Menaka, the journalist in the cult Hindi comedy *Delhi Belly*. *Lanterns* is a hit on another scale: the finale drew 10.5 million viewers worldwide in its first three days, and the season is averaging 19.3 million viewers globally, according to Nielsen and internal numbers from Warner Bros. Discovery, among the top five HBO series launches in platform history.
 
 ### The last page
 
-Nothing in the audition gave the twist away. The scenes she read were ordinary ones, Zoe picking up John Stewart at a bar and then trying to get him out of her bed before it was too late, and she told the Los Angeles Times that if she'd had even an inkling, she might have brought an alien touch to them. "It was so grounded that it was easy to inhabit this character," she said.
+Nothing in the audition gave the twist away. The scenes she read were ordinary ones, Zoe picking up John Stewart at a bar and then, in bed, trying to get him to leave, and she told the Los Angeles Times that if she'd had even an inkling, she might have brought an alien touch to them. "It was so grounded that it was easy to inhabit this character," she said.
 
 Casting didn't clear it up either. She was talking to showrunner Chris Mundy all the time, and still nobody mentioned it, so when episode four, "The Weenie," killed Zoe off, she found it abrupt and assumed that's how these shows go. She doesn't know the genre, she said, and maybe people just blow up. "In Urdu, the word is khodafez, which is bye-bye," she said.
 
 The death was staged. Zoe fakes it so that Hal Jordan and John Stewart, played by Kyle Chandler and Aaron Pierre, won't realize the rancher's wife in front of them is the thing they've been chasing. "Hiding in plain sight, for lack of a better phrase," she told Deadline.
 
-The next episode, "Lights Out," ends Zoe for real, and John is the one who kills her. Pierre stayed in character for the entire shoot, she said, except for the one time he said "Sorry, love" to her in a British accent.
+The next episode, "Lights Out," ends Zoe for real, and John is the one who kills her. Pierre stayed in character the entire time, she said, though she remembers him saying "Sorry, love" to her in a British accent.
 
 ### A late start
 
 She'd been arriving late, and on her own terms, for a long time before *Lanterns*. Her father was an Indian diplomat, so every three years the family packed up for a new country, and she was born in Tunisia and grew up in India, Ireland, Brazil, Pakistan and Argentina. She went into advertising, then quit at 30, started her own brand consulting firm and went to acting school full time.
 
-The project that defined her next decade was one she started herself. After the December 2012 attack on a physiotherapy student in Delhi, she reached out to the playwright Yael Farber, who wrote *Nirbhaya*, and Jagannathan produced the play, starred in it and kept performing it through a three-year run, in between shoots for HBO's *The Night Of*, where she played the mother of Riz Ahmed's Nasir. Then came *Never Have I Ever*.
+One project from those years was one she started herself. After the December 2012 attack on a physiotherapy student in Delhi, she reached out to the playwright Yael Farber, who wrote *Nirbhaya*, and Jagannathan produced the play, starred in it and kept performing it through a three-year run, in between shoots for HBO's *The Night Of*, where she played the mother of Riz Ahmed's Nasir. Then came *Never Have I Ever*.
 
 ### Lucky
 
@@ -129,7 +129,7 @@ This year she added an alien.
 - Nalini's pre-air surname on Scroll.in is Krishnan. The draft uses Vishwakumar.
 - Variety's 98 percent Rotten Tomatoes line for *Deli Boys* was not checked and is not in the draft.
 - A Travel + Leisure sentence that her last advertising job was in 2016 conflicts with *Delhi Belly* (2011) and with her own "quit at 30." Omitted.
-- 2026-11-17 fact-check, not corrected in the prose: the dek says the career "didn't start until she was 35." She says she started thinking about being an actor at 30 and got her first role at 35. "Figured her run was over," "plenty of viewers," and "gave both crowds a reason to look again" are not in the sources. "HBO says" is attached in Deadline to the premiere approaching 30 million, not to the 19.3 million average. TheWrap credits Nielsen and Warner Bros. Discovery for the 10.5 million and 19.3 million figures. "Five biggest" is looser than "top five HBO series launches in platform history." "Out of her bed" is sharper than the Los Angeles Times line about trying to get him to leave. "Entire shoot" and "except for the one time" go past Vulture's "the entire time" and the ellipsis before "Sorry, love." "Defined her next decade" is not in the packet.
+- 2026-11-17 recheck of the eight flags: the dek now says the first role came at 35. "Figured her run was over," the viewer and crowd hedges, "out of her bed," and "entire shoot" are out. Pierre's line now uses "the entire time" and "Sorry, love" in a British accent. "One of her biggest projects" was not supportable, so the sentence is "One project from those years was one she started herself." The 19.3 million line now follows TheWrap: Nielsen and internal numbers from Warner Bros. Discovery, and "among the top five HBO series launches in platform history." That top-five sentence is also in Deadline. TheWrap does not say "ever," and it does not credit Warner Bros. Discovery alone.
 
 ## SEO title
 
@@ -145,7 +145,7 @@ poorna-jagannathan-lanterns-zoe-manhunter
 
 ## Excerpt
 
-*Nobody told the* Never Have I Ever *star that her* Lanterns *rancher's wife was the Manhunter, so she found out late at night, near the end of a script, the latest turn in a career that didn't start until she was 35.*
+*Nobody told the* Never Have I Ever *star that her* Lanterns *rancher's wife was the Manhunter, so she found out late at night, near the end of a script, the latest turn in a career that didn't give her a first role until she was 35.*
 
 ## Category
 
