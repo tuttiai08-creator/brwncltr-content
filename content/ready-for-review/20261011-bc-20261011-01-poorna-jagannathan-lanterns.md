@@ -1,4 +1,4 @@
-# Crime Boss, New Aunt, Alien Manhunter: Poorna Jagannathan's Year
+# Poorna Jagannathan Found Out She Was the Alien by Turning a Page
 
 ## Packet metadata
 
@@ -7,18 +7,18 @@
 | Task ID | bc-20261011-01-poorna-jagannathan-lanterns |
 | State | READY_FOR_REVIEW |
 | Research date | 2026-10-12 |
-| Last updated | 2026-10-13 |
-| Authoring agent / human | brwncltr Content Manager (Cursor), from the owner-approved plan |
+| Last updated | 2026-11-17 |
+| Authoring agent / human | BRWNCLTR Content Manager |
 | Primary beat | Music / film / television |
 | Secondary beat (optional) | Entertainment |
 
 ## Proposed headline
 
-Crime Boss, New Aunt, Alien Manhunter: Poorna Jagannathan's Year
+Poorna Jagannathan Found Out She Was the Alien by Turning a Page
 
 ## Story type
 
-Feature (dominant), with a spoiler explainer in the middle. The news peg is the 4 October 2026 *Lanterns* finale and the 8 October ratings, plus a 22 October premiere still ahead. The feature is the year’s parts — Zoe, Lucky, Eleanor — set against a career she says started in her thirties. Not a representation essay. Not a finale recap.
+Feature. She plays Zoe, the rancher's wife who is the Manhunter on HBO's *Lanterns*, and she says she found that out near the end of the episode-four script. The piece also follows the career she dates to her thirties, *Deli Boys*, *Nobody Wants This*, and *Nocturne*. Not a representation essay. Not a finale recap.
 
 ## Target audience
 
@@ -30,7 +30,7 @@ Today is Monday 12 October 2026. The *Lanterns* finale debuted on 4 October. The
 
 ## Central angle
 
-In one year she is the Manhunter on *Lanterns*, the crime-boss aunt on *Deli Boys*, and a new aunt on *Nobody Wants This*. That run is the payoff of work she has dated to her thirties, not a first job and not an identity argument. *Lanterns* — what Zoe is, and that she says she did not know — runs through the piece.
+She did not know Zoe was the Manhunter until she was nearly through the episode-four script. That discovery is the spine. Around it: Nalini on *Never Have I Ever*, Menaka in *Delhi Belly*, the move out of advertising at 30, Lucky on *Deli Boys*, Eleanor on *Nobody Wants This*, and an FBI agent on *Nocturne*. Not an identity argument.
 
 ## Primary sources
 
@@ -69,83 +69,67 @@ In one year she is the Manhunter on *Lanterns*, the crime-boss aunt on *Deli Boy
 - The TikTok was not watched. Juggernaut past the public opening was not retrieved. Wikipedia, Hungama Express, Variety India, and a PBS diversity clip were not used.
 - Could not verify: anything said inside the TikTok; the account handle and post time; whether *Lanterns* is renewed; how, physically, Zoe is killed; Zoe’s ethnicity (sources conflict; omitted); the Spirit Awards result; a current age.
 - Safety: spoilers are marked. *Nirbhaya* is identified as a play she produced about the December 2012 Delhi attack and the silence around sexual violence. The attack is not retold. Her own history is not imported from pages that discuss it. No caste or communal allegation. No medical or legal advice. Age is her career timeline, not a novelty frame.
-- Owner rule, applied: no “as a South Asian” frame. Zoe’s ethnicity is not described. The women-of-color sentence is one Vulture quotation inside the twist. “Hiding in plain sight” is applied to the character’s cover, not to a Nebraska-outsider thesis about the actress.
-- Distinctions the draft keeps: Zoe is not given an ethnicity. The Dar brothers are Pakistani American because Vogue says so. Safar, on *The Night Of*, is a Pakistani-American mother because Scroll.in says so. Nalini is Vishwakumar on the post-air pages, not the pre-air “Krishnan.” *Wolfs* is Apple’s spelling, not “Wolves.”
+- 2026-11-17: Rule 11 body from the BRWNCLTR Content Manager, pasted verbatim. Prose credit: BRWNCLTR Content Manager. In-body subheads are H3s. No sentence in the Full draft was edited after the paste.
+- Owner rule, applied: no "as a South Asian" frame. Zoe's ethnicity is not described. The draft uses her Vulture line that khodafez is Urdu for bye-bye. It does not use the interviewer's Farsi line or the women-of-color sentence. "Hiding in plain sight, for lack of a better phrase" is her Deadline quote, applied to Zoe's cover.
+- Distinctions the draft keeps: Zoe is not given an ethnicity. The Dar brothers are Pakistani American because Vogue says so. Nalini is Vishwakumar, not the pre-air "Krishnan." The draft calls her the mother of Riz Ahmed's Nasir and does not use Scroll.in's "Pakistani-American." *Wolfs* is not in this draft.
 
 ## Outline
 
-1. Headline and dek, then who she is (the faces readers know), what *Lanterns* is, and the premise of the 2026 run.
-2. *Lanterns*: Zoe / the Manhunter, the episode-four script and the gummy quote, the twist with a light spoiler, ratings in one or two sentences, cast and creators inside the scene.
-3. How she got here, in order: quit advertising at 30, diplomat’s daughter, *Delhi Belly*, *Nirbhaya* and the 2013 Amnesty award, *The Night Of*, *Ramy*, *Never Have I Ever*, *Wolfs*, the 2023 line. Collaborators sit where the work happened.
-4. 2026 besides *Lanterns*: *Deli Boys* season 2, the June 2025 Gotham, the Spirit nomination as a nomination only, the cancellation, *Nobody Wants This*, *Nocturne*.
-5. A short close in her words. No explainer. No description of Zoe’s ethnicity.
+1. Headline, dek, the episode-four script, the Manhunter line, Nalini and Menaka, then the finale figures.
+2. The last page: the audition, Mundy, the faked death, "Hiding in plain sight," and "Lights Out."
+3. A late start: the diplomat's daughter, advertising left at 30, *Nirbhaya*, *The Night Of*, *Never Have I Ever*.
+4. Lucky: *Deli Boys*, the Gotham, the Spirit nomination, the August cancellation, Eleanor, *Nocturne*.
+5. Close on the Vanity Fair line, split after "Lucky feels what I feel." No description of Zoe's ethnicity.
 
 ## Full draft
 
-# Crime Boss, New Aunt, Alien Manhunter: Poorna Jagannathan's Year
+# Poorna Jagannathan Found Out She Was the Alien by Turning a Page
 
-*She quit advertising at 30 and landed her first role at 35. In 2026 she's playing the alien DC's cops are hunting, a crime-boss auntie, and somebody's biting new aunt.*
+*Nobody told the* Never Have I Ever *star that her* Lanterns *rancher's wife was the Manhunter, so she found out late at night, near the end of a script, the latest turn in a career that didn't start until she was 35.*
 
-If you know Poorna Jagannathan, there's a good chance you know her as a mom. On *Never Have I Ever* she was Nalini Vishwakumar, the widowed dermatologist raising Maitreyi Ramakrishnan's Devi, devoted and overbearing in the same breath. It's the kind of part that sticks to an actor.
+It was late, Poorna Jagannathan had already popped a gummy, and she was nearly through the script for episode four of *Lanterns* when she learned what her character really was. Zoe Macon, a rancher's wife in Rushville, Nebraska, had just died on the page, and Jagannathan figured her run was over. Then she kept reading. "I read that I'm the Manhunter," she told Vulture. "I swear to God, I think I'm not reading properly."
 
-This year she's been busy unsticking it. On HBO's *Lanterns*, the Green Lantern series that premiered in August, she plays Zoe Macon, a rancher's wife in Rushville, Nebraska. Zoe also turns out to be the alien two intergalactic cops have been hunting all season. Jagannathan didn't know that when she signed on. She found out by turning a page of the script.
-
-And *Lanterns* is just one stop on a crowded year. There's a crime-boss auntie on Hulu's *Deli Boys*, a new aunt on Netflix's *Nobody Wants This*, and an overworked FBI agent in *Nocturne* after that. Not bad for someone who didn't go to acting school until she was 30.
+Zoe was the alien two intergalactic cops had been hunting all season on HBO's Green Lantern series, and nobody had thought to tell the woman playing her. In America, plenty of viewers still know Jagannathan as Nalini Vishwakumar, the devoted, overbearing mom on *Never Have I Ever*, and in India a lot of people still know her as Menaka, the journalist in the cult Hindi comedy *Delhi Belly*. *Lanterns* gave both crowds a reason to look again: the finale drew 10.5 million viewers worldwide in its first three days, and HBO says the season is averaging 19.3 million, which puts it among its five biggest series launches.
 
 ### The last page
 
-Spoilers ahead, so if you haven't finished the season, come back later.
+Nothing in the audition gave the twist away. The scenes she read were ordinary ones, Zoe picking up John Stewart at a bar and then trying to get him out of her bed before it was too late, and she told the Los Angeles Times that if she'd had even an inkling, she might have brought an alien touch to them. "It was so grounded that it was easy to inhabit this character," she said.
 
-Nothing in the audition gave the twist away. The scenes she read were ordinary: Zoe picking up John Stewart at a bar, then, in bed, trying to get him to leave. "You gotta go or you'll die!" She told the *Los Angeles Times* there was nothing alien in the pages. They were grounded, real enough to live in. If she'd had even an inkling, she said, she might have brought an alien touch to the scene.
+Casting didn't clear it up either. She was talking to showrunner Chris Mundy all the time, and still nobody mentioned it, so when episode four, "The Weenie," killed Zoe off, she found it abrupt and assumed that's how these shows go. She doesn't know the genre, she said, and maybe people just blow up. "In Urdu, the word is khodafez, which is bye-bye," she said.
 
-Nobody filled her in after she got the part, either. Not even showrunner Chris Mundy, who made the series with Damon Lindelof and Tom King. Then the script for episode four, "The Weenie," arrived, and Zoe died in it. She found the exit interesting and abrupt, and since, in her words, she doesn't know the genre, she figured maybe that's just how it goes. "People just blow up?" She was happy to be in the DC universe at all.
+The death was staged. Zoe fakes it so that Hal Jordan and John Stewart, played by Kyle Chandler and Aaron Pierre, won't realize the rancher's wife in front of them is the thing they've been chasing. "Hiding in plain sight, for lack of a better phrase," she told Deadline.
 
-She kept reading anyway. "It's pretty late. I have popped a gummy by then — and I read that I'm the Manhunter," she told Vulture. "I swear to God, I think I'm not reading properly." "I was shocked they didn't tell me," she said. "I was shocked I was playing such a pivotal role." She told Deadline it was "such a delightful twist," one she did not see coming, and she made a meal out of it.
+The next episode, "Lights Out," ends Zoe for real, and John is the one who kills her. Pierre stayed in character for the entire shoot, she said, except for the one time he said "Sorry, love" to her in a British accent.
 
-The death was fake. Zoe stages it so Hal Jordan and John Stewart, played by Kyle Chandler and Aaron Pierre, won't figure out that the rancher's wife standing right in front of them is the very thing they're chasing. Kelly Macdonald is the town sheriff, and Garret Dillahunt plays William Macon, a modern cowboy. Jagannathan's own description of Zoe's cover is "hiding in plain sight, for lack of a better phrase."
+### A late start
 
-The next episode, "Lights Out," ends it for real, and John is the one who kills her. "She is dead, for sure," she told the *Times*, then added, "Maybe …" Pierre stayed in character the entire time, she told Vulture, though he did once say "Sorry, love" to her in a British accent.
+She'd been arriving late, and on her own terms, for a long time before *Lanterns*. Her father was an Indian diplomat, so every three years the family packed up for a new country, and she was born in Tunisia and grew up in India, Ireland, Brazil, Pakistan and Argentina. She went into advertising, then quit at 30, started her own brand consulting firm and went to acting school full time.
 
-People watched all of it. The finale pulled 10.5 million viewers worldwide in its first three days, and the season is averaging 19.3 million viewers globally, putting it among the top five HBO series launches in the platform's history.
+The project that defined her next decade was one she started herself. After the December 2012 attack on a physiotherapy student in Delhi, she reached out to the playwright Yael Farber, who wrote *Nirbhaya*, and Jagannathan produced the play, starred in it and kept performing it through a three-year run, in between shoots for HBO's *The Night Of*, where she played the mother of Riz Ahmed's Nasir. Then came *Never Have I Ever*.
 
-### Late start, long road
+### Lucky
 
-She grew up on the move. Her father was an Indian diplomat, so every three years the family packed up for a new country. She was born in Tunisia, then lived in India, Ireland, Brazil, Pakistan and Argentina. "Travel is the one thing that's shaped me the most," she has said.
+The role that set up this year was on Hulu's *Deli Boys*, Abdullah Saeed's comedy about two Pakistani American brothers stuck running the crime syndicate their late father left behind. Jagannathan plays Lucky, their father's longtime associate, and she ruthlessly steals scenes, as Vogue put it. The part won her a Gotham Award and got her a Spirit Award nomination, and in August, after two seasons, Hulu canceled the show.
 
-She started out in advertising. At 30 she quit, started her own brand consulting firm and went to acting school full time. Her first role came at 35. In India a lot of people still know her as Menaka, the journalist in the cult Hindi comedy *Delhi Belly*.
+She has kept moving. Netflix cast her as Eleanor, Sebastien's "brassy and biting" aunt, in the third season of *Nobody Wants This*, and on Apple TV's *Nocturne* she plays an overworked FBI agent brought in after law enforcement tried to handle a crime internally and messed it up. The serial-killer genre is new to her, and reading the book the show is based on was enough to make her install a security system at home.
 
-Then came a project she made herself. After the December 2012 attack on a physiotherapy student in Delhi, she reached out to the playwright Yael Farber. Farber wrote *Nirbhaya*, and Jagannathan produced it and starred in it. "It is a protest against the conspiracy of silence," she told The Independent. The play ran for three years, won an Amnesty International award in 2013, and she kept doing it in between filming HBO's *The Night Of*.
-
-On that show she played Safar Khan, whose son Nasir, played by Riz Ahmed, is a college student accused of murdering a woman. On *Ramy* she was Salma, tangled up romantically with Ramy Youssef's lead. Then Mindy Kaling and Lang Fisher cast her as Nalini. She got that part at 48.
-
-In 2024 she shared the screen with George Clooney and Brad Pitt in Jon Watts's *Wolfs*. The year before, at the Juggernaut Summit in New York, she'd said, "In America, I feel like I am just getting started." The room applauded.
-
-### Two aunts and an FBI agent
-
-*Deli Boys* is where that line comes to life. Abdullah Saeed's Hulu comedy follows Mir and Raj Dar, played by Asif Ali and Saagar Shaikh, two brothers struggling to run the crime syndicate their father left behind. Jagannathan is Naveeda "Lucky," their father's longtime associate and a crime-boss auntie who, as Vogue put it, ruthlessly steals scenes. The role won her a Gotham Award for Outstanding Supporting Performance in a Comedy Series in June 2025, and this March it took her to the Film Independent Spirit Awards as a nominee. "Because my home is the set of 'Deli Boys,'" she said that night. Season 2 dropped all at once on May 28, with Fred Armisen joining as Max Sugar, a fellow crime boss and casino magnate. In August, Hulu canceled the show.
-
-Then it's on to the next one. On October 22, *Nobody Wants This* returns to Netflix with Kristen Bell and Adam Brody, and she joins as Eleanor, the "brassy and biting" aunt of Andrew Rannells's Sebastien. After that comes *Nocturne*, which she says is out October 30. She plays an overworked FBI agent brought in on a crime that law enforcement first tried to handle internally and messed up, opposite Stephen Graham, Liev Schreiber and Zazie Beetz. The serial-killer genre is new for her. She read the book it's based on and ended up installing a security system.
-
-### Just getting started
-
-She told Vanity Fair what she and Lucky have in common, and she counted it out.
-
-"Lucky feels what I feel—we're just getting started. I started thinking about being an actor when I was 30. I got my first role at 35, got a break at 40, got Never Have I Ever at 48. I have Lucky at 52."
+"Lucky feels what I feel," she told Vanity Fair last year. "We're just getting started. I started thinking about being an actor when I was 30. I got my first role at 35, got a break at 40, got Never Have I Ever at 48. I have Lucky at 52."
 
 This year she added an alien.
 
 ## Facts requiring final verification
 
-- TikTok: account handle, post date, and anything said in the video. Not watched. Not quoted.
-- Zoe’s ethnicity. Deadline’s paraphrase, the Los Angeles Times, and Vulture do not agree (South Asian / Indian / Indian American; Urdu vs the interviewer’s Farsi). Omitted on purpose.
+- TikTok: account handle, post date, and anything said in the video. Not watched. Not in this draft.
+- Zoe's ethnicity. Deadline's paraphrase, the Los Angeles Times, and Vulture do not agree (South Asian / Indian / Indian American; Urdu vs the interviewer's Farsi). The draft does not describe Zoe's ethnicity. It does quote her Vulture line, "In Urdu, the word is khodafez, which is bye-bye."
 - *Lanterns* season two. TheWrap: not renewed. Deadline: renewal pending, as Deadline understands it. Omitted as undecided.
-- How Zoe is killed. Vulture says a crystal heart is cut out. Deadline says she is shot in the head and a frozen heart is removed. The draft says only that John Stewart kills her in episode five.
-- Film Independent Spirit Award result. IndieWire has her as a nominee on 5 March 2026, before the ceremony. No winner is recorded here.
-- Current age. The “53” in the discovery file was not re-verified. Vanity Fair’s ages are her March 2025 answer. No age is stated for October 2026.
-- *Nocturne*’s 30 October date is her answer to the Los Angeles Times, not an Apple press release opened this run.
-- Nalini’s pre-air surname on Scroll.in is Krishnan. Post-air pages say Vishwakumar. The draft uses Vishwakumar.
-- Variety’s 98 percent Rotten Tomatoes line for *Deli Boys* was not checked on Rotten Tomatoes and is not in the draft.
-- A Travel + Leisure sentence that her last advertising job was in 2016 conflicts with *Delhi Belly* (2011) and with her own “quit at 30.” Omitted.
+- How Zoe is killed. Vulture says a crystal heart is cut out. Deadline says she is shot in the head and a frozen heart is removed. The draft says only that John kills her.
+- Film Independent Spirit Award result. The draft says a nomination, not a win. IndieWire has her as a nominee on 5 March 2026, before the ceremony. No winner is in the packet.
+- The Vanity Fair ages are her March 2025 answer. The draft calls that interview "last year." They are not an age for November 2026.
+- *Nocturne*'s 30 October date is her answer to the Los Angeles Times, not an Apple press release. The draft does not use that date. It also does not date *Nobody Wants This*.
+- Nalini's pre-air surname on Scroll.in is Krishnan. The draft uses Vishwakumar.
+- Variety's 98 percent Rotten Tomatoes line for *Deli Boys* was not checked and is not in the draft.
+- A Travel + Leisure sentence that her last advertising job was in 2016 conflicts with *Delhi Belly* (2011) and with her own "quit at 30." Omitted.
+- 2026-11-17 fact-check, not corrected in the prose: the dek says the career "didn't start until she was 35." She says she started thinking about being an actor at 30 and got her first role at 35. "Figured her run was over," "plenty of viewers," and "gave both crowds a reason to look again" are not in the sources. "HBO says" is attached in Deadline to the premiere approaching 30 million, not to the 19.3 million average. TheWrap credits Nielsen and Warner Bros. Discovery for the 10.5 million and 19.3 million figures. "Five biggest" is looser than "top five HBO series launches in platform history." "Out of her bed" is sharper than the Los Angeles Times line about trying to get him to leave. "Entire shoot" and "except for the one time" go past Vulture's "the entire time" and the ellipsis before "Sorry, love." "Defined her next decade" is not in the packet.
 
 ## SEO title
 
@@ -153,7 +137,7 @@ Poorna Jagannathan in Lanterns: Zoe and Her Big 2026
 
 ## Meta description
 
-On HBO's Lanterns, Poorna Jagannathan's Zoe is the Manhunter. She learned it from the episode-four script. The same year: a crime-boss aunt and a new one.
+On HBO's Lanterns, Poorna Jagannathan found out Zoe was the Manhunter from the episode-four script. The finale drew 10.5 million viewers in three days.
 
 ## Slug
 
@@ -161,7 +145,7 @@ poorna-jagannathan-lanterns-zoe-manhunter
 
 ## Excerpt
 
-*She quit advertising at 30 and landed her first role at 35. In 2026 she's playing the alien DC's cops are hunting, a crime-boss auntie, and somebody's biting new aunt.*
+*Nobody told the* Never Have I Ever *star that her* Lanterns *rancher's wife was the Manhunter, so she found out late at night, near the end of a script, the latest turn in a career that didn't start until she was 35.*
 
 ## Category
 
@@ -179,9 +163,9 @@ Poorna Jagannathan, Lanterns, Zoe Macon, HBO, Deli Boys, Nobody Wants This, Neve
 
 ## Social captions
 
-- Instagram/feed: Spoilers for *Lanterns*. Poorna Jagannathan got to the end of the episode-four script, gummy already popped, and found out she was the Manhunter. “I swear to God, I think I’m not reading properly,” she told Vulture. The finale drew 10.5 million viewers globally over three days. Same year: Lucky on *Deli Boys*, and Eleanor on *Nobody Wants This*, October 22.
-- X/Twitter-length: Spoilers. She read the *Lanterns* episode-four script and found out she was the Manhunter. “I think I’m not reading properly,” she told Vulture. Finale: 10.5 million viewers globally over three days.
-- Optional newsletter blurb: A gummy, a late script, and the page where Zoe becomes the Manhunter. Then the career under it: advertising left at 30, *Delhi Belly*, *The Night Of*, *Never Have I Ever*, a Gotham for Lucky, and a new aunt on October 22. *Lanterns* spoilers in the piece.
+- Instagram/feed: Spoilers for *Lanterns*. It was late, Poorna Jagannathan had already popped a gummy, and she was nearly through the episode-four script when she read that she was the Manhunter. "I swear to God, I think I'm not reading properly," she told Vulture. The finale drew 10.5 million viewers worldwide in its first three days.
+- X/Twitter-length: Spoilers. She found out she was the Manhunter near the end of the *Lanterns* episode-four script. "I think I'm not reading properly," she told Vulture. Finale: 10.5 million viewers worldwide in three days.
+- Optional newsletter blurb: A late script, a gummy, and the page where Zoe becomes the Manhunter. Then the career under it: advertising left at 30, *Delhi Belly*, *The Night Of*, a Gotham for Lucky, Eleanor on *Nobody Wants This*, and an FBI agent on *Nocturne*. *Lanterns* spoilers in the piece.
 
 Still no invented facts. This is not a scoop.
 

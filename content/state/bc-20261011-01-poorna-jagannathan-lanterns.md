@@ -2,7 +2,7 @@
 
 - status: READY_FOR_REVIEW
 - created: 2026-10-11
-- updated: 2026-10-13
+- updated: 2026-11-17
 - beat: Music / film / television
 - story_type_hypothesis: Profile / career feature (not a casting recap)
 - recommendation: (owner approved 2026-10-11 for draft; completeness gate passed 2026-10-12; awaiting human review)
@@ -109,3 +109,4 @@ Also standing, in the research packet: Zoe’s ethnicity; crystal heart vs froze
 - 2026-10-13: Revision note. Owner rejected the prose. Full draft rewritten to the voice guide (style/VOICE.md, style/VOICE_LESSONS.md added on this branch). Same five sections, same packet, headline #6. No new facts. Excerpt aligned. Status remains READY_FOR_REVIEW. Not APPROVED. Not published.
 - 2026-10-13: Revision note. Owner-directed rewrite by Content Manager; voice pass. Full draft replaced verbatim with the owner file. No sentences edited. Excerpt set to the dek. Fact-check listed in the run report, not applied to the prose. Status remains READY_FOR_REVIEW. Not APPROVED. Not published.
 - 2026-10-13: Revision note. Owner-directed rewrite, revised file pasted verbatim. No sentences edited. Excerpt updated to the new dek. Fact-check not applied to the prose. Status remains READY_FOR_REVIEW. Not APPROVED. Not published.
+- 2026-11-17: Revision note. Rule 11 rewrite requested by the Content Editor. Full draft replaced verbatim from the supplied file, on base 5461379. In-body subheads kept as H3s. Prose credited to the BRWNCLTR Content Manager. Metadata, verification notes, meta description, excerpt, and captions aligned to the new body. Fact-check flags recorded in the verification section and the run report. No sentence in the Full draft was rewritten. Status remains READY_FOR_REVIEW. Not APPROVED. Not published. Not merged.
