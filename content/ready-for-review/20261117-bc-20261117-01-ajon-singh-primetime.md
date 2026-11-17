@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-01-ajon-singh-primetime |
-| State | DRAFTING |
+| State | READY_FOR_REVIEW |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Content Manager draft, placed verbatim. Owner skipped plan approval on 2026-11-17. Prose was not rewritten. |
@@ -87,7 +87,7 @@ The notes went into an iPhone, typed fast, in Robert Pattinson's bathroom. Ajon 
 
 Singh went away for five days and rewrote the character. Pattinson took a weekend with the new pages, The Hollywood Reporter reported, and then said yes.
 
-A24 released *Primetime* on Sept. 25, with Pattinson as Hansen and Lance Oppenheim directing, and it took in $18.8 million in its first Friday-to-Sunday run, by Box Office Mojo's count. Now the Gotham Film & Media Institute has nominated Singh for Best Adapted Screenplay at the 36th Gotham Awards on Nov. 30, where the film is also up for Best Feature and Skyler Gisondo for Outstanding Supporting Performance.
+*Primetime* opened on Sept. 25, with Lance Oppenheim directing for A24, and made $18.8 million over its first weekend, by Box Office Mojo's count. On Nov. 30, Singh is up for Best Adapted Screenplay at the Gotham Awards, where the film is also nominated for Best Feature and Skyler Gisondo for Outstanding Supporting Performance.
 
 ### The movie nobody wanted to make his way
 
@@ -107,7 +107,7 @@ What hooked Singh in the article was a struggling young actor whose big break wa
 
 Gisondo plays Dan. When test audiences found the original ending too bleak, Singh told The Nod, Gisondo pitched a new one at dinner with Oppenheim: Dan gets his SAG-AFTRA card. Instead of ending on Dan's dream being dead, Singh said, the film ends on a siren's call asking him, "Are you an actor?"
 
-Other pieces sat in reserve. Singh kept a Notes app of lines cut from older drafts, including a monologue Hansen delivers on a plane to Creed Bratton's character, which opens with "There's a man on your porch." Oppenheim asked about it and threw it at Pattinson, whose first reaction, Singh said, was "What? I can't do this." He did it anyway.
+Other pieces sat in reserve. Singh kept a Notes app of lines cut from older drafts, including a monologue Hansen delivers on a plane to Creed Bratton's character. Oppenheim asked about it and threw it at Pattinson, whose first reaction, Singh said, was "What? I can't do this." He did it anyway.
 
 ### Dateline at home
 
@@ -115,7 +115,7 @@ Singh knew the show long before he knew the article. "I come from a family of im
 
 His ear for dialogue came from home too. His parents put on *Sholay*, *Bobby*, *Don* and *Devdas*, and at some point he got fixated on *Dhoom*, to the point of teaching himself "Dhoom Machale" on the piano. "There's a musicality that exists in Bollywood that I try and emulate in my writing," he said. "Not the literal singing but the dialogue. It's very rhythmic."
 
-The real Hansen has been less charmed. Before the release, he told THR the film was "an insult to the thousands of men and women who work hard every day to protect children from predators." Singh hasn't taken the bait. "Who am I to be like, 'This show is wrong,' or 'this show is right'?" he told THR. "I don't think that's my job as a writer."
+The real Hansen has been less charmed. Before the release, he told THR the film was "an insult to the thousands of men and women who work hard every day to protect children from predators." Singh, speaking to the same outlet, said it isn't his job to call the show right or wrong, and that the filmmakers have no interest in villainizing Hansen.
 
 ### The next room
 
@@ -124,22 +124,14 @@ The script has already opened another door. Daniel Kaluuya read it and called Si
 At 31, THR reported, Singh has gone from unproduced to nominated, with the script he wouldn't rewrite from page one.
 
 "I've basically gone from being not viable in the marketplace to being viable in the marketplace," he told THR. "And I haven't really changed all that much."
+
 ## Facts requiring final verification
 
-Revised draft, placed verbatim. Word count: see below. Prior findings (Lumet, the cut cookies quote, "stranger," a teenage *Dhoom*, "read *Primetime*," "no plot," the Wall Street attendance, the estimated $47 million, the coverage claim, the dek date, "murky" / "what's clear," "the show had targeted," "paid") are cleared. This pass is not clean, so the canonical state stays `DRAFTING`.
+Revised draft, placed verbatim. Word count: 934 (headline, dek, subheads, and body; markdown heading marks excluded). Sentence check against the packet on 2026-11-17: clear. Content Editor rules check: clear. Canonical state: `READY_FOR_REVIEW`.
 
-Word count of this draft: 961 words (headline, dek, subheads, and body; markdown heading marks excluded).
+The three items from the previous pass are gone. "Hasn't taken the bait" is replaced by a narration of items 32 and 33, with Hansen's insult line as the only quote in that paragraph. The plane beat keeps only "What? I can't do this" (item 30). The opening-weekend sentence says $18.8 million over the first weekend, by Box Office Mojo's count, which is the Friday–Sunday total of $18,830,798 (item 18).
 
-Remaining, sentence by sentence:
-
-- "Singh hasn't taken the bait." Not in the packet. Items 32 and 33: he told THR he will not call the show right or wrong, and "We have no interest in villainizing him." "Bait" is a new frame.
-- Same paragraph, Content Editor rule 5. Hansen's "insult" quote and Singh's "Who am I" quote are one beat, with "Singh hasn't taken the bait" between them. One quote per beat, and no commentary after the quote.
-- "There's a man on your porch" and "What? I can't do this" sit in the same plane-monologue beat. Both match item 30. Rule 5 still asks for one quote in that beat.
-- "A24 released *Primetime* on Sept. 25, with Pattinson as Hansen and Lance Oppenheim directing, and it took in $18.8 million in its first Friday-to-Sunday run, by Box Office Mojo's count. Now the Gotham Film & Media Institute has nominated Singh for Best Adapted Screenplay at the 36th Gotham Awards on Nov. 30, where the film is also up for Best Feature and Skyler Gisondo for Outstanding Supporting Performance." The facts match items 6, 14, 18, 1, 2, 3, and 4. $18.8 million is Mojo's settled Friday–Sunday $18,830,798, rounded. Content Editor rule 9: the paragraph still reads as a release-and-nominations report.
-
-No other sentence contradicted the packet. The body opens on the bathroom. The dek is not a date. No "it's not X, it's Y." No credit-by-credit career list.
-
-Still open in the packet and not used as settled facts here: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's co-writer line (item 10); Variety's $19.2 million opening versus Mojo's $18,830,798 (item 19); on-screen executive-producer credit (item 25); the unread *Hindu* interview and Kerala versus Uttar Pradesh (items 38–39).
+Still open in the packet and not used as settled facts in the draft: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's co-writer line (item 10); Variety's $19.2 million opening versus Mojo's $18,830,798 (item 19); on-screen executive-producer credit (item 25); the unread *Hindu* interview and Kerala versus Uttar Pradesh (items 38–39).
 
 ## SEO title
 

@@ -1,6 +1,6 @@
 # bc-20261117-01-ajon-singh-primetime
 
-- status: DRAFTING
+- status: READY_FOR_REVIEW
 - created: 2026-11-17
 - updated: 2026-11-17
 - beat: Film / television
@@ -50,3 +50,4 @@ Top unresolved items are in the plan and the packet: Bronx / Iowa / Phoenix vers
 - 2026-11-17: Research packet and story plan written. Status set to `PLAN_READY_FOR_APPROVAL`. Article not drafted. Nothing published. Nothing merged.
 - 2026-11-17: Owner (Aziz) chose to skip plan approval and go straight to draft. Content Manager draft placed verbatim at `content/ready-for-review/20261117-bc-20261117-01-ajon-singh-primetime.md`. Prose was not edited. Fact-check against the packet is in that file under Facts requiring final verification. Status set to `READY_FOR_REVIEW`. Not publication `APPROVED`. Nothing published. Nothing merged.
 - 2026-11-17: Findings accepted. State set back to `DRAFTING` because the fact-check was not clean. Revised draft placed verbatim in the same file. Re-check still not clean (Hansen paragraph: "hasn't taken the bait" plus two quotes; plane beat has two quotes; the release-and-nominations paragraph still reads as a report). Status remains `DRAFTING`. Prose not edited. Nothing published. Nothing merged.
+- 2026-11-17: Third draft placed verbatim. The three open items are gone. Sentence check against the packet is clear. Content Editor rules check is clear. Status set to `READY_FOR_REVIEW`. Not publication `APPROVED`. Nothing published. Nothing merged.
