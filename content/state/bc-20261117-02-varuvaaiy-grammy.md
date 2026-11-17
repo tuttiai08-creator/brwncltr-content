@@ -1,16 +1,16 @@
 # bc-20261117-02-varuvaaiy-grammy
 
-- status: READY_FOR_REVIEW
+- status: DRAFTING
 - created: 2026-11-17
 - updated: 2026-11-17
 - beat: Music
 - story_type_hypothesis: Feature
-- recommendation: (owner sent the draft via the Content Editor; third fact-check passed; awaiting human review)
+- recommendation: (Content Editor rewrite filed verbatim; two quotations are not intact; awaiting a fix before review)
 - blocked_reason:
 - research_path: content/research/bc-20261117-02-20261117.md
-- draft_path: moved to review_path
-- review_path: content/ready-for-review/20261117-bc-20261117-02-varuvaaiy-bharati-grammy-devan-susha.md
-- plan_gate: skipped 2026-11-17 by the owner via the Content Editor. Third pass cleared. Not publication APPROVED.
+- draft_path: content/ready-for-review/20261117-bc-20261117-02-varuvaaiy-bharati-grammy-devan-susha.md
+- review_path:
+- plan_gate: skipped 2026-11-17 by the owner via the Content Editor. Run #5 rewrite fact-check did not clear. Not READY_FOR_REVIEW.
 - sensitive: Hindu devotional subject (Krishna poem, a puja). Do not exoticize the worship. Do not treat a colonial reading of the poem as fact. Do not flatten Indian-American and Chennai into one "India" credit. Family details in one interview are not load-bearing.
 
 ## Why now
@@ -61,3 +61,4 @@ confidence: high on the nomination, the credited names, the release date, and th
 - 2026-11-17: Content Editor skipped the headline/outline gate and supplied a full draft. Filed verbatim at content/ready-for-review/20261117-bc-20261117-02-varuvaaiy-bharati-grammy-devan-susha.md. Prose not rewritten. Fact-check held three sentences (HT title gloss in quotation marks; "Carnatic singer" scoped to Susha's Hindu quote; "hasn't been announced" stronger than the packet). Status set to DRAFTING, not READY_FOR_REVIEW. No queue file on this branch lists this ID. Not APPROVED. Nothing published.
 - 2026-11-17: Revised draft filed verbatim. The three holds above are fixed. Second pass still DRAFTING. New holds: "Anoushka Shankar's sitar and Asha Bhosle's voice" is not in packet §1.4 (store feat. lines only), and "Before any of that" dates voting ahead of the video, the Bharati album, and Pattarai. Prose not rewritten. Not APPROVED. Nothing published.
 - 2026-11-17: Third draft filed verbatim. Gorillaz sentence now features Anoushka Shankar and Asha Bhosle with no roles. Voting sentence is Dec. 10 to Jan. 7 only. Diff against the previous body shows no other prose change. Both match the packet. Advanced DRAFTING → READY_FOR_REVIEW. review_path set. draft_path moved to review_path. No queue file on this branch lists this ID. Not publication APPROVED. Nothing published. Nothing merged.
+- 2026-11-17: Content Editor scored the ready draft 6/10, Revise. Run #5 rewrite filed verbatim (mother / voice-first / Kanna). Fact-check failed two quotations: the Hindu "core memory" sentence also drops "that was an ode to lord Krishna," and the "did the magic" sentence continues in Hindustan Times. Returned READY_FOR_REVIEW → DRAFTING. Prose not rewritten. Not APPROVED. Nothing published. Nothing merged.

@@ -1,11 +1,11 @@
-# Susha Didn't Know It Was Grammy Nomination Day. The Song Her Mother Taught Her Was on the Ballot.
+# The Bharati Song Susha's Mother Taught Her Is Up for a Grammy
 
 ## Packet metadata
 
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-02 |
-| State | READY_FOR_REVIEW |
+| State | DRAFTING |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Draft supplied by the owner via the Content Editor. Filed verbatim. Prose not rewritten. |
@@ -14,7 +14,7 @@
 
 ## Proposed headline
 
-Susha Didn't Know It Was Grammy Nomination Day. The Song Her Mother Taught Her Was on the Ballot.
+The Bharati Song Susha's Mother Taught Her Is Up for a Grammy
 
 ## Story type
 
@@ -30,7 +30,7 @@ The Recording Academy published the 2027 nominations on November 16, 2026. "Varu
 
 ## Central angle
 
-Devan Ekambaram recorded Susha first and built a one-song single around her setting of a Subramania Bharati poem her mother had taught her. The Academy put that single next to Shakira, Rosalía, and Angélique Kidjo. The "first Tamil song" line is his caption. The "only Indian nomination" line is a press sentence the Gorillaz album complicates.
+Lakshmi Rangarajan learned a Subramania Bharati song after a concert and taught it to Susha. Devan Ekambaram recorded that voice first and built "Varuvaaiy" around it. The single is nominated for Best Global Music Performance.
 
 ## Primary sources
 
@@ -59,110 +59,101 @@ Full passages are in `content/research/bc-20261117-02-20261117.md`. This draft a
 ## Reporting / research notes
 
 - Headline/outline gate skipped 2026-11-17. The owner, via the Content Editor, asked for this draft now.
-- Prose below is the supplied draft, verbatim. It was not rewritten after the fact-check.
-- Fact-check against the packet is in **Verification**. Two attribution problems kept the canonical state at DRAFTING.
+- Prose below is the Content Editor rewrite, filed verbatim. It was not rewritten after this fact-check.
+- Fact-check is in **Verification**. Two quotations are cut short of the packet's sentences. Canonical state stays DRAFTING.
 - Instagram was not opened. The caption is as reprinted.
 - No listen. No Illinois biography. No colonial reading of the poem. No Dhurandhar entry count.
 - Sensitivity: Krishna poem and a puja. The draft does not name a temple and does not use "Shivyan."
 
 ## Outline
 
-1. Susha's phone, then Devan at the temple.
-2. The nominee line and the other four titles.
-3. The August 12 single.
-4. The poem her mother taught her.
-5. Her voice first, then the raga conflict, then the players and the "Kanna" ending.
-6. His film credits that explain the record, and her August 7 album.
-7. The "first" caption and the Gorillaz complication.
-8. No video yet, *Pattarai*, voting dates, his closing line.
+1. Lakshmi Rangarajan hears the song, then teaches it to Susha.
+2. Nov. 16, the nominee line, her phone, his temple.
+3. Not the obvious Bharati song. Krishna, the pallavi, the title.
+4. Her voice first. Bardiya, then Des. *Love Language*, then the single.
+5. One song on the ballot. Voting dates. The "Kanna" ending.
 
 ## Full draft
 
-# Susha Didn't Know It Was Grammy Nomination Day. The Song Her Mother Taught Her Was on the Ballot.
+# The Bharati Song Susha's Mother Taught Her Is Up for a Grammy
 
-*Devan Ekambaram set a Subramania Bharati poem around Susha's voice and put it out as a one-song single. The Recording Academy put it next to Shakira and Rosalía.*
+*Devan Ekambaram recorded her voice first and built "Varuvaaiy" around it. The single is nominated for Best Global Music Performance.*
 
-Susha was in the middle of a studio shoot on Nov. 16, with her phone switched off. When she turned it back on, Hindustan Times reported, hundreds of messages were waiting. "It wasn't in my consciousness that yesterday was the announcement of the nominations," she told Billboard India the next day. "For me, it was just any other day."
+Years ago, Lakshmi Rangarajan heard a Subramania Bharati song at a concert and liked it so much that she went to the trouble of learning it. Later she taught it to her daughter.
 
-Devan Ekambaram was praying at a temple in Chennai when the pings started. "I got 15 congratulations at once," he told Hindustan Times. "I did puja-archana and let the news sync in."
+"My mother has a core memory with this particular song," Susha told The Hindu. "She recalled all that while teaching me this particular track, and I remembered that when Devan asked me to contribute to the album he was working on."
 
-The news was "Varuvaaiy," their setting of a Tamil devotional poem by Subramania Bharati, nominated for Best Global Music Performance at the 69th Grammy Awards. The Academy's nominee line reads "Devan Ekambaram, Susha," and the company they're keeping is loud: Shakira and Burna Boy's "Dai Dai," Rosalía's "Porcelana" with Dougie F, Angélique Kidjo's "Bando [Orchestral]" with Pharrell Williams and Quavo, and "Una Flor En Cada Estrella" by KerreKe, Mireya Ramos and Alex E. Chávez. Winners will be announced Feb. 7, 2027.
+That song is "Varuvaaiy," and on Nov. 16 it was nominated for Best Global Music Performance at the 69th Grammy Awards. The Academy's nominee line reads "Devan Ekambaram, Susha." Susha was at a studio shoot with her phone off when the list came out, and when she turned it back on, hundreds of messages were waiting. "It wasn't in my consciousness that yesterday was the announcement of the nominations," she said the next day. "For me, it was just any other day."
 
-### A song from her mother
+Devan was praying at a temple in Chennai. "I got 15 congratulations at once," he told Hindustan Times. "I did puja-archana and let the news sync in."
 
-The idea was Devan's: he was working on a full album of Bharati's songs in June, The Hindu reported, and asked Susha to sing on it. She wanted to skip the famous ones. "There are many popular songs of his," she told Billboard India. "But when Devan said he wanted to do a Bharathiar song, I wanted to find something that wasn't so obvious. This was a song my mother taught me years ago."
+The field includes Shakira and Rosalía. Winners will be announced Feb. 7, 2027.
 
-Her mother is the Carnatic singer Lakshmi Rangarajan. She first heard the song at a concert and liked it enough to learn it herself, Susha told The Hindu. The poem is addressed to Krishna, and as Devan explained the title to Hindustan Times, it asks Krishna to come. Its refrain keeps landing on *Kanna*, which Billboard India glossed as a word of affection.
+### Not the obvious one
+
+The single was born in June, when Devan was working on a full album of songs by Bharati, the Tamil poet and freedom fighter, and asked Susha to sing on it.
+
+"There are many popular songs of his," she told Billboard India. "But when Devan said he wanted to do a Bharathiar song, I wanted to find something that wasn't so obvious. This was a song my mother taught me years ago."
+
+The poem is addressed to Krishna. Its opening line is the title three times, then *Kanna*, an affectionate name for Krishna. As Devan explains the title, it asks Krishna to come to him.
 
 ### Her voice first
 
-Devan built the track backward, he told Hindustan Times, recording her voice first and then making everything around her singing, his own vocals and arrangements included. Even the raga was partly her call, as he tells it. He wanted Raag Bardiya, he said, and she suggested Des; Indian outlets and his own campaign page call it Desh.
+Devan has known Susha for more than 20 years, but this is the first time they've worked together. He built the track backward. He wanted Raag Bardiya, he said, and she suggested Des. So he recorded her voice first, then made everything around her singing, his own vocals and arrangements included.
 
-Prakash Sontakke plays slide guitar on the record, and Anil Srinivasan plays piano. Neither is on the nominee line, though Srinivasan told The Hindu he was simply happy to see Bharati at the center of the biggest stage there is.
+"Yes, I have done the composition and music production, but Susha's voice did the magic," he said.
 
-The moment Devan keeps coming back to is the ending. "At the end, she keeps repeating 'Kanna' with different improvisations," he told Billboard India. "Till today, I cry every time I hear that section."
+Prakash Sontakke plays slide guitar on the record, and Anil Srinivasan plays piano.
 
-### Two careers, one song
+Her training started at home. Susha has been learning Carnatic music since she was 5, from her mother and her grandmother, and has been performing professionally since she was about 13. She later went to the University of Toronto for a master's in jazz performance and composition, and on Aug. 7 she released *Love Language*, her first album of original music, in English and Tamil. "Varuvaaiy" came out five days later as a one-song single, three minutes and 26 seconds long.
 
-Devan has been around Tamil film music for a long time. He calls himself a composer who kept getting asked to sing, and took the work. "Oh Maria" in *Kadhalar Dhinam* was one of those songs, and he has worked with A.R. Rahman, Harris Jayaraj and Ilaiyaraaja, he told The Hindu. He last composed for a film in 2010, *Bale Pandiya*. He has entered the Grammys before, spreading three or four songs across categories, until a Grammy winner told him not to be a jack of all trades, he told Billboard India. This year he put everything behind one song. "I never, in a million years, thought that out of 526 submissions, this would somehow make the top five," he said.
+"Devan is not from the Carnatic scene," she said, "but this collaboration came out of the blue so we both are very excited."
 
-Susha has been singing Carnatic music since she was five, learning from her mother and grandmother, she told Hindustan Times, and performing professionally since she was about 13. The Hindu reports she later earned a master's in jazz performance and composition at the University of Toronto. On Aug. 7 she released *Love Language*, her first album of original music, under her own name, in English and Tamil. "Varuvaaiy" came out five days later under his, a three-minute, 26-second single with no record company named on it.
+### One song
 
-"Devan is not from the Carnatic scene," she told Hindustan Times, "but this collaboration came out of the blue so we both are very excited."
+Devan last composed for a film in 2010, with *Bale Pandiya*. He has tried for a Grammy before, spreading three or four songs across categories, until a Grammy winner told him, "Don't be a jack of all trades." This year he put everything behind one song.
 
-### "The very 1st"
+"I never, in a million years, thought that out of 526 submissions, this would somehow make the top five," he said.
 
-Devan's Instagram caption called "Varuvaaiy" "the very 1st Tamil Song to ever be nominated," and headlines across India ran with it, some calling it the country's only nomination this year. Indian musicians turn up elsewhere on the ballot, though. Gorillaz's *The Mountain*, up for Best Alternative Music Album, features Anoushka Shankar and Asha Bhosle, according to the band's credits.
+Final-round voting runs Dec. 10 to Jan. 7. Whatever happens on Feb. 7, the part Devan can't get past is the ending.
 
-### Next
-
-There's no music video yet, though The Hindu said the team is thinking about one, and the Bharati album Devan was making in June still has no title or release date. He has a film score coming for the Tamil-Telugu bilingual *Pattarai*. Final-round Grammy voting runs Dec. 10 to Jan. 7.
-
-"For now, all my focus is on taking 'Varuvaaiy' to the next level," he told The Hindu.
+"At the end, she keeps repeating 'Kanna' with different improvisations," he said. "Till today, I cry every time I hear that section."
 ## Verification
 
-Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md` only. The prose above was not edited. FAIL means the sentence should be fixed before READY_FOR_REVIEW. PASS means the claim matches the packet, including where the packet allows a paraphrase.
+Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. The prose above is the Content Editor rewrite, filed verbatim. Lede and nomination paragraphs name no outlet; the sources section carries those credits. FAIL means the sentence is not clean.
 
 | Draft sentence | Packet | Result |
 | --- | --- | --- |
-| Susha was in the middle of a studio shoot on Nov. 16, with her phone switched off. | §6.1. Hindustan Times reporter: "in the middle of a studio recording shoot" and she "switched on her phone." Not her quote. Nov. 16 is not in that sentence. It follows from her Billboard line "yesterday," in a piece dated 17/11/2026, plus the Academy announcement on Nov. 16 (§1.2). | PASS. "Studio shoot" drops the reporter's "recording." The date is inferred, and it is labeled as the reporter's scene in the next sentence. |
-| When she turned it back on, Hindustan Times reported, hundreds of messages were waiting. | §6.1. Reporter: "got 100s of congratulatory messages." | PASS. "Hundreds" spells the reporter's "100s." "Congratulatory" is dropped. Correctly not in her mouth. |
-| "It wasn't in my consciousness that yesterday was the announcement of the nominations," she told Billboard India the next day. "For me, it was just any other day." | §6.1. Same words. Billboard dated 17/11/2026. | PASS. |
-| Devan Ekambaram was praying at a temple in Chennai when the pings started. | §6.1. "I was praying in a Shivyan temple in Chennai and the minute we got nominated people started pinging me." | PASS. Does not print "Shivyan." |
-| "I got 15 congratulations at once," he told Hindustan Times. "I did puja-archana and let the news sync in." | §6.1. Those clauses are in his quote. | PASS. |
-| The news was "Varuvaaiy," their setting of a Tamil devotional poem by Subramania Bharati, nominated for Best Global Music Performance at the 69th Grammy Awards. | §1.1, §4.1. | PASS. |
-| The Academy's nominee line reads "Devan Ekambaram, Susha," and the company they're keeping is loud: Shakira and Burna Boy's "Dai Dai," Rosalía's "Porcelana" with Dougie F, Angélique Kidjo's "Bando [Orchestral]" with Pharrell Williams and Quavo, and "Una Flor En Cada Estrella" by KerreKe, Mireya Ramos and Alex E. Chávez. | §1.1. List lines: "Dai Dai Shakira, Burna Boy"; "Porcelana ROSALÍA, Dougie F"; "Bando [Orchestral] Angélique Kidjo, Pharrell Williams, Quavo"; "Una Flor En Cada Estrella KerreKe, Mireya Ramos, Alex E. Chávez." | PASS. Names and titles match. The possessives ("Shakira and Burna Boy's," "Rosalía's," "Kidjo's") are the draft's billing, not a second Academy line. |
-| Winners will be announced Feb. 7, 2027. | §1.2. Ceremony that day. A premiere ceremony is earlier the same day. | PASS. |
-| The idea was Devan's: he was working on a full album of Bharati's songs in June, The Hindu reported, and asked Susha to sing on it. | §3.2, §4.1. June album is The Hindu's reporter. She says he asked her to contribute. Billboard: "when Devan said he wanted to do a Bharathiar song." | PASS. |
-| "There are many popular songs of his," she told Billboard India. "But when Devan said he wanted to do a Bharathiar song, I wanted to find something that wasn't so obvious. This was a song my mother taught me years ago." | §4.1. Contiguous excerpt. The printed quote also has a preceding "Someone recently asked me, 'Why Bharathiar?'" | PASS on the words. The cut is not marked with an ellipsis. |
-| Her mother is the Carnatic singer Lakshmi Rangarajan. | §6.3 and §4.1. The Hindu's August *Love Language* profile calls her "Carnatic singer Lakshmi Rangarajan," in the paper's voice. The nomination interview prints the name in parentheses inside Susha's quote and does not use "Carnatic singer." | PASS. The job title is no longer attributed to Susha. It is the profile's label, stated here the same way other single-source Hindu facts are stated. |
-| She first heard the song at a concert and liked it enough to learn it herself, Susha told The Hindu. | §4.1. Susha, to The Hindu: her mother heard it at a concert and learned it. | PASS. |
-| The poem is addressed to Krishna, and as Devan explained the title to Hindustan Times, it asks Krishna to come. | §4.1. Hindu quote: an ode to Krishna. Hindustan Times, paraphrase, not a direct quote: "He explains that the bhajan title means: Krishna, won't you come to me!" | PASS. No quotation marks. "Asks Krishna to come" is that paraphrase. |
-| Its refrain keeps landing on *Kanna*, which Billboard India glossed as a word of affection. | §5. He told Billboard she repeats "Kanna." Billboard's bracket: "a word of affection for the Hindu deity Krishna." | PASS. The gloss is attributed to Billboard India. |
-| Devan built the track backward, he told Hindustan Times, recording her voice first and then making everything around her singing, his own vocals and arrangements included. | §5. "I recorded her voice and then made everything around her singing and added my vocals and arrangements." | PASS. "Backward" is the draft's word for that sequence. The recording facts match the quote. |
-| He wanted Raag Bardiya, he said, and she suggested Des; Indian outlets and his own campaign page call it Desh. | §4.4 and §5. Hindustan Times quote: "Raag Bardiya" and "Raag Des." The Hindu and Indian Express say Desh in reporter voice. Campaign page: "Raag DESH." | PASS. |
-| Prakash Sontakke plays slide guitar on the record, and Anil Srinivasan plays piano. Neither is on the nominee line. | §5 credit block. §2 and §1.1: nominee line is the two names. | PASS. |
-| Neither is on the nominee line, though Srinivasan told The Hindu he was simply happy to see Bharati at the center of the biggest stage there is. | §5. "I am happy that it is Bharati on centrestage here — the grandest global one at that." | PASS. Paraphrase. "Simply" is not in the quote. The center / biggest-stage reading matches "centrestage" and "the grandest global one." |
-| "At the end, she keeps repeating 'Kanna' with different improvisations," he told Billboard India. "Till today, I cry every time I hear that section." | §5. Exact, including his "Kanna." | PASS. |
-| "Oh Maria" in *Kadhalar Dhinam* was one of those songs, and he has worked with A.R. Rahman, Harris Jayaraj and Ilaiyaraaja, he told The Hindu. | §6.2. He names those songs and those composers to The Hindu. | PASS. |
-| He last composed for a film in 2010, *Bale Pandiya*. | §6.2. The Hindu, reporter: "Last featured as a composer in 2010 Tamil film Bale Pandiya." Qobuz dates the soundtrack April 18, 2010. | PASS on the fact. The sentence does not say The Hindu. |
-| He has entered the Grammys before, spreading three or four songs across categories, until a Grammy winner told him not to be a jack of all trades, he told Billboard India. | §5. "Earlier, I would submit three, four different songs in different categories, and one [Grammy] winner told me, 'Don't be a jack of all trades'." | PASS. Paraphrase of that quote. Does not say Devan won a Grammy (§9). |
-| "I never, in a million years, thought that out of 526 submissions, this would somehow make the top five," he said. | §5. Exact. His number to Billboard, not an Academy figure. | PASS. |
-| Susha has been singing Carnatic music since she was five, learning from her mother and grandmother, she told Hindustan Times, and performing professionally since she was about 13. | §6.3. Hindustan Times quote: learning since 5 from mother and grandmother, performing since 13. Not The Hindu. | PASS. Training and 13 are Hindustan Times. The sentence says that. |
-| The Hindu reports she later earned a master's in jazz performance and composition at the University of Toronto. | §6.3. The Hindu *Love Language* profile, reporter voice. Her site does not name the school. | PASS. |
-| On Aug. 7 she released *Love Language*, her first album of original music, under her own name, in English and Tamil. "Varuvaaiy" came out five days later under his, a three-minute, 26-second single with no record company named on it. | §6.3 and §3.1. iTunes: August 7, 2026, ℗ 2026 Susha. Her site: first original album, English and Tamil. Single: August 12, 206118 ms, artist Devan Ekambaram. Copyright "℗ 2026 2328686 Records DK" is the placeholder §3.1 says is not a record company. | PASS. |
-| "Devan is not from the Carnatic scene," she told Hindustan Times, "but this collaboration came out of the blue so we both are very excited." | §6.3. Exact. | PASS. |
-| Devan's Instagram caption called "Varuvaaiy" "the very 1st Tamil Song to ever be nominated," and headlines across India ran with it, some calling it the country's only nomination this year. | §1.3, §1.4. The reprinted caption uses those words. Indian Express and Hindustan Times call it India's only nomination, in the papers' voice. The draft attributes that "only" line to headlines, not to the Academy. | PASS. |
-| Indian musicians turn up elsewhere on the ballot, though. | §1.4. Gorillaz is nominated. Anoushka Shankar, Asha Bhosle, Ajay Prasanna, and Amaan and Ayaan Ali Bangash are on the store tracklist and are not the nominee string. | PASS if read with the next sentence. It does not call them nominees. |
-| Gorillaz's *The Mountain*, up for Best Alternative Music Album, features Anoushka Shankar and Asha Bhosle, according to the band's credits. | §1.4. Academy: "The Mountain Gorillaz," Best Alternative Music Album. Gorillaz store tracklist features Anoushka Shankar and Asha Bhosle. | PASS. Names only. No instrument or vocal role. |
-| There's no music video yet, though The Hindu said the team is thinking about one, and the Bharati album Devan was making in June still has no title or release date. | §3.2. "Currently mulling on a music video." "No title, tracklist, label, or release date for that album was found." June is The Hindu. | PASS. "No title or release date" matches what the packet could not find. It no longer says "hasn't been announced." |
-| He has a film score coming for the Tamil-Telugu bilingual *Pattarai*. | §6.2. The Hindu: upcoming Tamil-Telugu bilingual *Pattarai*. | PASS on the fact. The sentence does not name The Hindu. |
-| Final-round Grammy voting runs Dec. 10 to Jan. 7. | §1.2. "Dec. 10, 2026 – Jan. 7, 2027." | PASS. No sequence claim against the video, the album, or *Pattarai*. |
-| "For now, all my focus is on taking 'Varuvaaiy' to the next level," he told The Hindu. | §6.2. Exact. | PASS. |
+| Years ago, Lakshmi Rangarajan heard a Subramania Bharati song at a concert and liked it so much that she went to the trouble of learning it. Later she taught it to her daughter. | §4.1. Susha to The Hindu: her mother heard it at a concert, "liked it so much that she had taken the effort to learn it," and taught it to her. Billboard: "This was a song my mother taught me years ago." | PASS. Paraphrase of that account. Not a direct quote. |
+| "My mother has a core memory with this particular song," Susha told The Hindu. | §4.1, line ~332. Full sentence: "My mother (Lakshmi Rangarajan) has a core memory with this particular song ('Varuvaai') that was an ode to lord Krishna." | FAIL. The name parenthetical is an allowed drop. The sentence also drops "('Varuvaai') that was an ode to lord Krishna," with no ellipsis. |
+| "She recalled all that while teaching me this particular track, and I remembered that when Devan asked me to contribute to the album he was working on." | §4.1. That sentence is intact. The sentence between the two quotes ("She had heard it at a concert...") is omitted from the quotation and used as narration above. | PASS. |
+| That song is "Varuvaaiy," and on Nov. 16 it was nominated for Best Global Music Performance at the 69th Grammy Awards. The Academy's nominee line reads "Devan Ekambaram, Susha." | §1.1, §1.2. | PASS. |
+| Susha was at a studio shoot with her phone off when the list came out, and when she turned it back on, hundreds of messages were waiting. | §6.1. Hindustan Times reporter: "studio recording shoot," she switched the phone on, "100s of congratulatory messages." Nov. 16 from the announcement plus her "yesterday" in a Billboard piece dated Nov. 17. | PASS. "Hundreds" spells "100s." Outlet name is in the sources section, not this sentence. |
+| "It wasn't in my consciousness that yesterday was the announcement of the nominations," she said the next day. "For me, it was just any other day." | §6.1. Billboard India, dated 17/11/2026. | PASS. |
+| Devan was praying at a temple in Chennai. "I got 15 congratulations at once," he told Hindustan Times. "I did puja-archana and let the news sync in." | §6.1. "I was praying in a Shivyan temple in Chennai" and those two clauses. | PASS. Does not print "Shivyan." |
+| The field includes Shakira and Rosalía. Winners will be announced Feb. 7, 2027. | §1.1. Both are in Best Global Music Performance. §1.2. Ceremony Feb. 7, 2027. | PASS. Does not say they are the only other nominees. |
+| The single was born in June, when Devan was working on a full album of songs by Bharati, the Tamil poet and freedom fighter, and asked Susha to sing on it. | §3.2, line ~290. The Hindu: "'Varuvaaiy' was born in June this year, when Devan was working on a full-fledged album of songs made by iconic Tamil poet and freedom fighter Subramania Bharati." She says he asked her to contribute. | PASS. |
+| "There are many popular songs of his," she told Billboard India. "But when Devan said he wanted to do a Bharathiar song, I wanted to find something that wasn't so obvious. This was a song my mother taught me years ago." | §4.1. Contiguous after "Someone recently asked me, 'Why Bharathiar?'" | PASS. "Why Bharathiar" is Billboard's preceding sentence, not quoted here. |
+| The poem is addressed to Krishna. Its opening line is the title three times, then *Kanna*, an affectionate name for Krishna. | §4.1 ode to Krishna. §4.2 pallavi: "varuvAi varuvAi varuvAi kaNNA" and then the same again. §5 Billboard bracket: "a word of affection for the Hindu deity Krishna." | PASS. The gloss is Billboard's bracket, stated here without the outlet name. The pallavi repeats after the first *Kanna*; the sentence describes the opening. |
+| As Devan explains the title, it asks Krishna to come to him. | §4.1. Hindustan Times paraphrase, not a direct quote: "He explains that the bhajan title means: Krishna, won't you come to me!" | PASS. No quotation marks. |
+| Devan has known Susha for more than 20 years, but this is the first time they've worked together. | §5, lines ~403-405. "I have known her for over 20 years, but the collaboration happened now." | PASS. |
+| He wanted Raag Bardiya, he said, and she suggested Des. So he recorded her voice first, then made everything around her singing, his own vocals and arrangements included. | §5. "I wanted to record in Raag Bardiya, but she suggested doing it in Raag Des and I recorded her voice and then made everything around her singing and added my vocals and arrangements." | PASS. "Des" is his printed word, not Desh. |
+| "Yes, I have done the composition and music production, but Susha's voice did the magic," he said. | §5. The sentence continues: "but Susha's voice did the magic and while I was campaigning for the song everyone had praise for her voice." | FAIL. The quote stops at "magic" and is presented as the end of the sentence. The source does not end there. No ellipsis. |
+| Prakash Sontakke plays slide guitar on the record, and Anil Srinivasan plays piano. | §5 Billboard credit block. | PASS. The rest of that block (Naveen Samson, Joseph John, Sarvajit Krishna Mohan, Roshan Sebastian) stays in this table, not the body. |
+| Susha has been learning Carnatic music since she was 5, from her mother and her grandmother, and has been performing professionally since she was about 13. | §6.3. Hindustan Times quote. | PASS. |
+| She later went to the University of Toronto for a master's in jazz performance and composition | §6.3. The Hindu *Love Language* profile, reporter voice. | PASS. Credited here, not in that sentence. |
+| on Aug. 7 she released *Love Language*, her first album of original music, in English and Tamil. "Varuvaaiy" came out five days later as a one-song single, three minutes and 26 seconds long. | §6.3, §3.1. iTunes: Aug. 7, ℗ 2026 Susha. Her site: first original album, English and Tamil. Single: Aug. 12, 206118 ms. | PASS. |
+| "Devan is not from the Carnatic scene," she said, "but this collaboration came out of the blue so we both are very excited." | §6.3. Hindustan Times. Exact. | PASS. |
+| Devan last composed for a film in 2010, with *Bale Pandiya*. | §6.2. The Hindu: "Last featured as a composer in 2010 Tamil film Bale Pandiya." | PASS. |
+| He has tried for a Grammy before, spreading three or four songs across categories, until a Grammy winner told him, "Don't be a jack of all trades." | §5. "Earlier, I would submit three, four different songs in different categories, and one [Grammy] winner told me, 'Don't be a jack of all trades'." | PASS. The inner quote is his report of that advice. 526, below, stays his number. |
+| "I never, in a million years, thought that out of 526 submissions, this would somehow make the top five," he said. | §5. Exact. Not an Academy figure. | PASS. |
+| Final-round voting runs Dec. 10 to Jan. 7. | §1.2. Dec. 10, 2026 – Jan. 7, 2027. | PASS. |
+| Whatever happens on Feb. 7, the part Devan can't get past is the ending. | §1.2 ceremony date. §5 cry quote, next line. | PASS. "Can't get past" is the draft's reading of that quote. |
+| "At the end, she keeps repeating 'Kanna' with different improvisations," he said. "Till today, I cry every time I hear that section." | §5. Billboard India. Exact. | PASS. |
 
-Section 9 ("what a draft must not say") was checked against the prose. The draft does not say the Academy certified a first, that he won an earlier Grammy, that 526 is an Academy figure, that one raga is settled, that the poem's demons are colonial, that it was written in Pondicherry, that he studied at Illinois, that DistroKid signed the record, that Anil Srinivasan is a nominee, or a Dhurandhar entry count. It does not describe the sound from a listen. It does not use "Shivyan."
+Held in this section, not in the body: Instagram caption "the very 1st Tamil Song to ever be nominated" (§1.3, his post as reprinted, not an Academy sentence). Gorillaz' *The Mountain*, Best Alternative Music Album, store credits featuring Anoushka Shankar and Asha Bhosle (§1.4). No music video yet; The Hindu said the team is mulling one (§3.2). *Pattarai*, upcoming Tamil-Telugu bilingual (§6.2). Session credits beyond Sontakke and Srinivasan, from the Billboard block in §5.
 
-Third pass, 2026-11-17. The two remaining holds are fixed. The Gorillaz sentence names Anoushka Shankar and Asha Bhosle and does not assign sitar or voice. The voting sentence is the Dec. 10 to Jan. 7 window only. Diff against the previous filed draft shows no other prose change. Clear for READY_FOR_REVIEW.
+Not clean. Do not mark READY_FOR_REVIEW until the two FAIL quotes are exact or marked as cut.
 
 ## Facts requiring final verification
 
@@ -176,11 +167,11 @@ Third pass, 2026-11-17. The two remaining holds are fixed. The Gorillaz sentence
 
 ## SEO title
 
-Varuvaaiy Grammy Nomination: Devan Ekambaram, Susha, and a Bharati Poem
+The Bharati Song Susha's Mother Taught Her Is Up for a Grammy
 
 ## Meta description
 
-Devan Ekambaram and Susha set a Bharati poem to "Varuvaaiy," a one-song single nominated for Best Global Music Performance beside Shakira and Rosalía.
+Devan Ekambaram recorded Susha's voice first and built Varuvaaiy around it. The single is nominated for Best Global Music Performance.
 
 ## Slug
 
@@ -192,7 +183,7 @@ People who just heard that a Tamil song was nominated for a Grammy, and want to 
 
 ## Excerpt
 
-Susha had her phone off on nomination day. The song her mother taught her, a Subramania Bharati poem set by Devan Ekambaram, was on the Best Global Music Performance ballot next to Shakira and Rosalía.
+Devan Ekambaram recorded Susha's voice first and built "Varuvaaiy" around it. The single is nominated for Best Global Music Performance.
 
 ## Category
 
@@ -209,9 +200,9 @@ Varuvaaiy, Devan Ekambaram, Susha, Subramania Bharati, Grammy Awards, Best Globa
 
 ## Social captions
 
-- Instagram/feed: "Varuvaaiy," Devan Ekambaram and Susha, is nominated for Best Global Music Performance. It is their setting of a Subramania Bharati poem. The single is dated Aug. 12 on Apple, 3:26, with no record company named.
-- X/Twitter-length: Varuvaaiy (Devan Ekambaram, Susha) is up for Best Global Music Performance, next to Shakira and Burna Boy, Kidjo, Rosalía, and KerreKe. A Bharati poem. One song. Aug. 12.
-- Newsletter: Susha says she did not know it was nomination day. The song on the ballot is the Bharati poem her mother taught her.
+- Instagram/feed: The Bharati song Susha's mother taught her is up for a Grammy. Devan Ekambaram recorded her voice first and built "Varuvaaiy" around it. Best Global Music Performance.
+- X/Twitter-length: The Bharati song Susha's mother taught her is up for a Grammy. Devan recorded her voice first. Best Global Music Performance.
+- Newsletter: Lakshmi Rangarajan learned a Bharati song after a concert and taught it to Susha. Devan Ekambaram recorded that voice first. "Varuvaaiy" is nominated for Best Global Music Performance.
 
 ## Featured-image concept
 
