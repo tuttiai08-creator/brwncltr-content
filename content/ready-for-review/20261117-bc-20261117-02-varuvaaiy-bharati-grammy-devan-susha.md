@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-02 |
-| State | READY_FOR_REVIEW |
+| State | DRAFTING |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Draft supplied by the owner via the Content Editor. Filed verbatim. Prose not rewritten. |
@@ -84,7 +84,7 @@ Years ago, Lakshmi Rangarajan heard a Subramania Bharati song at a concert and l
 
 Susha calls it her mother's "core memory." "She recalled all that while teaching me this particular track," she said, "and I remembered that when Devan asked me to contribute to the album he was working on."
 
-That song is "Varuvaaiy," and on Nov. 16 it was nominated for Best Global Music Performance at the 69th Grammy Awards, in a field that includes Shakira and Rosalía. The Academy's nominee line reads "Devan Ekambaram, Susha."
+That song is "Varuvaaiy," and on Nov. 16 it was nominated for Best Global Music Performance at the 69th Grammy Awards, in a field that includes Shakira and Rosalía, under the Academy's nominee line "Devan Ekambaram, Susha."
 
 ### Not the obvious one
 
@@ -94,11 +94,9 @@ The single was born in June, when Devan was working on a full album of songs by 
 
 ### Her voice first
 
-Devan has known Susha for more than 20 years, but this is the first time they've worked together, and he built the track backward: he recorded her voice first, then made everything around her singing, his own vocals and arrangements included. He'd wanted Raag Bardiya, he told Hindustan Times, and she suggested Des.
+Devan has known Susha for more than 20 years, but this is the first time they've worked together. He built the track backward. He wanted Raag Bardiya, and she suggested Des, so he recorded her voice first, then made everything around her singing, his own vocals and arrangements included, with Prakash Sontakke on slide guitar and Anil Srinivasan on piano.
 
 "Yes, I have done the composition and music production, but Susha's voice did the magic and while I was campaigning for the song everyone had praise for her voice," he said.
-
-Prakash Sontakke plays slide guitar on the record, and Anil Srinivasan plays piano.
 
 The poem is addressed to Krishna, and its opening line is the title three times, then *Kanna*, an affectionate name for Krishna. In Devan's translation, the title asks, *Krishna, won't you come to me?*
 
@@ -106,7 +104,7 @@ The poem is addressed to Krishna, and its opening line is the title three times,
 
 Susha has been learning Carnatic music since she was 5, from her mother and her grandmother, and has been performing professionally since she was about 13.
 
-She later earned a master's in jazz performance and composition at the University of Toronto, The Hindu reported, and on Aug. 7 she released *Love Language*, her first album of original music, in English and Tamil. "Varuvaaiy" came out five days later as a one-song single, three minutes and 26 seconds long.
+She later earned a master's in jazz performance and composition at the University of Toronto. On Aug. 7 she released *Love Language*, her first album of original music, in English and Tamil, and "Varuvaaiy" came out five days later as a one-song single, three minutes and 26 seconds long.
 
 "Devan is not from the Carnatic scene," she said, "but this collaboration came out of the blue so we both are very excited."
 
@@ -123,22 +121,22 @@ Final-round voting runs Dec. 10 to Jan. 7, and winners will be announced Feb. 7,
 "At the end, she keeps repeating 'Kanna' with different improvisations," he said. "Till today, I cry every time I hear that section."
 ## Verification
 
-Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. The prose above is filed verbatim. Named outlets in the body: The Hindu once (Toronto master's), Billboard India once ("Why Bharathiar"), Hindustan Times once (Bardiya/Des). Every other quote is untagged. Result is PASS unless marked FAIL.
+Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. Flow-pass joins are in the body. Billboard India is the one named outlet ("Why Bharathiar"). The Hindu master's and the Hindustan Times raga line are untagged in the prose and credited below. Result is PASS unless marked FAIL.
 
 | Draft sentence | Packet | Result |
 | --- | --- | --- |
 | Years ago, Lakshmi Rangarajan heard a Subramania Bharati song at a concert and liked it so much that she went to the trouble of learning it, and later she taught it to her daughter. | §4.1. Susha to The Hindu. Billboard: taught "years ago." | PASS. "And later" joins the same two facts. |
 | Susha calls it her mother's "core memory." "She recalled all that while teaching me this particular track," she said, "and I remembered that when Devan asked me to contribute to the album he was working on." | §4.1. "core memory" is in the sentence. Both halves of the teaching sentence match, split around "she said." | PASS. Untagged. Outlet: The Hindu. |
-| That song is "Varuvaaiy," and on Nov. 16 it was nominated for Best Global Music Performance at the 69th Grammy Awards, in a field that includes Shakira and Rosalía. The Academy's nominee line reads "Devan Ekambaram, Susha." | §1.1, §1.2. | PASS. |
+| That song is "Varuvaaiy," and on Nov. 16 it was nominated for Best Global Music Performance at the 69th Grammy Awards, in a field that includes Shakira and Rosalía, under the Academy's nominee line "Devan Ekambaram, Susha." | §1.1, §1.2. | PASS. Same facts, one sentence. |
 | The single was born in June, when Devan was working on a full album of songs by Bharati, the Tamil poet and freedom fighter, and asked Susha to sing on it. | §3.2. The Hindu. | PASS. |
 | "There are many popular songs of his," she told Billboard India. "But when Devan said he wanted to do a Bharathiar song, I wanted to find something that wasn't so obvious. This was a song my mother taught me years ago." | §4.1. Contiguous after "Someone recently asked me, 'Why Bharathiar?'" | PASS. Tagged: Billboard India. |
-| Devan has known Susha for more than 20 years, but this is the first time they've worked together, and he built the track backward: he recorded her voice first, then made everything around her singing, his own vocals and arrangements included. He'd wanted Raag Bardiya, he told Hindustan Times, and she suggested Des. | §5. "over 20 years, but the collaboration happened now." Then "Raag Bardiya," "Raag Des," and "I recorded her voice and then made everything around her singing and added my vocals and arrangements." | PASS. "He'd wanted" is the same wish. "Des" is his printed word. The colon defines "backward" as that sequence. |
+| He wanted Raag Bardiya, and she suggested Des, so he recorded her voice first, then made everything around her singing, his own vocals and arrangements included, with Prakash Sontakke on slide guitar and Anil Srinivasan on piano. | §5. "I wanted to record in Raag Bardiya, but she suggested doing it in Raag Des and I recorded her voice and then made everything around her singing and added my vocals and arrangements." Slide guitar and piano are the Billboard credit block. | FAIL. "Des" and the players match. "So" makes the raga the reason he recorded her first. His sentence joins those steps with "and." |
 | "Yes, I have done the composition and music production, but Susha's voice did the magic and while I was campaigning for the song everyone had praise for her voice," he said. | §5. Full sentence. | PASS. Untagged. Outlet: Hindustan Times. |
-| Prakash Sontakke plays slide guitar on the record, and Anil Srinivasan plays piano. | §5 credit block. | PASS. |
+| Prakash Sontakke on slide guitar and Anil Srinivasan on piano, inside the voice-first sentence. | §5 credit block. | PASS. Same credits, no longer a separate line. |
 | The poem is addressed to Krishna, and its opening line is the title three times, then *Kanna*, an affectionate name for Krishna. | §4.1, §4.2 pallavi "varuvAi varuvAi varuvAi kaNNA," §5 Billboard bracket "a word of affection for the Hindu deity Krishna." | PASS. Joined, same facts. |
 | In Devan's translation, the title asks, *Krishna, won't you come to me?* | §4.1. Hindustan Times paraphrase, not a direct quote: "He explains that the bhajan title means: Krishna, won't you come to me!" | PASS. Italics, not quotation marks. The words match. Hindustan Times prints an exclamation point. "Translation" is the draft's word for his explanation of the title. |
 | Susha has been learning Carnatic music since she was 5, from her mother and her grandmother, and has been performing professionally since she was about 13. | §6.3. Hindustan Times. | PASS. Untagged. Outlet: Hindustan Times. |
-| She later earned a master's in jazz performance and composition at the University of Toronto, The Hindu reported, and on Aug. 7 she released *Love Language*, her first album of original music, in English and Tamil. "Varuvaaiy" came out five days later as a one-song single, three minutes and 26 seconds long. | §6.3 for the master's, The Hindu. §3.1 and §6.3 for Aug. 7 and the Aug. 12 single, 206118 ms. | PASS. "The Hindu reported" sits on the master's. The release dates are the catalog. |
+| She later earned a master's in jazz performance and composition at the University of Toronto. On Aug. 7 she released *Love Language*, her first album of original music, in English and Tamil, and "Varuvaaiy" came out five days later as a one-song single, three minutes and 26 seconds long. | §6.3 master's, The Hindu reporter voice, now untagged in the prose. §3.1 and §6.3: Aug. 7 and Aug. 12, 206118 ms. | PASS. The outlet name is in this table, not the sentence. |
 | "Devan is not from the Carnatic scene," she said, "but this collaboration came out of the blue so we both are very excited." | §6.3. Exact. | PASS. Untagged. Outlet: Hindustan Times. |
 | Devan hasn't composed for a film since *Bale Pandiya* in 2010, and he has tried for a Grammy before, spreading three or four songs across categories, until a Grammy winner told him, "Don't be a jack of all trades." So this year he put everything behind one song. | §6.2. The Hindu: last film as composer, 2010, *Bale Pandiya*. §5. Three or four songs, then "Don't be a jack of all trades," and this cycle's only submission. | PASS. "Hasn't composed since" is that last credit. "So" ties the advice to the one song he describes. |
 | "I never, in a million years, thought that out of 526 submissions, this would somehow make the top five," he said. | §5. Exact. His number. | PASS. Untagged. Outlet: Billboard India. |
@@ -151,12 +149,12 @@ Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. The pr
 Untagged quotes, by outlet:
 
 - The Hindu: "core memory"; "She recalled all that while teaching me this particular track"; "and I remembered that when Devan asked me to contribute to the album he was working on."
-- Hindustan Times: the full "did the magic" sentence; "Devan is not from the Carnatic scene" through "very excited"; the 20-years line, the voice-first sequence, the age-5 / about-13 training, and the temple compression are the same interview, told as narration.
+- Hindustan Times: "Raag Bardiya" and "Des"; the full "did the magic" sentence; "Devan is not from the Carnatic scene" through "very excited"; the 20-years line, the voice-first sequence, the age-5 / about-13 training, and the temple compression. The Toronto master's is also untagged now; it is The Hindu's *Love Language* profile.
 - Billboard India: "Don't be a jack of all trades"; the 526 sentence; "For me, it was just any other day"; the closing "Kanna" quotation. The "Why Bharathiar" quotation is the one Billboard tag.
 
 Held here, not in the body: Instagram "the very 1st Tamil Song to ever be nominated" (§1.3). Gorillaz' *The Mountain*, Best Alternative Music Album, featuring Anoushka Shankar and Asha Bhosle (§1.4). No music video; The Hindu said the team is mulling one (§3.2). *Pattarai* (§6.2). Session names beyond Sontakke and Srinivasan (§5).
 
-Clear for READY_FOR_REVIEW.
+Not clean. The "so" before "he recorded her voice first" is the hold.
 
 ## Facts requiring final verification
 
