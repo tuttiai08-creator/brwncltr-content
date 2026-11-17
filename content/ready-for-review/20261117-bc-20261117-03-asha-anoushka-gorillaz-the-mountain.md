@@ -64,11 +64,11 @@ Indian Express, 17 November 2026 (the nomination-day footnote). Pitchfork catego
 
 Damon Albarn sat cross-legged in Mumbai, playing R.D. Burman's harmonium, while Asha Bhosle sang. She was 91, and he had admired her from afar for years. When he wrote about that day in April, two days after she died, he said the memory would stay with him forever.
 
-Her voice is on "The Shadowy Light," the 12th track of *The Mountain*, the ninth Gorillaz album. Anoushka Shankar's sitar is on seven others. On Nov. 16, the Recording Academy nominated the album for Best Alternative Music Album at the 2027 Grammys.
+Her voice is on "The Shadowy Light," the 12th track of *The Mountain*, the ninth Gorillaz album, and Anoushka Shankar's sitar is on seven others. On Nov. 16, the Recording Academy nominated the album for Best Alternative Music Album at the 2027 Grammys.
 
 ### An album about death
 
-Gorillaz made the record after Albarn and Jamie Hewlett lost their fathers, ten days apart. Albarn scattered his father's ashes in the Ganges at Varanasi.
+Gorillaz made the record after Albarn and Jamie Hewlett lost their fathers, ten days apart, and Albarn scattered his father's ashes in the Ganges at Varanasi.
 
 Hewlett put the idea to Albarn as a question: "If we can make an album about death that makes people feel less afraid of the concept of it, wouldn't that be an amazing gift?"
 
@@ -84,7 +84,7 @@ The song asks a boatman to carry the singer across deep water. In February, days
 
 ### The sitar in London
 
-Shankar had never worked with Gorillaz when they reached out. They wanted sitar, so she recorded with Albarn in London, including one free-flowing, exploratory session. By the time they called, she told The Nod, "they'd already had their big India trip that made them want to make an album about their experiences."
+Shankar had never worked with Gorillaz when they reached out wanting sitar, and she ended up recording with Albarn in London, including one free-flowing, exploratory session. By the time they called, she told The Nod, "they'd already had their big India trip that made them want to make an album about their experiences."
 
 Her sitar ended up on seven tracks, and she has a writing credit on five. On a track with "Prince" in the title, she suggested fast strumming that would create what she called "a cocoon for the voice." The title song might sound very Indian, she told Rolling Stone India, but it's not necessarily based on a raga.
 
@@ -92,17 +92,17 @@ Her sitar ended up on seven tracks, and she has a writing credit on five. On a t
 
 For Albarn, the sessions reached back to his own childhood. His father loved Indian classical music and played him Ravi Shankar records as a baby. "I probably listened to Ravi Shankar before I listened to The Beatles when I was a kid," he told Rolling Stone UK.
 
-At a live unveiling, the band asked her to stay onstage, she told The Nod, because she was on so many tracks. In February she played "Orange County" with Gorillaz and Kara Jackson on *The Graham Norton Show*. A few weeks later, for the band's *Saturday Night Live* debut, she was back, playing "The Moon Cave" with Black Thought and Asha Puthli.
+At a live unveiling, the band asked her to stay onstage, she told The Nod, because she was on so many tracks, and she kept turning up: in February she played "Orange County" with Gorillaz and Kara Jackson on *The Graham Norton Show*, and a few weeks later, for the band's *Saturday Night Live* debut, she was back, playing "The Moon Cave" with Black Thought and Asha Puthli.
 
 ### April
 
-*The Mountain* came out on Feb. 27. About six weeks later, on April 12, Bhosle died in Mumbai. She was 92. Her career ran more than eight decades, through the long partnership with R.D. Burman, whom she married in 1980, and the 1997 Cornershop hit named after her. The BBC called "The Shadowy Light" one of her final recordings.
+*The Mountain* came out on Feb. 27, and about six weeks later, on April 12, Bhosle died in Mumbai at 92. Her career ran more than eight decades, through the long partnership with R.D. Burman, whom she married in 1980, and the 1997 Cornershop hit named after her. The BBC called "The Shadowy Light" one of her final recordings.
 
 Albarn ended his tribute with a line to her directly: "Asha, you had the voice of an angel, we love you."
 
 ### The other side
 
-Bhosle was nominated twice and Shankar 14 times. Neither has won. The 2027 Grammys air Feb. 7.
+Bhosle was nominated twice and Shankar 14 times, and neither has won. The 2027 Grammys air Feb. 7.
 
 Bhosle told Vogue India that when she reached the other side of the river, her journey would be complete and she would attain moksha.
 
@@ -124,14 +124,14 @@ Hewlett's question, "If we can make an album about death that makes people feel 
 | Munir wrote the Hindi lyric; Rhys sings; bansuri and two sarods | 16, 29 | Clear. Does not misname the sarod players. |
 | Hesitant quote, to Rolling Stone India | 29 | Clear. Exact through "deep inside me." |
 | Boatman across deep water. Vogue, days before release, life's journey and the duties list. Boatman-as-music quote. | 13, 22, 30 | Clear. Summary omits "achievements." Quoted line is exact. |
-| Never worked with Gorillaz. They wanted sitar. Recorded with Albarn in London, including one free-flowing, exploratory session. No day count. | 44, 46, section 8 | Clear. The exploratory session is The Nod's narration. The one-day / two-day conflict is not settled in the sentence. |
+| "reached out wanting sitar, and she ended up recording with Albarn in London, including one free-flowing, exploratory session." No day count. | 44, 46, section 8 | Clear. The exploratory session is The Nod's narration. The one-day / two-day conflict is not settled. |
 | Nod quote about the India trip | 44 | Clear. Exact. |
 | Sitar on seven tracks. Writing credit on five. "Prince" / "a cocoon for the voice." | 19–21, 45 | Clear. Quoted fragment is exact. |
 | "might sound very Indian... but it's not necessarily based on a raga" | 47 | Clear. Matches her wording. |
 | "The music is very inherently them" and the melodies sentence | 47 | Clear. Exact, without the packet's "[Gorillaz]" insert. |
 | Father played Ravi Shankar records from when Albarn was a baby. Beatles quote, Rolling Stone UK only. | 38, 40 | Clear. CBC's "extraordinary moment" (item 39) is in the sources section, not the body. |
-| "At a live unveiling, the band asked her to stay onstage, she told The Nod, because she was on so many tracks." Norton, "Orange County," Kara Jackson. SNL, "The Moon Cave," Black Thought, Asha Puthli. | 44, 55–57 | Clear. "A live unveiling" does not name Copper Box. Puthli is not Bhosle. |
-| Feb. 27. About six weeks later, April 12, Mumbai, 92. Eight decades, Burman 1980, Cornershop 1997. BBC: one of her final recordings. | 13, 25, 33 | Clear. 44 days. No cause of death. |
+| Live unveiling, then "she kept turning up": Norton "Orange County" with Kara Jackson, then SNL "The Moon Cave" with Black Thought and Asha Puthli. | 44, 55–57 | Clear. "A live unveiling" does not name Copper Box. Feb. 13 to March 7 is a few weeks. Puthli is not Bhosle. |
+| Out Feb. 27, and about six weeks later, on April 12, died in Mumbai at 92. Eight decades, Burman 1980, Cornershop 1997. BBC: one of her final recordings. | 13, 25, 33 | Clear. 44 days. No cause of death. |
 | "Asha, you had the voice of an angel, we love you." | 35 | Clear. One sentence. |
 | Nominated twice; Shankar 14 times; neither has won. Grammys air Feb. 7. Moksha summary and closing quote. | 2, 6, 7, 30 | Clear. |
 
