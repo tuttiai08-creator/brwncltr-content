@@ -74,7 +74,7 @@ Hewlett put the idea to Albarn as a question: "If we can make an album about dea
 
 ### The boatman
 
-Kausar Munir wrote the Hindi lyric, and Bhosle sings it over bansuri and two sarods, with Gruff Rhys beside her.
+Kausar Munir wrote the Hindi lyric, and Bhosle sings it over bansuri and two sarods on a track she shares with Gruff Rhys.
 
 "I was hesitant to work on this album of Gorillaz, but when I heard the music track and the lyrics, it triggered something deep inside me," Bhosle told Rolling Stone India.
 
@@ -121,7 +121,7 @@ Hewlett's question, "If we can make an album about death that makes people feel 
 | Her voice on "The Shadowy Light." Sitar on seven more songs. Nominated Nov. 16 for Best Alternative Music Album. | 1, 2, 16, 19–20 | Clear. Track 12. The seven are 1, 2, 5, 7, 9, 14, and 15: six featured billings, plus sitar on "The Moon Cave." |
 | Fathers ten days apart. Ashes in the Ganges at Varanasi. | 39, 43 | Clear. |
 | Hewlett's question, exact | 42 | Clear. Outlet is in this section, not the body. |
-| Munir wrote the Hindi lyric. Bhosle sings it over bansuri and two sarods. Gruff Rhys beside her. | 16, 29 | Clear on the credits. "Beside her" is figurative for a shared vocal, not a claim they recorded in the same room. Percussion and a choir are also on the track; the sentence does not say they are absent. |
+| Munir wrote the Hindi lyric. Bhosle sings it over bansuri and two sarods on a track she shares with Gruff Rhys. | 16, 29 | Clear. Both are billed, and both are on the vocal line. "Shares" is the credit, not a shared room. Percussion and a choir are also on the track; the sentence does not say they are absent. |
 | Hesitant quote, to Rolling Stone India | 29 | Clear. Exact through "deep inside me." |
 | Boatman across deep water. Vogue, days before release, life's journey and the duties list. Boatman-as-music quote. | 13, 22, 30 | Clear. Summary omits "achievements." Quoted line is exact. |
 | "reached out wanting sitar, and she ended up recording with Albarn in London, including one free-flowing, exploratory session. By the time they called, she said," then the India-trip quote. No day count. | 44, 46, section 8 | Clear. The quote is exact. "She said" is The Nod, named in this section, not the body. The day-count conflict is not settled. |
