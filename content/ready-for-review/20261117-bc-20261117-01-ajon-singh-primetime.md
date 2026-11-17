@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-01-ajon-singh-primetime |
-| State | DRAFTING |
+| State | READY_FOR_REVIEW |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Content Manager draft, placed verbatim. Owner skipped plan approval on 2026-11-17. Prose was not rewritten. |
@@ -81,9 +81,9 @@ Elle India (Oct. 8, 2026) and the NO NOTES podcast (Oct. 14, 2026) were read for
 
 # The Bollywood Ear Behind A24's *Primetime*
 
-*Ajon Singh grew up on* Sholay, Dhoom *and* Dateline. *His debut screenplay, a Chris Hansen story starring Robert Pattinson, is up for a Gotham Award on Nov. 30.*
+*Ajon Singh writes dialogue with a Bollywood rhythm. His debut screenplay, a Chris Hansen story starring Robert Pattinson, is up for a Gotham Award on Nov. 30.*
 
-Growing up, Ajon Singh got so fixated on *Dhoom* that he taught himself to play "Dhoom Machale" on the piano. His parents would put on Hindi films, *Sholay*, *Bobby*, *Don*, *Devdas*, and what stayed with him was the way the people in them talked.
+Ajon Singh got so fixated on *Dhoom* that he taught himself to play "Dhoom Machale" on the piano. His parents would put on Hindi films, *Sholay*, *Bobby*, *Don*, *Devdas*, and what stayed with him was the way the people in them talked.
 
 "There's a musicality that exists in Bollywood that I try and emulate in my writing," he told The Nod. "Not the literal singing but the dialogue. It's very rhythmic."
 
@@ -105,7 +105,7 @@ People kept asking for a different movie. For a long time, Singh said, the note 
 
 Singh has heard that the director Tyler Falbo handed Pattinson the script at a party. Pattinson reached out, and on their first Zoom, Singh pitched him Hansen. Pattinson went silent, The Hollywood Reporter reported, and agreed to produce instead.
 
-The yes came later, in Pattinson's bathroom. Singh had come to his house to talk about the film, and late that night Pattinson started riffing on what an actor might do with Hansen while Singh typed notes into his iPhone. "The character of Chris Hansen, to me, is like this angel of punishment," Pattinson told him. "He descends down the stairs and deals justice."
+The turn started in Pattinson's bathroom. Singh had come to his house to talk about the film, and late that night Pattinson started riffing on what an actor might do with Hansen while Singh typed notes into his iPhone. "The character of Chris Hansen, to me, is like this angel of punishment," Pattinson told him. "He descends down the stairs and deals justice."
 
 Singh rewrote the character in five days. Pattinson took a weekend with the pages and said yes.
 
@@ -117,17 +117,17 @@ Cut lines didn't always stay cut. Singh kept a Notes app of cut lines, including
 
 ### India, in the margins
 
-Part of the film's mythology came from much closer to home. Its monster, Elle reported, is rooted in a New York Times story Singh read about child disappearances in India in the early 1990s, where wolves were the likely explanation but some villagers insisted they had seen a wolfman. He set it beside a Hansen segment about child labor in India.
+Part of the film's mythology came from much closer to home. Its monster, Elle reported, is rooted in a New York Times story Singh read about child disappearances in India in the early 1990s, where wolves were the likely explanation but some villagers insisted they had seen a wolfman. He set it beside a Hansen segment about child slave labor in India.
 
 "So I was like, what if I took these two stories, and I created sort of this mythical background?" he told Elle.
 
-Most of his family is from Mumbai, he told The Nod, and he'd like A24 to send him there to thank the people in India who've been reaching out. When Elle told him Indian news channels had been cutting their own edits of the film, he said, "Oh my god, I love it."
+Most of his family is from Mumbai, he told The Nod, and he'd like A24 to send him out so he can show love to all the people in India who've been reaching out. When Elle told him Indian news channels had been cutting their own edits of the film, he said, "Oh my god, I love it."
 
 ### Nov. 30
 
 The real Hansen is not a fan. Before the release he told THR the film was "an insult to the thousands of men and women who work hard every day to protect children from predators." Singh's position is that judging the show isn't his job as a writer, and that the filmmakers have no interest in villainizing Hansen.
 
-Daniel Kaluuya read the script and wanted Singh to write with him. Sony Pictures Animation now has the two co-writing a Spider-Punk animated feature, Deadline reported.
+Daniel Kaluuya read the script and wanted Singh to write with him, THR reported. In August 2025, Deadline reported that the two were co-writing a Spider-Punk animated feature for Sony Pictures Animation, and last December that a first draft was in its finishing stages.
 
 On Nov. 30, the script producers kept telling him to start over from page one is up for a Gotham.
 
@@ -135,17 +135,9 @@ On Nov. 30, the script producers kept telling him to start over from page one is
 
 ## Facts requiring final verification
 
-Run 5 draft filed verbatim. Fact-check on 2026-11-17 is not clean, so canonical state is `DRAFTING`. Prose was not edited.
+Run 5 revision filed verbatim. Sentence check against the packet on 2026-11-17: clear. The five prior flags are fixed in the copy: no "growing up" on the *Dhoom* fixation; the bathroom is where the turn started, not where Pattinson said yes; "child slave labor" keeps his Elle wording; the Mumbai line and the "send me out / show love" line are separate; Spider-Punk is dated to Deadline's August 2025 co-writing report and the December 2025 first-draft update, and the "wanted Singh to write with him" clause is attributed to THR.
 
-- Dek: "Ajon Singh grew up on *Sholay*, *Dhoom* and *Dateline*." And the opening sentence: "Growing up, Ajon Singh got so fixated on *Dhoom*..." Item 41 has the films and the piano, with no life-stage. Item 34 has the *Dateline* diet. "Grew up" / "Growing up" is the same kind of timing the packet would not support for "as a teenager."
-- "The yes came later, in Pattinson's bathroom." Item 29: the bathroom is where he typed notes while Pattinson riffed. The yes came after five days and a weekend with the pages. The next sentences in the draft say that, and they contradict this one.
-- "He set it beside a Hansen segment about child labor in India." Item 39, his words to Elle: "a segment about child slave labour in India." "Child labor" drops "slave."
-- "he'd like A24 to send him there to thank the people in India who've been reaching out." Item 34 is two lines. Family from Mumbai is one. "I want A24 at some point to send me out so I can show love to all the people in India who've been reaching out" is the other. "There" makes the destination Mumbai, and "thank" is not "show love."
-- "Sony Pictures Animation now has the two co-writing a Spider-Punk animated feature, Deadline reported." Items 44 and 47: Deadline's last on-record status is Dec. 7, 2025, finishing a first draft, and the August 2025 item says early development. "Now," in a Nov. 2026 piece, is not in those items. The "wanted Singh to write with him" sentence before it is THR, item 46, not Deadline.
-
-These hold: Gotham field and Cipriani Wall Street (items 1 and 3; Hamaguchi and Rashida Jones are on the adapted list; "includes" does not empty the rest of the field). The monster sentence names no Indian state and is attributed to Elle (item 39). The "Oh my god, I love it" quote matches item 43. Falbo is "Singh has heard" (item 27). Hansen's insult quote and Singh's "not my job" / "no interest in villainizing" match items 33 and 32.
-
-Still open and not settled in the copy: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's co-writer line (item 10); Variety's $19.2 million versus Mojo's $18,830,798 (item 19; the dollar figure is not in this draft); on-screen executive-producer credit (item 25).
+Still open in the packet and not used as settled facts here: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's co-writer line (item 10); Variety's $19.2 million opening versus Mojo's $18,830,798 (item 19; no dollar figure in this draft); on-screen executive-producer credit (item 25); the unread *Hindu* interview and the Kerala versus Uttar Pradesh conflict (item 39; the draft names no state).
 
 ## SEO title
 
@@ -153,7 +145,7 @@ The Bollywood Ear Behind A24's Primetime
 
 ## Meta description
 
-Ajon Singh grew up on Sholay, Dhoom and Dateline. His debut screenplay, a Chris Hansen story starring Robert Pattinson, is up for a Gotham Award on Nov. 30.
+Ajon Singh writes dialogue with a Bollywood rhythm. His debut screenplay, a Chris Hansen story starring Robert Pattinson, is up for a Gotham Award on Nov. 30.
 
 ## Slug
 
@@ -161,7 +153,7 @@ ajon-singh-primetime
 
 ## Excerpt
 
-Ajon Singh got fixated on Dhoom and taught himself "Dhoom Machale." He told The Nod he tries to write with that musicality. His script for Primetime is up for a Gotham Award on Nov. 30.
+Ajon Singh writes dialogue with a Bollywood rhythm. He got fixated on Dhoom and taught himself "Dhoom Machale." His debut screenplay, Primetime, is up for a Gotham Award on Nov. 30.
 
 ## Category
 
