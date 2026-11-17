@@ -70,9 +70,9 @@ Full passages are in `content/research/bc-20261117-02-20261117.md`. This draft a
 1. Lakshmi Rangarajan hears the song, then teaches it to Susha.
 2. One line for the Nov. 16 nomination.
 3. June, and the Bharati song that was not the obvious one.
-4. Her voice first, then the pallavi and the title.
-5. Trained at home. *Love Language*, then the single.
-6. One song. Nomination day. Voting. The "Kanna" ending.
+4. The poem, then the Aug. 12 single.
+5. Her voice first, and the training behind it.
+6. One song. Nomination day. The "Kanna" ending. Winners are named Feb. 7, on the nomination.
 
 ## Full draft
 
@@ -94,7 +94,7 @@ The single was born in June, when Devan was working on a full album of songs by 
 
 The poem is addressed to Krishna, and its opening line is the title three times, then *Kanna*, an affectionate name for Krishna. In Devan's translation, the title asks, *Krishna, won't you come to me?*
 
-"Varuvaaiy" came out as a one-song single on Aug. 12, five days after *Love Language*, her first album of originals, in English and Tamil.
+"Varuvaaiy" came out as a one-song single on Aug. 12, five days after *Love Language*, Susha's first album of originals, in English and Tamil.
 
 ### Her voice first
 
@@ -103,8 +103,6 @@ Devan has known Susha for more than 20 years, but this is the first time they've
 He recorded her voice first and built the track around it: his own vocals, Prakash Sontakke's slide guitar, Anil Srinivasan's piano.
 
 "Yes, I have done the composition and music production, but Susha's voice did the magic and while I was campaigning for the song everyone had praise for her voice," he said.
-
-### Trained at home
 
 Susha has been learning Carnatic music since she was 5, from her mother and her grandmother, and has been performing professionally since she was about 13.
 
@@ -134,7 +132,7 @@ Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. No out
 | The poem is addressed to Krishna, and its opening line is the title three times, then *Kanna*, an affectionate name for Krishna. | §4.1, §4.2 pallavi "varuvAi varuvAi varuvAi kaNNA," §5 Billboard bracket "a word of affection for the Hindu deity Krishna." | PASS. Joined, same facts. |
 | In Devan's translation, the title asks, *Krishna, won't you come to me?* | §4.1. Hindustan Times paraphrase, not a direct quote: "He explains that the bhajan title means: Krishna, won't you come to me!" | PASS. Italics, not quotation marks. The words match. Hindustan Times prints an exclamation point. "Translation" is the draft's word for his explanation of the title. |
 | Susha has been learning Carnatic music since she was 5, from her mother and her grandmother, and has been performing professionally since she was about 13. | §6.3. Hindustan Times. | PASS. Untagged. Outlet: Hindustan Times. |
-| "Varuvaaiy" came out as a one-song single on Aug. 12, five days after *Love Language*, her first album of originals, in English and Tamil. | §3.1 collection releaseDate 2026-08-12. §6.3 *Love Language* 2026-08-07, first original album, English and Tamil. | PASS. Aug. 12 is the Apple date. |
+| "Varuvaaiy" came out as a one-song single on Aug. 12, five days after *Love Language*, Susha's first album of originals, in English and Tamil. | §3.1 collection releaseDate 2026-08-12. §6.3 *Love Language* 2026-08-07, her first original album, English and Tamil. | PASS. "Susha's" names the album's artist. Aug. 12 is the Apple date. |
 | "Devan is not from the Carnatic scene," she said, "but this collaboration came out of the blue so we both are very excited." | §6.3. Exact. | PASS. Untagged. Outlet: Hindustan Times. |
 | Devan has chased a Grammy before, spreading three or four songs across categories, until a Grammy winner told him, "Don't be a jack of all trades." So this year he put everything behind one song. | §5. Three or four earlier submissions, the jack-of-all-trades line, and this cycle's one song. | PASS. *Bale Pandiya* is out of the body. "Chased" is the draft's verb for those earlier submissions. |
 | "I never, in a million years, thought that out of 526 submissions, this would somehow make the top five," he said. | §5. Exact. His number. | PASS. Untagged. Outlet: Billboard India. |
