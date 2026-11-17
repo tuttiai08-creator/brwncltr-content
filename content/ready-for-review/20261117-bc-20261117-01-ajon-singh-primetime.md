@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-01-ajon-singh-primetime |
-| State | READY_FOR_REVIEW |
+| State | DRAFTING |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Content Manager draft, placed verbatim. Owner skipped plan approval on 2026-11-17. Prose was not rewritten. |
@@ -79,78 +79,67 @@ Elle India (Oct. 8, 2026) and the NO NOTES podcast (Oct. 14, 2026) were read for
 
 # Ajon Singh Rewrote Chris Hansen in Five Days. Pattinson Said Yes.
 
-*The first-time screenwriter behind A24's* Primetime *spent years hearing his script was wrong. On Nov. 30 it's up for a Gotham Award.*
+*The debut screenwriter behind A24's* Primetime *was told for a long time to rewrite it from page one. Now the script is up for a Gotham Award.*
 
-The notes went into an iPhone, typed fast, in Robert Pattinson's bathroom. Ajon Singh, a screenwriter with no produced feature to his name, had come to Pattinson's house to talk about *Primetime*, his script about Chris Hansen and *To Catch a Predator*. Pattinson had agreed to produce it but not to star in it. Late that night, he started describing the Hansen he could see himself playing, and Singh, by his own account, kept typing.
+The notes went into an iPhone, typed fast, in Robert Pattinson's bathroom. Ajon Singh, a debut screenwriter, had come to Pattinson's house to talk about *Primetime*, his script about Chris Hansen and *To Catch a Predator*. Pattinson had agreed to produce it but turned down the lead. Late that night, he started riffing on what an actor might do with Hansen, and Singh, by his own account, kept typing.
 
-"The character of Chris Hansen, to me, is like this angel of punishment," Pattinson told him. "He descends down the stairs and deals justice." By the third act, he wanted Hansen to be "like a weakened wizard."
+"The character of Chris Hansen, to me, is like this angel of punishment," Pattinson told him. "He descends down the stairs and deals justice."
 
 Singh went away for five days and rewrote the character. Pattinson took a weekend with the new pages, The Hollywood Reporter reported, and then said yes.
 
-That rewrite became the movie A24 released on Sept. 25, with Pattinson as Hansen and Lance Oppenheim directing. *Primetime* made $18.8 million in its first Friday-to-Sunday run, and by mid-November it had passed $47 million domestically, according to Box Office Mojo, on a budget Variety put at $15 million. Most of the coverage has been about Pattinson's voice, the memes and the money. The Gotham Film & Media Institute went to the pages. Singh is nominated for Best Adapted Screenplay at the 36th Gotham Awards, held Nov. 30 at Cipriani Wall Street in New York, where the film is also up for Best Feature and Skyler Gisondo for a supporting performance.
+A24 released *Primetime* on Sept. 25, with Pattinson as Hansen and Lance Oppenheim directing, and it took in $18.8 million in its first Friday-to-Sunday run, by Box Office Mojo's count. Now the Gotham Film & Media Institute has nominated Singh for Best Adapted Screenplay at the 36th Gotham Awards on Nov. 30, where the film is also up for Best Feature and Skyler Gisondo for Outstanding Supporting Performance.
 
 ### The movie nobody wanted to make his way
 
-Before Pattinson, there was a long stretch where nobody wanted the script as he'd written it. Producers kept asking for a page-one rewrite, a rise-and-fall story that would start with Hansen as a spunky young journalist coming up in the business. Singh wanted something closer to Sidney Lumet's *Network*.
+For a long time, Singh couldn't find a producer who liked the script the way it was. People kept asking for a page-one rewrite, he told The Nod, a rise-and-fall story that would start with Hansen as a spunky young journalist coming up in the business. Singh wanted something that began on the cusp of something, more like *Network*.
 
-"In this case, they're on the cusp of primetime, and they're chasing after it relentlessly," he told The Nod. "And it's loud, and fun, but there's this crash, and it goes silent."
+"In this case, they're on the cusp of primetime, and they're chasing after it relentlessly," he said. "And it's loud, and fun, but there's this crash, and it goes silent."
 
-How the script finally reached Pattinson is still a little murky, even to Singh. He has heard that the director Tyler Falbo met Pattinson at a party and handed it to him, though, as he put it, "many people have tried to take credit for it." What's clear is that Pattinson reached out and the two got on a Zoom. Singh asked him to play Hansen, and Pattinson, according to THR, went quiet and said the role wasn't for him. He signed on as a producer instead, and the bathroom came later.
+Singh has a theory about how the script reached Pattinson, because "many people have tried to take credit for it." He has heard that the director Tyler Falbo met Pattinson at a party and handed it over. Either way, Pattinson reached out and the two got on a Zoom. Singh asked him to play Hansen, and Pattinson, according to THR, went quiet and said the role wasn't for him. He signed on as a producer instead, and the bathroom came later.
 
 ### The kid in the decoy house
 
-The script started as a magazine story. In September 2007, *Esquire* published Luke Dittrich's "Tonight on Dateline This Man Will Die," about a *To Catch a Predator* sting in Murphy, Texas, that ended with the suicide of Bill Conradt, a local assistant district attorney the show had targeted. A24 credits the screenplay to Singh alone, based on that article. Dittrich, who sold the rights to the producer William Iannaccone, told THR he never read the script.
+The film is based on a magazine story. In September 2007, *Esquire* published Luke Dittrich's "Tonight on Dateline This Man Will Die," about a *To Catch a Predator* sting in Murphy, Texas, that ended with the suicide of Bill Conradt, an assistant district attorney. A24 credits the screenplay to Singh alone. Dittrich, who sold the rights to the producer William Iannaccone, told THR he never read the script.
 
-What hooked Singh was the young man the show paid to play a child.
+What hooked Singh in the article was a struggling young actor whose big break was playing a 13-year-old boy on the show.
 
-"This young actor is struggling, and his big break is to play a 13-year-old boy who says, 'Hey, I'm baking cookies. Come on in,'" he told *The Cold Magazine*. "Chris Hansen might be the A-list role of this film, but I thought the Decoy Dan character was its heart."
+"Chris Hansen might be the A-list role of this film, but I thought the Decoy Dan character was its heart," he told *The Cold Magazine*.
 
-Dan's audition scene survived every draft, and Singh has said he saw himself in the character. Gisondo plays him. When test audiences found the original ending too bleak, it was Gisondo, at dinner with Oppenheim, who pitched a new one: Dan gets his SAG-AFTRA card. The film now ends on a question calling Dan back into the business. "Are you an actor?"
+Gisondo plays Dan. When test audiences found the original ending too bleak, Singh told The Nod, Gisondo pitched a new one at dinner with Oppenheim: Dan gets his SAG-AFTRA card. Instead of ending on Dan's dream being dead, Singh said, the film ends on a siren's call asking him, "Are you an actor?"
 
-Other pieces stayed in reserve. Singh kept a Notes app of lines cut from older drafts, including a monologue Hansen gives a stranger on a plane, which opens with "There's a man on your porch." Oppenheim eventually asked about it and threw it at Pattinson, whose first reaction, Singh told The Nod, was "What? I can't do this." He did it anyway.
+Other pieces sat in reserve. Singh kept a Notes app of lines cut from older drafts, including a monologue Hansen delivers on a plane to Creed Bratton's character, which opens with "There's a man on your porch." Oppenheim asked about it and threw it at Pattinson, whose first reaction, Singh said, was "What? I can't do this." He did it anyway.
 
 ### Dateline at home
 
-Singh knew the show long before he knew the article. "I come from a family of immigrants and there was a diet of American TV shows that helped us understand the culture," he told The Nod. *Dateline* was part of that diet, and *To Catch a Predator* became one of the shows he'd sneak-watch as a kid, alongside *Jerry Springer* and *Maury*. He thought it was funny. It took him years to understand what it was actually showing.
+Singh knew the show long before he knew the article. "I come from a family of immigrants and there was a diet of American TV shows that helped us understand the culture," he told The Nod. *Dateline* was part of that diet, and *To Catch a Predator* became one of the shows he'd sneak-watch as a kid, alongside *Jerry Springer* and *Maury*.
 
-His ear for dialogue came from home too. His parents played *Sholay*, *Bobby*, *Don* and *Devdas*, and as a teenager he got fixated on *Dhoom*, to the point of teaching himself "Dhoom Machale" on the piano.
+His ear for dialogue came from home too. His parents put on *Sholay*, *Bobby*, *Don* and *Devdas*, and at some point he got fixated on *Dhoom*, to the point of teaching himself "Dhoom Machale" on the piano. "There's a musicality that exists in Bollywood that I try and emulate in my writing," he said. "Not the literal singing but the dialogue. It's very rhythmic."
 
-"There's a musicality that exists in Bollywood that I try and emulate in my writing," he told The Nod. "Not the literal singing but the dialogue. It's very rhythmic."
-
-The real Hansen has been less enthusiastic. Before the release, he told THR the film was "an insult to the thousands of men and women who work hard every day to protect children from predators." After seeing it, he called it "detached from reality." Singh has refused to cast him as either villain or hero. "Who am I to be like, 'This show is wrong,' or 'this show is right'?" he told THR. "I don't think that's my job as a writer."
+The real Hansen has been less charmed. Before the release, he told THR the film was "an insult to the thousands of men and women who work hard every day to protect children from predators." Singh hasn't taken the bait. "Who am I to be like, 'This show is wrong,' or 'this show is right'?" he told THR. "I don't think that's my job as a writer."
 
 ### The next room
 
-The script has already opened another door. Daniel Kaluuya read *Primetime* and called Singh with a verdict, which Singh recalls in a British accent: "I can tell you like to misbehave." Kaluuya wanted a co-writer for the *Spider-Punk* animated feature Sony was developing around the character he voiced in *Across the Spider-Verse*. Singh told THR it was an instant yes. Last December, Kaluuya told Deadline the two were in the "finishing stages" of a first draft. There's no plot and no release date yet.
+The script has already opened another door. Daniel Kaluuya read it and called Singh with a verdict, which Singh recalls in a British accent: "I can tell you like to misbehave." Sony was developing a movie around Spider-Punk, the character Kaluuya voiced in *Across the Spider-Verse*, and he wanted Singh to write it with him, THR reported. Last December, Deadline reported that the two were in the finishing stages of a first draft. There's no release date.
 
-At 31, THR reported, Singh has gone from unproduced to nominated. On Nov. 30 he'll be in a room on Wall Street, waiting to hear whether the script nobody wanted for so long, and that he rewrote in five days, takes the prize.
+At 31, THR reported, Singh has gone from unproduced to nominated, with the script he wouldn't rewrite from page one.
 
 "I've basically gone from being not viable in the marketplace to being viable in the marketplace," he told THR. "And I haven't really changed all that much."
-
 ## Facts requiring final verification
 
-The draft above was not changed. These are the sentences that are unsupported, inexact, or in conflict with the research packet. Packet item numbers are from `content/research/bc-20261117-01-20261117.md`.
+Revised draft, placed verbatim. Word count: see below. Prior findings (Lumet, the cut cookies quote, "stranger," a teenage *Dhoom*, "read *Primetime*," "no plot," the Wall Street attendance, the estimated $47 million, the coverage claim, the dek date, "murky" / "what's clear," "the show had targeted," "paid") are cleared. This pass is not clean, so the canonical state stays `DRAFTING`.
 
-- Dek, "first-time screenwriter," and body, "a screenwriter with no produced feature to his name." Packet item 9 is THR's label "debut screenwriter." The packet also says The Nod's "first IMDb credit" was not checked. Do not treat an empty filmography as verified.
-- Dek, "spent years hearing his script was wrong." Item 26 is a page-one rewrite and a rise-and-fall. THR's frame is "no commercial appeal" and that people would not read it. "Wrong" is a harder word than the packet.
-- "describing the Hansen he could see himself playing." Item 29: THR says Pattinson riffed on "what an actor might do with the character." He had already turned the role down. *The Cold Magazine* says they felt him leaning in. "Could see himself playing" decides that.
-- "That rewrite became the movie," and the close, "the script ... that he rewrote in five days." Items 29–31: the five days got the yes. The plane monologue and the test-screening ending came later.
-- "by mid-November it had passed $47 million domestically, according to Box Office Mojo." Item 18: $47,040,117 on the Nov. 17 fetch, with Nov. 13–15 still marked estimated. The sentence treats that total as settled.
-- "Most of the coverage has been about Pattinson's voice, the memes and the money." Items 50–52 mark this as interpretation, and item 50 is a full THR profile of Singh on Oct. 12. The sentence is too broad for the packet.
-- "Skyler Gisondo for a supporting performance." Item 4: the category is Outstanding Supporting Performance.
-- "Sidney Lumet's *Network*." Item 26: Singh told The Nod "more like *Network*." Lumet is not in the packet.
-- "The script started as a magazine story" and "a local assistant district attorney the show had targeted." Item 9: Dittrich calls the script Singh's, sharing DNA with the article. Item 13: assistant district attorney Bill Conradt; the sting is Perverted Justice with Dateline. "Local" and "the show had targeted" are compressions.
-- "the young man the show paid to play a child." Item 11: a struggling actor whose break was playing a 13-year-old. "Paid" is not in the packet.
-- The Cold quote keeps only "Hey, I'm baking cookies. Come on in." Item 11 also has "Hey, I'm baking pizzas. Come on in." The printed quote drops that sentence.
-- "a monologue Hansen gives a stranger on a plane." Item 30: The Nod says the character played by Creed Bratton. THR says "a fan on an airplane." "Stranger" is neither.
-- "The film now ends on a question calling Dan back into the business." The film was not watched. Item 31: Singh calls it a siren's call, "Are you an actor?", and "you don't know the answer." "Back into the business" settles the question he left open.
-- "as a teenager he got fixated on *Dhoom*." Item 41 has the films and the piano. No age.
-- "Daniel Kaluuya read *Primetime*." Item 46: he had read the *Primetime* script.
-- "Singh told THR it was an instant yes." Item 46: "It was an instant yes" is THR's narration, not a quoted Singh sentence.
-- "There's no plot." Item 47: Kaluuya said "TBD," and the same sentence says they were finishing a first draft. August 2025 trades say plot details are under wraps. "No plot" overclaims.
-- "On Nov. 30 he'll be in a room on Wall Street." Item 1 is the venue, Cipriani Wall Street. Nobody in the packet says Singh will be there.
+Word count of this draft: 961 words (headline, dek, subheads, and body; markdown heading marks excluded).
 
-Still open in the packet, and not asserted as settled facts in the draft: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's "co-wrote with Luke Dittrich" (item 10); Variety's $19.2 million opening versus Mojo's $18,830,798 (item 19); on-screen executive-producer credit (item 25); *The Hindu* body and Kerala versus Uttar Pradesh (items 38–39). A human still has to listen to the NO NOTES episode before any place list is quoted.
+Remaining, sentence by sentence:
+
+- "Singh hasn't taken the bait." Not in the packet. Items 32 and 33: he told THR he will not call the show right or wrong, and "We have no interest in villainizing him." "Bait" is a new frame.
+- Same paragraph, Content Editor rule 5. Hansen's "insult" quote and Singh's "Who am I" quote are one beat, with "Singh hasn't taken the bait" between them. One quote per beat, and no commentary after the quote.
+- "There's a man on your porch" and "What? I can't do this" sit in the same plane-monologue beat. Both match item 30. Rule 5 still asks for one quote in that beat.
+- "A24 released *Primetime* on Sept. 25, with Pattinson as Hansen and Lance Oppenheim directing, and it took in $18.8 million in its first Friday-to-Sunday run, by Box Office Mojo's count. Now the Gotham Film & Media Institute has nominated Singh for Best Adapted Screenplay at the 36th Gotham Awards on Nov. 30, where the film is also up for Best Feature and Skyler Gisondo for Outstanding Supporting Performance." The facts match items 6, 14, 18, 1, 2, 3, and 4. $18.8 million is Mojo's settled Friday–Sunday $18,830,798, rounded. Content Editor rule 9: the paragraph still reads as a release-and-nominations report.
+
+No other sentence contradicted the packet. The body opens on the bathroom. The dek is not a date. No "it's not X, it's Y." No credit-by-credit career list.
+
+Still open in the packet and not used as settled facts here: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's co-writer line (item 10); Variety's $19.2 million opening versus Mojo's $18,830,798 (item 19); on-screen executive-producer credit (item 25); the unread *Hindu* interview and Kerala versus Uttar Pradesh (items 38–39).
 
 ## SEO title
 
