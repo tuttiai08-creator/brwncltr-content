@@ -1,6 +1,6 @@
 # bc-20261117-01-ajon-singh-primetime
 
-- status: PLAN_READY_FOR_APPROVAL
+- status: READY_FOR_REVIEW
 - created: 2026-11-17
 - updated: 2026-11-17
 - beat: Film / television
@@ -10,7 +10,7 @@
 - research_path: content/research/bc-20261117-01-20261117.md
 - plan_path: content/state/bc-20261117-01-plan.md
 - draft_path:
-- review_path:
+- review_path: content/ready-for-review/20261117-bc-20261117-01-ajon-singh-primetime.md
 - sensitive: The source article and the film dramatize a real 2006 sting that ended in a death by suicide, and the subject matter is child sexual exploitation. Name that once, with attribution, and do not linger. Do not infer a religion from the writer's name. Do not use ethnicity as the hook.
 - classification: NEW (no per-ID file was on main)
 - source_type: owner-approved candidate; discovery notes in the task were unverified and were re-checked
@@ -48,3 +48,4 @@ Top unresolved items are in the plan and the packet: Bronx / Iowa / Phoenix vers
 
 - 2026-11-17: Preflight against origin/main at `d038508`. `discovery/20261117-approved-three` was not on origin. No canonical file for this ID was on main. The owner approved `bc-20261117-01` in this task and said to base on that discovery branch if it existed, otherwise on main. This plan starts from main. No other candidate was touched. The Sept. 1 production queue does not list this ID and was not edited.
 - 2026-11-17: Research packet and story plan written. Status set to `PLAN_READY_FOR_APPROVAL`. Article not drafted. Nothing published. Nothing merged.
+- 2026-11-17: Owner (Aziz) chose to skip plan approval and go straight to draft. Content Manager draft placed verbatim at `content/ready-for-review/20261117-bc-20261117-01-ajon-singh-primetime.md`. Prose was not edited. Fact-check against the packet is in that file under Facts requiring final verification. Status set to `READY_FOR_REVIEW`. Not publication `APPROVED`. Nothing published. Nothing merged.
