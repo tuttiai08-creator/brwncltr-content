@@ -2,7 +2,7 @@
 
 - status: mixed (2 READY_FOR_REVIEW / 13 DISCOVERED)
 - created: 2026-08-30
-- updated: 2026-09-01
+- updated: 2026-11-17
 - run_type: discovery slate (updated 2026-08-31 after bc-20260830-01 moved to READY_FOR_REVIEW)
 - window: 2026-08-16 to 2026-08-30 (plus named forward dates used only as why-now)
 - geographies: US / Canada / UK diaspora primary; South Asia origin only with clear diaspora or cultural relevance
@@ -744,3 +744,10 @@ Toxic competing Day-5 totals (not a new ID): ETV Bharat live India net **₹209.
 - 2026-09-01: `bc-20260830-02` research packet at content/research/bc-20260830-02-20260901.md; draft at content/drafts/20260901-bc-20260830-02-cycle-of-love.md. Historical 08-30 candidate body for 02 unchanged. Diljit 01 untouched.
 - 2026-09-01: `bc-20260830-02` READY_FOR_REVIEW. Review packet: content/ready-for-review/20260901-bc-20260830-02-cycle-of-love.md. Not APPROVED. Nothing published. Historical 08-30 candidate body for 02 unchanged. Diljit 01 untouched.
 - 2026-09-01: Index current-status for `bc-20260830-02` set to READY_FOR_REVIEW (per-ID file). Historical `## bc-20260830-02-cycle-of-love-theatrical` DISCOVERED body below is unchanged. Duplicate drafts/ article deleted after move to ready-for-review. Packet-boundary quote fix on already-used URLs only. Not APPROVED. Diljit 01 untouched.
+- 2026-11-17: `bc-20260830-02` still READY_FOR_REVIEW (per-ID `content/state/bc-20260830-02-cycle-of-love.md`). In-place rewrite of the review packet after Content Editor comments on merged PR #5. Historical `## bc-20260830-02-cycle-of-love-theatrical` DISCOVERED body below is unchanged. Not APPROVED. Diljit 01 untouched.
+- 2026-11-17: Flow pass (Rule 11) notes on merged PR #5 folded into the same READY_FOR_REVIEW rewrite (`content/ready-for-review/20260901-bc-20260830-02-cycle-of-love.md`). Historical 02 DISCOVERED body unchanged. Not APPROVED. Diljit 01 untouched.
+- 2026-11-17: PR #23 Content Editor verdict Revise applied in place. `bc-20260830-02` still READY_FOR_REVIEW. Historical 02 DISCOVERED body unchanged. Not APPROVED. Diljit 01 untouched.
+- 2026-11-17: Second Revise on PR #23 (lede date, trip regroup, "universal" take). Still READY_FOR_REVIEW. Historical 02 DISCOVERED body unchanged. Not APPROVED. Diljit 01 untouched.
+- 2026-11-17: Third Revise on PR #23 (take rewritten; BBC kicker attributed). Still READY_FOR_REVIEW. Historical 02 DISCOVERED body unchanged. Not APPROVED. Diljit 01 untouched.
+- 2026-11-17: Fourth Revise on PR #23 (pronoun, metaphor, owned take). Still READY_FOR_REVIEW. Historical 02 DISCOVERED body unchanged. Not APPROVED. Diljit 01 untouched. No outreach.
+- 2026-11-17: Parked Revise on PR #23 (two nits). Still READY_FOR_REVIEW. Historical 02 DISCOVERED body unchanged. Not APPROVED. Diljit 01 untouched. No outreach. No further polish.
