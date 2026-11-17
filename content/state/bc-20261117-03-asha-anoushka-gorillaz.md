@@ -1,6 +1,6 @@
 # bc-20261117-03-asha-anoushka-gorillaz
 
-- status: DRAFTING
+- status: READY_FOR_REVIEW
 - created: 2026-11-17
 - updated: 2026-11-17
 - beat: Music
@@ -8,9 +8,9 @@
 - recommendation: pursue
 - blocked_reason:
 - research_path: content/research/bc-20261117-03-20261117.md
-- draft_path: content/ready-for-review/20261117-bc-20261117-03-asha-anoushka-gorillaz-the-mountain.md
-- review_path:
-- plan: Owner, via the Content Editor, skipped the plan gate and supplied a full draft on 2026-11-17. Fact-check did not clear. Not READY_FOR_REVIEW.
+- draft_path: moved to review_path
+- review_path: content/ready-for-review/20261117-bc-20261117-03-asha-anoushka-gorillaz-the-mountain.md
+- plan: Owner, via the Content Editor, skipped the plan gate and supplied the replacement draft on 2026-11-17. Fact-check cleared. Not publication APPROVED.
 - sensitive: Asha Bhosle died 12 April 2026. Do not pick a medical cause (BBC and NME disagree). Do not call "The Shadowy Light" her confirmed final recording. Do not write her or Anoushka Shankar as the Grammy nominees. Do not merge Asha Bhosle with Asha Puthli. Do not flatten playback singing and Hindustani classical into one "Indian feature."
 
 ## Why now
@@ -43,3 +43,4 @@ See the UNRESOLVED list in the research packet. Load-bearing ones: whether any r
 
 - 2026-11-17: Owner approved bc-20261117-03 for research and asked for a research packet, not an article. Branch `discovery/20261117-approved-three` was not on origin. Work started from `main` at `d038508`. Status set to RESEARCHING. No draft. No queue file on main lists this ID, so none was edited.
 - 2026-11-17: Owner, via the Content Editor, supplied a full draft and skipped the plan gate. Draft filed verbatim at `content/ready-for-review/20261117-bc-20261117-03-asha-anoushka-gorillaz-the-mountain.md`. Fact-check against the packet found holds (floor; "from there"; "almost said no"; "all over"; "most of the coverage"; "much more than guests"). Status set to DRAFTING, not READY_FOR_REVIEW. Prose not rewritten. No queue file on main lists this ID.
+- 2026-11-17: Owner supplied a replacement draft. Filed verbatim. Fact-check against the packet cleared. Status set to READY_FOR_REVIEW. Not publication APPROVED. Not merged. No queue file on main lists this ID.
