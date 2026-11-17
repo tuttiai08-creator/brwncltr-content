@@ -80,11 +80,11 @@ Full passages are in `content/research/bc-20261117-02-20261117.md`. This draft a
 
 *Devan Ekambaram recorded her voice first and built "Varuvaaiy" around it. The single is nominated for Best Global Music Performance.*
 
-Years ago, Lakshmi Rangarajan heard a Subramania Bharati song at a concert and liked it so much that she went to the trouble of learning it, and later she taught it to her daughter.
+Years ago, Lakshmi Rangarajan heard a Subramania Bharati song at a concert, liked it enough to learn it, and later taught it to her daughter.
 
 Susha calls that song her mother's "core memory." "She recalled all that while teaching me this particular track," she said, "and I remembered that when Devan asked me to contribute to the album he was working on."
 
-That song is "Varuvaaiy," and on Nov. 16 it earned Devan Ekambaram and Susha a nomination for Best Global Music Performance at the 69th Grammys, in a field that includes Shakira and Rosalía.
+That song is "Varuvaaiy," and on Nov. 16 it earned Devan Ekambaram and Susha a nomination for Best Global Music Performance at the 69th Grammys, in a field that includes Shakira and Rosalía. Winners are named Feb. 7.
 
 ### Not the obvious one
 
@@ -93,6 +93,8 @@ The single was born in June, when Devan was working on a full album of songs by 
 "There are many popular songs of his," she said. "But when Devan said he wanted to do a Bharathiar song, I wanted to find something that wasn't so obvious. This was a song my mother taught me years ago."
 
 The poem is addressed to Krishna, and its opening line is the title three times, then *Kanna*, an affectionate name for Krishna. In Devan's translation, the title asks, *Krishna, won't you come to me?*
+
+"Varuvaaiy" came out as a one-song single on Aug. 12, five days after *Love Language*, her first album of originals, in English and Tamil.
 
 ### Her voice first
 
@@ -106,15 +108,13 @@ He recorded her voice first and built the track around it: his own vocals, Praka
 
 Susha has been learning Carnatic music since she was 5, from her mother and her grandmother, and has been performing professionally since she was about 13.
 
-"Varuvaaiy" came out as a one-song single on Aug. 12, five days after *Love Language*, her first album of originals, in English and Tamil.
-
 ### One song
 
 Devan has chased a Grammy before, spreading three or four songs across categories, until a Grammy winner told him, "Don't be a jack of all trades." So this year he put everything behind one song.
 
 "I never, in a million years, thought that out of 526 submissions, this would somehow make the top five," he said.
 
-On nomination day he was praying at a temple in Chennai when the pings started, 15 congratulations at once. Susha was at a studio shoot with her phone off. "For me, it was just any other day," she said. Voting closes Jan. 7, and winners are named Feb. 7.
+On nomination day he was praying at a temple in Chennai when the pings started, 15 congratulations at once. Susha was at a studio shoot with her phone off. "For me, it was just any other day," she said.
 
 "At the end, she keeps repeating 'Kanna' with different improvisations," he said. "Till today, I cry every time I hear that section."
 ## Verification
@@ -123,9 +123,9 @@ Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. No out
 
 | Draft sentence | Packet | Result |
 | --- | --- | --- |
-| Years ago, Lakshmi Rangarajan heard a Subramania Bharati song at a concert and liked it so much that she went to the trouble of learning it, and later she taught it to her daughter. | §4.1. Susha to The Hindu. Billboard: taught "years ago." | PASS. "And later" joins the same two facts. |
+| Years ago, Lakshmi Rangarajan heard a Subramania Bharati song at a concert, liked it enough to learn it, and later taught it to her daughter. | §4.1. Heard it at a concert, "liked it so much that she had taken the effort to learn it," and taught Susha. | PASS. |
 | Susha calls that song her mother's "core memory." | §4.1. "has a core memory with this particular song." The memory is the song, not the concert. | PASS. Untagged. Outlet: The Hindu. |
-| That song is "Varuvaaiy," and on Nov. 16 it earned Devan Ekambaram and Susha a nomination for Best Global Music Performance at the 69th Grammys, in a field that includes Shakira and Rosalía. | §1.1, §1.2. Both names are the nominee line. Shakira and Rosalía are in the category. | PASS. |
+| That song is "Varuvaaiy," and on Nov. 16 it earned Devan Ekambaram and Susha a nomination for Best Global Music Performance at the 69th Grammys, in a field that includes Shakira and Rosalía. Winners are named Feb. 7. | §1.1, §1.2. Both names are the nominee line. Ceremony Feb. 7, 2027. | PASS. |
 | The single was born in June, when Devan was working on a full album of songs by Bharati, the Tamil poet and freedom fighter, and asked Susha to sing on it. | §3.2. The Hindu. | PASS. |
 | "There are many popular songs of his," she said. "But when Devan said he wanted to do a Bharathiar song, I wanted to find something that wasn't so obvious. This was a song my mother taught me years ago." | §4.1. Same words. | PASS. Untagged. Outlet: Billboard India. |
 | He recorded her voice first and built the track around it: his own vocals, Prakash Sontakke's slide guitar, Anil Srinivasan's piano. | §5. Recorded her voice, then made everything around her singing, and added his vocals and arrangements. Slide guitar and piano: Billboard credit block. | PASS. The raga line is out of the body. The packet does not say the finished track is in Des. |
@@ -141,7 +141,7 @@ Checked 2026-11-17 against `content/research/bc-20261117-02-20261117.md`. No out
 | On nomination day he was praying at a temple in Chennai when the pings started, 15 congratulations at once. | §6.1. "I was praying in a Shivyan temple in Chennai and the minute we got nominated people started pinging me and I got 15 congratulations at once." | PASS. Compression. Does not print "Shivyan." Untagged narrative. Outlet: Hindustan Times. |
 | Susha was at a studio shoot with her phone off. | §6.1. Hindustan Times reporter: studio recording shoot, then she switched the phone on. | PASS. |
 | "For me, it was just any other day," she said. | §6.1. Billboard India. That sentence is intact. | PASS. Untagged. Outlet: Billboard India. |
-| Voting closes Jan. 7, and winners are named Feb. 7. | §1.2. Final round ends Jan. 7, 2027. Ceremony Feb. 7, 2027. The Dec. 10 start is not in this sentence. | PASS. |
+| Winners are named Feb. 7. | §1.2. Ceremony Feb. 7, 2027. The Dec. 10–Jan. 7 voting window is out of the body. | PASS. |
 | "At the end, she keeps repeating 'Kanna' with different improvisations," he said. "Till today, I cry every time I hear that section." | §5. Billboard India. Exact. | PASS. Untagged. Outlet: Billboard India. |
 
 Untagged quotes, by outlet:
