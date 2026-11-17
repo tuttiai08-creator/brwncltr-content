@@ -85,3 +85,4 @@ Current-status (2026-11-17): the sale closed 3 Sep 2026, and seahawks.com now na
 - 2026-09-01: Completeness gate passed. Advanced DRAFTING → READY_FOR_REVIEW. Packet moved (not copied) to content/ready-for-review/20260901-bc-20260901-09-khosla-seahawks.md. Drafts/ copy deleted; content/drafts/.gitkeep left in place. draft_path: moved to review_path. Not APPROVED. Nothing published. Other IDs untouched.
 - 2026-09-03: WordPress draft handoff recorded post_id=12044 status=draft. Editorial status remains READY_FOR_REVIEW. Not APPROVED.
 - 2026-11-17: refresh and rewrite, owner-approved; new packet; replaces PR #7 body; WP draft 12044 will need updating by Publishing Manager after approval
+- 2026-11-17: Editor review on PR #25, Revise, capped at 7 (no original quote). Line edits and a nut paragraph applied in the review draft. Still READY_FOR_REVIEW. Not APPROVED. WordPress not touched.
