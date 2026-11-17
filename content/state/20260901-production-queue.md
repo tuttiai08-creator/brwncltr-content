@@ -21,7 +21,7 @@ IDs **bc-20260901-01 through 05** are taken. This run started at **bc-20260901-0
 | bc-20260901-01 | F-1 duration of status | UNCHANGED. Policy. Suppressed from this culture queue. |
 | bc-20260901-02 | TIFF 2026 named films | UNCHANGED. Existing PURSUE on PR #4. |
 | bc-20260901-05 | Shreya Ghoshal Unstoppable NA | UNCHANGED. WATCH. Opens Fri 4 Sep (promoter claims). |
-| bc-20260901-09 | Khosla / Seahawks | **Already advanced.** Canonical per-ID state is READY_FOR_REVIEW on main. This PR does not own or rewrite that file. Original discovery observations for 09 are preserved in main's per-ID record (Why now / Sources seen / FACT-SIGNAL-INTERPRETATION / Log). Not a fresh DISCOVERED pursue. |
+| bc-20260901-09 | Khosla / Seahawks | **Already advanced.** Current-status 2026-11-17: still READY_FOR_REVIEW after an owner-approved refresh and rewrite. New packet `content/research/bc-20260901-09-20261117.md`. Review body replaces the merged PR #7 text. WP draft 12044 will need updating by Publishing Manager after approval. Original discovery observations stay in the per-ID record. Not a fresh DISCOVERED pursue. |
 | bc-20260901-10 | Naisha *911* | **Already advanced.** Canonical per-ID state is READY_FOR_REVIEW on PR #8 (`cursor/research-20260901-bc-20260901-10-8e07`). Original discovery observations and pursue recommendation are preserved in that per-ID record (Why now / Sources seen / FACT-SIGNAL-INTERPRETATION / Scores / Log). Not a fresh DISCOVERED pursue. |
 
 Politics/immigration did not lead this queue. Example topics from the brief (Punjabi-Mexican California, cricket-as-South-Asian, Sialkot soccer balls) were not used.
@@ -40,7 +40,7 @@ Original discovery run recorded seven IDs (06–12). 09 was discovered here, the
 
 **PURSUE still DISCOVERED on this PR:** 06, 07, 08.
 **WATCH:** 11, 12.
-**Advanced elsewhere (not a live pursue here):** 09 READY_FOR_REVIEW on main; 10 READY_FOR_REVIEW on PR #8.
+**Advanced elsewhere (not a live pursue here):** 09 still READY_FOR_REVIEW (2026-11-17 owner-approved refresh and rewrite; WP draft 12044 not updated here); 10 READY_FOR_REVIEW on PR #8.
 **PASS this run (not IDed):** pure evergreen without a current hook (Merchant Ivory, Waris Hussein *Doctor Who*, Lata/Dre "Addictive", Tarsem, Paldi, Hindu Alley) — `EDITORIAL_BRIEF.md` requires a credible current hook for evergreen on a slate. EXCISE DEPT / Ikky remain UNVERIFIED from prior scan, not promoted.
 
 ## Scoring snapshot (remaining pursue)
@@ -64,3 +64,4 @@ Stop at DISCOVERED for 06, 07, 08, 11, 12. Owner approval (`Approve bc-YYYYMMDD-
 - 2026-09-01: Production-queue discovery run. 7 NEW IDs. 5 pursue / 2 watch. Branch `discovery/20260901-production-queue`.
 - 2026-09-01: Branch updated against current main. Stale DISCOVERED copy of `bc-20260901-09-khosla-seahawks.md` removed from this PR so main's READY_FOR_REVIEW canonical file remains authoritative. 09 moved to Already in motion. 06, 07, 08, 10, 11, 12 left DISCOVERED. No merge of this PR. Nothing published.
 - 2026-09-01: Current-status only: **bc-20260901-10** advanced to READY_FOR_REVIEW on PR #8. Index/Already-in-motion updated. Historical discovery body and pursue recommendation for 10 are not rewritten. 06, 07, 08, 11, 12 left DISCOVERED. 09 left as already advanced on main. No merge of PR #8. Nothing published.
+- 2026-11-17: Current-status only: **bc-20260901-09** refresh and rewrite, owner-approved; new packet; replaces PR #7 body; still READY_FOR_REVIEW. WP draft 12044 will need updating by Publishing Manager after approval. Historical discovery text not rewritten. Nothing published. WordPress not touched.

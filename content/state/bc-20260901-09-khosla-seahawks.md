@@ -7,26 +7,28 @@
 - wordpress_status: draft
 - wordpress_post_id: 12044
 - created: 2026-09-01
-- updated: 2026-09-01
+- updated: 2026-11-17
 - beat: Sports (secondary: money/power as culture, not a business-desk lede)
 - story_type_hypothesis: Feature (ownership / who actually controls the team)
 - recommendation: (owner approved 2026-09-01; completeness gate passed; awaiting human)
 - blocked_reason:
-- research_path: content/research/bc-20260901-09-20260901.md
+- research_path: content/research/bc-20260901-09-20261117.md
 - draft_path: moved to review_path
-- review_path: content/ready-for-review/20260901-bc-20260901-09-khosla-seahawks.md
-- sensitive: wealth/class; do not flatten "Indian NFL owner." Shahid Khan (Jaguars) already exists — this is **not** first South Asian NFL owner. Closing of the sale is **UNVERIFIED** as of this run. Do not invent limited-partner names.
+- review_path: content/ready-for-review/20261117-bc-20260901-09-vinod-khosla-seahawks-owner-steelers-fan-49ers.md
+- sensitive: wealth/class; do not flatten "Indian NFL owner." Shahid Khan (Jaguars) already exists — this is **not** first South Asian NFL owner. Closing of the sale was UNVERIFIED as of 2026-09-01; the 2026-11-17 packet records the close on 3 Sep 2026. Do not invent limited-partner names. The 49ers stake after the deal is still unresolved.
 - classification: NEW
 - likely_format: Feature
 - research_difficulty: MEDIUM
 - confidence: medium
-- selected_angle: Culture feature — NFL owners unanimously approved sale 26 Aug 2026; kickoff 9 Sep; approved-not-closed unless verified; Neeru Khosla as control owner only if Sportico memo (or a stronger primary) still holds; not “first Indian/South Asian NFL owner.”
+- selected_angle: 2026-11-17 refresh — Steelers loyalty progression, from his 1976 Pittsburgh remarks through the Khoslas' first months. Not a first South Asian NFL owner. The 2026-09-01 angle (approved-not-closed; Neeru only via a memo) is superseded by the 3 Sep close and the team's titles.
 
 ## Why now
 
 NFL owners **unanimously approved** the sale on **26 August 2026**. Regular-season kickoff is **Wednesday 9 September 2026** (Seahawks vs Patriots) — eight days. ESPN (26 Aug) said closing *could* happen before kickoff; that is not the same as closed. Culture angle: Neeru Khosla as **control owner** (Sportico citing an NFL club memo), not a "tech billionaire buys a toy" lede.
 
 Discovery record lived on unmerged PR #6 (`discovery/20260901-production-queue`). This file is the canonical per-ID record, copied from that discovery body. PR #6 is not merged and is not a source of live facts.
+
+Current-status (2026-11-17, not a rewrite of the 2026-09-01 notes above): owner-approved refresh and rewrite. The sale closed 3 Sep 2026. The review body is the new draft, from `content/research/bc-20260901-09-20261117.md`. The 1 Sep research packet is kept. Status remains READY_FOR_REVIEW. WordPress draft 12044 was not touched.
 
 ## Sources seen
 
@@ -72,6 +74,8 @@ Discovery-era questions (preserved):
 
 Current-status after 2026-09-01 research: sale still not reported closed; ESPN July also obtained the memo (still not a team-site sentence); family origin on-record is the 1976 / Steelers line only — no Punjab/IIT from their remarks.
 
+Current-status (2026-11-17): the sale closed 3 Sep 2026, and seahawks.com now names Neeru controlling owner. The 49ers 3.1% stake after the deal is still unresolved. Origin details still come only from the family's own remarks. Not a first South Asian NFL owner.
+
 ## Log
 
 - 2026-09-01: DISCOVERED. Recommendation pursue. Production-queue run. Discovery-only. Record originated on unmerged PR #6 (`discovery/20260901-production-queue`).
@@ -80,3 +84,6 @@ Current-status after 2026-09-01 research: sale still not reported closed; ESPN J
 - 2026-09-01: Advanced RESEARCHING → DRAFTING. Draft: content/drafts/20260901-bc-20260901-09-khosla-seahawks.md. Research packet not overwritten. Diljit 01 and Cycle of Love 02 not edited. No ready-for-review yet. No publish.
 - 2026-09-01: Completeness gate passed. Advanced DRAFTING → READY_FOR_REVIEW. Packet moved (not copied) to content/ready-for-review/20260901-bc-20260901-09-khosla-seahawks.md. Drafts/ copy deleted; content/drafts/.gitkeep left in place. draft_path: moved to review_path. Not APPROVED. Nothing published. Other IDs untouched.
 - 2026-09-03: WordPress draft handoff recorded post_id=12044 status=draft. Editorial status remains READY_FOR_REVIEW. Not APPROVED.
+- 2026-11-17: refresh and rewrite, owner-approved; new packet; replaces PR #7 body; WP draft 12044 will need updating by Publishing Manager after approval
+- 2026-11-17: Editor review on PR #25, Revise, capped at 7 (no original quote). Line edits and a nut paragraph applied in the review draft. Still READY_FOR_REVIEW. Not APPROVED. WordPress not touched.
+- 2026-11-17: Editor re-review on PR #25, Revise (parked), still capped at 7. Nut, kicker, Axios clarity, and throwback wording updated. Still READY_FOR_REVIEW. Not APPROVED. WordPress not touched.
