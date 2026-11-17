@@ -97,7 +97,7 @@ The film's source is Luke Dittrich's 2007 *Esquire* story about a sting in Murph
 
 ### The wolfman
 
-India is inside the film, too. Its monster is rooted in a New York Times story Singh read about child disappearances in India, where wolves were the likely explanation but some villagers insisted they had seen a wolfman, and he set it beside a Hansen segment about child slave labor in India.
+The film's monster is rooted in a New York Times story Singh read about child disappearances in India, where wolves were the likely explanation but some villagers insisted they had seen a wolfman. He set it beside a Hansen segment about child slave labor in India.
 
 "So I was like, what if I took these two stories, and I created sort of this mythical background?" he said.
 
@@ -109,19 +109,19 @@ Most of his family is from Mumbai, and he'd like A24 to send him out so he can s
 
 Getting the film made was a fight over what kind of movie it was. For a long time the note was a page-one rewrite, a rise-and-fall story starting with Hansen as a spunky young journalist, when what Singh wanted was *Network*.
 
-Singh has heard that the director Tyler Falbo handed Pattinson the script at a party. On their first Zoom, Singh pitched him Hansen, and Pattinson went silent, The Hollywood Reporter reported, then agreed to produce instead. Later, at Pattinson's house, he started riffing late into the night on what an actor might do with Hansen while Singh typed notes into his iPhone in the bathroom. "The character of Chris Hansen, to me, is like this angel of punishment," Pattinson told him. "He descends down the stairs and deals justice."
+Singh has heard that the director Tyler Falbo handed Pattinson the script at a party. On their first Zoom, Singh pitched him Hansen, and Pattinson went silent, then agreed to produce instead. Later, at Pattinson's house, he started riffing late into the night on what an actor might do with Hansen while Singh typed notes into his iPhone in the bathroom. "The character of Chris Hansen, to me, is like this angel of punishment," Pattinson told him. "He descends down the stairs and deals justice."
 
 Singh rewrote the character in five days, and Pattinson took a weekend with the pages and said yes.
 
 Dan was the part Singh cared about most. "Chris Hansen might be the A-list role of this film, but I thought the Decoy Dan character was its heart," he told *The Cold Magazine*.
 
-Skyler Gisondo, who plays Dan, is nominated at the Gothams too, and when test audiences found the original ending too bleak, it was Gisondo who pitched a new one to Oppenheim over dinner: Dan gets his SAG-AFTRA card. The new ending calls back to him, Singh said: "Are you an actor?"
+Skyler Gisondo, who plays Dan and is nominated at the Gothams too, pitched a new ending to Oppenheim over dinner when test audiences found the original too bleak: Dan gets his SAG-AFTRA card. The new ending calls back to him, Singh said: "Are you an actor?"
 
 ### Nov. 30
 
-The real Hansen is not a fan. Before the release he told the same paper the film was "an insult to the thousands of men and women who work hard every day to protect children from predators." Singh's position is that judging the show isn't his job as a writer, and that the filmmakers have no interest in villainizing Hansen.
+The real Hansen is not a fan. Before the release he called the film "an insult to the thousands of men and women who work hard every day to protect children from predators." Singh's position is that judging the show isn't his job as a writer, and that the filmmakers have no interest in villainizing Hansen.
 
-Daniel Kaluuya read the script and wanted Singh to write with him. In August 2025, Deadline reported that the two were co-writing a Spider-Punk animated feature for Sony Pictures Animation, and in December 2025 that a first draft was in its finishing stages.
+Daniel Kaluuya read the script and wanted Singh to write with him, and by August 2025 the two were co-writing a Spider-Punk animated feature for Sony Pictures Animation, with a first draft in its finishing stages that December.
 
 On Nov. 30, the script producers once wanted rewritten from page one is up for a Gotham.
 
@@ -144,9 +144,9 @@ Untagged lines, by source:
 
 - The Nod: musicality quote (named, item 41); Mumbai and "show love" (item 34); "Are you an actor?" (item 31); angel of punishment (item 29); "What? I can't do this" (item 30); the page-one note and *Network* (item 26).
 - Elle: wolfman origin (item 39); "what if I took these two stories" (item 39); "Oh my god, I love it" (item 43). Elle is not named in the body.
-- *The Hollywood Reporter*: the Zoom (named); Hansen's insult line, "the same paper" (item 33); "wanted Singh to write with him" and "not viable… viable" (item 46).
+- *The Hollywood Reporter*: no longer named in the body. The Zoom silence and the produce-instead turn (item 28); Hansen's insult line, before the release (item 33); "wanted Singh to write with him" and "not viable… viable" (item 46).
 - *The Cold Magazine*: Decoy Dan quote, named (item 11).
-- Deadline: August 2025 co-writing (item 44) and December 2025 finishing stages (item 47).
+- Deadline: no longer named in the body. August 2025 co-writing (item 44) and December 2025 finishing stages (item 47). "That December" in the copy is December 2025.
 
 Elle's "early 1990s" still conflicts with the Sept. 1, 1996 date cited for the *New York Times* wolf-attacks story, which this packet did not open. The draft names neither.
 
