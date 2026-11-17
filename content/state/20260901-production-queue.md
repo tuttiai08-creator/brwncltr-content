@@ -15,7 +15,7 @@ IDs **bc-20260901-01 through 05** are taken. This run started at **bc-20260901-0
 
 | ID | Topic | This run |
 | --- | --- | --- |
-| bc-20260830-01 | Diljit Wembley / Aura | UNCHANGED. READY_FOR_REVIEW on main. Do not edit packet. |
+| bc-20260830-01 | Diljit Wembley / Aura | READY_FOR_REVIEW. 2026-11-17 owner-approved refresh and rewrite; packet `content/research/bc-20260830-01-20261117.md`; review file renamed. |
 | bc-20260830-02 | *Cycle of Love* US theatrical | UNCHANGED as discovery. Owner-approved; research/draft lives on PR #5. Best "write today" film story is **already in production**. |
 | bc-20260830-06 | *The Difficult Bride* Venice→TIFF | UNCHANGED this run. Existing PURSUE. Venice 6 Sep. Not re-IDed. |
 | bc-20260901-01 | F-1 duration of status | UNCHANGED. Policy. Suppressed from this culture queue. |
