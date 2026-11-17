@@ -1,4 +1,4 @@
-# Ajon Singh Rewrote Chris Hansen in Five Days. Pattinson Said Yes.
+# The Bollywood Ear Behind A24's *Primetime*
 
 ## Packet metadata
 
@@ -87,56 +87,59 @@ Ajon Singh got so fixated on *Dhoom* that he taught himself to play "Dhoom Macha
 
 "There's a musicality that exists in Bollywood that I try and emulate in my writing," he told The Nod. "Not the literal singing but the dialogue. It's very rhythmic."
 
-He took that ear to *Primetime*, the A24 film he wrote about Chris Hansen and *To Catch a Predator*, with Robert Pattinson as Hansen and Lance Oppenheim directing. It opened Sept. 25. On Nov. 30, at Cipriani Wall Street, Singh's script is up for Best Adapted Screenplay at the Gotham Awards, in a field that includes Ryusuke Hamaguchi and Rashida Jones.
+He took that ear to *Primetime*, the A24 film he wrote about Chris Hansen and *To Catch a Predator*, with Robert Pattinson as Hansen and Lance Oppenheim directing. On Nov. 30, at Cipriani Wall Street, Singh's script is up for Best Adapted Screenplay at the Gotham Awards, in a field that includes Ryusuke Hamaguchi and Rashida Jones.
 
 ### Two kinds of TV
 
-There was American TV in the house, too. Singh comes from a family of immigrants, and he has described a steady diet of American TV that helped them understand the culture: Oprah, *Dateline*, and the segment *Dateline* became famous for. *To Catch a Predator* was one he'd sneak-watch, along with *Jerry Springer* and *Maury*. He thought Hansen was funny. It took years for him to understand what the show was actually about.
+The Hindi films weren't the only thing on. Singh comes from a family of immigrants, and he has described a steady diet of American TV that helped them understand the culture: Oprah, *Dateline*, and the segment *Dateline* became famous for. *To Catch a Predator* was one he'd sneak-watch, along with *Jerry Springer* and *Maury*. He thought Hansen was funny. It took years for him to understand what the show was actually about.
 
-The film grew out of a magazine story. In September 2007, *Esquire* published Luke Dittrich's "Tonight on Dateline This Man Will Die," about a sting in Murphy, Texas, that ended with the suicide of Bill Conradt, an assistant district attorney. What hooked Singh was the struggling young actor whose big break was playing a 13-year-old boy on the show.
+The film's source is Luke Dittrich's 2007 *Esquire* story about a sting in Murphy, Texas, that ended with the suicide of an assistant district attorney named Bill Conradt. What hooked Singh was the struggling young actor whose big break was playing a 13-year-old boy on the show.
 
 "Chris Hansen might be the A-list role of this film, but I thought the Decoy Dan character was its heart," he told *The Cold Magazine*.
 
-### Page one
+### The wolfman
 
-People kept asking for a different movie. For a long time, Singh said, the note was a page-one rewrite: a rise-and-fall story starting with Hansen as a spunky young journalist. He wanted *Network*.
+India is inside the film, too. Its monster, Elle reported, is rooted in a New York Times story Singh read about child disappearances in India, where wolves were the likely explanation but some villagers insisted they had seen a wolfman. He set it beside a Hansen segment about child slave labor in India.
 
-"In this case, they're on the cusp of primetime, and they're chasing after it relentlessly," he said. "And it's loud, and fun, but there's this crash, and it goes silent."
+"So I was like, what if I took these two stories, and I created sort of this mythical background?" he said.
 
-Singh has heard that the director Tyler Falbo handed Pattinson the script at a party. Pattinson reached out, and on their first Zoom, Singh pitched him Hansen. Pattinson went silent, The Hollywood Reporter reported, and agreed to produce instead.
+India has noticed. Most of his family is from Mumbai, and he'd like A24 to send him out so he can show love to all the people in India who've been reaching out. When he heard Indian news channels had been cutting their own edits of the film, he said, "Oh my god, I love it."
 
-The turn started in Pattinson's bathroom. Singh had come to his house to talk about the film, and late that night Pattinson started riffing on what an actor might do with Hansen while Singh typed notes into his iPhone. "The character of Chris Hansen, to me, is like this angel of punishment," Pattinson told him. "He descends down the stairs and deals justice."
+"There's only a handful of Indian and Indian-American people in this business," he said. "The amount of support I think when people saw that my last name was Singh was like crazy."
+
+### Five days
+
+Getting the film made was a fight over what kind of movie it was. For a long time the note was a page-one rewrite: a rise-and-fall story starting with Hansen as a spunky young journalist. Singh wanted *Network*.
+
+Singh has heard that the director Tyler Falbo handed Pattinson the script at a party. On their first Zoom, Singh pitched him Hansen. Pattinson went silent, The Hollywood Reporter reported, and agreed to produce instead. Later, at Pattinson's house, he started riffing late into the night on what an actor might do with Hansen while Singh typed notes into his iPhone in the bathroom. "The character of Chris Hansen, to me, is like this angel of punishment," Pattinson told him. "He descends down the stairs and deals justice."
 
 Singh rewrote the character in five days. Pattinson took a weekend with the pages and said yes.
 
-### The ending
-
-Skyler Gisondo, who plays Dan, is up for a Gotham too. When test audiences found the original ending too bleak, Gisondo pitched a new one to Oppenheim over dinner: Dan gets his SAG-AFTRA card. The new ending calls back to him, Singh said: "Are you an actor?"
-
-Cut lines didn't always stay cut. Singh kept a Notes app of cut lines, including a monologue Hansen delivers on a plane to Creed Bratton's character. Oppenheim asked about it and handed it to Pattinson, whose first reaction, Singh said, was "What? I can't do this." He did it anyway.
-
-### India, in the margins
-
-Part of the film's mythology came from much closer to home. Its monster, Elle reported, is rooted in a New York Times story Singh read about child disappearances in India in the early 1990s, where wolves were the likely explanation but some villagers insisted they had seen a wolfman. He set it beside a Hansen segment about child slave labor in India.
-
-"So I was like, what if I took these two stories, and I created sort of this mythical background?" he told Elle.
-
-Most of his family is from Mumbai, he told The Nod, and he'd like A24 to send him out so he can show love to all the people in India who've been reaching out. When Elle told him Indian news channels had been cutting their own edits of the film, he said, "Oh my god, I love it."
+Skyler Gisondo, who plays Dan, is nominated at the Gothams too. When test audiences found the original ending too bleak, Gisondo pitched a new one to Oppenheim over dinner: Dan gets his SAG-AFTRA card. The new ending calls back to him, Singh said: "Are you an actor?"
 
 ### Nov. 30
 
-The real Hansen is not a fan. Before the release he told THR the film was "an insult to the thousands of men and women who work hard every day to protect children from predators." Singh's position is that judging the show isn't his job as a writer, and that the filmmakers have no interest in villainizing Hansen.
+The real Hansen is not a fan. Before the release he called the film "an insult to the thousands of men and women who work hard every day to protect children from predators." Singh's position is that judging the show isn't his job as a writer, and that the filmmakers have no interest in villainizing Hansen.
 
-Daniel Kaluuya read the script and wanted Singh to write with him, THR reported. In August 2025, Deadline reported that the two were co-writing a Spider-Punk animated feature for Sony Pictures Animation, and last December that a first draft was in its finishing stages.
+Daniel Kaluuya read the script and wanted Singh to write with him. In August 2025, Deadline reported that the two were co-writing a Spider-Punk animated feature for Sony Pictures Animation, and last December that a first draft was in its finishing stages.
 
-On Nov. 30, the script that producers kept telling him to start over from page one is up for a Gotham.
+On Nov. 30, the script nobody wanted to make his way is up for a Gotham.
 
-"I've basically gone from being not viable in the marketplace to being viable in the marketplace," he told THR. "And I haven't really changed all that much."
+"I've basically gone from being not viable in the marketplace to being viable in the marketplace," he said. "And I haven't really changed all that much."
+
 ## Facts requiring final verification
 
-Run 5 revision filed verbatim. Sentence check against the packet on 2026-11-17: clear. The five prior flags are fixed in the copy: no "growing up" on the *Dhoom* fixation; the bathroom is where the turn started, not where Pattinson said yes; "child slave labor" keeps his Elle wording; the Mumbai line and the "send me out / show love" line are separate; Spider-Punk is dated to Deadline's August 2025 co-writing report and the December 2025 first-draft update, and the "wanted Singh to write with him" clause is attributed to THR.
+Restructured draft filed verbatim. Sentence check against the packet on 2026-11-17: clear. Each outlet is named once. Later quotes are "he said." They belong to a source named in the piece:
 
-Still open in the packet and not used as settled facts here: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's co-writer line (item 10); Variety's $19.2 million opening versus Mojo's $18,830,798 (item 19; no dollar figure in this draft); on-screen executive-producer credit (item 25); the unread *Hindu* interview and the Kerala versus Uttar Pradesh conflict (item 39; the draft names no state).
+- The Nod (named on the musicality quote): Mumbai and "show love" (item 34); "Are you an actor?" (item 31); the angel-of-punishment line, as Singh's account of what Pattinson told him (item 29); the plane line "What? I can't do this" (item 30); the page-one note and "He wanted *Network*" (item 26).
+- Elle (named on the monster): the wolfman origin, with no state and no decade (item 39); "what if I took these two stories" (item 39); "Oh my god, I love it" (item 43); "There's only a handful of Indian and Indian-American people in this business" (item 37).
+- *The Hollywood Reporter* (named on the Zoom): Hansen's "insult" line, before the release (item 33); "wanted Singh to write with him" (item 46); "not viable… viable" (item 46); the bathroom notes and the weekend yes (item 29).
+- *The Cold Magazine* (named on the Decoy Dan quote): that quote only (item 11).
+- Deadline (named on Spider-Punk): August 2025 co-writing report (item 44) and December 2025 "finishing stages" of a first draft (item 47). "Last December" from this draft's date is December 2025.
+
+The monster sentence drops Elle's "early 1990s." Item 39 records that phrase and says the *Times* story was not opened here. The Content Editor's re-score cites a *New York Times* wolf-attacks story dated Sept. 1, 1996. Those two dates conflict. The draft names neither a decade nor an Indian state. The A24 cue title "India 1996" (item 39) is not a confirmation of the *Times* date.
+
+Still open and not used as settled facts: Bronx / Iowa / Phoenix versus THR's "southern California" (items 35–36); Elle's co-writer line (item 10); Variety's $19.2 million versus Mojo's $18,830,798 (item 19; no dollar figure in this draft); on-screen executive-producer credit (item 25).
 
 ## SEO title
 
@@ -169,9 +172,9 @@ Ajon Singh, Primetime, Robert Pattinson, Lance Oppenheim, Chris Hansen, A24, Got
 
 ## Social captions
 
-- Instagram/feed: Ajon Singh rewrote Chris Hansen in five days, and Robert Pattinson said yes. *Primetime* is his A24 script, from Luke Dittrich's *Esquire* article, and Singh is up for Best Adapted Screenplay at the Gothams on Nov. 30.
-- X/Twitter-length: Ajon Singh rewrote Chris Hansen in five days. Pattinson said yes. *Primetime* is nominated for Best Adapted Screenplay at the Gothams on Nov. 30.
-- Optional newsletter blurb: The memes are Pattinson as Chris Hansen. The screenplay nomination is Ajon Singh, who rewrote the character in five days after Pattinson called him an angel of punishment.
+- Instagram/feed: Ajon Singh writes dialogue with a Bollywood rhythm. He taught himself "Dhoom Machale" on the piano. His debut screenplay, *Primetime*, is up for a Gotham Award on Nov. 30.
+- X/Twitter-length: Ajon Singh writes with a Bollywood rhythm. *Primetime*, his Chris Hansen script, is up for a Gotham on Nov. 30.
+- Optional newsletter blurb: The ear behind A24's *Primetime* is Bollywood dialogue. Ajon Singh is up for Best Adapted Screenplay at the Gothams on Nov. 30.
 
 ## Featured-image concept
 
