@@ -129,10 +129,9 @@ The real Hansen is not a fan. Before the release he told THR the film was "an in
 
 Daniel Kaluuya read the script and wanted Singh to write with him, THR reported. In August 2025, Deadline reported that the two were co-writing a Spider-Punk animated feature for Sony Pictures Animation, and last December that a first draft was in its finishing stages.
 
-On Nov. 30, the script producers kept telling him to start over from page one is up for a Gotham.
+On Nov. 30, the script that producers kept telling him to start over from page one is up for a Gotham.
 
 "I've basically gone from being not viable in the marketplace to being viable in the marketplace," he told THR. "And I haven't really changed all that much."
-
 ## Facts requiring final verification
 
 Run 5 revision filed verbatim. Sentence check against the packet on 2026-11-17: clear. The five prior flags are fixed in the copy: no "growing up" on the *Dhoom* fixation; the bathroom is where the turn started, not where Pattinson said yes; "child slave labor" keeps his Elle wording; the Mumbai line and the "send me out / show love" line are separate; Spider-Punk is dated to Deadline's August 2025 co-writing report and the December 2025 first-draft update, and the "wanted Singh to write with him" clause is attributed to THR.
