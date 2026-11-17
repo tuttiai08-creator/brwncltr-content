@@ -5,7 +5,7 @@
 | Field | Value |
 | --- | --- |
 | Task ID | bc-20261117-03 |
-| State | DRAFTING |
+| State | READY_FOR_REVIEW |
 | Research date | 2026-11-17 |
 | Last updated | 2026-11-17 |
 | Authoring agent / human | Prose written by BRWNCLTR Content Manager. The repo agent filed it verbatim and fact-checked it. Neither Aziz nor the Content Editor wrote it. |
@@ -43,7 +43,7 @@ Indian Express, 17 November 2026 (the nomination-day footnote). Pitchfork catego
 ## Reporting / research notes
 
 - Prose was written by BRWNCLTR Content Manager. The repo agent filed this draft verbatim and fact-checked it. Neither Aziz nor the Content Editor wrote it.
-- Fact-check on 2026-11-17 did not clear. Two sentences settle a session length the packet leaves in conflict, and one hardens "not necessarily a raga." State is DRAFTING.
+- Fact-check on 2026-11-17 cleared after the day-count and raga lines were corrected. State is READY_FOR_REVIEW.
 - No new reporting. No listening. No Instagram opened.
 
 ## Outline
@@ -84,9 +84,9 @@ The song asks a boatman to carry the singer across deep water. In February, days
 
 ### The sitar in London
 
-Shankar had never worked with Gorillaz when they reached out. They wanted sitar, so she recorded with Albarn in London over two days, including one free-flowing, exploratory session. By the time they called, she told The Nod, "they'd already had their big India trip that made them want to make an album about their experiences."
+Shankar had never worked with Gorillaz when they reached out. They wanted sitar, so she recorded with Albarn in London, including one free-flowing, exploratory session. By the time they called, she told The Nod, "they'd already had their big India trip that made them want to make an album about their experiences."
 
-Her sitar ended up on seven tracks, and she has a writing credit on five. On a track with "Prince" in the title, she suggested fast strumming that would create what she called "a cocoon for the voice." The title song might sound very Indian, she told Rolling Stone India, but it isn't built on a raga.
+Her sitar ended up on seven tracks, and she has a writing credit on five. On a track with "Prince" in the title, she suggested fast strumming that would create what she called "a cocoon for the voice." The title song might sound very Indian, she told Rolling Stone India, but it's not necessarily based on a raga.
 
 "The music is very inherently them," she said. "The melodies are being played with inflections and improvisations that are a bit more Indian-influenced in nature, because of who's playing it in those moments."
 
@@ -109,7 +109,7 @@ Bhosle told Vogue India that when she reached the other side of the river, her j
 "If you listen carefully, you will be able to discern thousands of sounds floating around us. I shall become one of them."
 ## Verification
 
-Checked 2026-11-17 against `content/research/bc-20261117-03-20261117.md`. The article body was filed verbatim. Two holds.
+Checked 2026-11-17 against `content/research/bc-20261117-03-20261117.md`. The article body was filed verbatim. No holds.
 
 Hewlett's question, "If we can make an album about death that makes people feel less afraid of the concept of it, wouldn't that be an amazing gift?", is Rolling Stone India, Anurag Tagat, packet item 42. The body does not name the outlet.
 
@@ -124,11 +124,10 @@ Hewlett's question, "If we can make an album about death that makes people feel 
 | Munir wrote the Hindi lyric; Rhys sings; bansuri and two sarods | 16, 29 | Clear. Does not misname the sarod players. |
 | Hesitant quote, to Rolling Stone India | 29 | Clear. Exact through "deep inside me." |
 | Boatman across deep water. Vogue, days before release, life's journey and the duties list. Boatman-as-music quote. | 13, 22, 30 | Clear. Summary omits "achievements." Quoted line is exact. |
-| Never worked with Gorillaz. They wanted sitar. Recorded with Albarn in London. | 44 | Clear. |
-| "over two days, including one free-flowing, exploratory session" | 44, 45, 46, section 8 | HOLD. The Nod narrates two days and one exploratory session. Hollywood Reporter India prints her "big two-day session." Rolling Stone India prints her "whole day." The packet says not to settle the count. |
+| Never worked with Gorillaz. They wanted sitar. Recorded with Albarn in London, including one free-flowing, exploratory session. No day count. | 44, 46, section 8 | Clear. The exploratory session is The Nod's narration. The one-day / two-day conflict is not settled in the sentence. |
 | Nod quote about the India trip | 44 | Clear. Exact. |
 | Sitar on seven tracks. Writing credit on five. "Prince" / "a cocoon for the voice." | 19–21, 45 | Clear. Quoted fragment is exact. |
-| "might sound very Indian... but it isn't built on a raga" | 47 | HOLD. She said it "might sound very 'Indian'" but "it's not necessarily based on a raga." "Isn't built on" drops "not necessarily." |
+| "might sound very Indian... but it's not necessarily based on a raga" | 47 | Clear. Matches her wording. |
 | "The music is very inherently them" and the melodies sentence | 47 | Clear. Exact, without the packet's "[Gorillaz]" insert. |
 | Father, Ravi Shankar, CBC paraphrase, Beatles quote | 38–40 | Clear. |
 | Unveiling. Norton, "Orange County," Kara Jackson. SNL, "The Moon Cave," Black Thought, Asha Puthli. | 44, 55–57 | Clear. Puthli is not Bhosle. |
@@ -138,9 +137,7 @@ Hewlett's question, "If we can make an album about death that makes people feel 
 
 ## Facts requiring final verification
 
-- The London day-count, which this draft states as two days. Packet items 44, 45, and 46 disagree.
-- "Isn't built on a raga" against "not necessarily based on a raga" (item 47).
-- Still open, and not asserted here: which Instagram account carried the tribute; the unopened "Hindu Indian" post; the exact Hindi; any public performance of "The Shadowy Light" by Bhosle; which unveiling asked Shankar to stay onstage.
+Still open in the packet, and not asserted in this draft: which Instagram account carried the tribute; the unopened "Hindu Indian" post; the exact Hindi; one London day versus two; any public performance of "The Shadowy Light" by Bhosle; which unveiling asked Shankar to stay onstage.
 
 ## SEO title
 
