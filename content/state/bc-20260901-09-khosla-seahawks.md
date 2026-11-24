@@ -7,7 +7,7 @@
 - wordpress_status: draft
 - wordpress_post_id: 12044
 - created: 2026-09-01
-- updated: 2026-11-17
+- updated: 2026-11-24
 - beat: Sports (secondary: money/power as culture, not a business-desk lede)
 - story_type_hypothesis: Feature (ownership / who actually controls the team)
 - recommendation: (owner approved 2026-09-01; completeness gate passed; awaiting human)
@@ -87,3 +87,4 @@ Current-status (2026-11-17): the sale closed 3 Sep 2026, and seahawks.com now na
 - 2026-11-17: refresh and rewrite, owner-approved; new packet; replaces PR #7 body; WP draft 12044 will need updating by Publishing Manager after approval
 - 2026-11-17: Editor review on PR #25, Revise, capped at 7 (no original quote). Line edits and a nut paragraph applied in the review draft. Still READY_FOR_REVIEW. Not APPROVED. WordPress not touched.
 - 2026-11-17: Editor re-review on PR #25, Revise (parked), still capped at 7. Nut, kicker, Axios clarity, and throwback wording updated. Still READY_FOR_REVIEW. Not APPROVED. WordPress not touched.
+- 2026-11-24: Owner rewrite of the review body, with the two wording changes (2006 sentence; Sun sentence subject). Verification remapped to the new body. Status remains READY_FOR_REVIEW. Not APPROVED. WordPress not touched.
