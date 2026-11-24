@@ -82,6 +82,8 @@ Every fact and quote in the copy has to be in the research packet. Verification,
 
 Interpretation has to read as ours. Never put "in his telling," "he says" or "she says" in front of a line the subject didn't actually say. Before: "In his telling, the bike was the easy part." After: "Next to that classroom, the bike was the easy part."
 
+Background is fair game from any source we can cite: where they were born, where they studied, how they got to the U.S., how they made their money. It doesn't have to come from the subject's own words. An immigrant-to-fortune arc is fine when it's told with specifics, and so is a comparison to another South Asian figure when the parallel is real (Vinod Khosla and Shahid Khan as NFL owners). Still out: "first South Asian" claims we can't back, and any framing that turns the piece into a representation win. (Aziz, Nov 24 2026.)
+
 ## The publisher test
 
 Answer each question yes or no. A no on 1, 3, 4 or 6 is fatal, and the draft goes back.
