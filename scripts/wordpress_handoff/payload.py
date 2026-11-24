@@ -13,6 +13,37 @@ from .packet import ArticlePacket
 FORBIDDEN_STATUSES = frozenset(
     {"publish", "future", "private", "pending", "public"}
 )
+ELEMENTOR_META_KEYS = (
+    "_elementor_edit_mode",
+    "_elementor_data",
+    "_elementor_template_type",
+)
+
+
+def reject_elementor_fields(payload: dict[str, Any]) -> None:
+    """Fail if a payload would set Elementor editor meta. Content stays Gutenberg/HTML."""
+    found = _elementor_keys(payload)
+    if found:
+        names = ", ".join(found)
+        raise HandoffError(
+            "Refusing to set Elementor fields "
+            f"({names}). Draft handoff does not set _elementor_edit_mode, "
+            "_elementor_data, or _elementor_template_type."
+        )
+
+
+def _elementor_keys(value: Any, found: list[str] | None = None) -> list[str]:
+    if found is None:
+        found = []
+    if isinstance(value, dict):
+        for key, item in value.items():
+            if key in ELEMENTOR_META_KEYS and key not in found:
+                found.append(key)
+            _elementor_keys(item, found)
+    elif isinstance(value, list):
+        for item in value:
+            _elementor_keys(item, found)
+    return found
 
 
 def build_payload(
@@ -51,4 +82,5 @@ def build_payload(
         payload["categories"] = categories
     if tags:
         payload["tags"] = tags
+    reject_elementor_fields(payload)
     return payload

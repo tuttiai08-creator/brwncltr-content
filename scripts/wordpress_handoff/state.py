@@ -97,6 +97,20 @@ def require_no_existing_handoff(state: TaskState) -> None:
         raise HandoffError("WORDPRESS DRAFT ALREADY EXISTS")
 
 
+def require_existing_post_id(state: TaskState) -> int:
+    raw = state.wordpress_post_id
+    if not raw:
+        raise HandoffError(
+            "Refusing update: candidate state has no wordpress_post_id. "
+            "This mode updates an existing draft and will not create a post."
+        )
+    if not raw.isdigit() or int(raw) <= 0:
+        raise HandoffError(
+            f"Refusing update: wordpress_post_id {raw!r} is not a positive integer."
+        )
+    return int(raw)
+
+
 def resolve_article_path(repo_root: Path, state: TaskState) -> Path:
     relative = state.review_path
     if not relative:
@@ -124,9 +138,12 @@ def write_cms_handoff(
     wp_status: str,
     edit_url: str,
     handed_off_at: str | None = None,
+    action: str = "create",
 ) -> str:
     if wp_status != "draft":
         raise HandoffError("Refusing to write back a non-draft WordPress status.")
+    if action not in {"create", "update"}:
+        raise HandoffError(f"Unknown CMS handoff action {action!r}.")
     if state.status == FORBIDDEN_EDITORIAL_WRITE:
         raise HandoffError("Refusing to touch an APPROVED state file.")
     stamp = handed_off_at or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -137,10 +154,16 @@ def write_cms_handoff(
     new_text = _upsert_field(new_text, "wordpress_handoff_at", stamp)
     if edit_url:
         new_text = _upsert_field(new_text, "wordpress_edit_url", edit_url)
-    log_line = (
-        f"- {today}: WordPress draft handoff recorded post_id={post_id} "
-        f"status=draft. Editorial status remains {state.status}. Not APPROVED."
-    )
+    if action == "update":
+        log_line = (
+            f"- {today}: WordPress draft updated in place post_id={post_id} "
+            f"status=draft. Editorial status remains {state.status}. Not APPROVED."
+        )
+    else:
+        log_line = (
+            f"- {today}: WordPress draft handoff recorded post_id={post_id} "
+            f"status=draft. Editorial status remains {state.status}. Not APPROVED."
+        )
     new_text = _append_log(new_text, log_line)
     written_status = STATUS_RE.search(new_text)
     if not written_status or written_status.group(1) != state.status:

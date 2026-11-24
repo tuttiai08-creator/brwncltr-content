@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Create a WordPress draft from one READY_FOR_REVIEW candidate. Never publishes."""
+"""Create or update a WordPress draft from one READY_FOR_REVIEW candidate.
+
+Never publishes. `--update` rewrites the recorded draft in place.
+"""
 
 from __future__ import annotations
 
