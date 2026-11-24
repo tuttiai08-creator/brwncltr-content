@@ -16,7 +16,15 @@ BRWNCLTR is the Complex magazine of South Asian culture. Our own "Who Is Maneesh
 
 The prose has to sound like a sharp culture writer talking to a friend, so it's confident, specific and funny when the joke is earned. It never sounds like a report, a fact-check memo or a press release. We keep identity framing out: no "as a South Asian," no "representation matters," and no quote whose only point is representation. The lens shows through specifics, like the Hindi film on at home or the Toronto crowd.
 
+**No industry-wide claims.** Keep critique to the specific show or work and source it to reviews or recaps. This is the same ban as representation framing.
+- Before: "Hollywood keeps casting her as the boss and then doesn't write the boss."
+- After: "Lucky had a whole show built around her, and Quinn gets the title and a lot less of the script."
+
 **Let the fact land the joke.** If a detail is funny or pointed, state it plainly and stop. Don't add a line that explains why it's funny or what it means. Before: "That's a tough sell in Seattle, where fans still haven't forgiven Pittsburgh." After: "In Seattle, Pittsburgh is still the team that beat the Seahawks in their first Super Bowl." Same with quotes: let an exchange like Khosla's "Learning!" land on its own. Why: explaining the joke reads like a bot hedging; readers get it. (Aziz, Nov 24 2026.)
+
+**No explaining bridges.** Cut sentences that tell the reader what to think about the fact just given.
+- Before: "You can see why the actor caught his attention."
+- After: the fact alone. Cut the same way: "which is precisely why it fits," "The business behind the zero mattered," "It was a long one."
 
 ## The rules
 
@@ -27,6 +35,10 @@ The prose has to sound like a sharp culture writer talking to a friend, so it's 
 **2. Open on a person or a moment, not dates or logistics.** The first line puts the reader in a room with someone.
 - Before: "Today is Tuesday 1 September 2026. On 7 August, Apple's catalog dated a three-track object by Naisha..."
 - After: "Skrillex is on the credits and Ty Dolla $ign is on the first track, but Naisha wants one thing clear about *911*: 'It feels completely mine.'"
+
+**Open on the act.** When the news is defiance, the act leads and the order or rule comes second.
+- Before: "Diljit was told not to sing Patiala Peg."
+- After: "Diljit opened with Case."
 
 **3. Short attribution clauses, each outlet named once.** Say "he told The Nod" and keep moving, and leave the rest of the sourcing to the verification section.
 - Before: "Singh asked him to play Hansen, and Pattinson, according to THR, went quiet and said the role wasn't for him."
@@ -78,17 +90,33 @@ Cut these on sight. They come from our unslop baseline.
 - Filler such as "it's worth noting," "in today's age," "only time will tell" and "in conclusion," and generic wrap-ups or morals.
 - Curly quotes, decorative emoji, title-case subheads and bold on every name.
 
+**Straight quotes and hyphens in the markdown source.** No curly quotes or en dashes.
+- Before: curly quotes around "Diljit opened with Case," and an en dash in the sentence.
+- After: "Diljit opened with Case" - the act.
+
 ## Structure
 
 The lede is one to three paragraphs that put us with a person in a moment and get the best quote near the top. The nut paragraph follows, saying why this matters now and what our take is. The spine is the angle from rule 10, and every section hangs off it, so résumé material shows up only when it explains the present. Subheads are short magazine section labels in sentence case, never puns or packet shorthand like "Next." The ending lands on an image, a quote or a concrete date, never a summary or a moral.
 
 **Each paragraph picks up from the one before.** Write a feature that flows, not a stack of beats under subheads. Use subheads sparingly, only for a real shift in time or place, never to hold up a thin paragraph. No parallel setups like "X was where... Y was where...". Give a casual reader the stakes in the first paragraph, and end on a picture (a scene, an image, the parade) rather than on a point or a summary. Why: beats under subheads read choppy and robotic; Aziz's Khosla rewrite showed the flowing version reads like a magazine. (Aziz, Nov 24 2026.)
 
+**No echo kicker.** The last line must not restate the headline, lede or nut. End on a concrete image or the subject's own line.
+- Before: "Then the part he leaves behind has to turn on and go to work."
+- After: end on a dated fact or a quote from the subject.
+
 **Background reads as story, not a resume.** Fold birthplace, schooling, moves and money into scenes and turns in the story, in the order they matter, not a list of credentials up top. Before: "Raman was born in Thrissur, studied at Harvard and MIT, and worked in Delhi before moving to Los Angeles." After: the Chennai toilet survey first, then a flashback to the Kerala-born kid who moved to Lafayette at 6, when it explains why she does this work. Why: a resume run is the fastest way to lose a reader. (Aziz, Nov 24 2026.)
 
 ## Sourcing and facts
 
 Every fact and quote in the copy has to be in the research packet. Verification, conflicting reports and corrections of other outlets all go in the file's verification section, never in the prose. A doubt about a fact gets one clean sentence in the copy, once. We never claim an original interview that didn't happen, and we never write "she told BRWNCLTR" or "she told me" unless we talked to her.
+
+**No source tags in prose and no tracking params.** Never put an outlet name or link after a paragraph, and never use utm_source or any tracking query string. Links go in the verification section only. Attribute in prose only when the reader needs to know who said it.
+- Before: an outlet name, or a link with utm_source, after the paragraph.
+- After: "he told GQ."
+
+**Outside-AI rewrites are research input only.** A ChatGPT rewrite can be research input. Keep the spine if it's good, but none of the sentences, and re-verify every fact against the packet.
+- Before: a ChatGPT rewrite pasted in as the draft.
+- After: the spine stays, the sentences are ours, and every fact is checked against the packet.
 
 Interpretation has to read as ours. Never put "in his telling," "he says" or "she says" in front of a line the subject didn't actually say. Before: "In his telling, the bike was the easy part." After: "Next to that classroom, the bike was the easy part."
 
