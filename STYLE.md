@@ -2,6 +2,10 @@
 
 Every BRWNCLTR draft gets written, fact-checked and scored against this file. It sits on top of `style/VOICE.md` and `VOICE_LESSONS.md`, and where they disagree, this file wins.
 
+## How this guide changes
+
+Every correction Aziz makes becomes a rule here with its reason. If a rule makes the writing worse, flag it to the editor instead of following it.
+
 ## Audience
 
 We write for South Asian Millennials and Gen Z in the US, Canada and the UK. They already know the scene, so we never explain the culture to them or remind them the subject is brown. They're here because we found the story first and tell it better.
@@ -11,6 +15,8 @@ We write for South Asian Millennials and Gen Z in the US, Canada and the UK. The
 BRWNCLTR is the Complex magazine of South Asian culture. Our own "Who Is Maneesh?" is the house benchmark, and Complex and Rolling Stone India cover stories set the register. Before a draft ships, ask whether CNN or Vogue would post it as is. If not, it isn't done.
 
 The prose has to sound like a sharp culture writer talking to a friend, so it's confident, specific and funny when the joke is earned. It never sounds like a report, a fact-check memo or a press release. We keep identity framing out: no "as a South Asian," no "representation matters," and no quote whose only point is representation. The lens shows through specifics, like the Hindi film on at home or the Toronto crowd.
+
+**Let the fact land the joke.** If a detail is funny or pointed, state it plainly and stop. Don't add a line that explains why it's funny or what it means. Before: "That's a tough sell in Seattle, where fans still haven't forgiven Pittsburgh." After: "In Seattle, Pittsburgh is still the team that beat the Seahawks in their first Super Bowl." Same with quotes: let an exchange like Khosla's "Learning!" land on its own. Why: explaining the joke reads like a bot hedging; readers get it. (Aziz, Nov 24 2026.)
 
 ## The rules
 
@@ -75,6 +81,10 @@ Cut these on sight. They come from our unslop baseline.
 ## Structure
 
 The lede is one to three paragraphs that put us with a person in a moment and get the best quote near the top. The nut paragraph follows, saying why this matters now and what our take is. The spine is the angle from rule 10, and every section hangs off it, so résumé material shows up only when it explains the present. Subheads are short magazine section labels in sentence case, never puns or packet shorthand like "Next." The ending lands on an image, a quote or a concrete date, never a summary or a moral.
+
+**Each paragraph picks up from the one before.** Write a feature that flows, not a stack of beats under subheads. Use subheads sparingly, only for a real shift in time or place, never to hold up a thin paragraph. No parallel setups like "X was where... Y was where...". Give a casual reader the stakes in the first paragraph, and end on a picture (a scene, an image, the parade) rather than on a point or a summary. Why: beats under subheads read choppy and robotic; Aziz's Khosla rewrite showed the flowing version reads like a magazine. (Aziz, Nov 24 2026.)
+
+**Background reads as story, not a resume.** Fold birthplace, schooling, moves and money into scenes and turns in the story, in the order they matter, not a list of credentials up top. Before: "Raman was born in Thrissur, studied at Harvard and MIT, and worked in Delhi before moving to Los Angeles." After: the Chennai toilet survey first, then a flashback to the Kerala-born kid who moved to Lafayette at 6, when it explains why she does this work. Why: a resume run is the fastest way to lose a reader. (Aziz, Nov 24 2026.)
 
 ## Sourcing and facts
 
