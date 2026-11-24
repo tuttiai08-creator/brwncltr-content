@@ -76,13 +76,13 @@ The detour was Robinhood. He studied physics at Stanford, and in 2013 he and Vla
 
 A month before that settlement, Bhatt handed the CEO job to Tenev alone. He stayed a co-founder and stayed on the board, so when the GameStop run hit in January 2021 and Robinhood restricted buying on Jan. 28, it was still his app and his name. Tenev was the one who went before Congress to explain the clearinghouse deposit behind the restriction, and Bhatt wasn't a witness.
 
-In March, he told Ashlee Vance on the Core Memory podcast that he'd started pulling back from the co-CEO job a month or two before GameStop hit. "I just stepped back, but there's no way in the world that I can't not be spending 100% of my time focused on this thing. This is my life's work at this point."
+He'd been out of the co-CEO job for a month or two when GameStop hit, and he went straight back in. In March, he told Ashlee Vance on the Core Memory podcast, "I just stepped back, but there's no way in the world that I can't not be spending 100% of my time focused on this thing. This is my life's work at this point."
 
 He stayed at Robinhood through March 2024, the last stretch as chief creative officer, and he's still on its board. Jan Hammer of Index Ventures, which led Robinhood's first seed round, remembers Bhatt's 2015 wedding speech, when he told the room, only half joking, that his next company after Robinhood would be a space company, then found Hammer in the crowd: "And you will fund it."
 
 Hammer did. Aetherflux came out of stealth in October 2024 with a plan to collect sunlight in orbit and beam the power to Earth, Index led its $50 million Series A, and then the plan turned around: keep the power up there and use it to run AI chips. In May 2026, Aetherflux became Cowboy Space and raised $275 million at a $2 billion valuation, with Index leading again. The catch, Bhatt told TechCrunch, was getting the hardware up, since he couldn't find enough launch capacity to compete with data centers on the ground. "We're standing up our own rocket program," he said.
 
-That rocket is Big Iron, which he unveiled on Oct. 26: a stainless steel vehicle 86 meters tall, with a booster designed to come back for reuse and an upper stage that stays in orbit as the data center, five racks of GPUs and six laser links. Cowboy has filed with the FCC for a constellation of 20,000 satellites, and it's aiming for a first flight in 2028.
+That rocket is Big Iron, which he unveiled on Oct. 26: a stainless steel vehicle 86 meters tall, with a booster designed to come back for reuse and an upper stage that stays in orbit as the data center, carrying five racks of GPUs and six laser links. Cowboy has filed with the FCC for a constellation of 20,000 satellites, and it's aiming for a first flight in 2028.
 
 Until then, the only Cowboy hardware in orbit is Reason-1, still trying to get power down to the ground.
 
