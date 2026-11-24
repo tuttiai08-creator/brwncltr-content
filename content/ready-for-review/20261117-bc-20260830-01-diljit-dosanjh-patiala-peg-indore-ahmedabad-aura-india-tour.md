@@ -1,4 +1,4 @@
-# Diljit Dosanjh Was Told Not to Sing "Patiala Peg." He Sang It.
+# Diljit Dosanjh Was Asked to Drop “Case.” He Opened With It.
 
 ## Packet metadata
 
@@ -7,20 +7,20 @@
 | Task ID | bc-20260830-01-diljit-wembley (refresh and rewrite) |
 | State | READY_FOR_REVIEW |
 | Research date | 2026-11-17 |
-| Last updated | 2026-11-17 |
+| Last updated | 2026-11-24 |
 | Authoring agent / human | BRWNCLTR Content Manager (executor draft for Aziz's review) |
 | Primary beat | Music |
 | Secondary beat (optional) | Diaspora life / India-diaspora politics of culture |
 
 ## Proposed headline
 
-Diljit Dosanjh Was Told Not to Sing "Patiala Peg." He Sang It.
+Diljit Dosanjh Was Asked to Drop “Case.” He Opened With It.
 
-Dek: In Birmingham, three of the songs India wants cut came before the intermission. At home, Indore and Ahmedabad got a letter first.
+Dek: Two years ago, Diljit rewrote lyrics onstage to keep singing them. In Ahmedabad, he opened with a song officials wanted off the setlist and asked why Coldplay could sing about getting drunk in the same stadium.
 
 ## Story type
 
-Feature (dominant), with a news peg: the Indore show on 15 Nov and the Ahmedabad show on 21 Nov.
+Feature (dominant), with a news peg: the Ahmedabad show on 21 November 2026 at Narendra Modi Stadium.
 
 ## Target audience
 
@@ -28,141 +28,100 @@ Punjabi and wider South Asian fans in the UK, Canada and the US who followed the
 
 ## Why now
 
-On Sunday 15 Nov, in Indore, he performed a song that a district child protection officer had told the venue to drop. The police had made dropping it a condition of the show. Ahmedabad's child protection officer has sent police a similar letter, and that show is Saturday 21 Nov at Narendra Modi Stadium.
+On 21 November 2026, at Narendra Modi Stadium in Ahmedabad, Diljit Dosanjh opened with “Case.” Ahmedabad’s district child protection officer had asked police to keep that song off the setlist. Six days earlier, in Indore, police had cleared his show only if four songs, including “Patiala Peg” and “Case,” stayed off. He sang “Patiala Peg” anyway.
 
 ## Central angle
 
-Two months apart, the same catalog played two very differently. In Britain, three of the songs Indian officials now want cut were in the first half. At home, each city negotiates them through letters and police conditions, while lawyers argue over who gets to decide. The gap between the diaspora show and the home show is the story of Diljit's year.
+In 2024 he changed lyrics to keep singing. On 21 November in Ahmedabad he opened with “Case,” a song officials wanted off the setlist, and asked why a Coldplay lyric about feeling drunk was not a problem in the same stadium.
 
 ## Primary sources
 
-- Wembley Stadium event page, "Diljit Dosanjh", 8 Sep 2026. https://www.wembleystadium.com/news/2026/09/08/12/43/Diljit-Dosanjh. Gives "first Punjabi artist to headline Wembley Stadium" and the tour-requested ban on flags and posters. Retrieved 2026-11-17.
-- Live Nation artist page, "Featured Setlist", Utilita Arena Birmingham, 18 Sep 2026. https://www.livenation.com/artist/K8vZ917K9G0/diljit-dosanjh-events. Gives the Birmingham running order: 5 Taara at 2, Case at 3, Patiala Peg at 11, intermission at 19. Retrieved 2026-11-17.
-- diljitdosanjh.com/tour. Lists Ahmedabad, Narendra Modi Stadium, 21 Nov 2026. Retrieved 2026-11-17.
+- Live Nation artist page, “Featured Setlist,” Utilita Arena Birmingham, 18 Sep 2026. https://www.livenation.com/artist/K8vZ917K9G0/diljit-dosanjh-events. “5 Taara” is 2, “Case” is 3, “Patiala Peg” is 11, and the intermission is 19. Retrieved 2026-11-24.
 
 ## Secondary sources
 
-- NDTV, "'Patiala Peg', 3 Other Songs Banned From Diljit Dosanjh's Indore Concert". https://www.ndtv.com/india-news/patiala-peg-3-other-songs-banned-from-diljit-dosanjhs-indore-concert-12297748. Covers the Indore DCPO notice of 6 Nov to the venue, the four songs, the 2019 High Court order and the complainant. Also covers the 2024 Hyderabad and Ahmedabad precedent and the Delhi permission refusal and reversal.
-- PTI via Telegraph India, 17 Nov 2026. https://www.telegraphindia.com/entertainment/diljit-dosanjh-courts-controversy-after-performing-patiala-peg-at-indore-concert-despite-directive/cid/2189811. Names DCPO Rajneesh Sinha and has his quote. Confirms Patiala Peg was performed and covers the Instagram story and the stage remarks quoting Rahat Indori.
-- India Today, Nov 15, "Can police decide what Diljit Dosanjh sings?" https://www.indiatoday.in/india/law-news/story/diljit-dosanjh-concert-song-restrictions-police-powers-legal-test-3039598-2026-11-15. Covers the police condition in Indore, the Ahmedabad referral to police and Lokur's view.
-- India Today (Ahmedabad), Nov 14. https://www.indiatoday.in/cities/ahmedabad/story/diljit-dosanjh-ahmedabad-concert-child-safety-song-stage-curbs-ptag-3038656-2026-11-14. Covers the Ahmedabad DCPO letter, including the "altered or twisted lyrics" line.
-- Indian Express, Ritu Sharma, Nov 14. https://indianexpress.com/article/entertainment/bollywood/no-drugs-alcohol-songs-bandoliers-or-kids-on-stage-gujarats-advisory-to-diljit-dosanjh-10962059/. Covers DCPO Tanvika Parmar's letter to the police commissioner, kids on stage and bandoliers.
-- Billboard India, 16 Nov. https://billboardind.com/diljit-dosanjh-aura-india/. Covers the Delhi crowd of more than 70,000, young fans on stage in Indore and Rahat Indori as Indore-born.
-- BBC, Noor Nanji and Amrit Singh Cheema, 13 Sep. https://www.bbc.co.uk/news/articles/c780zvq7xlvo. Covers the Wembley opener and closer and has the Harry Styles quote.
-- India Today, 14 Sep (Sanson Ki Mala) and BritAsia TV (Wembley; Birmingham, 22 Sep). Covers the Wembley Nusrat tribute and gives a second source for the Birmingham setlist.
-- Pollstar, 15 Sep. Covers Harry Styles' 12-night Wembley run and Diljit closing the season.
-- BBC, Abhishek Dey, 6 Jul; Variety India, 11 Jul. Covers the Satluj takedown in India and then globally, with his live-video quote.
-- New Indian Express, Harpreet Bajwa, 31 Oct. Has the Delhi stage quote "Don't teach Punjabis how to fight battles."
-- NDTV entertainment (Wembley Ahmedabad announcement). https://www.ndtv.com/entertainment/diljit-dosanjh-to-perform-at-narendra-modi-stadium-in-ahmedabad-on-november-21-12040100. Has the Hinglish stage line.
+- Billboard India, “Diljit Dosanjh’s AURA India Tour: A Recap,” 23 Nov 2026. https://billboardind.com/diljit-dosanjh-aura-india/. Ahmedabad opener, Coldplay at the stadium in January 2025, the “drunk and high” line, young fans on stage, the Honolulu wording, the Wembley announcement on 12 September, and “first Punjabi artist to headline and sell out” Wembley. Retrieved 2026-11-24.
+- India Today, “Coldplay using drunk is okay,” Ahmedabad, 21 Nov 2026. https://www.indiatoday.in/entertainment/story/diljit-dosanjh-ahmedabad-narendra-modi-stadium-concert-song-restrictions-coldplay-3044194-2026-11-21. The Coldplay lyric and “They tell me that I have come from abroad. I was born here” are successive quotes from the same address. The page fetch did not show a byline. Retrieved 2026-11-24.
+- Mint, Trisha Bhattacharya, 22 Nov 2026. https://www.livemint.com/entertainment/why-is-diljit-dosanjh-being-questioned-over-his-lyrics-singer-calls-out-double-standards-cites-coldplay-11795340900485.html. Same concert account: Coldplay lyric, then “I was born here. I wasn’t born in Honolulu.” Retrieved 2026-11-24.
+- PTI via Telegraph India, 17 Nov 2026. https://www.telegraphindia.com/entertainment/diljit-dosanjh-courts-controversy-after-performing-patiala-peg-at-indore-concert-despite-directive/cid/2189811. Patiala Peg performed in Indore, and the fan video on his Instagram story. Retrieved 2026-11-24.
+- India Today, “Can police decide what Diljit Dosanjh sings?,” 16 Nov 2026. https://www.indiatoday.in/india/law-news/story/diljit-dosanjh-concert-song-restrictions-police-powers-legal-test-3039598-2026-11-15. Indore’s four-song police condition, and the 2019 order’s limits. Retrieved 2026-11-24.
+- India Today Ahmedabad, 14 Nov 2026. https://www.indiatoday.in/cities/ahmedabad/story/diljit-dosanjh-ahmedabad-concert-child-safety-song-stage-curbs-ptag-3038656-2026-11-14. The Ahmedabad letter, Dharenavar, loud sound, flashing lights, and the song titles. Retrieved 2026-11-24.
+- Indian Express, Ritu Sharma, 14 Nov 2026. https://indianexpress.com/article/entertainment/bollywood/no-drugs-alcohol-songs-bandoliers-or-kids-on-stage-gujarats-advisory-to-diljit-dosanjh-10962059/. Ahmedabad song titles, children, sound, lights, and imitation cartridges. Retrieved 2026-11-24.
+- NDTV, “‘Patiala Peg’, 3 Other Songs Banned From Diljit Dosanjh’s Indore Concert.” https://www.ndtv.com/india-news/patiala-peg-3-other-songs-banned-from-diljit-dosanjhs-indore-concert-12297748. Indore’s four songs, “Case,” Dharenavar, the 2019 order, and the 2024 Hyderabad and Ahmedabad precedent. Retrieved 2026-11-24.
 
 ## Reporting / research notes
 
-- Refreshed from content/research/bc-20260830-01-20261117.md (sections 1-11). No interviews. No outreach. No original quote.
-- No second source was found for "Patiala Peg" in the Wembley set, so the copy names no curbed song at Wembley. The UK contrast uses Birmingham (Live Nation plus BritAsia TV).
-- "London got the full catalog, no conditions" is unsourced and not used.
-- Kids on stage: the copy attaches the restriction to Ahmedabad, where it is in the officer's letter. Indore's notice was songs-only per NDTV and the Statesman, so for Indore the copy reports only that he brought young fans up (Billboard India).
-- Sensitivity: Satluj and Khalra touch the Punjab insurgency, so the copy stays on the film, the takedown and his words. The Delhi threat emails' "pro-Khalistani slogans" are not used. No claim is made about the government's reasons beyond reported facts.
+- Refreshed from content/research/bc-20260830-01-20261117.md, then checked again on 2026-11-24 against the pages listed above. No interviews. No outreach. No original quote.
+- 2026-11-24: Owner rewrite replaced the full draft, with Content Editor and fact-check edits. No original quote.
+- “He sang it anyway” is “Patiala Peg,” which PTI says he performed in Indore. The copy does not say he sang “Case” in Indore.
+- The Coldplay remark and the “come from abroad” remark are successive quotes in the same India Today account of the Ahmedabad address. Mint carries the Coldplay lyric and then the Honolulu line. Billboard India is the source for the Honolulu wording used in the copy.
+- Kids on stage and imitation bullet belts are attached to the Ahmedabad letter, which is where those requests are in the officer’s text. The copy does not say Indore’s notice barred children or clothing.
+- Sensitivity: the copy stays on the songs, the letters, and what he said from the stage. It does not give a reason for the 2019 order beyond the glorification language the court and the officials used.
 
 ## Outline
 
-1. Lede: Indore, Sunday. He sang Patiala Peg; police had made dropping it a condition, and he brought young fans on stage.
-2. Who: Indore DCPO Rajneesh Sinha's letter to the venue, the complainant, the 2019 order aimed at other states, and Sinha's quote after the show.
-3. His stage answer and Rahat Indori.
-4. 2024, with no subhead: Hyderabad lyric swaps and the Ahmedabad dry-state line. The dates are in the paragraph. The Indore kicker is cut.
-5. Nut: Birmingham before the intermission; a letter in one city and a police condition in another.
-6. Wembley: the first Punjabi headliner, the opener, the closer, Sanson Ki Mala, the tour's own flag rule, the Harry Styles quote.
-7. Satluj: pulled in India, then worldwide. Delhi's permission reversal and the stage line.
-8. Landing: the Ahmedabad letter, Lokur, the Wembley announcement line, Saturday's date.
+1. Ahmedabad, 21 November: he opens with “Case” and quotes Coldplay.
+2. Dharenavar, the 2019 order, and why that order does not cover Indore or Ahmedabad.
+3. Indore’s four-song condition, and the Ahmedabad letter on sound, lights, children, and bullet belts.
+4. Hyderabad and Ahmedabad in 2024, when he changed what he sang.
+5. Birmingham’s first half, the Wembley announcement, and “Patiala Peg” in Indore.
+6. “Case” first, young fans on stage, and the line about being born here.
 
 ## Full draft
 
-In Indore on Sunday night, Diljit Dosanjh sang "Patiala Peg," one of four songs he'd been told to drop. The police had cleared the concert at the last minute, on the condition that all four stayed off the setlist, and before the night was over he'd also brought young fans up on stage with him.
+The first song Diljit Dosanjh played at Narendra Modi Stadium on November 21 was one Ahmedabad’s district child protection officer had asked police to keep off the setlist. It was “Case,” a song that had also been flagged in Indore six days earlier. He brought up Coldplay, who’d played the same stadium in January 2025: “When Coldplay sings ‘I’m feeling drunk and high,’ nobody has a problem.” Diljit wanted to know why a lyric like that became a problem when it was his.
 
-The notice came from Indore's district child protection officer, Rajneesh Sinha. On November 6 he wrote to the venue asking it to keep out "Patiala Peg," "5 Taara," "Case" and "Jatt Uthe Fire Karda," acting on a complaint from a Chandigarh professor, Panditrao Dharenavar. The letter cited a 2019 Punjab and Haryana High Court order directed at the police chiefs of Punjab, Haryana and Chandigarh. Indore is in Madhya Pradesh. After the concert, Sinha told PTI he was still waiting to read the order himself: "I have asked the complainant to send me a copy of the order. Only after studying it will it be clear whether it prohibits the performance of any specific song by a particular singer at events such as live concerts."
+The complaints behind both shows came from Panditrao Dharenavar, a Chandigarh professor who had raised similar objections on Diljit’s 2024 tour. He argued that songs he said glorified drinking, drugs or violence could influence children at the concerts. Officials cited a 2019 Punjab and Haryana High Court order directing police chiefs in Punjab, Haryana and Chandigarh to prevent songs that glorify those things from being played at live shows. Indore is in Madhya Pradesh and Ahmedabad is in Gujarat, so the order covers neither city.
 
-Diljit had already answered from the stage. "You can't sing this, you can't sing that. You can't do this, you can't do that," he told the crowd. Then he reached for Rahat Indori and recited his couplet that ends "kisi ke baap ka Hindostan thodi hai," the line about the country not belonging to anybody's father. Later he put a fan video of "Patiala Peg" on his Instagram story.
+In Indore, the child protection officer wrote to the venue, and police made dropping four songs a condition of the concert’s approval. In Ahmedabad, the child protection officer asked the police commissioner to intervene. The letter also raised concerns about children being exposed to loud sound and flashing lights, and asked police to keep children off the stage and imitation bullet belts out of the performance.
 
-Dharenavar has been chasing three of these songs since at least 2024. In November 2024 the Telangana government served a notice on Diljit's Hyderabad show after Dharenavar submitted video, and Diljit worked around it on stage, singing "5 taara hotel ch" instead of "5 taara theke utte" and swapping the "daaru" in "Lemonade" for Coke. A few days later, in Ahmedabad, he left the alcohol songs out entirely and said that if every state went dry like Gujarat, he'd never sing about liquor again.
+Diljit already knew how to work around a notice. In Hyderabad in 2024, he moved the action in “5 Taara” from a liquor shop to a hotel and swapped the daaru in “Lemonade” for Coke. A few days later in Ahmedabad, he left the drinking songs out and told the crowd that if every state went dry like Gujarat, he’d stop singing about liquor. He was already questioning how the rules were applied. That year, he still changed what he sang.
 
-Britain heard those songs differently. Six days after Wembley, at a sold-out arena in Birmingham, "5 Taara" was the second song of the night, "Case" the third and "Patiala Peg" the eleventh, all before the intermission. At home the same catalog arrives with paperwork, a letter in one city and a police condition in another, and lawyers are now arguing over who gets to decide. The diaspora show and the home show have split apart, and Diljit is spending the end of the year walking between them.
+By September 2026, “5 Taara,” “Case” and “Patiala Peg” were all in the first half of his Birmingham show. He’d announced the Ahmedabad date from the Wembley stage on September 12, the first Punjabi artist to headline there. When the tour reached Indore in November, police had cleared it on the condition that four songs, “Patiala Peg” and “Case” among them, stay off the setlist. He sang it anyway, then shared a fan’s video of the performance on his Instagram story.
 
-### What Britain heard
-
-Wembley was the peak. The stadium billed him as the first Punjabi artist to headline it, and on September 12 he opened with a twist on his old catchphrase, "Punjabi Aa Gaye Wembley Oye!" He sang Nusrat Fateh Ali Khan's "Sanson Ki Mala" with phone lights up, and he closed with "Main Hoon Punjab" under fireworks. His own side did set one rule, and it was about the crowd: the tour asked Wembley to keep flags, posters and signs out of the building.
-
-Before the show he told the BBC what the booking meant to him. "It may not mean as much for someone like Harry Styles, as much as it means for us," he said. "He has performed on such stages, but for us, it's very special." Styles had spent the same summer playing a twelve-night run at Wembley, and Diljit got one night, the one that closed the stadium's season.
-
-### The film went first
-
-India's fight with him didn't start in Indore. In July his film *Satluj*, the Jaswant Singh Khalra story that was once titled *Punjab '95*, premiered on ZEE5 and was pulled from the platform in India two days later. By July 11 it was gone from ZEE5 everywhere, so fans abroad lost it too. Diljit had seen the takedown coming. In a live video he said he'd expected a ban once government offices opened on Monday, "but I didn't know it would happen as early as Sunday evening."
-
-The India tour nearly lost its opener too. Delhi Police turned down permission for the show on October 21, citing security concerns and threat inputs, then reversed itself, and on October 30 he walked out at Jawaharlal Nehru Stadium in front of more than 70,000 people. From that stage he answered the people who'd mocked *Satluj*. "Don't teach Punjabis how to fight battles," he told them.
-
-### Saturday in Ahmedabad
-
-Ahmedabad is next, and the paperwork got there first. On November 6 the city's district child protection officer, Tanvika Parmar, wrote to the police commissioner asking him to stop the same kind of songs, keep children off the stage and keep out the bandoliers from the show's promotional material. Her letter says the songs do harm "even with altered or twisted lyrics," which shuts the door he walked through in Hyderabad. Former Supreme Court judge Madan B Lokur told India Today that a child protection officer has no authority to issue directions like these.
-
-Diljit announced this show himself, from the Wembley stage in September. He told London that the biggest stadium is in India: "India mein stadium ho, aur Punjabi udhar na ho, yeh toh phir ho nahi sakta." The show is Saturday, November 21, at Narendra Modi Stadium.
+By the time Diljit got to the stadium he’d promised to play from Wembley, the order of the songs was part of his answer. He put “Case” first. He brought young fans onstage, something the Ahmedabad advisory had asked police to prevent. And when he brought up Coldplay, he also answered critics who, he said, talked about him as if he’d come from abroad. He’d spent the year playing Punjabi music around the world. In Ahmedabad, he put it more plainly. “I was born here,” he told the crowd. “I wasn’t born in Honolulu.”
 
 ## Facts requiring final verification
 
-Each line in the body is listed here with its source in the packet.
+Checked 2026-11-24 against the packet and the pages named below. Plain URLs. No tracking parameters.
 
-1. Indore, Sunday 15 Nov: he sang "Patiala Peg". Sources: PTI/Telegraph; Billboard India (packet 11a).
-2. Police cleared the show "at the last minute" on the condition that all four songs were dropped. India Today says "hours before"; Billboard India says "a day before". The copy uses the packet's neutral phrasing.
-3. He brought young fans on stage in Indore. Source: Billboard India, single source (11a). The copy does not say a kids restriction applied in Indore.
-4. Sinha is Indore's DCPO and wrote to the venue on 6 Nov listing the four songs. Sources: NDTV; PTI/Telegraph (11a).
-5. The complainant in the copy is Chandigarh professor Panditrao Dharenavar. The copy uses that spelling and does not say the songs promote alcohol and violence or set a bad example. Packet 11a: NDTV dates the complaint to 1 Nov; spelling varies by outlet (Panditrao/Punditrao). Indian Express prints "Punditrao."
-6. The 2019 P&H HC order is addressed to police chiefs of Punjab, Haryana and Chandigarh. Source: NDTV (11a).
-7. Instagram story fan video (PTI/Telegraph). "Later" means after the show; no exact time. Sinha's remark is "after the concert" per PTI (dated 16 Nov).
-8. Sinha quote, verbatim. Source: PTI via Telegraph.
-9. Stage remark "You can't sing this, you can't sing that. You can't do this, you can't do that" is PTI's translation in packet 11a. The sentence does not name PTI. The couplet ends on the PTI text "kisi ke baap ka Hindostan thodi hai." "The line about the country not belonging to anybody's father" is our translation of the PTI text in packet section 11a. The copy does not say Rahat Indori was born in Indore.
-10. Birmingham, 18 Sep, sold out: 5 Taara at 2, Case at 3, Patiala Peg at 11, intermission at 19. Sources: Live Nation featured setlist; BritAsia TV 22 Sep (11b). "Six days after Wembley": 12 to 18 Sep.
-11. "Lawyers are now arguing over who gets to decide" is former Supreme Court judge Madan B Lokur and advocate Rachna Tyagi in India Today (packet 11a). The copy says "lawyers" and does not name them. Lokur's paraphrase: a DCPO had no authority to issue such directions. Tyagi said the letter to police was not unlawful. Kaur and Kalra are not in the packet and are not in the copy.
-12. Wembley: venue-stated first Punjabi headliner; the opener line (BBC); Sanson Ki Mala with phone lights (India Today 14 Sep; BritAsia); the "Main Hoon Punjab" closer with fireworks (BBC; BritAsia); the tour-requested no flags/posters/signs rule (Wembley page).
-13. BBC quote, verbatim, trimmed after "very special." Pollstar has Styles' 12-night run and Diljit closing the season.
-14. Satluj: the Jaswant Singh Khalra story, formerly *Punjab '95* (BBC). ZEE5 premiere 3 Jul, pulled in India two days later (BBC 6 Jul), removed globally by 11 Jul (Variety India). 
-15. Satluj quote fragment "but I didn't know it would happen as early as Sunday evening" is from BBC's translation of his live video. The lead-in paraphrases the first half of the same sentence.
-16. Delhi: permission declined 21 Oct by DCP (South) Anant Mittal, citing security concerns and threat inputs, then "reversed itself" with no date (NDTV says a day later; Billboard India says cleared on 24 Oct; packet 11d says write no date). "More than 70,000" is Billboard India and is not named in the sentence. "Don't teach Punjabis how to fight battles" is the New Indian Express translation; Billboard India has "how to fight." NIE is not named in the sentence. "The people who'd mocked Satluj" rests on NIE's "The film you stood on stage and mocked." CJP/Abhijeet Dipke is headlines only and is not used.
-17. 2024 Hyderabad, after the Indore stage answer, with no subhead. "What Britain heard" is the first subhead: "three of these songs" are Case, 5 Taara and Patiala Peg. The notice follows "after Dharenavar submitted video," so the pronoun is not Diljit. Packet 11c (NDTV) says he submitted the video. NDTV names him on that notice, so the opener stays. It says he submitted video, not that he was the Hyderabad "complainant." The lyric clause is the packet's swap, in one clause: "5 taara hotel ch" instead of "5 taara theke utte," and the "daaru" in "Lemonade" swapped for Coke. The Ahmedabad dry-state lines are NDTV's paraphrase, not a quotation. The "sang Patiala Peg anyway" kicker is cut; the lede already says he sang it. The packet does not say whether the Indore lyrics were changed.
-18. Ahmedabad: Parmar's 6 Nov letter to the police commissioner covers songs, kids and bandoliers "as depicted in promotional material" (Indian Express; India Today). The "altered or twisted lyrics" quote is from the letter (India Today/PTI).
-19. Lokur told India Today, in India Today's paraphrase, that a DCPO "had no authority to issue such directions" (packet 11a). The copy uses present tense, "has no authority," for that paraphrase. The copy says "a child protection officer" and does not name Parmar or Sinha. The same India Today explainer covers the Indore police condition and the Ahmedabad referral, and the packet does not say which officer Lokur meant. The copy does not say that in Gujarat it comes down to the police. Section 33 of the Gujarat Police Act is not in the packet.
-20. Wembley-stage Hinglish line (NDTV). The lead-in "India has the biggest stadium" paraphrases his preceding sentence "The biggest stadium is in India- Narendra Modi Stadium" (NDTV). "In the world" was not used.
-21. Saturday 21 Nov, Narendra Modi Stadium (artist site).
-
-Not used: Wembley attendance (92,000 unverified); any curbed song at Wembley; the NOC status in Ahmedabad (Gujarati sources unread).
-
-## Fact-check 2026-11-17
-
-Full draft checked against `content/research/bc-20260830-01-20261117.md`. Prose was not rewritten. Where a line went past the packet, the smallest packet-supported wording is now in the body. The numbered list above is the draft as uploaded; the body wins where they differ.
-
-Body fixes: dropped the alcohol-and-violence gloss on Dharenavar (not in the packet); the 2019 order is now only "directed at the police chiefs" of Punjab, Haryana and Chandigarh; "Case" kept as the packet's name for "Jeeb Vicho Afeem"; PTI attribution on the stage line; Rahat Indori birthplace and the English Hindustan gloss removed (Urdu from PTI is in the packet); "three of those songs," not all four, in Birmingham; "lawyers argue" replaced with Lokur and one advocate in India Today (Kaur and Kalra are not in the packet); "the next" city changed to "another" so Ahmedabad is not given a police condition the packet doesn't record; "the stands" and "the only rule" cut; Satluj "disappeared" changed to "pulled," and the overseas-fans claim replaced with ZEE5 Global's statement; BBC named on the Satluj translation; Billboard India named on the 70,000; 2024 Hyderabad tied to submitted video, three songs, and the packet's lyric spellings; "did neither" replaced with singing "Patiala Peg"; bandoliers limited to "as depicted in promotional material"; the Gujarat "comes down to the police" clause cut (Section 33 is not in the packet); the "a Punjabi belongs in it" gloss cut. Dek, central angle and meta description now say three songs in Birmingham, matching the body. The central angle no longer says lawyers argued the point.
-
-NDTV check, 2026-11-17, same URL as packet 11c: the page names Panditrao Dharenavar and says the November 2024 Telangana notice followed video evidence he submitted. It does not call him the Hyderabad "complainant." It uses "a complaint by Dharenavar" for the later Maharashtra notice. That matches packet 11c. The packet does not date the *Punjab '95* retitle. It says "formerly *Punjab '95*" only.
-
-Editor pass, 2026-11-17: the body above is the editor's file. Attribution tags are out of the sentences. Items 5, 9, 11, 16, 17 and 19 now describe that body. This note does not restore those tags.
-
-Content Editor revise, 2026-11-17, on the review of head 6b75aff: dek rewritten; Hyderabad 2024 moved to follow Dharenavar's introduction; the Indore kicker cut; the repeated "three of the four" sentence cut; Lokur's line says "a child protection officer," not "the officer." "Indore's own Rahat Indori" was not added. The packet does not say he is from Indore. NDTV does name Dharenavar on the 2024 notice, so that opener stays. "His own side did set one rule" already replaced "a rule on record," and it stays.
+1. He opened Narendra Modi Stadium on 21 November with “Case,” one of the songs Ahmedabad’s district child protection officer had asked police to keep off the setlist. Billboard India, 23 Nov 2026: he “opened the night with one of the four restricted songs – ‘Case’.” https://billboardind.com/diljit-dosanjh-aura-india/
+2. “Case” had been flagged in Indore on 15 November, six days earlier. NDTV lists Indore’s four songs as “Patiala Peg,” “5 Taara,” “Jeeb Vicho Afeem” (“Case”) and “Jatt Uthe Fire Karda.” https://www.ndtv.com/india-news/patiala-peg-3-other-songs-banned-from-diljit-dosanjhs-indore-concert-12297748
+3. “Case” is the same song as the Ahmedabad notice’s “Jeb vicho feem labhi aa.” Indian Express prints that title. India Today Ahmedabad prints “Jeeb Vicho Feem Labbiya.” NDTV’s Indore parenthetical equates “Jeeb Vicho Afeem” with “Case.” Those are spellings of one title. https://indianexpress.com/article/entertainment/bollywood/no-drugs-alcohol-songs-bandoliers-or-kids-on-stage-gujarats-advisory-to-diljit-dosanjh-10962059/
+4. Coldplay played the same stadium in January 2025. Billboard India says so. The copy quotes him: “When Coldplay sings ‘I’m feeling drunk and high,’ nobody has a problem.” Billboard India and India Today both print that lyric. India Today also says he recalled Coldplay’s concert at the venue and said, “When Coldplay comes here and sings it, nobody has an issue.” https://www.indiatoday.in/entertainment/story/diljit-dosanjh-ahmedabad-narendra-modi-stadium-concert-song-restrictions-coldplay-3044194-2026-11-21
+5. The dek’s “getting drunk in the same stadium” is his question about that lyric, at a stadium Coldplay had played. The quoted lyric is “feeling drunk and high,” not “getting drunk” alone.
+6. Panditrao Dharenavar, a Chandigarh professor, is the complainant for Indore (NDTV; Telegraph/PTI) and for Ahmedabad (India Today Ahmedabad; Indian Express). NDTV also ties him to the November 2024 Hyderabad notice, by video he submitted, and to the Maharashtra notice. Spellings elsewhere include Punditrao and Dharennavar. The copy uses NDTV’s “Panditrao Dharenavar.”
+7. Drinking, drugs, or violence: Telegraph/PTI says the Indore complainant alleged the songs promote alcohol and violence and could influence children. India Today’s 16 Nov piece says the professor alleged songs glorified alcohol, drugs and weapons. The Ahmedabad letter, quoted by India Today Ahmedabad, says the songs “glorify alcohol consumption, narcotic substances (opium/drugs), and weapons/violence” and have an adverse impact on children.
+8. The 2019 Punjab and Haryana High Court order, as NDTV quotes it, directed the police chiefs of Punjab, Haryana and Chandigarh “to ensure that no songs are played glorifying the liquor, wine, drugs and violence in any song even in live shows.” India Today’s 16 Nov piece says officials in Madhya Pradesh and Gujarat would need their own legal basis. Indore is in Madhya Pradesh. Ahmedabad is in Gujarat.
+9. Indore: the child protection officer wrote to the venue, and police made dropping four songs a condition of approval. India Today, 16 Nov: the four were “Patiala Peg,” “5 Taara,” “Case” and “Jatt Uthe Fire Karda.”
+10. Ahmedabad: the officer wrote to the police commissioner. India Today Ahmedabad and Indian Express. The letter, in Indian Express, cites sound above 120 decibels and “Flashing Lights, Spot/Beam Lights,” asks that children not be invited on stage, and objects to “cartridge/bullet belts (bandoliers)” and “imitation metallic cartridges.” Billboard India’s “imitation bullet belts” paraphrases that letter. It is not a second description of the costume.
+11. Hyderabad 2024: NDTV says he sang “5 taara hotel ch” instead of “5 taara theke utte,” which NDTV calls a liquor shop, and that “daaru” in “Lemonade” became “Coke.” A few days later in Ahmedabad he did not sing alcohol-themed tracks and said that if all states went dry like Gujarat, he would never sing songs about liquor again. “He’d stop singing about liquor” is that paraphrase. “Questioning how the rules were applied” is the copy’s reading of the dry-state remark. “That year, he still changed what he sang” is the Hyderabad lyric change.
+12. Birmingham, 18 Sep 2026, first half: Live Nation lists “5 Taara” at 2, “Case” at 3, “Patiala Peg” at 11, and the intermission at 19. https://www.livenation.com/artist/K8vZ917K9G0/diljit-dosanjh-events
+13. He announced Ahmedabad from the Wembley stage on 12 September. Billboard India. The same piece calls him “the first Punjabi artist to headline and sell out” Wembley. The copy says headline, and does not say sell out. “The stadium he’d promised to play” is the copy’s word for that announcement.
+14. Indore clearance was a four-song condition, “Patiala Peg” and “Case” among them. India Today, 16 Nov. “He sang it anyway” is “Patiala Peg.” PTI via Telegraph: he performed it and shared a fan-made video on his Instagram story. https://www.telegraphindia.com/entertainment/diljit-dosanjh-courts-controversy-after-performing-patiala-peg-at-indore-concert-despite-directive/cid/2189811
+15. He put “Case” first and brought young fans on stage. Billboard India: “He brought young fans on stage, in answer to the advisory.” The Ahmedabad letter asked police to keep children off the stage.
+16. “And when he brought up Coldplay, he also answered critics…” India Today, 21 Nov, prints the Coldplay lyric and then, in the next quote from that address: “They tell me that I have come from abroad. I was born here. I wasn’t born in Honolulu.” Mint, 22 Nov, prints the Coldplay lyric and then “I was born here. I wasn’t born in Honolulu,” and paraphrases the critics as “suggestions that he was an outsider.” Billboard India is the source for the copy’s Honolulu wording: “I was born here. I wasn’t born in Honolulu.”
+17. “He’d spent the year playing Punjabi music around the world” follows the tour Billboard India describes (Australia, the US, and Wembley) and his line, in that piece, about spreading Punjabi music across the world.
 
 ## SEO title
 
-Diljit Dosanjh Sang Patiala Peg in Indore After Officials Said Drop It
+Diljit Dosanjh Opened Ahmedabad With Case After Officials Said Drop It
 
 ## Meta description
 
-Child protection officers want four Diljit Dosanjh songs cut from his India tour. In Birmingham, three of them were in the first half. Ahmedabad is Saturday.
+Diljit opened Narendra Modi Stadium with Case, a song officials wanted off the setlist, and asked why Coldplay’s lyric was not a problem there.
 
 ## Slug
 
-diljit-dosanjh-patiala-peg-indore-ahmedabad-aura-india-tour
+diljit-dosanjh-case-ahmedabad-narendra-modi-stadium
 
 ## Primary topic
 
-Diljit Dosanjh's Aura India Tour and the setlist curbs on it
+Diljit Dosanjh opening his Ahmedabad show with “Case”
 
 ## Excerpt
 
-In Indore, Diljit Dosanjh sang "Patiala Peg," one of four songs a child protection officer wanted dropped. Two months after Wembley, his homecoming tour is negotiating his catalog city by city.
+On November 21 at Narendra Modi Stadium, Diljit Dosanjh opened with “Case,” a song Ahmedabad’s child protection officer had asked police to keep off the setlist. He asked why a Coldplay lyric was not a problem in the same stadium.
 
 ## Category
 
@@ -170,22 +129,22 @@ Music
 
 ## Tags
 
-Diljit Dosanjh, Aura India Tour, Patiala Peg, Indore, Ahmedabad, Narendra Modi Stadium, Wembley Stadium, Birmingham, Satluj, Jaswant Singh Khalra, Punjabi music
+Diljit Dosanjh, Case, Patiala Peg, Ahmedabad, Narendra Modi Stadium, Indore, Coldplay, Wembley Stadium, Birmingham, Punjabi music
 
 ## Internal-link opportunities
 
-[ARCHIVE UNKNOWN]. No brwncltr.com URLs verified. Themes: the earlier Diljit/Wembley coverage (if published), Punjabi touring in the UK.
+[ARCHIVE UNKNOWN]. No brwncltr.com URLs verified. Themes: the earlier Diljit and Wembley piece, if it is published, and Punjabi touring in the UK.
 
 ## Social captions
 
-- Instagram/feed: Indore told Diljit to drop four songs. He sang "Patiala Peg." Birmingham got three of those four in the first half back in September. Ahmedabad is Saturday.
-- X: Diljit was told to drop "Patiala Peg" in Indore. He sang it. Ahmedabad is next.
-- Newsletter: The songs Britain heard in the first half are the ones India's child protection officers want cut. Our read on Diljit's homecoming.
+- Instagram/feed: Ahmedabad asked Diljit to drop “Case.” He opened with it, and asked why Coldplay could sing about getting drunk in the same stadium.
+- X: Diljit was asked to drop “Case” in Ahmedabad. He opened with it.
+- Newsletter: At Narendra Modi Stadium he opened with “Case,” a song officials wanted off the setlist, and brought up Coldplay.
 
 ## Featured-image concept
 
-Diljit on stage at an India date (Indore or Delhi, licensed), or a split of the Wembley arch and an Indian stadium at night. No stock "Desi party" imagery. Don't use the bandolier costume as a gun-culture visual cue.
+Diljit on stage at Narendra Modi Stadium, or the stadium at night. No stock party imagery. Don’t use the bullet-belt costume as a gun-culture image.
 
 ## Research date
 
-2026-11-17
+2026-11-24
