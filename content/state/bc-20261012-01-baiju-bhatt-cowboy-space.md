@@ -2,7 +2,7 @@
 
 - status: READY_FOR_REVIEW
 - created: 2026-10-12
-- updated: 2026-11-17
+- updated: 2026-11-24
 - beat: Business / creators / entrepreneurship
 - story_type_hypothesis: Feature, Complex register. Identity is context, not the frame.
 - recommendation: pursue
@@ -22,7 +22,7 @@
 
 ## Owner approval
 
-Owner Taha Aziz approved **pursue** and asked for an outline on 2026-10-12. On 2026-10-13 the owner approved the plan and the headline "After Co-Founding Robinhood, Baiju Bhatt Is Building Rockets." That approval was **APPROVED_FOR_DRAFT**, permission to draft. Current status is **READY_FOR_REVIEW**. It is not article `APPROVED` and it is not a publish. The outline lives in `content/state/bc-20261012-01-plan.md`. The research packet is `content/research/bc-20261012-01-20261013.md`. The verbatim draft is in the review packet. No article prose in this file.
+Owner Taha Aziz approved **pursue** and asked for an outline on 2026-10-12. On 2026-10-13 the owner approved the plan and the headline "After Co-Founding Robinhood, Baiju Bhatt Is Building Rockets." That approval was **APPROVED_FOR_DRAFT**, permission to draft. On 2026-11-24 the owner authorized a verbatim rewrite. The review-packet headline is now "Baiju Bhatt Grew Up Around NASA's Wind Tunnels. Now He's Building a Rocket." Current status is **READY_FOR_REVIEW**. It is not article `APPROVED` and it is not a publish. The outline lives in `content/state/bc-20261012-01-plan.md`. The research packet is `content/research/bc-20261012-01-20261013.md`. The verbatim draft is in the review packet. No article prose in this file.
 
 ## Seed
 
@@ -124,3 +124,4 @@ confidence: high
 - 2026-11-17: Content Manager replaced the full draft after the five findings. Committer pasted it verbatim. Re-check of those lines: none. Status set to READY_FOR_REVIEW. Not article APPROVED. Do not publish.
 - 2026-11-17: Line-edit filed verbatim from the ready-for-review file built on 7b8951f. Cuts: the name paragraph, and "The schedule is where it gets real." Close is two sentences. Fact-check of those three changes: none. Status stays READY_FOR_REVIEW. Not article APPROVED. Do not publish.
 - 2026-11-17: Content Editor review 5946595449 applied in one pass. Fact-check of the six fixes: none. "Regulators noticed" is the December 2020 Massachusetts complaint. Status stays READY_FOR_REVIEW. Not article APPROVED. Do not publish.
+- 2026-11-24: Owner-authorized rewrite pasted verbatim into the review packet. Headline and dek updated. Status stays READY_FOR_REVIEW. Not article APPROVED. Do not publish. Fact-check is reported with the commit; prose was not rewritten. Mismatches left in the prose: the completed "PhD in Huntsville"; the March Core Memory line placing "a month or two earlier" on the 2026 interview rather than on GameStop; and "In May" for the rename and $275 million, which the company and TechCrunch date to May 11, 2026.

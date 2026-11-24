@@ -1,4 +1,4 @@
-# After Co-Founding Robinhood, Baiju Bhatt Is Building Rockets
+# Baiju Bhatt Grew Up Around NASA's Wind Tunnels. Now He's Building a Rocket.
 
 ## Packet metadata
 
@@ -6,177 +6,23 @@
 | --- | --- |
 | Task ID | bc-20261012-01-baiju-bhatt-cowboy-space |
 | State | READY_FOR_REVIEW |
-| Research date | 2026-10-13 |
-| Last updated | 2026-11-17 |
-| Authoring agent / human | Prose by Content Manager. Package fields and fact-check by the committer. The full draft below is verbatim. It was not rewritten. |
+| Research date | 2026-11-24 |
+| Last updated | 2026-11-24 |
+| Authoring agent / human | Prose supplied 2026-11-24, owner-authorized, and pasted verbatim. Package fields updated. Fact-check is in Verification. The prose was not rewritten. Not article APPROVED. |
 | Primary beat | Business / creators / entrepreneurship |
 | Secondary beat (optional) | — |
 
 ## Proposed headline
 
-After Co-Founding Robinhood, Baiju Bhatt Is Building Rockets
-
-## Story type
-
-Feature, Complex register. Robinhood is the long section. Cowboy is the second act and the reason to publish. Identity is context, not the frame.
-
-## Target audience
-
-Readers in the US, Canada, and the UK who already know Robinhood and are looking up what Baiju Bhatt is doing now. Not a space-industry audience, and not an identity profile.
-
-## Why now
-
-Today is Tuesday 13 October 2026. Cowboy Space Corporation announced the rename and the $275 million Series B on 11 May 2026. The peg is the second act, about five months after the round, not breaking funding news.
-
-## Central angle
-
-The app made trading free. The next company is a rocket whose upper stage is meant to stay in orbit as a data center. The piece lands on the unmerged 2028 schedule and on Robinhood charging nothing more than four years before the October 2019 cuts.
-
-## Primary sources
-
-- Robinhood S-1, SEC, https://www.sec.gov/Archives/edgar/data/1783879/000162828021013318/robinhoods-1.htm , retrieved 2026-10-13. Founded 2013 by Vladimir Tenev and Baiju Bhatt.
-- Robinhood IR biography, https://investors.robinhood.com/board-member/baiju-bhatt/ , retrieved 2026-10-12 and confirmed as the live bio text on 2026-10-13. Co-CEO through November 2020. Chief Creative Officer from 2021 to March 2024. Director since founding.
-- TechCrunch, Josh Constine, 18 April 2013, https://techcrunch.com/2013/04/18/robinhood-app/ . Free iOS predictions app. Not a brokerage. Celeris, then Chronos Research.
-- TechCrunch, Josh Constine, 18 December 2013, https://techcrunch.com/2013/12/18/zero-commission-stock-trading-robinhood/ . $3 million led by Index Ventures, joined by Andreessen Horowitz.
-- CNNMoney, Heather Long, 12 March 2015, https://money.cnn.com/2015/03/12/investing/robinhood-app-free-trading-millennials/index.html . Launch, 800,000 waitlist, the 2008 quote.
-- Lifehacker, Nick Douglas, 2 August 2017, https://lifehacker.com/im-baiju-bhatt-robinhood-ceo-and-this-is-how-i-work-1797407595 . Only child, two immigrants, PhD program, Poquoson, Stanford.
-- The Peel, Turner Novak, 17 January 2025, transcript, https://www.thespl.it/p/robinhood-co-founder-baiju-bhatt . Bhavnagar, Gujarat. NASA at Langley Air Force Base. Stanford physics.
-- Charles Schwab press release, effective 7 October 2019, https://pressroom.aboutschwab.com/press-releases/press-release/2019/In-Conjunction-With-Chuck-Schwabs-New-Book-Invested-Schwab-Removes-the-Final-Pricing-Barrier-to-Investing-Online-by-Eliminating-U.S.-Stock-ETF-and-Options-Commissions/default.aspx . Announcement clock unresolved.
-- E*TRADE, Business Wire datelined 2 October 2019, SEC exhibit, https://www.sec.gov/Archives/edgar/data/1015780/000115752319002029/a52105029ex99_1.htm . Effective 7 October 2019.
-- TD Ameritrade earnings release, SEC exhibit, 21 October 2019, https://www.sec.gov/Archives/edgar/data/1173431/000119312519270922/d822321dex991.htm . Effective 3 October 2019, $6.95 to $0.
-- Massachusetts Securities Division complaint E-2020-0047, 16 December 2020, https://www.sec.state.ma.us/divisions/securities/download/MSD-Robinhood-Financial-LLC-Complaint-E-2020-0047.pdf .
-- CNBC, 31 March 2021, https://www.cnbc.com/2021/03/31/robinhood-gets-rid-of-confetti-feature-amid-scrutiny-over-gamification.html . Quotes the company blog on firsts. Blog URL not opened.
-- Massachusetts consent order, offer of settlement 17 January 2024, https://www.sec.state.ma.us/divisions/securities/download/RH-Consent-Order.pdf . Confetti after a first trade. Ceased as of 31 March 2021.
-- Fortune, Jeff John Roberts, 20 November 2020, https://fortune.com/2020/11/20/robinhood-ipo-ceo-vlad-tenev-founder-baiju-bhatt-stock-trading-app/ . Tenev sole CEO. Bhatt stays co-founder and on the board.
-- GlobeNewswire, 21 March 2024, https://www.globenewswire.com/news-release/2024/03/21/2850688/0/en/Robinhood-Markets-Inc-Co-Founder-Baiju-Bhatt-To-Step-Down-as-Chief-Creative-Officer.html . Steps down as Chief Creative Officer. The leaving quote.
-- House hearing, 18 February 2021, https://www.govinfo.gov/content/pkg/CHRG-117hhrg43966/html/CHRG-117hhrg43966.htm . Tenev is the witness. "Zero pressure from anyone."
-- Bloomberg, Anders Melin, 29 July 2021, https://www.bloomberg.com/news/articles/2021-07-29/robinhood-duo-ride-retail-trading-frenzy-to-billionaire-riches . $38, close $34.82, Bhatt $2.5 billion.
-- Cowboy Space news post, 11 May 2026, https://www.cowboyspace.com/news/introducing-cowboy-space-series-b . $275 million, "$2 billion valuation," upper stage, NVIDIA. Retrieved 2026-10-12. Not re-fetched 2026-10-13.
-- Payload, Jacqueline Feldscher, 11 May 2026, https://payloadspace.com/aetherflux-rebrands-pivots-business-and-raises-275m/ . Name quote. Mission line. First satellite "this year." Rocket no earlier than the end of 2028.
-- TechCrunch, Tim Fernholz, 11 May 2026, https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/ . Launch capacity. "Before the end of 2028."
-- TechCrunch, Aria Alamalhodaei, 9 October 2024, https://techcrunch.com/2024/10/09/billionaire-robinhood-co-founder-launches-aetherflux-a-space-based-solar-power-startup/ . Out of stealth. "Late last year."
-- TechCrunch, Rebecca Bellan, 2 April 2025, https://techcrunch.com/2025/04/02/space-solar-startup-aetherflux-raises-50m-to-launch-first-space-demo-in-2026/ . $50 million. Index and Interlagos led.
-- Index Ventures, Jan Hammer, 2 April 2025, https://www.indexventures.com/perspectives/delivering-energy-to-planet-earth-our-investment-in-aetherflux/ . Index leading the $50 million Series A.
-
-## Secondary sources
-
-- MarketChameleon reprint of the TD Ameritrade announcement, 1 October 2019, https://marketchameleon.com/PressReleases/i/880781/AMTD/the-best-just-got-better-td-ameritrade . Reprint, not the wire page.
-- AP, 31 March 2021, https://apnews.com/article/business-3c83ae69e7dbc4ddc825e9af308e9c78 . "The last pops will go off next week."
-- Forbes, Sergei Klebnikov, 29 July 2021, https://www.forbes.com/sites/sergeiklebnikov/2021/07/29/despite-robinhoods-rocky-ipo-each-cofounder-is-now-worth-billions/ . $2.4 billion at the close. Not the number in the draft.
-- House staff report, Exhibit A, S.D. Fla. case 590042, https://storage.courtlistener.com/recap/gov.uscourts.flsd.590042/gov.uscourts.flsd.590042.495.3.pdf . Jim Swartwout. No "Bhatt" in that exhibit.
-- Space.com, Elizabeth Howell, 12 May 2026, https://www.space.com/technology/cowboy-space-raises-usd275-million-to-launch-ai-data-centers-on-brand-new-rocket . Rocket "in 2028." Not used in the draft.
-- Robinhood DEF 14A, filed 22 April 2026, https://www.sec.gov/Archives/edgar/data/1783879/000178387926000053/hood-20260422.htm . Director. "Founder and Chief Executive Officer, Aetherflux." Predates the rename.
-
-## Reporting / research notes
-
-- Prose by the Content Manager. The revised draft was substituted verbatim on 2026-10-13 and checked again against `content/research/bc-20261012-01-20261013.md` only. A further revision the same day replaced the two remaining findings. No interviews. No outreach. The committer did not change a sentence of the draft.
-- 2026-11-17: Content Manager revised the draft again. Committer pasted that body verbatim into Full draft and fact-checked it against the same research packet. Findings below. Status set to DRAFTING. Prose not rewritten.
-- 2026-11-17: Content Manager replaced the full draft after the five findings. Committer pasted it verbatim and re-checked those lines. None remain. Status set to READY_FOR_REVIEW. Not article APPROVED. Do not publish.
-- Cowboy pages were retrieved 2026-10-12 and were not re-fetched on 2026-10-13.
-- The WSJ TikTok was not watched. The WSJ page body was not retrieved. BusinessWire for the Series B was not retrieved. The 424B4 was not opened. The Robinhood confetti blog URL was not opened.
-- Safety: no father's illness. No "as a South Asian" frame. No customer-death anecdote. No investment advice. No single Robinhood ownership percentage. Gujarat and Poquoson stay where the draft put them, as origin, then the piece returns to the companies.
-
-## Outline
-
-1. Headline and dek, then Robinhood as the app readers know, then Cowboy Space and the upper stage.
-2. Family, Stanford, the two earlier companies, the 2013 predictions app, the $3 million round.
-3. The March 2015 launch, October 2019, confetti.
-4. November 2020, January 2021, the IPO, March 2024.
-5. Aetherflux, the Series A, the May 2026 rename, and the Series B.
-6. The two schedule wordings, then the close.
-
-## Full draft
-
-# After Co-Founding Robinhood, Baiju Bhatt Is Building Rockets
-
-*The app made trading free. His next act is a rocket that turns into a data center in orbit.*
-
-Baiju Bhatt co-founded Robinhood and spent more than a decade helping run it, through the free trades, the confetti and a very public IPO. Now he's building a rocket. His startup, Cowboy Space, raised $275 million in May at a $2 billion valuation, and the plan is for the rocket's upper stage to never come home: it stays in orbit and runs as a one-megawatt data center. The rocket hasn't flown yet, which is a strange place to find the guy who made stock trading free.
-
-### The physics kids
-
-Bhatt, an only child, grew up in Poquoson, Virginia. His father grew up in Bhavnagar, in Gujarat, and the family came to the U.S. after he was accepted to a PhD program in theoretical physics; he later worked for NASA at Langley.
-
-At Stanford, Bhatt followed his dad into physics and met Vlad Tenev. In New York the two built Celeris, an algorithmic trading startup, and Chronos Research, which sold software to big investment banks. In 2013 they started Robinhood.
-
-It began as a free iPhone app for tracking stocks and sharing predictions, not a brokerage at all, and by the end of that year they'd raised $3 million from Index Ventures and Andreessen Horowitz to build what came next: trading with no commission at all.
-
-### Free, and then everybody was free
-
-When the full app launched in March 2015, 800,000 people were already on the waitlist, and Bhatt had a theory about who they were. "I think a lot of people that use Robinhood grew up in an era where Wall Street blew up in 2008," he told CNNMoney. "They kind of see Wall Street and a lot of big banks as not very trustworthy."
-
-Free trading was the hook. In early October 2019, Charles Schwab, E*Trade and TD Ameritrade all dropped their online stock commissions to zero; TD Ameritrade had been charging $6.95 a trade, and Robinhood had been charging nothing since 2015.
-
-The app didn't look like a brokerage, and regulators noticed. In December 2020, Massachusetts regulators filed a complaint accusing Robinhood of gamifying investing, pointing to the confetti among other features. Robinhood said the animation celebrated firsts, like a customer's first trade, and retired it in March 2021.
-
-### Stepping back
-
-By then Bhatt was no longer running the company. He and Tenev had been co-CEOs since 2013, and in November 2020 Robinhood made Tenev sole CEO, with Bhatt staying on as co-founder and board member, later as chief creative officer.
-
-So when GameStop blew up two months later, Bhatt wasn't the one in charge. On January 28, 2021, Robinhood restricted buying in GameStop and other meme stocks, and it was Tenev who testified to Congress that the restriction was a deposit-requirement decision made by the president of Robinhood Securities, with "zero pressure from anyone."
-
-Six months later Robinhood went public, pricing at $38 and closing its first day at $34.82, and Bloomberg put Bhatt's paper fortune at $2.5 billion. He stayed on as chief creative officer until March 2024, when he stepped back from his executive role, though he's still on the board. "Since I helped found this company in 2013, Robinhood has been my life," he said at the time.
-
-### The second act
-
-His goodbye note promised he'd "have more to share about my next steps soon," and that turned out to be Aetherflux, which came out of stealth in October 2024 with a plan that sounded like science fiction: collect solar power in space and beam it down to Earth by infrared laser. Its $50 million Series A in April 2025 was co-led by Index, the same firm that had backed Robinhood in 2013.
-
-Then the plan got bigger. Bhatt told TechCrunch he couldn't get enough launch capacity, or make the economics work, by buying rides on other people's rockets, so he decided to build his own. In May 2026 Aetherflux became Cowboy Space Corporation, and Index led a $275 million Series B, with Bhatt putting in his own money. The rocket's upper stage and the data center are meant to be the same machine, and NVIDIA is working with the company to put its Space-1 Vera Rubin modules in orbit.
-
-### Liftoff, eventually
-
-The first satellite, built to show that power beaming works, was slated in May to launch this year, and the rocket comes later: one report says no earlier than the end of 2028, another says before it.
-
-For now, Cowboy is a $2 billion bet on a machine that is years from launch, from a founder whose last company charged nothing for trades more than four years before Schwab, E*Trade and TD Ameritrade did.
-
-## Facts requiring final verification
-
-Fact-check on 2026-11-17 against `content/research/bc-20261012-01-20261013.md`, after the Content Editor's six fixes. The prose was not otherwise rewritten.
-
-### Unsupported claims and inexact wording
-
-None.
-
-### This pass
-
-- "Early October 2019." TD Ameritrade's stock commission went to zero effective 3 October 2019. Schwab and E*TRADE effective 7 October 2019. Both dates are early October. The draft does not say they moved on one day or in the first calendar week.
-- "The app didn't look like a brokerage, and regulators noticed." The next sentence is the 16 December 2020 Massachusetts complaint, which accuses Robinhood of gamifying investing and points to the confetti among other features. That complaint is the noticing.
-- "Index led a $275 million Series B, with Bhatt putting in his own money." The company news post of 11 May 2026 says Index Ventures led the $275 million round and lists founder Baiju Bhatt among the investors. The other named investors are omitted. The sentence does not say they were absent.
-- "Co-CEOs since 2013" through "November 2020" and "sole CEO" match the IR biography and Fortune, 20 November 2020. "Co-founder and board member" matches Fortune's spokesperson. "Later as chief creative officer" matches the IR span "from 2021," not the 20 November 2020 announcement, which does not use that title.
-- "The son of two immigrants" is cut. The next sentence still has Bhavnagar, the move after his father was accepted to a PhD program, and NASA at Langley.
-- The close is one sentence. The public app launched 12 March 2015 and let people trade stocks for free. The October 2019 cuts are more than four years later. It does not say the brokers adopted his idea.
-
-### Still in the draft
-
-- "The rocket hasn't flown yet." Payload, TechCrunch, and Space.com place the first rocket in 2028. The sentence does not say the 2026 power-beaming satellite has not flown. That flight remains unresolved as of 13 October 2026.
-- "Not a brokerage at all." Packet: "Not a brokerage." The April 2013 app was a free iOS app for tracking stocks and sharing predictions.
-- "Robinhood had been charging nothing since 2015." Matches the 12 March 2015 launch. TD had been charging $6.95.
-- "One report says no earlier than the end of 2028, another says before it." Payload: no earlier than the end of 2028. TechCrunch: before the end of 2028. Not merged. "Was slated in May to launch this year" matches Payload, 11 May 2026. It does not say that flight is still on the calendar.
-
-### Untagged quotes, by source
-
-- "zero pressure from anyone." Vladimir Tenev, House Financial Services Committee hearing, 18 February 2021. Packet: "Not at all. Zero pressure from anyone. It was a collateral depository requirement decision made by our Robinhood Securities president, and we stand by it." "Deposit-requirement" is an unquoted paraphrase of "collateral depository requirement."
-- "Since I helped found this company in 2013, Robinhood has been my life." Baiju Bhatt, GlobeNewswire, 21 March 2024.
-- "have more to share about my next steps soon." Baiju Bhatt, GlobeNewswire, 21 March 2024: "I will have more to share about my next steps soon but know the future has never been so bright."
-
-### Tagged quotes that match
-
-- CNNMoney, Heather Long, 12 March 2015: "I think a lot of people that use Robinhood grew up in an era where Wall Street blew up in 2008. They kind of see Wall Street and a lot of big banks as not very trustworthy."
-
-The Payload name quote is cut and is not in the draft.
-
-### Supported, and left untagged
-
-- Celeris and Chronos Research. TechCrunch, Josh Constine, 18 December 2013: "Celeris, an algorithmic trading technology startup, and Chronos Research, which sold financial software to top investment banks." The IR biography does not name them.
-- The April 2025 Series A was "co-led by Index." TechCrunch, 2 April 2025: "Index and Interlagos led." Index's post the same day: "Index leading." Interlagos is not named.
+Baiju Bhatt Grew Up Around NASA's Wind Tunnels. Now He's Building a Rocket.
 
 ## SEO title
 
-Baiju Bhatt, Robinhood Co-Founder, Is Building Rockets
+Baiju Bhatt Grew Up Around NASA's Wind Tunnels. Now He's Building a Rocket.
 
 ## Meta description
 
-Baiju Bhatt co-founded Robinhood, which made stock trades free. Cowboy Space, his next company, is building a rocket that stays in orbit as a data center.
+The Robinhood co-founder was still on the board when GameStop hit. His new company wants the top of its rocket to become a data center.
 
 ## Slug
 
@@ -184,7 +30,7 @@ baiju-bhatt-cowboy-space
 
 ## Excerpt
 
-*The app made trading free. His next act is a rocket that turns into a data center in orbit.*
+*The Robinhood co-founder was still on the board when GameStop hit. His new company wants the top of its rocket to become a data center.*
 
 ## Category
 
@@ -202,9 +48,9 @@ Baiju Bhatt, Robinhood, Cowboy Space, Vlad Tenev, Aetherflux
 
 ## Social captions
 
-- Instagram/feed: Baiju Bhatt co-founded Robinhood. The app launched in March 2015 with 800,000 people already on the waitlist, and stock trades were free. In May 2026 his company Cowboy Space raised $275 million at a $2 billion valuation. The rocket's upper stage is meant to stay in orbit as a one-megawatt data center.
-- X/Twitter-length: Robinhood co-founder Baiju Bhatt is building rockets. In May 2026 Cowboy Space raised $275 million. The upper stage is meant to stay in orbit as a data center.
-- Optional newsletter blurb: Free trades were the first company. After Robinhood, Baiju Bhatt's Aetherflux became Cowboy Space and raised $275 million to build a rocket whose upper stage is the data center. Payload and TechCrunch do not agree on whether that rocket is no earlier than the end of 2028 or before it.
+- Instagram/feed: Baiju Bhatt grew up around NASA's wind tunnels in Virginia. He co-founded Robinhood and was still on the board when the app restricted GameStop buying on Jan. 28, 2021. His company, Cowboy Space, put Reason-1 in orbit on Oct. 1 and on Oct. 26 unveiled Big Iron, a rocket whose upper stage is meant to stay up as a data center.
+- X/Twitter-length: Robinhood co-founder Baiju Bhatt was still on the board when GameStop hit. Cowboy Space wants the top of its rocket to become a data center.
+- Optional newsletter blurb: The Robinhood co-founder was still on the board when GameStop hit. His new company wants the top of its rocket to become a data center.
 
 Still no invented facts. This is not a scoop.
 
@@ -214,4 +60,45 @@ A credited portrait of Baiju Bhatt. Mood: a founder on a second company, after R
 
 ## Research date
 
-2026-10-13
+2026-11-24
+
+## Full draft
+
+# Baiju Bhatt Grew Up Around NASA's Wind Tunnels. Now He's Building a Rocket.
+
+*The Robinhood co-founder was still on the board when GameStop hit. His new company wants the top of its rocket to become a data center.*
+
+Baiju Bhatt's father got a job at NASA in Virginia, and what his son remembers is the wind tunnels. His dad grew up in Bhavnagar, in Gujarat, came to the U.S. to study physics, and after a PhD in Huntsville, Alabama, moved the family to Poquoson, a small town next to Langley. "Seeing that stuff as a kid, right? It's like these magical facilities to test this crazy aerospace stuff," Bhatt said on The Peel podcast last year. "It really, really left an impression on me."
+
+On Oct. 1, the first satellite from his company, Cowboy Space, went up on a SpaceX Falcon 9 rideshare called Transporter-18. Reason-1 carries a laser and large optics, and its job is to test whether power can be beamed from orbit down to the ground. Getting there took what he called on the same podcast "a little bit of a detour in my professional career. I went into finance."
+
+The detour was Robinhood. He studied physics at Stanford, and in 2013 he and Vlad Tenev, his roommate there, started a brokerage whose whole pitch was stock trades with no commission. By the time the app opened to everyone in March 2015, 800,000 people were on the waitlist, and in October 2019 Schwab, TD Ameritrade and E\*Trade dropped their online stock commissions to zero. Robinhood made its money on the other end, by getting paid to send customer orders to trading firms, and in December 2020 the SEC found those customers got prices bad enough to cost them $34.1 million even after the commissions they saved. Robinhood paid $65 million to settle without admitting or denying it.
+
+A month before that settlement, Bhatt handed the CEO job to Tenev alone. He stayed a co-founder and stayed on the board, so when the GameStop run hit in January 2021 and Robinhood restricted buying on Jan. 28, it was still his app and his name. Tenev was the one who went before Congress to explain the clearinghouse deposit behind the restriction, and Bhatt wasn't a witness.
+
+In March, he told Ashlee Vance on the Core Memory podcast that he'd pulled back from the co-CEO job only a month or two earlier and went straight back in: "I just stepped back, but there's no way in the world that I can't not be spending 100% of my time focused on this thing. This is my life's work at this point."
+
+He stayed at Robinhood through March 2024, the last stretch as chief creative officer, and he's still on its board. Jan Hammer of Index Ventures, which led Robinhood's first seed round, remembers Bhatt's 2015 wedding speech, when he told the room, only half joking, that his next company after Robinhood would be a space company, then found Hammer in the crowd and told him he'd fund it.
+
+Hammer did. Aetherflux came out of stealth in October 2024 with a plan to collect sunlight in orbit and beam the power to Earth, Index led its $50 million Series A, and then the plan turned around: keep the power up there and use it to run AI chips. In May, Aetherflux became Cowboy Space and raised $275 million at a $2 billion valuation, with Index leading again. The catch, Bhatt told TechCrunch, was getting the hardware up, since he couldn't find enough launch capacity to compete with data centers on the ground. "We're standing up our own rocket program," he said.
+
+That rocket is Big Iron, which he unveiled on Oct. 26: a stainless steel vehicle 86 meters tall, with a booster designed to come back for reuse and an upper stage that stays in orbit as the data center, five racks of GPUs and six laser links. Cowboy has filed with the FCC for a constellation of 20,000 of them, and it's aiming for a first flight in 2028.
+
+Until then, Cowboy's only hardware in space is Reason-1, which got there on a SpaceX rideshare on Oct. 1 and is still working on getting power to the ground.
+
+## Verification
+
+- Family, Bhavnagar, physics, Langley wind tunnels, "detour" quote: The Peel with Turner Novak, Jan. 17, 2025, https://www.thespl.it/p/robinhood-co-founder-baiju-bhatt . Poquoson and "next to Langley Air Force Base": Shawn Ryan Show #223, July 31, 2025. Huntsville PhD: The Peel and Lifehacker, Aug. 2, 2017, https://lifehacker.com/im-baiju-bhatt-robinhood-ceo-and-this-is-how-i-work-1797407595 . Bhatt names the site both "Langley Air Force Base" (The Peel) and "Langley Research Center" (Building the Base, Dec. 23, 2025, https://buildingthebase.org/episode/from-democratizing-finance-to-powering-space-baiju-bhatts-patriotic-mission); prose says only "Langley."
+- Reason-1, Oct. 1, Falcon 9, Transporter-18, laser and optics, power-beaming test: https://www.cowboyspace.com/news/reason-1-takes-flight ; SpaceNews, Oct. 1, 2026, https://spacenews.com/spacex-launches-transporter-18-rideshare-mission/ . Still a demonstration "over the coming months": NOAA NESDIS, Oct. 20, 2026, https://www.nesdis.noaa.gov/news/noaa-and-cowboy-space-corporation-test-faster-satellite-data-processing . Only hardware in orbit: Space.com, Oct. 27, 2026.
+- Stanford physics: Robinhood board biography, https://investors.robinhood.com/governance/board-of-directors . Roommates: CNNMoney, Heather Long, March 12, 2015 (reprint https://www.wtvr.com/2015/03/13/robinhood-app-trade-stocks-no-commission); Bhatt says "my roommate" on Building the Base. Founded 2013: Robinhood S-1.
+- 800,000 waitlist, March 2015 launch: CNNMoney, March 12, 2015. Commission cuts October 2019: Schwab press release; TD Ameritrade and E*Trade SEC exhibits (https://www.sec.gov/Archives/edgar/data/1173431/000119312519270922/d822321dex991.htm , https://www.sec.gov/Archives/edgar/data/1015780/000115752319002029/a52105029ex99_1.htm).
+- SEC, Dec. 17, 2020, $65 million, $34.1 million net of commission savings, no admission: https://www.sec.gov/newsroom/press-releases/2020-321
+- Co-CEO handoff Nov. 20, 2020, stayed co-founder and director: Fortune, https://fortune.com/2020/11/20/robinhood-ipo-ceo-vlad-tenev-founder-baiju-bhatt-stock-trading-app/ ; board biography (CCO "from 2021 to March 2024"). CCO title not dated to January 2021, so the prose doesn't use it for that week.
+- Jan. 28, 2021 restriction, Tenev testimony, collateral deposit: House Financial Services hearing, Feb. 18, 2021, https://www.govinfo.gov/content/pkg/CHRG-117hhrg43966/html/CHRG-117hhrg43966.htm
+- Core Memory with Ashlee Vance, March 25, 2026 ("a month or two before," "I just stepped back..."): transcript https://ceointerviews.ai/interview/786965/
+- March 2024 step-down, remains on board: GlobeNewswire, March 21, 2024, https://www.globenewswire.com/news-release/2024/03/21/2850688/0/en/Robinhood-Markets-Inc-Co-Founder-Baiju-Bhatt-To-Step-Down-as-Chief-Creative-Officer.html
+- Index led Robinhood's 2013 seed: TechCrunch, Dec. 18, 2013, https://techcrunch.com/2013/12/18/zero-commission-stock-trading-robinhood/ . Wedding speech: Jan Hammer's recollection, Index Ventures, April 2, 2025, https://www.indexventures.com/perspectives/delivering-energy-to-planet-earth-our-investment-in-aetherflux/ (also the $50M Series A).
+- Aetherflux out of stealth October 2024: TechCrunch, Oct. 9, 2024, https://techcrunch.com/2024/10/09/billionaire-robinhood-co-founder-launches-aetherflux-a-space-based-solar-power-startup/
+- Rename, $275M, $2B, Index led: https://www.cowboyspace.com/news/introducing-cowboy-space-series-b ; TechCrunch, May 11, 2026, https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/ ("We're standing up our own rocket program," launch capacity paraphrase).
+- Big Iron, Oct. 26, stainless steel, 86 m, reusable booster, upper stage as data center, five GPU racks, six laser links, first flight "in 2028": https://www.cowboyspace.com/news/introducing-big-iron . FCC filing for a 20,000-satellite constellation: BusinessWire, October 2026, https://www.businesswire.com/news/home/20261026770279/en/Cowboy-Space-Reveals-Big-Iron-Its-Data-Center-Rocket-and-Opens-Commercial-Launch-to-Government-and-Third-Party-Payloads . Space.com's "December 2028" is not used.
+- No original interview. Caps at 7.
