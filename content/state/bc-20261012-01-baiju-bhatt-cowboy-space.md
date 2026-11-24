@@ -59,7 +59,7 @@ Retrieved 2026-11-24:
 
 In January 2021 he was inside the company: co-founder and board member, and the board page places the Chief Creative Officer title across 2021 to March 2024. The page does not give the day that title started. Do not write that he was Chief Creative Officer on the morning of the restriction unless a source dates the title before that day.
 
-The draft must say exactly where he was that January, and what, if anything, he has said publicly about the restriction. That public comment is an open research question. Do not invent a quote, and do not invent a silence.
+The draft must say exactly where he was that January. On the restriction, he has spoken: in a Core Memory interview (March 2026) he said he had "just stepped back" but spent "100% of my time" on that crisis. Attributed to Core Memory, March 2026. Per Content Manager packet, verify link before publish. Episode page: https://www.corememory.com/p/here-come-the-space-lasers-aetherflux-baiju-bhatt (Ashlee Vance, "Here Come The Space Lasers," EP 62, March 25, 2026). Do not add words beyond that line.
 
 The Peel transcript retrieved 2026-11-24 has the wind-tunnel scene and the finance detour. It does not mention GameStop or the buy restriction. One transcript is not a full search.
 
@@ -95,6 +95,8 @@ The owner may defer outreach. Without an original quote, the piece caps at 7 und
 Retrieved 2026-11-24 unless noted. Older lines are the 2026-10-12 list, kept so the source history stays on this record. Bodies were not re-opened this run except where a 2026-11-24 note says so.
 
 - https://www.thespl.it/p/robinhood-co-founder-baiju-bhatt (The Peel, Turner Novak; transcript. Origin source. Retrieved 2026-11-24.)
+- https://www.corememory.com/p/here-come-the-space-lasers-aetherflux-baiju-bhatt (Core Memory, Ashlee Vance, "Here Come The Space Lasers," EP 62, March 25, 2026. Episode page retrieved 2026-11-24. The "just stepped back" / "100% of my time" line is per the Content Manager packet. Verify the link before publish.)
+- https://www.sec.gov/newsroom/press-releases/2020-321 (SEC press release 2020-321, December 17, 2020. Robinhood Financial agreed to pay $65 million. Retrieved 2026-11-24.)
 - https://investors.robinhood.com/governance/board-of-directors (Robinhood board biographies. Retrieved 2026-11-24. Co-CEO through November 2020, Chief Creative Officer 2021 to March 2024, director since founding.)
 - https://fortune.com/2020/11/20/robinhood-ipo-ceo-vlad-tenev-founder-baiju-bhatt-stock-trading-app/ (Fortune, 2020-11-20. Retrieved 2026-11-24. Sole CEO, spokesperson on the co-founder and board roles.)
 - https://www.wsj.com/tech/robinhood-co-founder-bhatt-to-step-down-as-creative-chief-c1c5a632 (WSJ. Header only on 2026-11-24, body 401. Do not quote.)
@@ -130,7 +132,7 @@ Pitch-level notes for the writer. Not prose.
 - One spine. Tunnels, Stanford physics, Robinhood, the January 2021 restriction, Aetherflux, Cowboy Space and Big Iron.
 - Do not explain the point. Let the facts land it.
 - End on a concrete image. Reason-1 in orbit is on the company page. December 2028 is the owner's other image, and it is not confirmed on the Big Iron page. Do not end on a summary.
-- If the SEC payment-for-order-flow finding is used, keep it factual. Do not invent the order, the date, or a dollar figure. This pitch does not restate that finding.
+- SEC context, if used: on December 17, 2020 the SEC said Robinhood Financial agreed to pay $65 million to settle charges that it misled customers about payment for order flow and failed its best-execution duty. Press release 2020-321: https://www.sec.gov/newsroom/press-releases/2020-321 Robinhood settled without admitting or denying the findings. Keep it to that.
 - No resume run. Places and jobs appear as turns on the spine.
 - Say where he was in January 2021, and only what a source shows he said about it.
 
@@ -139,7 +141,7 @@ Pitch-level notes for the writer. Not prose.
 audience_relevance: 5 - Robinhood is the app these readers had. January 2021 is the memory. The founder is specific.
 timeliness: 3 - Reason-1 launched 2026-10-01 and Big Iron was unveiled 2026-10-26. The peg is about a month old. It needs a fresh detail or an original quote to clear the publisher test.
 cultural_relevance: 4 - Bhavnagar to the Langley wind tunnels is a specific origin. It opens the piece. It is not a representation essay.
-strength_of_angle: 4 - one spine the trades did not write. The January 2021 public comment is still open, so the spine is not closed.
+strength_of_angle: 4 - one spine the trades did not write. Core Memory (March 2026) has his line on the crisis. Verify that link before publish.
 source_quality: 4 - Peel, the Robinhood board page, Fortune, and the two Cowboy Space posts were retrieved 2026-11-24. The WSJ body and this run's TechCrunch fetch were not. December 2028 is not on the Big Iron page.
 originality: 4 - funding and the rocket are covered, per the owner check supplied with this approval (not re-run here). The wind-tunnel / GameStop angle is the add. Content Editor cap: 7 until an original quote.
 usefulness_shareability: 4 - a reader who remembers the buy restriction can place the rocket next to it.
@@ -150,13 +152,13 @@ confidence: medium
 
 ## Open questions
 
-- What, if anything, Bhatt has said publicly about the January 2021 buy restriction. The Peel transcript retrieved 2026-11-24 does not contain it. Do not invent a quote or a silence.
+- January 2021, what he said in public: in a Core Memory interview (March 2026) he said he had "just stepped back" but spent "100% of my time" on that crisis. Attributed to Core Memory, March 2026. Per Content Manager packet, verify link before publish. https://www.corememory.com/p/here-come-the-space-lasers-aetherflux-baiju-bhatt (Ashlee Vance, "Here Come The Space Lasers," EP 62, March 25, 2026). The Peel transcript still does not contain it.
 - The day the Chief Creative Officer title started. The board page says "from 2021," not a date in January.
 - December 2028. The Big Iron page says a first flight in 2028. Confirm a December date from a source, or do not use it.
 - Press contact at Cowboy Space. Find it at research. Do not invent one. The owner may defer the ask.
 - A fresh detail or an original quote. Without one, the month-old peg fails the publisher test and the score caps at 7.
 - WSJ Banerji interview (June 2026) and the BusinessWire release. Still unread. Do not quote them from snippets.
-- SEC payment-for-order-flow finding: use only if the order, date, and figure are in the research packet. Do not reconstruct it here.
+- SEC payment-for-order-flow settlement: December 17, 2020, $65 million, press release 2020-321 (https://www.sec.gov/newsroom/press-releases/2020-321). Use that release. Do not add figures that are not in it.
 
 ## Log
 
@@ -172,3 +174,4 @@ confidence: medium
 - 2026-11-17: Line-edit filed verbatim from the ready-for-review file built on 7b8951f. Cuts: the name paragraph, and "The schedule is where it gets real." Close is two sentences. Fact-check of those three changes: none. Status stays READY_FOR_REVIEW. Not article APPROVED. Do not publish.
 - 2026-11-17: Content Editor review 5946595449 applied in one pass. Fact-check of the six fixes: none. "Regulators noticed" is the December 2020 Massachusetts complaint. Status stays READY_FOR_REVIEW. Not article APPROVED. Do not publish.
 - 2026-11-24: UPDATED 2026-11-24, angle reframe per owner in Newsroom. Pitch fields rewritten in the current voice: wind tunnels, the finance detour, GameStop January 2021, Big Iron. Role correction recorded from the Robinhood board page and Fortune. October pegs retrieved from the company pages and marked to verify. December 2028 flagged: not on the Big Iron page. Status on this record: APPROVED_FOR_RESEARCH. PR #15 left unedited and parked until an original quote. No research file edited. No draft.
+- 2026-11-24: GameStop public comment filled from the Content Manager packet. Core Memory, March 2026: "just stepped back" and "100% of my time" on that crisis. Episode page added. Marked per Content Manager packet, verify link before publish. SEC $65 million settlement (December 17, 2020, release 2020-321) added as context. Status stays APPROVED_FOR_RESEARCH.
