@@ -56,10 +56,10 @@ Minimum fields:
 - research_path:
 - draft_path:
 - review_path:
-- wordpress_post_id: (optional; set only after a successful draft create)
+- wordpress_post_id: (optional; set after a successful draft create; kept on `--update`)
 - wordpress_status: draft (optional; this repo never writes a public WP status)
 - wordpress_slug:
-- wordpress_handoff_at:
+- wordpress_handoff_at: (UTC time of the last successful create or in-place update)
 - wordpress_edit_url:
 
 ## Why now

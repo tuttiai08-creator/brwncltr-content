@@ -1,6 +1,8 @@
-"""CLI: create a WordPress *draft* from one READY_FOR_REVIEW candidate.
+"""CLI: create or update a WordPress *draft* for one READY_FOR_REVIEW candidate.
 
 Default is dry-run. Live POST requires --apply. There is no publish flag.
+`--update` rewrites the draft recorded on the candidate. It does not create
+a second post.
 """
 
 from __future__ import annotations
@@ -16,8 +18,10 @@ from .handoff import format_dry_run, run_handoff
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description=(
-            "Create a WordPress draft (status=draft only) from a "
-            "READY_FOR_REVIEW candidate. Default: dry-run, no network write."
+            "Create a WordPress draft, or update an existing draft in place "
+            "(status=draft only), from a READY_FOR_REVIEW candidate. "
+            "Default: dry-run, no network write. --update dry-run reads the "
+            "existing draft and does not POST."
         )
     )
     parser.add_argument(
@@ -28,6 +32,23 @@ def build_parser() -> argparse.ArgumentParser:
         "--apply",
         action="store_true",
         help="POST a WordPress draft. Requires HTTPS credentials. Never publishes.",
+    )
+    parser.add_argument(
+        "--update",
+        action="store_true",
+        help=(
+            "Update the draft in wordpress_post_id. Mutually exclusive with "
+            "creating a new post. Refuses unless the remote post is draft or "
+            "pending, and always sends status=draft."
+        ),
+    )
+    parser.add_argument(
+        "--slug",
+        default=None,
+        help=(
+            "With --update, set a new slug on the unpublished draft. "
+            "Default: slug from the packet."
+        ),
     )
     parser.add_argument(
         "--repo-root",
@@ -70,6 +91,8 @@ def main(argv: list[str] | None = None) -> int:
             repo_root,
             args.candidate_id,
             apply=bool(args.apply),
+            update=bool(args.update),
+            slug=args.slug,
         )
         if result.dry_run:
             sys.stdout.write(format_dry_run(result))

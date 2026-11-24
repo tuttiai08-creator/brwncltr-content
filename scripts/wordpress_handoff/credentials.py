@@ -39,10 +39,14 @@ def load_credentials(repo_root: Path, environ: dict[str, str] | None = None) -> 
     return Credentials(base_url=base, username=username, app_password=password)
 
 
-def require_https_for_apply(credentials: Credentials) -> None:
+def require_https(credentials: Credentials, *, message: str) -> None:
     parsed = urlparse(credentials.base_url)
     if parsed.scheme.lower() != "https":
-        raise HandoffError("Live --apply requires HTTPS WP_BASE_URL.")
+        raise HandoffError(message)
+
+
+def require_https_for_apply(credentials: Credentials) -> None:
+    require_https(credentials, message="Live --apply requires HTTPS WP_BASE_URL.")
 
 
 def safe_error_text(message: str, credentials: Credentials | None) -> str:

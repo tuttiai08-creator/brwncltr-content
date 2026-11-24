@@ -15,7 +15,7 @@ It is **not** a CMS, a scraper, or a publishing pipeline. It is the written cont
 
 - Deep research or drafting without owner approval of a specific candidate ID
 - Article writing (except when a later task is explicitly authorized)
-- WordPress **publish**, schedule, or update of an existing post
+- WordPress **publish** or schedule. In-place draft update is only `scripts/wp_create_draft.py --update` (payload status stays `draft`)
 - Automatic publication
 
 Discovery-only live scanning is authorized when [EDITORIAL_BRIEF.md](EDITORIAL_BRIEF.md) says the discovery-stage requirements are complete; it stops at `DISCOVERED`.
@@ -96,7 +96,7 @@ Each directory is git-tracked via `.gitkeep` until real work exists.
 
 - This repo does not itself contain story slates; a Grok Bot may write `DISCOVERED` candidates only when the brief authorizes discovery-only.
 - It does not deep-research or write articles until the owner approves a candidate ID.
-- It does not publish to WordPress. Draft handoff is opt-in (`--apply`) and cannot set a public status.
+- It does not publish to WordPress. Draft create and in-place draft update are opt-in (`--apply`) and send `status=draft` only. See [WORDPRESS_HANDOFF.md](WORDPRESS_HANDOFF.md).
 - It does not invent search volume, traffic, or SEO rankings.
 
 When a Grok Bot (or any agent) runs discovery, [EDITORIAL_BRIEF.md](EDITORIAL_BRIEF.md) is the owner-input source of truth. A discovery-only run may proceed when that brief’s **discovery-stage** requirements are complete; it must stop at `DISCOVERED`. Drafting-stage TODOs are not discovery blockers. See [STORY_DISCOVERY.md](STORY_DISCOVERY.md).

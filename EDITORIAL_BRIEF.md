@@ -236,6 +236,6 @@ Going live is human-only. Agents never publish.
 
 ## CMS
 
-WordPress **draft** handoff is documented in [WORDPRESS_HANDOFF.md](WORDPRESS_HANDOFF.md). It may create `status=draft` posts from canonical `READY_FOR_REVIEW` packets only. It must not publish, schedule, update existing posts, or mark repository state `APPROVED`.
+WordPress **draft** handoff is documented in [WORDPRESS_HANDOFF.md](WORDPRESS_HANDOFF.md). It may create `status=draft` posts from canonical `READY_FOR_REVIEW` packets, or `--update` an existing draft/pending post in place with `status=draft`. It must not publish, schedule, or mark repository state `APPROVED`.
 
 Credentials (`WP_BASE_URL`, `WP_USERNAME`, `WP_APP_PASSWORD`) and taxonomy IDs stay in local env / `config/wordpress-handoff.json` — **TODO — OWNER INPUT REQUIRED** for live site values.
